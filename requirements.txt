@@ -1,0 +1,10 @@
+cohere
+chromadb
+rank_bm25
+jsonlines
+langchain
+langchain-chroma
+langchain-cohere
+langchain-community
+langchain-huggingface
+sentence-transformers
