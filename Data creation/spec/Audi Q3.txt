@@ -1,0 +1,133 @@
+Audi Q3 has 4 variants: Premium, Premium Plus, Technology & Bold Edition.
+All variants of Audi Q3 have Power Steering.
+All variants of Audi Q3 have Air Conditioner.
+All variants of Audi Q3 have Heater.
+All variants of Audi Q3 have Automatic Climate Control.
+All variants of Audi Q3 have Accessory Power Outlet.
+All variants of Audi Q3 have Trunk Light.
+All variants of Audi Q3 have Vanity Mirror.
+All variants of Audi Q3 have Rear Reading Lamp.
+All variants of Audi Q3 have Adjustable Headrest.
+All variants of Audi Q3 have Rear Seat Centre Arm Rest.
+All variants of Audi Q3 have Rear AC Vents.
+All variants of Audi Q3 have Cruise Control.
+All variants of Audi Q3 have Real-Time Vehicle Tracking.
+All variants of Audi Q3 have Engine Start/Stop Button.
+All variants of Audi Q3 have Voice Commands.
+All variants of Audi Q3 have Hands-Free Tailgate.
+All variants of Audi Q3 have KeyLess Entry.
+All variants of Audi Q3 have Follow Me Home Headlamps.
+All variants of Audi Q3 have Tachometer.
+All variants of Audi Q3 have Alloy Wheels.
+All variants of Audi Q3 have Projector Headlamps.
+All variants of Audi Q3 have Automatic Headlamps.
+All variants of Audi Q3 have LED DRLs.
+All variants of Audi Q3 have LED Headlamps.
+All variants of Audi Q3 have Anti-lock Braking System (ABS).
+All variants of Audi Q3 have Central Locking.
+All variants of Audi Q3 have Driver Airbag.
+All variants of Audi Q3 have Side Airbag.
+All variants of Audi Q3 have Seat Belt Warning.
+All variants of Audi Q3 have Engine Immobilizer.
+All variants of Audi Q3 have Electronic Stability Control (ESC).
+All variants of Audi Q3 have Anti-Theft Device.
+All variants of Audi Q3 have Speed Alert.
+All variants of Audi Q3 have Speed Sensing Auto Door Lock.
+All variants of Audi Q3 have ISOFIX Child Seat Mounts.
+All variants of Audi Q3 have Hill Assist.
+All variants of Audi Q3 have Impact Sensing Auto Door Unlock.
+All variants of Audi Q3 have 360 View Camera.
+All variants of Audi Q3 have Radio.
+All variants of Audi Q3 have Wireless Phone Charging.
+All variants of Audi Q3 have Bluetooth Connectivity.
+All variants of Audi Q3 have Android Auto.
+All variants of Audi Q3 have Apple CarPlay.
+All variants of Audi Q3 have Height Adjustable Front Seat Belts.
+All variants of Audi Q3 have LED Taillights.
+All variants of Audi Q3 have Electronic Brakeforce Distribution (EBD).
+All variants of Audi Q3 have Brake Assist.
+All variants of Audi Q3 have Anti-Theft Alarm.
+All variants of Audi Q3 have Door Ajar Warning.
+Audi Q3 variants with Blind Spot Camera - Premium Plus, Technology & Bold Edition.
+All variants of Audi Q3 have Cooled Glovebox.
+All variants of Audi Q3 have Glove Box light.
+All variants of Audi Q3 have Hill Descent Control.
+All variants of Audi Q3 have Leather wrap gear-shift selector.
+All variants of Audi Q3 have Heated Outside Rear View Mirror.
+All variants of Audi Q3 have Tailgate Ajar Warning.
+All variants of Audi Q3 have Lane Change Indicator.
+All variants of Audi Q3 have Traction Control.
+All variants of Audi Q3 have Height Adjustable Driver Seat.
+All variants of Audi Q3 have Rear Window Defogger.
+All variants of Audi Q3 have Leather Wrapped Steering Wheel.
+All variants of Audi Q3 have Glove Box.
+All variants of Audi Q3 have Adjustable Headlamps.
+All variants of Audi Q3 have Outside Rear View Mirror Turn Indicators.
+All variants of Audi Q3 have Passenger Airbag.
+All variants of Audi Q3 have Day & Night Rear View Mirror.
+All variants of Audi Q3 have Tyre Pressure Monitoring System (TPMS).
+All variants of Audi Q3 have Touchscreen.
+All variants of Audi Q3 have Rear Window Wiper.
+All variants of Audi Q3 have Rear Window Washer.
+All variants of Audi Q3 have Child Safety Locks.
+All variants of Audi Q3 have Rain Sensing Wiper.
+All variants of Audi Q3 have Air Quality Control.
+All variants of Audi Q3 have Curtain Airbag.
+All variants of Audi Q3 have Usb Ports.
+All variants of Audi Q3 have Luggage Hook & Net.
+All Audi Q3 variants use the 40 TFSI quattro S tronic engine.
+All Audi Q3 variants have a displacement of 1984  cubic centimeters.
+All Audi Q3 variants produce a maximum power of 187.74 Brake Horsepower (BHP) at 4200 to 6000 Revolutions Per Minute (RPM).
+All Audi Q3 variants produce a maximum torque of 320 Newton meters at 1500 to 4100 Revolutions Per Minute (RPM).
+All Audi Q3 variants have 4.0 valves per cylinder.
+All Audi Q3 variants have a Automatic transmission.
+All Audi Q3 variants have 4.0 cylinders.
+All Audi Q3 variants come with a 7-Speed-DCT gearbox.
+All Audi Q3 variants have a All-Wheel Drive (AWD) drive type.
+All Audi Q3 variants run on Petrol.
+All Audi Q3 variants comply with BS VI 2.0 emission norms.
+All Audi Q3 variants come with Electric steering.
+All Audi Q3 variants have Disc front brakes.
+All Audi Q3 variants have Disc rear brakes.
+All Audi Q3 variants have a length of 4482 mm.
+All Audi Q3 variants have a width of 1849 mm.
+All Audi Q3 variants have a height of 1607 mm.
+All Audi Q3 variants offer 460 Litres of boot space.
+All Audi Q3 variants have a seating capacity of 5.0.
+Audi Q3 variant Premium has a wheelbase of 2750 mm.
+Audi Q3 variants - Premium Plus, Technology & Bold Edition share a wheelbase of 2500 mm.
+All Audi Q3 variants have a kerb weight of 1700 kg.
+All Audi Q3 variants have a gross weight of 2200 kg.
+All Audi Q3 variants have 5.0 doors.
+All Audi Q3 variants come with a Electronic boot opening mechanism.
+All Audi Q3 variants have Powered & Folding Outside Rear View Mirror (ORVM).
+All Audi Q3 variants have tyres of size 235/55 R18.
+All Audi Q3 variants come with Tubeless Radial tyres.
+All Audi Q3 variants come equipped with 6.0 airbags.
+Audi Q3 variants - Premium & Technology have been rated 5 Star by Global NCAP.
+All Audi Q3 variants come with a 10.1 inch touchscreen display.
+All Audi Q3 variants come with 18 Inch front alloy wheels.
+All Audi Q3 variants come with 18 Inch rear alloy wheels.
+All Audi Q3 variants feature a Full Digital digital cluster.
+All Audi Q3 variants come with Leather upholstery.
+All Audi Q3 variants have a top speed of 222 kmph.
+All Audi Q3 variants accelerate from 0-100 kmph in 7.3 s.
+All Audi Q3 variants accelerate from 0-100 kmph in 7.3 s.
+All Audi Q3 variants have All Windows anti-pinch power windows.
+Audi Q3 variants - Premium & Premium Plus have highway mileage figures of 14.93 kmpl.
+Audi Q3 variant Technology has a highway mileage of 15.17 kmpl.
+Audi Q3 variant Bold Edition has a highway mileage of 7.89 kmpl.
+All Audi Q3 variants have a fuel tank capacity of 62 Litres.
+All Audi Q3 variants come with Tilt & Telescopic steering adjustment.
+All Audi Q3 variants have Height & Reach steering adjustability.
+All Audi Q3 variants are equipped with Front & Rear parking sensors.
+All Audi Q3 variants come with Front & Rear USB charging ports.
+All Audi Q3 variants have Front & Rear power windows.
+All Audi Q3 variants come with Front & Rear cup holders.
+All Audi Q3 variants have a With Guidedlines rear camera.
+All Audi Q3 variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Audi Q3 variants include Front & Rear speakers.
+All Audi Q3 variants have Front electric adjustable seats.
+All Audi Q3 variants have a With Storage central console armrest.
+All Audi Q3 variants come with Adjustable rear seat headrests.
+All variants of Audi Q3 have Sunroof.

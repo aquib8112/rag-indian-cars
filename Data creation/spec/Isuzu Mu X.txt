@@ -1,0 +1,120 @@
+Isuzu Mu X has 2 variants: 4X2 AT & 4x4 AT.
+All variants of Isuzu Mu X have Power Steering.
+All variants of Isuzu Mu X have Air Conditioner.
+All variants of Isuzu Mu X have Heater.
+All variants of Isuzu Mu X have Automatic Climate Control.
+All variants of Isuzu Mu X have Accessory Power Outlet.
+All variants of Isuzu Mu X have Vanity Mirror.
+All variants of Isuzu Mu X have Rear Reading Lamp.
+All variants of Isuzu Mu X have Adjustable Headrest.
+All variants of Isuzu Mu X have Rear Seat Centre Arm Rest.
+All variants of Isuzu Mu X have Rear AC Vents.
+All variants of Isuzu Mu X have Cruise Control.
+All variants of Isuzu Mu X have Engine Start/Stop Button.
+All variants of Isuzu Mu X have KeyLess Entry.
+All variants of Isuzu Mu X have Idle Start-Stop System.
+All variants of Isuzu Mu X have Tachometer.
+All variants of Isuzu Mu X have Alloy Wheels.
+All variants of Isuzu Mu X have Integrated Antenna.
+All variants of Isuzu Mu X have Projector Headlamps.
+All variants of Isuzu Mu X have LED DRLs.
+All variants of Isuzu Mu X have Anti-lock Braking System (ABS).
+All variants of Isuzu Mu X have Central Locking.
+All variants of Isuzu Mu X have Driver Airbag.
+All variants of Isuzu Mu X have Side Airbag.
+All variants of Isuzu Mu X have Seat Belt Warning.
+All variants of Isuzu Mu X have Engine Immobilizer.
+All variants of Isuzu Mu X have Electronic Stability Control (ESC).
+All variants of Isuzu Mu X have ISOFIX Child Seat Mounts.
+All variants of Isuzu Mu X have Hill Assist.
+All variants of Isuzu Mu X have Radio.
+All variants of Isuzu Mu X have Bluetooth Connectivity.
+All variants of Isuzu Mu X have Android Auto.
+All variants of Isuzu Mu X have Apple CarPlay.
+All variants of Isuzu Mu X have Height Adjustable Front Seat Belts.
+All variants of Isuzu Mu X have LED Taillights.
+All variants of Isuzu Mu X have Electronic Brakeforce Distribution (EBD).
+All variants of Isuzu Mu X have Brake Assist.
+All variants of Isuzu Mu X have Anti-Theft Alarm.
+All variants of Isuzu Mu X have Glove Box light.
+All variants of Isuzu Mu X have Hill Descent Control.
+All variants of Isuzu Mu X have Traction Control.
+All variants of Isuzu Mu X have Height Adjustable Driver Seat.
+All variants of Isuzu Mu X have Rear Window Defogger.
+All variants of Isuzu Mu X have Leather Wrapped Steering Wheel.
+All variants of Isuzu Mu X have Glove Box.
+All variants of Isuzu Mu X have Adjustable Headlamps.
+All variants of Isuzu Mu X have Outside Rear View Mirror Turn Indicators.
+All variants of Isuzu Mu X have Passenger Airbag.
+All variants of Isuzu Mu X have Day & Night Rear View Mirror.
+All variants of Isuzu Mu X have Touchscreen.
+All variants of Isuzu Mu X have Rear Window Wiper.
+All variants of Isuzu Mu X have Child Safety Locks.
+All variants of Isuzu Mu X have Rear Spoiler.
+All variants of Isuzu Mu X have Air Quality Control.
+All variants of Isuzu Mu X have Roof Rails.
+All variants of Isuzu Mu X have Curtain Airbag.
+All variants of Isuzu Mu X have Usb Ports.
+All variants of Isuzu Mu X have Luggage Hook & Net.
+All variants of Isuzu Mu X have Integrated 2DIN Audio.
+All Isuzu Mu X variants use the 1.9L Ddi Diesel engine.
+All Isuzu Mu X variants have a displacement of 1898  cubic centimeters.
+All Isuzu Mu X variants produce a maximum power of 160.92 Brake Horsepower (BHP) at 3600 Revolutions Per Minute (RPM).
+All Isuzu Mu X variants produce a maximum torque of 360 Newton meters at 2000 to 2500 Revolutions Per Minute (RPM).
+All Isuzu Mu X variants have 4.0 valves per cylinder.
+All Isuzu Mu X variants have a Automatic transmission.
+All Isuzu Mu X variants have 4.0 cylinders.
+All Isuzu Mu X variants come with a 6-Speed-AT gearbox.
+Isuzu Mu X variant 4X2 AT has a Rear-Wheel Drive (RWD) drive type.
+Isuzu Mu X variant 4x4 AT has a Four-Wheel Drive (4WD) drive type.
+All Isuzu Mu X variants run on Diesel.
+All Isuzu Mu X variants comply with BS VI 2.0 emission norms.
+All Isuzu Mu X variants come with Electric steering.
+All Isuzu Mu X variants have a turning radius of 5.8m.
+All Isuzu Mu X variants have Ventilated Disc front brakes.
+All Isuzu Mu X variants have Ventilated Disc rear brakes.
+All Isuzu Mu X variants have a length of 4825 mm.
+All Isuzu Mu X variants have a width of 1860 mm.
+All Isuzu Mu X variants have a height of 1860 mm.
+All Isuzu Mu X variants offer 878 Litres of boot space.
+All Isuzu Mu X variants have a seating capacity of 7.0.
+All Isuzu Mu X variants have an unladen ground clearance of 230 mm.
+All Isuzu Mu X variants have a wheelbase of 2845 mm.
+All Isuzu Mu X variants have 5.0 doors.
+All Isuzu Mu X variants come with a Manual boot opening mechanism.
+All Isuzu Mu X variants have tyres of size 255/60 R18.
+All Isuzu Mu X variants come with Tubeless Radial tyres.
+All Isuzu Mu X variants come equipped with 6.0 airbags.
+All Isuzu Mu X variants come with a 9 Inch touchscreen display.
+All Isuzu Mu X variants come with 8.0 speakers.
+All Isuzu Mu X variants come with 18 Inch front alloy wheels.
+All Isuzu Mu X variants come with 18 Inch rear alloy wheels.
+All Isuzu Mu X variants come with Android Auto, Apple CarPlay connectivity options.
+All Isuzu Mu X variants feature a Full Digital digital cluster.
+All Isuzu Mu X variants come with Leather upholstery.
+All Isuzu Mu X variants come with a DOHC valve configuration.
+All Isuzu Mu X variants have a rear tread of 1570 mm.
+All Isuzu Mu X variants come with Gas Filled shock absorbers.
+All Isuzu Mu X variants have Driver's Window anti-pinch power windows.
+Isuzu Mu X variant 4X2 AT provides a mileage of 13 kmpl.
+Isuzu Mu X variant 4x4 AT provides a mileage of 12.31 kmpl.
+All Isuzu Mu X variants provide a highway mileage of 14 kmpl.
+All Isuzu Mu X variants have a fuel tank capacity of 55 Litres.
+All Isuzu Mu X variants have the Double wishbone suspension front suspension.
+All Isuzu Mu X variants have the Multi-link suspension rear suspension.
+All Isuzu Mu X variants come with Tilt Steering steering adjustment.
+All variants of Isuzu Mu X have Adjustable Steering.
+All Isuzu Mu X variants are equipped with Rear parking sensors.
+All Isuzu Mu X variants come with Front & Rear USB charging ports.
+All Isuzu Mu X variants are equipped with Front fog lights.
+All Isuzu Mu X variants come with a Shark Fin antenna.
+All Isuzu Mu X variants have a With Guidedlines rear camera.
+All Isuzu Mu X variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Isuzu Mu X variants include Front & Rear speakers.
+All Isuzu Mu X variants have Front electric adjustable seats.
+All Isuzu Mu X variants have a 60:40 Split foldable rear seat.
+All Isuzu Mu X variants have a With Storage central console armrest.
+All variants of Isuzu Mu X have Turbo Charger.
+All variants of Isuzu Mu X have Rear Seat Headrest.
+Isuzu Mu X variant 4X2 AT offers Centre high mount LED stop lamp,Under-front steel plate skid/splash shield,Steel plate sump guards,Steel plate on leading edge of fuel tank,Fuel tank fire protector,Eagle-inspired sharp & muscular exterior design,Bi-LED projector headlamps with auto-levelling,LED rear position lamps,Sharp & sleek headlamp & taillamp design,Recessed front fog lamps with chrome garnish,LED Day-time Running Lights (DRL) & light guide integrated in headlamps,Two-tone metallic grey-body coloured front & rear bumpers,Double slat chrome radiator grille,Chrome door handles,Chrome tailgate garnish,Chrome fold-in power door mirrors with integrated turn indicators,Aluminium side steps,Shark-fin antenna with gun-metal finish,Wrap-around rear glass - quarter glass & rear windshield,Roof rails (max. load capacity 60 kg),Dual-tone rear spoiler,Windscreen wipers with variable intermittent sweep modes as additional features.
+Isuzu Mu X variant 4x4 AT offers Centre high mount LED stop lamp,Under-front steel plate skid/splash shield,Steel plate sump guards,Steel plate transfer protector,Steel plate on leading edge of fuel tank,Fuel tank fire protector,Eagle-inspired sharp & muscular exterior design,Bi-LED projector headlamps with auto-levelling,LED rear position lamps,Sharp & sleek headlamp & taillamp design,Recessed front fog lamps with chrome garnish,LED Day-time Running Lights (DRL) & light guide integrated in headlamps,Two-tone metallic grey-body coloured front & rear bumpers,Double slat chrome radiator grille,Chrome door handles,Chrome tailgate garnish,Chrome fold-in power door mirrors with integrated turn indicators,Aluminium side steps,Shark-fin antenna with gun-metal finish,Wrap-around rear glass - quarter glass & rear windshield,Roof rails (max. load capacity 60 kg),Dual-tone rear spoiler,Windscreen wipers with variable intermittent sweep modes as additional features.

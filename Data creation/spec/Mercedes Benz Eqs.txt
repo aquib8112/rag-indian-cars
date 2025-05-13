@@ -1,0 +1,48 @@
+﻿Mercedes Benz Eqs has 1 variants: 580 4Matic.
+Mercedes Benz Eqs has Power Steering.
+Mercedes Benz Eqs has Air Conditioner.
+Mercedes Benz Eqs has Heater.
+Mercedes Benz Eqs has Adjustable Headrest.
+Mercedes Benz Eqs has LED DRLs.
+Mercedes Benz Eqs has Side Airbag.
+Mercedes Benz Eqs has Side Airbag-Rear.
+Mercedes Benz Eqs has Paddle Shifters.
+Mercedes Benz Eqs has Cornering Headlamps.
+Mercedes Benz Eqs does not have Fast Charging.
+Mercedes Benz Eqs does not have Leather Seats.
+Mercedes Benz Eqs has Rear Window Defogger.
+Mercedes Benz Eqs has Leather Wrapped Steering Wheel.
+Mercedes Benz Eqs has Passenger Airbag.
+Mercedes Benz Eqs has Heated Wing Mirror.
+Mercedes Benz Eqs has Fog Lights - Front.
+The Mercedes Benz Eqs generates 750.97 Brake Horsepower (BHP).
+The Mercedes Benz Eqs generates 855 Newton meters.
+The Mercedes Benz Eqs has a Automatic transmission.
+The Mercedes Benz Eqs has a 1-Speed gearbox.
+The Mercedes Benz Eqs has a All-Wheel Drive (AWD) drive type.
+The Mercedes Benz Eqs runs on Electric.
+The Mercedes Benz Eqs complies with ZEV emission norms.
+The Mercedes Benz Eqs has a length of 5216 mm.
+The Mercedes Benz Eqs has a width of 2125 mm.
+The Mercedes Benz Eqs has a height of 1512 mm.
+The Mercedes Benz Eqs offers 610 Litres of boot space.
+The Mercedes Benz Eqs has a seating capacity of 5.0.
+The Mercedes Benz Eqs has a wheelbase of 2585 mm.
+The Mercedes Benz Eqs has a kerb weight of 2585 kg.
+The Mercedes Benz Eqs has 4.0 doors.
+The Mercedes Benz Eqs is equipped with Unknown tyres.
+The Mercedes Benz Eqs is equipped with 9.0 airbags.
+The Mercedes Benz Eqs achieves a top speed of 210 kmph.
+The Mercedes Benz Eqs has a front tread of 1615 mm.
+The Mercedes Benz Eqs features a Two permanently excited synchronous motors motor type.
+The Mercedes Benz Eqs comes with a Lithium-Ion Battery battery.
+The Mercedes Benz Eqs is equipped with a Smart trunk opener.
+The Mercedes Benz Eqs has a battery capacity of 107.8 kWh.
+The Mercedes Benz Eqs provides a range of 857 km.
+The Mercedes Benz Eqs is equipped with a CCS-II charging port.
+The Mercedes Benz Eqs reaches 0-100 km/h in 4.3 s.
+The Mercedes Benz Eqs offers a battery warranty of 8 Years or 160000 km.
+The Mercedes Benz Eqs comes with the Air suspension front suspension.
+The Mercedes Benz Eqs comes with the Air suspension rear suspension.
+Mercedes Benz Eqs has Rear Seat Headrest.
+The Mercedes Benz Eqs includes Electric Art interior( 1 Seats with lumbar support, 2 head restraints in the front and lighting (ARTICO man-made leather in black / space grey). 3 Black trim in a finely-structured look. 4 Door sill panels with “Mercedes-Benz” lettering. 5 Velor floor mats.6 Ambience lighting) as additional features.

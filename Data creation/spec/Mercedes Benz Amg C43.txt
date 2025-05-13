@@ -1,0 +1,115 @@
+﻿Mercedes Benz Amg C43 has 1 variants: 4Matic.
+Mercedes Benz Amg C43 has Power Steering.
+Mercedes Benz Amg C43 has Air Conditioner.
+Mercedes Benz Amg C43 has Heater.
+Mercedes Benz Amg C43 has Automatic Climate Control.
+Mercedes Benz Amg C43 has Accessory Power Outlet.
+Mercedes Benz Amg C43 has Rear Reading Lamp.
+Mercedes Benz Amg C43 has Rear Seat Centre Arm Rest.
+Mercedes Benz Amg C43 has Rear AC Vents.
+Mercedes Benz Amg C43 has Cruise Control.
+Mercedes Benz Amg C43 has Engine Start/Stop Button.
+Mercedes Benz Amg C43 has Voice Commands.
+Mercedes Benz Amg C43 does not have Hands-Free Tailgate.
+Mercedes Benz Amg C43 has KeyLess Entry.
+Mercedes Benz Amg C43 has Idle Start-Stop System.
+Mercedes Benz Amg C43 has Follow Me Home Headlamps.
+Mercedes Benz Amg C43 has Tachometer.
+Mercedes Benz Amg C43 has Alloy Wheels.
+Mercedes Benz Amg C43 has Integrated Antenna.
+Mercedes Benz Amg C43 has Projector Headlamps.
+Mercedes Benz Amg C43 has Automatic Headlamps.
+Mercedes Benz Amg C43 has LED DRLs.
+Mercedes Benz Amg C43 has LED Headlamps.
+Mercedes Benz Amg C43 has Anti-lock Braking System (ABS).
+Mercedes Benz Amg C43 has Central Locking.
+Mercedes Benz Amg C43 has Driver Airbag.
+Mercedes Benz Amg C43 has Side Airbag.
+Mercedes Benz Amg C43 has Seat Belt Warning.
+Mercedes Benz Amg C43 has Engine Immobilizer.
+Mercedes Benz Amg C43 does not have Side Airbag-Rear.
+Mercedes Benz Amg C43 has Electronic Stability Control (ESC).
+Mercedes Benz Amg C43 has Speed Alert.
+Mercedes Benz Amg C43 has Speed Sensing Auto Door Lock.
+Mercedes Benz Amg C43 has ISOFIX Child Seat Mounts.
+Mercedes Benz Amg C43 has Hill Assist.
+Mercedes Benz Amg C43 has Impact Sensing Auto Door Unlock.
+Mercedes Benz Amg C43 has Radio.
+Mercedes Benz Amg C43 has Bluetooth Connectivity.
+Mercedes Benz Amg C43 has Android Auto.
+Mercedes Benz Amg C43 has Apple CarPlay.
+Mercedes Benz Amg C43 has Height Adjustable Front Seat Belts.
+Mercedes Benz Amg C43 has Lumbar Support.
+Mercedes Benz Amg C43 has Paddle Shifters.
+Mercedes Benz Amg C43 has LED Taillights.
+Mercedes Benz Amg C43 has Electronic Brakeforce Distribution (EBD).
+Mercedes Benz Amg C43 has Brake Assist.
+Mercedes Benz Amg C43 has Anti-Theft Alarm.
+Mercedes Benz Amg C43 has Door Ajar Warning.
+Mercedes Benz Amg C43 has Cooled Glovebox.
+Mercedes Benz Amg C43 has Puddle Lamps.
+Mercedes Benz Amg C43 has Hill Descent Control.
+Mercedes Benz Amg C43 has Battery Saver.
+Mercedes Benz Amg C43 has Tailgate Ajar Warning.
+Mercedes Benz Amg C43 does not have Compass.
+Mercedes Benz Amg C43 has Traction Control.
+Mercedes Benz Amg C43 has Height Adjustable Driver Seat.
+Mercedes Benz Amg C43 has Glove Box.
+Mercedes Benz Amg C43 has Adjustable Headlamps.
+Mercedes Benz Amg C43 has Outside Rear View Mirror Turn Indicators.
+Mercedes Benz Amg C43 has Passenger Airbag.
+Mercedes Benz Amg C43 has Day & Night Rear View Mirror.
+Mercedes Benz Amg C43 has Tyre Pressure Monitoring System (TPMS).
+Mercedes Benz Amg C43 has Touchscreen.
+Mercedes Benz Amg C43 has Child Safety Locks.
+Mercedes Benz Amg C43 has Air Quality Control.
+Mercedes Benz Amg C43 has Rear Touchscreen.
+Mercedes Benz Amg C43 has Curtain Airbag.
+Mercedes Benz Amg C43 has Usb Ports.
+Mercedes Benz Amg C43 does not have USB & Auxiliary input.
+Mercedes Benz Amg C43 does not have Audio System Remote Control.
+The Mercedes Benz Amg C43 has the 2.0L M139l engine.
+The Mercedes Benz Amg C43 has a displacement of 1991  cubic centimeters.
+The Mercedes Benz Amg C43 generates 402.30 Brake Horsepower (BHP) at 6750 Revolutions Per Minute (RPM).
+The Mercedes Benz Amg C43 generates 500 Newton meters at 5500 Revolutions Per Minute (RPM).
+The Mercedes Benz Amg C43 has 4.0 valves per cylinder.
+The Mercedes Benz Amg C43 has a Automatic transmission.
+The Mercedes Benz Amg C43 has 4.0 cylinders.
+The Mercedes Benz Amg C43 has a 9-Speed TRONIC AT gearbox.
+The Mercedes Benz Amg C43 has a All-Wheel Drive (AWD) drive type.
+The Mercedes Benz Amg C43 runs on Petrol.
+The Mercedes Benz Amg C43 complies with BS VI 2.0 emission norms.
+The Mercedes Benz Amg C43 has a length of 4791 mm.
+The Mercedes Benz Amg C43 has a width of 2033 mm.
+The Mercedes Benz Amg C43 has a height of 1450 mm.
+The Mercedes Benz Amg C43 offers 435 Litres of boot space.
+The Mercedes Benz Amg C43 has a seating capacity of 5.0.
+The Mercedes Benz Amg C43 has 5.0 doors.
+The Mercedes Benz Amg C43 features a Powered boot opening mechanism.
+The Mercedes Benz Amg C43 is equipped with Powered & Folding Outside Rear View Mirror (ORVM).
+The Mercedes Benz Amg C43 is equipped with Unknown tyres.
+The Mercedes Benz Amg C43 is equipped with 7.0 airbags.
+The Mercedes Benz Amg C43 is equipped with a unknown touchscreen.
+The Mercedes Benz Amg C43 features Android Auto, Apple CarPlay connectivity options.
+The Mercedes Benz Amg C43 comes with a Full Digital digital cluster.
+The Mercedes Benz Amg C43 features Leatherette upholstery.
+The Mercedes Benz Amg C43 is equipped with Adaptive Damping shock absorbers.
+The Mercedes Benz Amg C43 features Driver's Window anti-pinch power windows.
+The Mercedes Benz Amg C43 delivers a highway mileage of 10 kmpl.
+The Mercedes Benz Amg C43 comes with a fuel tank capacity of 66 Litres.
+The Mercedes Benz Amg C43 comes with the Multi-link suspension front suspension.
+The Mercedes Benz Amg C43 comes with the Multi-link suspension rear suspension.
+The Mercedes Benz Amg C43 features Height & Reach steering adjustability.
+The Mercedes Benz Amg C43 features Rear parking sensors.
+The Mercedes Benz Amg C43 features Front & Rear USB charging ports.
+The Mercedes Benz Amg C43 features Front & Rear power windows.
+The Mercedes Benz Amg C43 features Front & Rear cup holders.
+The Mercedes Benz Amg C43 features Front fog lights.
+The Mercedes Benz Amg C43 has a With Guidedlines rear camera.
+The Mercedes Benz Amg C43 has Driver and Passenger seatbelt pretensioners and force limiters.
+The Mercedes Benz Amg C43 has Front & Rear speakers.
+Mercedes Benz Amg C43 has Central Console Armrest.
+Mercedes Benz Amg C43 has Turbo Charger.
+The Mercedes Benz Amg C43 has Driver knee airbags.
+The Mercedes Benz Amg C43 includes Adjustable rear seat headrests.
+The Mercedes Benz Amg C43 includes a Panoramic sunroof.

@@ -1,0 +1,127 @@
+﻿Audi E Tron Gt has 1 variants: Quattro.
+Audi E Tron Gt has Power Steering.
+Audi E Tron Gt has Air Conditioner.
+Audi E Tron Gt has Heater.
+Audi E Tron Gt has Automatic Climate Control.
+Audi E Tron Gt has Accessory Power Outlet.
+Audi E Tron Gt has Adjustable Headrest.
+Audi E Tron Gt has Rear AC Vents.
+Audi E Tron Gt has Cruise Control.
+Audi E Tron Gt has Voice Commands.
+Audi E Tron Gt has Hands-Free Tailgate.
+Audi E Tron Gt has KeyLess Entry.
+Audi E Tron Gt has Follow Me Home Headlamps.
+Audi E Tron Gt has Tachometer.
+Audi E Tron Gt has Alloy Wheels.
+Audi E Tron Gt has Automatic Headlamps.
+Audi E Tron Gt has LED DRLs.
+Audi E Tron Gt has LED Headlamps.
+Audi E Tron Gt has Anti-lock Braking System (ABS).
+Audi E Tron Gt has Central Locking.
+Audi E Tron Gt has Driver Airbag.
+Audi E Tron Gt has Side Airbag.
+Audi E Tron Gt has Seat Belt Warning.
+Audi E Tron Gt has Engine Immobilizer.
+Audi E Tron Gt does not have Side Airbag-Rear.
+Audi E Tron Gt has Electronic Stability Control (ESC).
+Audi E Tron Gt has Anti-Theft Device.
+Audi E Tron Gt has Speed Alert.
+Audi E Tron Gt has Speed Sensing Auto Door Lock.
+Audi E Tron Gt has ISOFIX Child Seat Mounts.
+Audi E Tron Gt has Hill Assist.
+Audi E Tron Gt has Impact Sensing Auto Door Unlock.
+Audi E Tron Gt has 360 View Camera.
+Audi E Tron Gt has Radio.
+Audi E Tron Gt has Wireless Phone Charging.
+Audi E Tron Gt has Bluetooth Connectivity.
+Audi E Tron Gt has Android Auto.
+Audi E Tron Gt has Apple CarPlay.
+Audi E Tron Gt has Lumbar Support.
+Audi E Tron Gt has Electronic Multi-Tripmeter.
+Audi E Tron Gt has Digital Clock.
+Audi E Tron Gt has Dual Tone Dashboard.
+Audi E Tron Gt has LED Taillights.
+Audi E Tron Gt has Electronic Brakeforce Distribution (EBD).
+Audi E Tron Gt has Brake Assist.
+Audi E Tron Gt has Anti-Theft Alarm.
+Audi E Tron Gt has Door Ajar Warning.
+Audi E Tron Gt has Digital Odometer.
+Audi E Tron Gt does not have Blind Spot Camera.
+Audi E Tron Gt has Ventilated Seats.
+Audi E Tron Gt does not have Hill Descent Control.
+Audi E Tron Gt has Leather wrap gear-shift selector.
+Audi E Tron Gt has Blind Spot Monitor.
+Audi E Tron Gt has Compass.
+Audi E Tron Gt has Fast Charging.
+Audi E Tron Gt has Traction Control.
+Audi E Tron Gt has Leather Seats.
+Audi E Tron Gt has Driving Experience Control Eco.
+Audi E Tron Gt has Find My Car location.
+Audi E Tron Gt has Height Adjustable Driver Seat.
+Audi E Tron Gt has Rear Window Defogger.
+Audi E Tron Gt has Leather Wrapped Steering Wheel.
+Audi E Tron Gt has Glove Box.
+Audi E Tron Gt has Adjustable Headlamps.
+Audi E Tron Gt has Passenger Airbag.
+Audi E Tron Gt has Day & Night Rear View Mirror.
+Audi E Tron Gt has Tyre Pressure Monitoring System (TPMS).
+Audi E Tron Gt has Touchscreen.
+Audi E Tron Gt has Child Safety Locks.
+Audi E Tron Gt has Rear Spoiler.
+Audi E Tron Gt has Air Quality Control.
+Audi E Tron Gt has Navigation System.
+Audi E Tron Gt has Curtain Airbag.
+Audi E Tron Gt has Usb Ports.
+Audi E Tron Gt has Luggage Hook & Net.
+Audi E Tron Gt has LED Fog Lamps.
+Audi E Tron Gt has Low Fuel Warning Light.
+Audi E Tron Gt has Heated Wing Mirror.
+Audi E Tron Gt has Power Boot.
+Audi E Tron Gt has Integrated 2DIN Audio.
+Audi E Tron Gt has USB & Auxiliary input.
+The Audi E Tron Gt generates 522.99 Brake Horsepower (BHP).
+The Audi E Tron Gt generates 630 Newton meters.
+The Audi E Tron Gt has a Automatic transmission.
+The Audi E Tron Gt has a 1-Speed gearbox.
+The Audi E Tron Gt has a All-Wheel Drive (AWD) drive type.
+The Audi E Tron Gt runs on Electric.
+The Audi E Tron Gt complies with ZEV emission norms.
+The Audi E Tron Gt has Electric steering.
+The Audi E Tron Gt has Ventilated Disc front brakes.
+The Audi E Tron Gt has Ventilated Disc rear brakes.
+The Audi E Tron Gt has a length of 4989 mm.
+The Audi E Tron Gt has a width of 1964 mm.
+The Audi E Tron Gt has a height of 1418 mm.
+The Audi E Tron Gt offers 405 Litres of boot space.
+The Audi E Tron Gt has a seating capacity of 5.0.
+The Audi E Tron Gt has a wheelbase of 2923 mm.
+The Audi E Tron Gt has a kerb weight of 2350 kg.
+The Audi E Tron Gt has 4.0 doors.
+The Audi E Tron Gt is fitted with tyres of size 245/45|285/40 R20.
+The Audi E Tron Gt is equipped with Unknown tyres.
+The Audi E Tron Gt is equipped with 7.0 airbags.
+The Audi E Tron Gt is equipped with a 10.09 inch touchscreen.
+The Audi E Tron Gt features Android Auto, Apple CarPlay connectivity options.
+The Audi E Tron Gt achieves a top speed of 250 kmph.
+The Audi E Tron Gt has a front tread of 1570 mm.
+The Audi E Tron Gt is equipped with a Rack & Pinion steering gear type.
+The Audi E Tron Gt comes with a Lithium-Ion Battery battery.
+The Audi E Tron Gt has a battery capacity of 93 kWh.
+The Audi E Tron Gt features a motor with 390 kW power.
+The Audi E Tron Gt provides a range of 388-500 km.
+The Audi E Tron Gt charges in 8 Hours 30Min at 11 kW using an A.C charger.
+The Audi E Tron Gt is equipped with a CCS-II charging port.
+The Audi E Tron Gt includes a Home Changing Cable charger type.
+The Audi E Tron Gt reaches 0-100 km/h in 4.1 s.
+The Audi E Tron Gt requires 9 Hours 30 Min at 11kW (5-80%) for a full charge.
+The Audi E Tron Gt features Driver's Window anti-pinch power windows.
+The Audi E Tron Gt offers a battery warranty of 8 Years or 160000 km.
+The Audi E Tron Gt comes with the Air suspension front suspension.
+The Audi E Tron Gt comes with the Air suspension rear suspension.
+The Audi E Tron Gt features Tilt & Telescopic steering adjustment.
+Audi E Tron Gt has Adjustable Steering.
+The Audi E Tron Gt features Front & Rear parking sensors.
+The Audi E Tron Gt features Front USB charging ports.
+The Audi E Tron Gt has Front & Rear speakers.
+The Audi E Tron Gt has Driver knee airbags.
+Audi E Tron Gt has Regenerative Braking Levels.

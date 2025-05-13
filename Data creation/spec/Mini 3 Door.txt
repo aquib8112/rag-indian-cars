@@ -1,0 +1,156 @@
+Mini 3 Door has 1 variants: S.
+Mini 3 Door has Power Steering.
+Mini 3 Door has Air Conditioner.
+Mini 3 Door has Heater.
+Mini 3 Door has Automatic Climate Control.
+Mini 3 Door has Accessory Power Outlet.
+Mini 3 Door has Trunk Light.
+Mini 3 Door has Vanity Mirror.
+Mini 3 Door does not have Rear Reading Lamp.
+Mini 3 Door does not have Rear Seat Centre Arm Rest.
+Mini 3 Door does not have Rear AC Vents.
+Mini 3 Door has Cruise Control.
+Mini 3 Door has Engine Start/Stop Button.
+Mini 3 Door has Voice Commands.
+Mini 3 Door has Chrome Grille.
+Mini 3 Door has KeyLess Entry.
+Mini 3 Door does not have Follow Me Home Headlamps.
+Mini 3 Door has Tachometer.
+Mini 3 Door does not have Wheel Covers.
+Mini 3 Door has Alloy Wheels.
+Mini 3 Door has Integrated Antenna.
+Mini 3 Door has Automatic Headlamps.
+Mini 3 Door has Anti-lock Braking System (ABS).
+Mini 3 Door has Central Locking.
+Mini 3 Door has Driver Airbag.
+Mini 3 Door has Side Airbag.
+Mini 3 Door has Seat Belt Warning.
+Mini 3 Door has Engine Immobilizer.
+Mini 3 Door does not have Side Airbag-Rear.
+Mini 3 Door has Anti-Theft Device.
+Mini 3 Door has Speed Sensing Auto Door Lock.
+Mini 3 Door does not have ISOFIX Child Seat Mounts.
+Mini 3 Door does not have Hill Assist.
+Mini 3 Door has Impact Sensing Auto Door Unlock.
+Mini 3 Door does not have 360 View Camera.
+Mini 3 Door has Radio.
+Mini 3 Door has Bluetooth Connectivity.
+Mini 3 Door has Apple CarPlay.
+Mini 3 Door has Height Adjustable Front Seat Belts.
+Mini 3 Door has Lumbar Support.
+Mini 3 Door does not have Paddle Shifters.
+Mini 3 Door has Electronic Multi-Tripmeter.
+Mini 3 Door has Digital Clock.
+Mini 3 Door has Outside Temperature Display.
+Mini 3 Door has Dual Tone Dashboard.
+Mini 3 Door does not have Power Antenna.
+Mini 3 Door does not have Halogen Headlamps.
+Mini 3 Door has Brake Assist.
+Mini 3 Door has Anti-Theft Alarm.
+Mini 3 Door has Door Ajar Warning.
+Mini 3 Door has Digital Odometer.
+Mini 3 Door has Cooled Glovebox.
+Mini 3 Door does not have Ventilated Seats.
+Mini 3 Door does not have Hill Descent Control.
+Mini 3 Door does not have Battery Saver.
+Mini 3 Door has Smoke Headlamps.
+Mini 3 Door does not have Blind Spot Monitor.
+Mini 3 Door has Tailgate Ajar Warning.
+Mini 3 Door has Remote Trunk Opener.
+Mini 3 Door has Remote Fuel Lid Opener.
+Mini 3 Door has Lane Change Indicator.
+Mini 3 Door has Xenon Headlamps.
+Mini 3 Door has Traction Control.
+Mini 3 Door does not have Rear Entertainment System.
+Mini 3 Door has Leather Seats.
+Mini 3 Door does not have Driving Experience Control Eco.
+Mini 3 Door has Fog Lights - Rear.
+Mini 3 Door does not have Internal Storage.
+Mini 3 Door does not have Super Charge.
+Mini 3 Door has Height Adjustable Driver Seat.
+Mini 3 Door has Rear Window Defogger.
+Mini 3 Door has Leather Wrapped Steering Wheel.
+Mini 3 Door has Glove Box.
+Mini 3 Door has Adjustable Headlamps.
+Mini 3 Door has Outside Rear View Mirror Turn Indicators.
+Mini 3 Door has Passenger Airbag.
+Mini 3 Door has Day & Night Rear View Mirror.
+Mini 3 Door has Tyre Pressure Monitoring System (TPMS).
+Mini 3 Door has Touchscreen.
+Mini 3 Door has Rear Window Wiper.
+Mini 3 Door has Rear Window Washer.
+Mini 3 Door has Chrome Garnish.
+Mini 3 Door has Child Safety Locks.
+Mini 3 Door has Rear Spoiler.
+Mini 3 Door has Rain Sensing Wiper.
+Mini 3 Door has Air Quality Control.
+Mini 3 Door has Tinted Glass.
+Mini 3 Door has Folding Table in The Rear.
+Mini 3 Door has Navigation System.
+Mini 3 Door has Smart Access Card Entry.
+Mini 3 Door has Fabric Upholstery.
+Mini 3 Door has Roof Rails.
+Mini 3 Door has Cigarette Lighter.
+Mini 3 Door has Roof Carrier.
+Mini 3 Door has Side Stepper.
+Mini 3 Door has Usb Ports.
+Mini 3 Door does not have Gear Shift Indicator.
+Mini 3 Door does not have Luggage Hook & Net.
+Mini 3 Door has Low Fuel Warning Light.
+Mini 3 Door does not have Fog Lights - Front.
+Mini 3 Door has Integrated 2DIN Audio.
+Mini 3 Door has USB & Auxiliary input.
+Mini 3 Door does not have Rear Curtain.
+Mini 3 Door does not have Audio System Remote Control.
+The Mini 3 Door has the Petrol Engine engine.
+The Mini 3 Door has a displacement of 1998  cubic centimeters.
+The Mini 3 Door generates 189.08 Brake Horsepower (BHP) at 4700 to 6000 Revolutions Per Minute (RPM).
+The Mini 3 Door generates 280 Newton meters at 1250 Revolutions Per Minute (RPM).
+The Mini 3 Door has 4.0 valves per cylinder.
+The Mini 3 Door has a Automatic transmission.
+The Mini 3 Door has 4.0 cylinders.
+The Mini 3 Door has a 7-Speed gearbox.
+The Mini 3 Door has a Front-Wheel Drive (FWD) drive type.
+The Mini 3 Door runs on Petrol.
+The Mini 3 Door complies with BS VI 2.0 emission norms.
+The Mini 3 Door has Electric steering.
+The Mini 3 Door has a turning radius of 5.4m.
+The Mini 3 Door has Disc front brakes.
+The Mini 3 Door has Disc rear brakes.
+The Mini 3 Door has a length of 3850 mm.
+The Mini 3 Door has a width of 1727 mm.
+The Mini 3 Door has a height of 1414 mm.
+The Mini 3 Door offers 211 Litres of boot space.
+The Mini 3 Door has a seating capacity of 4.0.
+The Mini 3 Door has an unladen ground clearance of 146 mm.
+The Mini 3 Door has a wheelbase of 2874 mm.
+The Mini 3 Door has a kerb weight of 1250 kg.
+The Mini 3 Door has a gross weight of 1655 kg.
+The Mini 3 Door has 3.0 doors.
+The Mini 3 Door is fitted with tyres of size 195/55 R16.
+The Mini 3 Door is equipped with Runflat tyres.
+The Mini 3 Door is equipped with 6.0 airbags.
+The Mini 3 Door has been rated 4 Star by Global NCAP.
+The Mini 3 Door achieves a top speed of 233 kmph.
+The Mini 3 Door achieves 0-100 kmph acceleration in 6.7 s.
+The Mini 3 Door achieves 0-100 kmph in 6.7 s.
+The Mini 3 Door is equipped with a Rack & Pinion steering gear type.
+The Mini 3 Door features a rear tread of 1501 mm.
+The Mini 3 Door is equipped with a Multi-Point Fuel Injection (MPFi) fuel supply system.
+The Mini 3 Door is equipped with a Smart trunk opener.
+The Mini 3 Door delivers a mileage of 17.33 kmpl.
+The Mini 3 Door comes with a fuel tank capacity of 44 Litres.
+The Mini 3 Door features Tilt Steering steering adjustment.
+Mini 3 Door has Adjustable Steering.
+The Mini 3 Door features Rear parking sensors.
+The Mini 3 Door features Front USB charging ports.
+The Mini 3 Door has Front & Rear speakers.
+The Mini 3 Door has Front electric adjustable seats.
+The Mini 3 Door has a Bench Folding foldable rear seat.
+Mini 3 Door has Central Console Armrest.
+Mini 3 Door has Turbo Charger.
+Mini 3 Door does not have Knee Airbags.
+Mini 3 Door has Rear Seat Headrest.
+The Mini 3 Door includes a Optional sunroof.
+The Mini 3 Door has 0 drive modes.
+The Mini 3 Door includes Optional Harman Kardon Hi Fi System, Apple Car Play (Only with MINI Navigation System), Radio MINI Visual Boost (incl. MINI Connected), MINI Navigation System (Only with Radio MINI Visual Boost), Wired Package (incl. MINI Navigation System Professional/MINI Connected XL Only with Bluetooth Mobile Preparation) as additional features.

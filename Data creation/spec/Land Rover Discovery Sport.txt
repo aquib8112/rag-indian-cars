@@ -1,0 +1,164 @@
+Land Rover Discovery Sport has 2 variants: Dynamic SE & Dynamic SE Diesel.
+All variants of Land Rover Discovery Sport have Power Steering.
+All variants of Land Rover Discovery Sport have Air Conditioner.
+All variants of Land Rover Discovery Sport have Heater.
+All variants of Land Rover Discovery Sport have Automatic Climate Control.
+All variants of Land Rover Discovery Sport have Accessory Power Outlet.
+All variants of Land Rover Discovery Sport have Trunk Light.
+All variants of Land Rover Discovery Sport have Vanity Mirror.
+All variants of Land Rover Discovery Sport have Rear Reading Lamp.
+All variants of Land Rover Discovery Sport have Adjustable Headrest.
+All variants of Land Rover Discovery Sport have Rear Seat Centre Arm Rest.
+All variants of Land Rover Discovery Sport have Rear AC Vents.
+All variants of Land Rover Discovery Sport have Cruise Control.
+All variants of Land Rover Discovery Sport have Real-Time Vehicle Tracking.
+All variants of Land Rover Discovery Sport have Engine Start/Stop Button.
+All variants of Land Rover Discovery Sport have Voice Commands.
+All variants of Land Rover Discovery Sport have Hands-Free Tailgate.
+All variants of Land Rover Discovery Sport have Chrome Grille.
+All variants of Land Rover Discovery Sport have KeyLess Entry.
+All variants of Land Rover Discovery Sport have Tachometer.
+All variants of Land Rover Discovery Sport have Alloy Wheels.
+All variants of Land Rover Discovery Sport have Integrated Antenna.
+All variants of Land Rover Discovery Sport do not have Automatic Headlamps.
+All variants of Land Rover Discovery Sport have Anti-lock Braking System (ABS).
+All variants of Land Rover Discovery Sport have Central Locking.
+All variants of Land Rover Discovery Sport have Driver Airbag.
+All variants of Land Rover Discovery Sport have Side Airbag.
+All variants of Land Rover Discovery Sport have Seat Belt Warning.
+All variants of Land Rover Discovery Sport have Engine Immobilizer.
+All variants of Land Rover Discovery Sport do not have Side Airbag-Rear.
+All variants of Land Rover Discovery Sport have Electronic Stability Control (ESC).
+All variants of Land Rover Discovery Sport have Anti-Theft Device.
+All variants of Land Rover Discovery Sport have Speed Alert.
+All variants of Land Rover Discovery Sport have Speed Sensing Auto Door Lock.
+All variants of Land Rover Discovery Sport have ISOFIX Child Seat Mounts.
+All variants of Land Rover Discovery Sport have Hill Assist.
+All variants of Land Rover Discovery Sport have Radio.
+All variants of Land Rover Discovery Sport have Wireless Phone Charging.
+All variants of Land Rover Discovery Sport have Bluetooth Connectivity.
+All variants of Land Rover Discovery Sport have Android Auto.
+All variants of Land Rover Discovery Sport have Apple CarPlay.
+All variants of Land Rover Discovery Sport have Height Adjustable Front Seat Belts.
+All variants of Land Rover Discovery Sport have Lumbar Support.
+All variants of Land Rover Discovery Sport have Paddle Shifters.
+All variants of Land Rover Discovery Sport have Electronic Multi-Tripmeter.
+All variants of Land Rover Discovery Sport have Digital Clock.
+All variants of Land Rover Discovery Sport have Outside Temperature Display.
+All variants of Land Rover Discovery Sport have Dual Tone Dashboard.
+All variants of Land Rover Discovery Sport do not have Halogen Headlamps.
+All variants of Land Rover Discovery Sport have Brake Assist.
+All variants of Land Rover Discovery Sport have Anti-Theft Alarm.
+All variants of Land Rover Discovery Sport have Door Ajar Warning.
+All variants of Land Rover Discovery Sport have Digital Odometer.
+All variants of Land Rover Discovery Sport have Cooled Glovebox.
+All variants of Land Rover Discovery Sport have Ventilated Seats.
+All variants of Land Rover Discovery Sport have Hill Descent Control.
+All variants of Land Rover Discovery Sport have Active noise cancellation.
+All variants of Land Rover Discovery Sport have Leather wrap gear-shift selector.
+All variants of Land Rover Discovery Sport have Tailgate Ajar Warning.
+All variants of Land Rover Discovery Sport have Remote Trunk Opener.
+All variants of Land Rover Discovery Sport have Remote Fuel Lid Opener.
+All variants of Land Rover Discovery Sport have Compass.
+All variants of Land Rover Discovery Sport have Wi-Fi Connectivity.
+All variants of Land Rover Discovery Sport have Traction Control.
+All variants of Land Rover Discovery Sport have Rear Entertainment System.
+All variants of Land Rover Discovery Sport do not have Leather Seats.
+All variants of Land Rover Discovery Sport have Driving Experience Control Eco.
+All variants of Land Rover Discovery Sport have MirrorLink.
+All variants of Land Rover Discovery Sport have Find My Car location.
+All variants of Land Rover Discovery Sport have Height Adjustable Driver Seat.
+All variants of Land Rover Discovery Sport have Rear Window Defogger.
+All variants of Land Rover Discovery Sport have Leather Wrapped Steering Wheel.
+All variants of Land Rover Discovery Sport have Glove Box.
+All variants of Land Rover Discovery Sport have Adjustable Headlamps.
+All variants of Land Rover Discovery Sport have Passenger Airbag.
+All variants of Land Rover Discovery Sport have Day & Night Rear View Mirror.
+All variants of Land Rover Discovery Sport have Tyre Pressure Monitoring System (TPMS).
+All variants of Land Rover Discovery Sport have Touchscreen.
+All variants of Land Rover Discovery Sport have Rear Window Wiper.
+All variants of Land Rover Discovery Sport have Rear Window Washer.
+All variants of Land Rover Discovery Sport have Chrome Garnish.
+All variants of Land Rover Discovery Sport have Child Safety Locks.
+All variants of Land Rover Discovery Sport have Rear Spoiler.
+All variants of Land Rover Discovery Sport have Rain Sensing Wiper.
+All variants of Land Rover Discovery Sport have Air Quality Control.
+All variants of Land Rover Discovery Sport have Navigation System.
+Land Rover Discovery Sport variant with Roof Rails - Dynamic SE.
+All variants of Land Rover Discovery Sport have Cigarette Lighter.
+All variants of Land Rover Discovery Sport have Side Stepper.
+Land Rover Discovery Sport variant with Dual Tone Body Colour - Dynamic SE.
+All variants of Land Rover Discovery Sport have Usb Ports.
+All variants of Land Rover Discovery Sport have Gear Shift Indicator.
+All variants of Land Rover Discovery Sport have Luggage Hook & Net.
+All variants of Land Rover Discovery Sport have Low Fuel Warning Light.
+All variants of Land Rover Discovery Sport have Power Boot.
+All variants of Land Rover Discovery Sport have Fog Lights - Front.
+All variants of Land Rover Discovery Sport have Integrated 2DIN Audio.
+All variants of Land Rover Discovery Sport have USB & Auxiliary input.
+All variants of Land Rover Discovery Sport have Rear Curtain.
+Land Rover Discovery Sport variant Dynamic SE has the petrol Engine engine.
+Land Rover Discovery Sport variant Dynamic SE Diesel has the Diesel Engine engine.
+Land Rover Discovery Sport variant Dynamic SE has a displacement of 1997  cubic centimeters.
+Land Rover Discovery Sport variant Dynamic SE Diesel has a displacement of 1999  cubic centimeters.
+All Land Rover Discovery Sport variants produce a maximum power of 245.40 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Land Rover Discovery Sport variant Dynamic SE has a max torque of 365 Newton meters at 1500 to 4500.
+Land Rover Discovery Sport variant Dynamic SE Diesel has a max torque of 430 Newton meters at 1750 to 2500.
+All Land Rover Discovery Sport variants have 4.0 valves per cylinder.
+All Land Rover Discovery Sport variants have a Automatic transmission.
+All Land Rover Discovery Sport variants have 4.0 cylinders.
+All Land Rover Discovery Sport variants come with a 9-Speed gearbox.
+All Land Rover Discovery Sport variants have a Four-Wheel Drive (4WD) drive type.
+Land Rover Discovery Sport variant Dynamic SE runs on Petrol.
+Land Rover Discovery Sport variant Dynamic SE Diesel runs on Diesel.
+All Land Rover Discovery Sport variants comply with BS VI emission norms.
+All Land Rover Discovery Sport variants come with Power steering.
+All Land Rover Discovery Sport variants have a turning radius of 5.8m.
+All Land Rover Discovery Sport variants have Ventilated Disc front brakes.
+All Land Rover Discovery Sport variants have Ventilated Disc rear brakes.
+All Land Rover Discovery Sport variants have a length of 4600 mm.
+All Land Rover Discovery Sport variants have a width of 2173 mm.
+All Land Rover Discovery Sport variants have a height of 1724 mm.
+All Land Rover Discovery Sport variants offer 559 Litres of boot space.
+All Land Rover Discovery Sport variants have a seating capacity of 7.0.
+All Land Rover Discovery Sport variants have an unladen ground clearance of 212 mm.
+All Land Rover Discovery Sport variants have a wheelbase of 2741 mm.
+Land Rover Discovery Sport variant Dynamic SE has a kerb weight of 1787 kg.
+Land Rover Discovery Sport variant Dynamic SE Diesel has a kerb weight of 1866 kg.
+Land Rover Discovery Sport variant Dynamic SE has a gross weight of 2430 kg.
+Land Rover Discovery Sport variant Dynamic SE Diesel has a gross weight of 2490 kg.
+All Land Rover Discovery Sport variants have 5.0 doors.
+All Land Rover Discovery Sport variants come with Tubeless tyres.
+All Land Rover Discovery Sport variants have 18 Inch wheels.
+All Land Rover Discovery Sport variants come equipped with 6.0 airbags.
+All Land Rover Discovery Sport variants come with a 10.25 inch touchscreen display.
+All Land Rover Discovery Sport variants come with 11.0 speakers.
+All Land Rover Discovery Sport variants use Electric as a secondary fuel type.
+All Land Rover Discovery Sport variants come with Android Auto, Apple CarPlay, Mirror Link connectivity options.
+All Land Rover Discovery Sport variants have a top speed of 200 kmph.
+Land Rover Discovery Sport variant Dynamic SE features a front tread of 1675 mm.
+Land Rover Discovery Sport variant Dynamic SE Diesel features a front tread of 1665 mm.
+Land Rover Discovery Sport variant Dynamic SE accelerates from 0-100 kmph in 7.8 s.
+Land Rover Discovery Sport variant Dynamic SE accelerates from 0-100 kmph in 7.8 s.
+All Land Rover Discovery Sport variants come with a DOHC valve configuration.
+All Land Rover Discovery Sport variants use a Rack & Pinion steering gear type.
+All Land Rover Discovery Sport variants have a rear tread of 1630 mm.
+Land Rover Discovery Sport variant Dynamic SE Diesel features a Common Rail Direct Injection (CRDi) fuel supply system.
+All Land Rover Discovery Sport variants feature a Smart trunk opener.
+All Land Rover Discovery Sport variants offer a mileage of 6.9 kmpl.
+Land Rover Discovery Sport variant Dynamic SE features a fuel tank capacity of 70 Litres.
+Land Rover Discovery Sport variant Dynamic SE Diesel features a fuel tank capacity of 65 Litres.
+All Land Rover Discovery Sport variants come with Tilt Steering steering adjustment.
+All variants of Land Rover Discovery Sport have Adjustable Steering.
+All Land Rover Discovery Sport variants are equipped with Front & Rear parking sensors.
+All Land Rover Discovery Sport variants come with Front & Rear USB charging ports.
+All Land Rover Discovery Sport variants include Front & Rear speakers.
+All Land Rover Discovery Sport variants have Front electric adjustable seats.
+All variants of Land Rover Discovery Sport have Central Console Armrest.
+All variants of Land Rover Discovery Sport have Turbo Charger.
+All variants of Land Rover Discovery Sport do not have Knee Airbags.
+All variants of Land Rover Discovery Sport have Rear Seat Headrest.
+All variants of Land Rover Discovery Sport have Sunroof.
+All Land Rover Discovery Sport variants come with 3 drive modes.
+All Land Rover Discovery Sport variants come with Pro Services & Wi-Fi Hotspot 
+InControl Apps as additional features.

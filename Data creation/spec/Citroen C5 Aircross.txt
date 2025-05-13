@@ -1,0 +1,118 @@
+﻿Citroen C5 Aircross has 2 variants: Shine & Shine Dual Tone.
+All variants of Citroen C5 Aircross have Power Steering.
+All variants of Citroen C5 Aircross have Air Conditioner.
+All variants of Citroen C5 Aircross have Heater.
+All variants of Citroen C5 Aircross have Automatic Climate Control.
+All variants of Citroen C5 Aircross have Accessory Power Outlet.
+All variants of Citroen C5 Aircross have Trunk Light.
+All variants of Citroen C5 Aircross have Vanity Mirror.
+All variants of Citroen C5 Aircross have Rear Reading Lamp.
+All variants of Citroen C5 Aircross have Adjustable Headrest.
+All variants of Citroen C5 Aircross have Rear AC Vents.
+All variants of Citroen C5 Aircross have Cruise Control.
+All variants of Citroen C5 Aircross have Engine Start/Stop Button.
+All variants of Citroen C5 Aircross have Hands-Free Tailgate.
+All variants of Citroen C5 Aircross have KeyLess Entry.
+All variants of Citroen C5 Aircross have Follow Me Home Headlamps.
+All variants of Citroen C5 Aircross have Tachometer.
+All variants of Citroen C5 Aircross have Alloy Wheels.
+All variants of Citroen C5 Aircross have Projector Headlamps.
+All variants of Citroen C5 Aircross have Automatic Headlamps.
+All variants of Citroen C5 Aircross have LED DRLs.
+All variants of Citroen C5 Aircross have LED Headlamps.
+All variants of Citroen C5 Aircross have Anti-lock Braking System (ABS).
+All variants of Citroen C5 Aircross have Central Locking.
+All variants of Citroen C5 Aircross have Driver Airbag.
+All variants of Citroen C5 Aircross have Side Airbag.
+All variants of Citroen C5 Aircross have Engine Immobilizer.
+All variants of Citroen C5 Aircross have Electronic Stability Control (ESC).
+All variants of Citroen C5 Aircross have Anti-Theft Device.
+All variants of Citroen C5 Aircross have ISOFIX Child Seat Mounts.
+All variants of Citroen C5 Aircross have Hill Assist.
+All variants of Citroen C5 Aircross have Radio.
+All variants of Citroen C5 Aircross have Wireless Phone Charging.
+All variants of Citroen C5 Aircross have Bluetooth Connectivity.
+All variants of Citroen C5 Aircross have Android Auto.
+All variants of Citroen C5 Aircross have Apple CarPlay.
+All variants of Citroen C5 Aircross have Lumbar Support.
+All variants of Citroen C5 Aircross have LED Taillights.
+All variants of Citroen C5 Aircross have Electronic Brakeforce Distribution (EBD).
+All variants of Citroen C5 Aircross have Anti-Theft Alarm.
+All variants of Citroen C5 Aircross have Glove Box light.
+All variants of Citroen C5 Aircross have Puddle Lamps.
+All variants of Citroen C5 Aircross have Hill Descent Control.
+All variants of Citroen C5 Aircross have Heated Outside Rear View Mirror.
+All variants of Citroen C5 Aircross have Blind Spot Monitor.
+All variants of Citroen C5 Aircross have Traction Control.
+All variants of Citroen C5 Aircross have Height Adjustable Driver Seat.
+All variants of Citroen C5 Aircross have Rear Window Defogger.
+All variants of Citroen C5 Aircross have Leather Wrapped Steering Wheel.
+All variants of Citroen C5 Aircross have Glove Box.
+All variants of Citroen C5 Aircross have Outside Rear View Mirror Turn Indicators.
+All variants of Citroen C5 Aircross have Passenger Airbag.
+All variants of Citroen C5 Aircross have Tyre Pressure Monitoring System (TPMS).
+All variants of Citroen C5 Aircross have Touchscreen.
+All variants of Citroen C5 Aircross have Rear Window Wiper.
+All variants of Citroen C5 Aircross have Rear Window Washer.
+All variants of Citroen C5 Aircross have Child Safety Locks.
+All variants of Citroen C5 Aircross have Rear Spoiler.
+All variants of Citroen C5 Aircross have Rain Sensing Wiper.
+All variants of Citroen C5 Aircross have Air Quality Control.
+All variants of Citroen C5 Aircross have Roof Rails.
+All variants of Citroen C5 Aircross have Curtain Airbag.
+All variants of Citroen C5 Aircross have Usb Ports.
+All variants of Citroen C5 Aircross have Luggage Hook & Net.
+All variants of Citroen C5 Aircross have LED Fog Lamps.
+All Citroen C5 Aircross variants use the DW10 FC engine.
+All Citroen C5 Aircross variants have a displacement of 1997  cubic centimeters.
+All Citroen C5 Aircross variants produce a maximum power of 174.33 Brake Horsepower (BHP) at 3750 Revolutions Per Minute (RPM).
+All Citroen C5 Aircross variants produce a maximum torque of 400 Newton meters at 2000 Revolutions Per Minute (RPM).
+All Citroen C5 Aircross variants have 4.0 valves per cylinder.
+All Citroen C5 Aircross variants have a Automatic transmission.
+All Citroen C5 Aircross variants have 4.0 cylinders.
+All Citroen C5 Aircross variants come with a 8-Speed gearbox.
+All Citroen C5 Aircross variants have a Front-Wheel Drive (FWD) drive type.
+All Citroen C5 Aircross variants run on Diesel.
+All Citroen C5 Aircross variants comply with BS VI 2.0 emission norms.
+All Citroen C5 Aircross variants have Disc front brakes.
+All Citroen C5 Aircross variants have Disc rear brakes.
+All Citroen C5 Aircross variants have a length of 4500 mm.
+All Citroen C5 Aircross variants have a width of 1969 mm.
+All Citroen C5 Aircross variants have a height of 1710 mm.
+All Citroen C5 Aircross variants offer 580 Litres of boot space.
+All Citroen C5 Aircross variants have a seating capacity of 5.0.
+All Citroen C5 Aircross variants have a wheelbase of 2730 mm.
+All Citroen C5 Aircross variants have a kerb weight of 1685 kg.
+All Citroen C5 Aircross variants have a gross weight of 2060 kg.
+All Citroen C5 Aircross variants have 5.0 doors.
+All Citroen C5 Aircross variants come with a Electronic boot opening mechanism.
+All Citroen C5 Aircross variants have tyres of size 235/55 R18.
+All Citroen C5 Aircross variants come with Tubeless Radial tyres.
+All Citroen C5 Aircross variants come equipped with 6.0 airbags.
+All Citroen C5 Aircross variants come with a 10 inch touchscreen display.
+All Citroen C5 Aircross variants come with 6.0 speakers.
+All Citroen C5 Aircross variants come with 18 Inch front alloy wheels.
+All Citroen C5 Aircross variants come with 18 Inch rear alloy wheels.
+All Citroen C5 Aircross variants come with Android Auto, Apple CarPlay connectivity options.
+All Citroen C5 Aircross variants feature a Full Digital digital cluster.
+All Citroen C5 Aircross variants come with Leatherette upholstery.
+All Citroen C5 Aircross variants have All Windows anti-pinch power windows.
+All Citroen C5 Aircross variants offer a mileage of 17.5 kmpl.
+All Citroen C5 Aircross variants have a fuel tank capacity of 52.5 Litres.
+All Citroen C5 Aircross variants have the MacPherson Strut suspension front suspension.
+All Citroen C5 Aircross variants have the Rear twist beam rear suspension.
+All Citroen C5 Aircross variants come with Tilt & Telescopic steering adjustment.
+All variants of Citroen C5 Aircross have Adjustable Steering.
+All Citroen C5 Aircross variants are equipped with Front & Rear parking sensors.
+All Citroen C5 Aircross variants come with Front & Rear USB charging ports.
+All Citroen C5 Aircross variants are equipped with Front & Rear fog lights.
+All Citroen C5 Aircross variants feature a 12.29 inch digital cluster.
+All Citroen C5 Aircross variants have a With Guidedlines rear camera.
+All Citroen C5 Aircross variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Citroen C5 Aircross variants include Front & Rear speakers.
+All Citroen C5 Aircross variants have Front electric adjustable seats.
+All variants of Citroen C5 Aircross have Central Console Armrest.
+All Citroen C5 Aircross variants come with a Panoramic sunroof.
+All Citroen C5 Aircross variants come with 2 drive modes.
+All Citroen C5 Aircross variants offer Eco & Sport drive modes.
+All Citroen C5 Aircross variants come with Mirror Screen (Apple Carplay™ And Android Auto) - Smartphone Connectivity as additional features.

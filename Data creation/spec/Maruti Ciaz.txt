@@ -1,0 +1,145 @@
+Maruti Ciaz has 7 variants: Sigma, Delta, Zeta, Alpha, Delta AT, Zeta AT & Alpha AT.
+All variants of Maruti Ciaz have Power Steering.
+All variants of Maruti Ciaz have Air Conditioner.
+All variants of Maruti Ciaz have Heater.
+Maruti Ciaz variants with Automatic Climate Control - Delta, Zeta, Alpha, Delta AT, Zeta AT & Alpha AT.
+Maruti Ciaz variant without Automatic Climate Control - Sigma.
+All variants of Maruti Ciaz have Accessory Power Outlet.
+All variants of Maruti Ciaz have Trunk Light.
+Maruti Ciaz variants with Rear Reading Lamp - Zeta, Alpha, Zeta AT & Alpha AT.
+Maruti Ciaz variants without Rear Reading Lamp - Sigma, Delta & Delta AT.
+All variants of Maruti Ciaz have Adjustable Headrest.
+All variants of Maruti Ciaz have Rear Seat Centre Arm Rest.
+All variants of Maruti Ciaz have Rear AC Vents.
+Maruti Ciaz variants with Cruise Control - Delta, Zeta, Alpha, Delta AT, Zeta AT & Alpha AT.
+Maruti Ciaz variant without Cruise Control - Sigma.
+Maruti Ciaz variants with Engine Start/Stop Button - Zeta, Alpha, Zeta AT & Alpha AT.
+Maruti Ciaz variants without Engine Start/Stop Button - Sigma, Delta & Delta AT.
+Maruti Ciaz variants with Voice Commands - Zeta, Alpha, Zeta AT & Alpha AT.
+Maruti Ciaz variants without Voice Commands - Sigma, Delta & Delta AT.
+All variants of Maruti Ciaz have Chrome Grille.
+All variants of Maruti Ciaz have KeyLess Entry.
+All variants of Maruti Ciaz have Idle Start-Stop System.
+All variants of Maruti Ciaz have Tachometer.
+Maruti Ciaz variant with Wheel Covers - Sigma.
+Maruti Ciaz variants without Wheel Covers - Delta, Zeta, Alpha, Delta AT, Zeta AT & Alpha AT.
+Maruti Ciaz variants with Alloy Wheels - Delta, Zeta, Alpha, Delta AT, Zeta AT & Alpha AT.
+Maruti Ciaz variant without Alloy Wheels - Sigma.
+All variants of Maruti Ciaz have Integrated Antenna.
+Maruti Ciaz variants with Projector Headlamps - Zeta, Alpha, Zeta AT & Alpha AT.
+Maruti Ciaz variants with Automatic Headlamps - Zeta, Alpha, Zeta AT & Alpha AT.
+Maruti Ciaz variants without Automatic Headlamps - Sigma, Delta & Delta AT.
+Maruti Ciaz variants with LED DRLs - Zeta, Alpha, Zeta AT & Alpha AT.
+Maruti Ciaz variants without LED DRLs - Sigma, Delta & Delta AT.
+Maruti Ciaz variants with LED Headlamps - Zeta, Alpha, Zeta AT & Alpha AT.
+Maruti Ciaz variants without LED Headlamps - Sigma, Delta & Delta AT.
+All variants of Maruti Ciaz have Anti-lock Braking System (ABS).
+All variants of Maruti Ciaz have Central Locking.
+All variants of Maruti Ciaz have Driver Airbag.
+All variants of Maruti Ciaz have Seat Belt Warning.
+All variants of Maruti Ciaz have Engine Immobilizer.
+All variants of Maruti Ciaz have Electronic Stability Control (ESC).
+All variants of Maruti Ciaz have Anti-Theft Device.
+All variants of Maruti Ciaz have Speed Alert.
+All variants of Maruti Ciaz have ISOFIX Child Seat Mounts.
+All variants of Maruti Ciaz have Hill Assist.
+All variants of Maruti Ciaz have Radio.
+All variants of Maruti Ciaz have Bluetooth Connectivity.
+Maruti Ciaz variants with Android Auto - Zeta, Alpha, Zeta AT & Alpha AT.
+Maruti Ciaz variants without Android Auto - Sigma, Delta & Delta AT.
+Maruti Ciaz variants with Apple CarPlay - Zeta, Alpha, Zeta AT & Alpha AT.
+Maruti Ciaz variants without Apple CarPlay - Sigma, Delta & Delta AT.
+Maruti Ciaz variants with Halogen Headlamps - Sigma, Delta & Delta AT.
+Maruti Ciaz variants without Halogen Headlamps - Zeta, Alpha, Zeta AT & Alpha AT.
+All variants of Maruti Ciaz have Electronic Brakeforce Distribution (EBD).
+All variants of Maruti Ciaz have Anti-Theft Alarm.
+Maruti Ciaz variants with Rear Windscreen Sunblind - Zeta, Alpha, Zeta AT & Alpha AT.
+Maruti Ciaz variants without Rear Windscreen Sunblind - Sigma, Delta & Delta AT.
+Maruti Ciaz variants with Height Adjustable Driver Seat - Sigma, Delta, Zeta, Alpha, Delta AT, Zeta AT & Alpha AT.
+All variants of Maruti Ciaz have Rear Window Defogger.
+Maruti Ciaz variants with Leather Wrapped Steering Wheel - Sigma, Delta, Zeta, Alpha, Delta AT, Zeta AT & Alpha AT.
+All variants of Maruti Ciaz have Glove Box.
+All variants of Maruti Ciaz have Adjustable Headlamps.
+All variants of Maruti Ciaz have Outside Rear View Mirror Turn Indicators.
+All variants of Maruti Ciaz have Passenger Airbag.
+All variants of Maruti Ciaz have Day & Night Rear View Mirror.
+Maruti Ciaz variants with Touchscreen - Sigma, Delta, Zeta, Alpha, Delta AT, Zeta AT & Alpha AT.
+All variants of Maruti Ciaz have Chrome Garnish.
+All variants of Maruti Ciaz have Air Quality Control.
+All variants of Maruti Ciaz have Usb Ports.
+Maruti Ciaz variants with Gear Shift Indicator - Sigma, Delta, Zeta & Alpha.
+Maruti Ciaz variants without Gear Shift Indicator - Delta AT, Zeta AT & Alpha AT.
+All variants of Maruti Ciaz have Luggage Hook & Net.
+Maruti Ciaz variants with LED Fog Lamps - Zeta, Alpha, Zeta AT & Alpha AT.
+Maruti Ciaz variants without LED Fog Lamps - Sigma, Delta & Delta AT.
+All variants of Maruti Ciaz have Integrated 2DIN Audio.
+All Maruti Ciaz variants use the K15 Smart Hybrid Petrol Engine engine.
+All Maruti Ciaz variants have a displacement of 1462  cubic centimeters.
+All Maruti Ciaz variants produce a maximum power of 103.25 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Maruti Ciaz variants produce a maximum torque of 138 Newton meters at 4400 Revolutions Per Minute (RPM).
+All Maruti Ciaz variants have 4.0 valves per cylinder.
+Maruti Ciaz variants - Sigma, Delta, Zeta & Alpha share a Manual transmission.
+Maruti Ciaz variants - Delta AT, Zeta AT & Alpha AT share a Automatic transmission.
+All Maruti Ciaz variants have 4.0 cylinders.
+Maruti Ciaz variants - Sigma, Delta, Zeta & Alpha share a 5-Speed gearbox.
+Maruti Ciaz variants - Delta AT, Zeta AT & Alpha AT share a 4-Speed gearbox.
+All Maruti Ciaz variants have a Front-Wheel Drive (FWD) drive type.
+All Maruti Ciaz variants run on Petrol.
+All Maruti Ciaz variants comply with BS VI 2.0 emission norms.
+All Maruti Ciaz variants come with Power steering.
+All Maruti Ciaz variants have a turning radius of 5.4m.
+All Maruti Ciaz variants have Ventilated Disc front brakes.
+All Maruti Ciaz variants have Drum rear brakes.
+All Maruti Ciaz variants have a length of 4490 mm.
+All Maruti Ciaz variants have a width of 1730 mm.
+All Maruti Ciaz variants have a height of 1485 mm.
+All Maruti Ciaz variants offer 510 Litres of boot space.
+All Maruti Ciaz variants have a seating capacity of 5.0.
+All Maruti Ciaz variants have a wheelbase of 2650 mm.
+Maruti Ciaz variants - Sigma, Delta, Zeta & Alpha share a gross weight of 1520 kg.
+Maruti Ciaz variants - Delta AT, Zeta AT & Alpha AT share a gross weight of 1530 kg.
+All Maruti Ciaz variants have 4.0 doors.
+All Maruti Ciaz variants come with a Manual boot opening mechanism.
+Maruti Ciaz variants - Sigma, Delta & Delta AT feature Powered Outside Rear View Mirror (ORVM).
+Maruti Ciaz variants - Zeta, Alpha, Zeta AT & Alpha AT feature Powered & Folding Outside Rear View Mirror (ORVM).
+Maruti Ciaz variants - Sigma, Delta, Zeta, Delta AT & Zeta AT feature tyres of size 185/65 R15.
+Maruti Ciaz variants - Alpha & Alpha AT feature tyres of size 195/55 R16.
+All Maruti Ciaz variants come with Tubeless Radial tyres.
+Maruti Ciaz variant Sigma is equipped with 15 Inch wheels.
+All Maruti Ciaz variants come equipped with 2.0 airbags.
+Maruti Ciaz variant Delta has a Global NCAP rating of 4 Star.
+Maruti Ciaz variants - Zeta, Alpha, Zeta AT & Alpha AT come with a 7 inch touchscreen display.
+All Maruti Ciaz variants come with 4.0 speakers.
+Maruti Ciaz variants - Delta, Zeta, Delta AT & Zeta AT have 15 Inch front alloy wheels.
+Maruti Ciaz variants - Alpha & Alpha AT have 16 Inch front alloy wheels.
+Maruti Ciaz variants - Delta, Zeta, Delta AT & Zeta AT have 15 Inch rear alloy wheels.
+Maruti Ciaz variants - Alpha & Alpha AT have 16 Inch rear alloy wheels.
+All Maruti Ciaz variants come with 2.0 tweeters.
+Maruti Ciaz variants - Zeta, Alpha, Zeta AT & Alpha AT have Android Auto, Apple CarPlay connectivity options.
+All Maruti Ciaz variants feature a Semi Digital digital cluster.
+Maruti Ciaz variants - Sigma, Delta, Zeta, Delta AT & Zeta AT feature Fabric upholstery options.
+Maruti Ciaz variants - Alpha & Alpha AT feature Leather upholstery options.
+All Maruti Ciaz variants come with a DOHC valve configuration.
+All Maruti Ciaz variants have Driver's Window anti-pinch power windows.
+Maruti Ciaz variants - Sigma, Delta, Zeta & Alpha have mileage figures of 20.65 kmpl.
+Maruti Ciaz variants - Delta AT, Zeta AT & Alpha AT have mileage figures of 20.04 kmpl.
+All Maruti Ciaz variants have a fuel tank capacity of 43 Litres.
+All Maruti Ciaz variants have the MacPherson Strut suspension front suspension.
+All Maruti Ciaz variants have the Rear twist beam rear suspension.
+All Maruti Ciaz variants come with Tilt Steering steering adjustment.
+All variants of Maruti Ciaz have Adjustable Steering.
+All Maruti Ciaz variants are equipped with Rear parking sensors.
+All Maruti Ciaz variants have Front & Rear power windows.
+All Maruti Ciaz variants come with Front & Rear cup holders.
+Maruti Ciaz variant without Fog Lights - Sigma.
+Maruti Ciaz variants - Delta, Zeta, Alpha, Delta AT, Zeta AT & Alpha AT share the Front fog light configuration.
+All Maruti Ciaz variants come with a Glass-mounted antenna.
+Maruti Ciaz variants without Rear Camera - Sigma, Delta & Delta AT.
+Maruti Ciaz variants - Zeta, Alpha, Zeta AT & Alpha AT share the With Guidedlines rear camera type.
+All Maruti Ciaz variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Maruti Ciaz variants include Front & Rear speakers.
+All Maruti Ciaz variants have a With Storage central console armrest.
+Maruti Ciaz variant Sigma offers Split Rear Combination Lamps,Chrome Accents on Front Grille,Body Coloured ORVMs,Body Coloured Door Handles,Front Fog Lamp Ornament(Black), as additional features.
+Maruti Ciaz variants - Delta & Delta AT share Split Rear Combination Lamps,Chrome Accents on Front Grille,Body Coloured ORVMs,Body Coloured Door Handles,Front Fog Lamp Ornament(Silver),Rear Reflector Ornament(Silver), as additional features.
+Maruti Ciaz variants - Zeta & Zeta AT share Split Rear Combination Lamps,LED Rear Combination Lamps,Chrome Accents on Front Grille,Body Coloured ORVMs,Body Coloured Door Handles(Chrome),Front Fog Lamp Ornament(Silver),Rear Reflector Ornament(Silver), as additional features.
+Maruti Ciaz variants - Alpha & Alpha AT share Dual Tone Exterior,Split Rear Combination LampsLED Rear Combination Lamps,Chrome Accents on Front Grille,Trunk Lid Chrome Garnish,Door Beltline Garnish,Body Coloured ORVMs,Body Coloured Door Handles(Chrome),Front Fog Lamp Ornament(Chrome),Rear Reflector Ornament(Chrome), as additional features.

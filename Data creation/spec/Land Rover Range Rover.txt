@@ -1,0 +1,215 @@
+Land Rover Range Rover has 3 variants: 3.0 I Diesel LWB HSE, 3.0 I LWB Autobiography & SV Ranthambore Edition.
+All variants of Land Rover Range Rover have Power Steering.
+All variants of Land Rover Range Rover have Air Conditioner.
+All variants of Land Rover Range Rover have Heater.
+All variants of Land Rover Range Rover have Automatic Climate Control.
+All variants of Land Rover Range Rover have Accessory Power Outlet.
+All variants of Land Rover Range Rover have Trunk Light.
+All variants of Land Rover Range Rover have Vanity Mirror.
+All variants of Land Rover Range Rover have Rear Reading Lamp.
+All variants of Land Rover Range Rover have Adjustable Headrest.
+All variants of Land Rover Range Rover have Rear Seat Centre Arm Rest.
+All variants of Land Rover Range Rover have Rear AC Vents.
+All variants of Land Rover Range Rover have Cruise Control.
+All variants of Land Rover Range Rover have Real-Time Vehicle Tracking.
+All variants of Land Rover Range Rover have Engine Start/Stop Button.
+All variants of Land Rover Range Rover have Voice Commands.
+All variants of Land Rover Range Rover have Hands-Free Tailgate.
+All variants of Land Rover Range Rover have Chrome Grille.
+All variants of Land Rover Range Rover have KeyLess Entry.
+All variants of Land Rover Range Rover have Idle Start-Stop System.
+All variants of Land Rover Range Rover have Follow Me Home Headlamps.
+All variants of Land Rover Range Rover have Tachometer.
+Land Rover Range Rover variants without Wheel Covers - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have Alloy Wheels.
+All variants of Land Rover Range Rover have Integrated Antenna.
+Land Rover Range Rover variant with Projector Headlamps - SV Ranthambore Edition.
+All variants of Land Rover Range Rover have Automatic Headlamps.
+All variants of Land Rover Range Rover have LED DRLs.
+All variants of Land Rover Range Rover have LED Headlamps.
+All variants of Land Rover Range Rover have Anti-lock Braking System (ABS).
+All variants of Land Rover Range Rover have Central Locking.
+All variants of Land Rover Range Rover have Driver Airbag.
+All variants of Land Rover Range Rover have Side Airbag.
+All variants of Land Rover Range Rover have Seat Belt Warning.
+All variants of Land Rover Range Rover have Engine Immobilizer.
+Land Rover Range Rover variants with E-Call & I-Call - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Remote AC On/Off - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variant with Side Airbag-Rear - SV Ranthambore Edition.
+Land Rover Range Rover variants without Side Airbag-Rear - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have Electronic Stability Control (ESC).
+All variants of Land Rover Range Rover have Anti-Theft Device.
+All variants of Land Rover Range Rover have Speed Alert.
+All variants of Land Rover Range Rover have Speed Sensing Auto Door Lock.
+All variants of Land Rover Range Rover have ISOFIX Child Seat Mounts.
+All variants of Land Rover Range Rover have Hill Assist.
+All variants of Land Rover Range Rover have Impact Sensing Auto Door Unlock.
+All variants of Land Rover Range Rover have 360 View Camera.
+All variants of Land Rover Range Rover have Radio.
+All variants of Land Rover Range Rover have Wireless Phone Charging.
+All variants of Land Rover Range Rover have Bluetooth Connectivity.
+All variants of Land Rover Range Rover have Android Auto.
+All variants of Land Rover Range Rover have Apple CarPlay.
+Land Rover Range Rover variants with Live Location - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Over the Air (OTA) Updates - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Google / Alexa Connectivity - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Over Speeding Alert - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Smartwatch App - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Valet Mode - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Remote Door Lock/Unlock - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Geo-fence Alert - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have Height Adjustable Front Seat Belts.
+All variants of Land Rover Range Rover have Lumbar Support.
+All variants of Land Rover Range Rover have Paddle Shifters.
+Land Rover Range Rover variants with Tow Away Alert - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have LED Taillights.
+All variants of Land Rover Range Rover have Electronic Brakeforce Distribution (EBD).
+All variants of Land Rover Range Rover have Brake Assist.
+Land Rover Range Rover variants with Anti-Theft Alarm - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have Door Ajar Warning.
+Land Rover Range Rover variants with Remote Immobiliser - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with SOS / Emergency Assistance - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variant with Blind Spot Camera - SV Ranthambore Edition.
+Land Rover Range Rover variants with Forward Collision Warning - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Automatic Emergency Braking - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Lane Departure Warning - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Adaptive Cruise Control - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Leading Vehicle Departure Alert - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Adaptive High Beam Assist - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Unauthorised Vehicle entry - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have Cooled Glovebox.
+Land Rover Range Rover variant with Glove Box light - SV Ranthambore Edition.
+Land Rover Range Rover variants with Inbuilt Assistant - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Navigation with Live Traffic - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Send POI to Vehicle From App - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have Ventilated Seats.
+Land Rover Range Rover variant with Puddle Lamps - SV Ranthambore Edition.
+All variants of Land Rover Range Rover have Hill Descent Control.
+All variants of Land Rover Range Rover have Battery Saver.
+Land Rover Range Rover variant with Rear Window Sunblind - SV Ranthambore Edition.
+All variants of Land Rover Range Rover have Leather wrap gear-shift selector.
+All variants of Land Rover Range Rover have Blind Spot Monitor.
+Land Rover Range Rover variants with Live Weather - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Remote Boot Open - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have Tailgate Ajar Warning.
+Land Rover Range Rover variants with Remote Vehicle Status Check - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with SOS Button - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variant with Voice assisted sunroof - SV Ranthambore Edition.
+All variants of Land Rover Range Rover have Lane Change Indicator.
+Land Rover Range Rover variant with Wi-Fi Connectivity - SV Ranthambore Edition.
+Land Rover Range Rover variants with Save Route/Place - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have Traction Control.
+Land Rover Range Rover variants with RSA - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have Height Adjustable Driver Seat.
+All variants of Land Rover Range Rover have Rear Window Defogger.
+All variants of Land Rover Range Rover have Leather Wrapped Steering Wheel.
+All variants of Land Rover Range Rover have Glove Box.
+Land Rover Range Rover variant with Adjustable Headlamps - SV Ranthambore Edition.
+All variants of Land Rover Range Rover have Outside Rear View Mirror Turn Indicators.
+All variants of Land Rover Range Rover have Passenger Airbag.
+All variants of Land Rover Range Rover have Day & Night Rear View Mirror.
+All variants of Land Rover Range Rover have Tyre Pressure Monitoring System (TPMS).
+All variants of Land Rover Range Rover have Touchscreen.
+All variants of Land Rover Range Rover have Rear Window Wiper.
+Land Rover Range Rover variant with Rear Window Washer - SV Ranthambore Edition.
+Land Rover Range Rover variants with Chrome Garnish - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have Child Safety Locks.
+All variants of Land Rover Range Rover have Rear Spoiler.
+All variants of Land Rover Range Rover have Rain Sensing Wiper.
+All variants of Land Rover Range Rover have Air Quality Control.
+Land Rover Range Rover variant with Smart Access Card Entry - SV Ranthambore Edition.
+Land Rover Range Rover variants with Cigarette Lighter - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Side Stepper - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+All variants of Land Rover Range Rover have Curtain Airbag.
+All variants of Land Rover Range Rover have Usb Ports.
+Land Rover Range Rover variant with Luggage Hook & Net - SV Ranthambore Edition.
+All variants of Land Rover Range Rover have LED Fog Lamps.
+Land Rover Range Rover variant 3.0 I Diesel LWB HSE has the D350 Ingenium Twin-turbocharged I6 MHEV engine.
+Land Rover Range Rover variant 3.0 I LWB Autobiography has the P400 Ingenium Turbocharged I6 MHEV engine.
+Land Rover Range Rover variant SV Ranthambore Edition has the 3.0 L 6-cylinder engine.
+Land Rover Range Rover variant 3.0 I Diesel LWB HSE has a displacement of 2997  cubic centimeters.
+Land Rover Range Rover variant 3.0 I LWB Autobiography has a displacement of 2996  cubic centimeters.
+Land Rover Range Rover variant SV Ranthambore Edition has a displacement of 2998  cubic centimeters.
+Land Rover Range Rover variant 3.0 I Diesel LWB HSE delivers a max power of 346 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Land Rover Range Rover variant 3.0 I LWB Autobiography delivers a max power of 394 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Land Rover Range Rover variant SV Ranthambore Edition delivers a max power of 394 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Land Rover Range Rover variant 3.0 I Diesel LWB HSE has a max torque of 700 Newton meters at 1500 Revolutions Per Minute (RPM).
+Land Rover Range Rover variant 3.0 I LWB Autobiography has a max torque of 550 Newton meters at 2000 Revolutions Per Minute (RPM).
+Land Rover Range Rover variant SV Ranthambore Edition has a max torque of 550 Newton meters at 1500 Revolutions Per Minute (RPM).
+All Land Rover Range Rover variants have 4.0 valves per cylinder.
+All Land Rover Range Rover variants have a Automatic transmission.
+All Land Rover Range Rover variants have 6.0 cylinders.
+Land Rover Range Rover variant SV Ranthambore Edition comes with a 8-Speed gearbox.
+All Land Rover Range Rover variants have a All-Wheel Drive (AWD) drive type.
+Land Rover Range Rover variant 3.0 I Diesel LWB HSE runs on Diesel.
+Land Rover Range Rover variants - 3.0 I LWB Autobiography & SV Ranthambore Edition use Petrol as fuel.
+All Land Rover Range Rover variants comply with BS VI 2.0 emission norms.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography have Electric steering.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography share a turning radius of 5.77m.
+Land Rover Range Rover variant SV Ranthambore Edition has a turning radius of 11m.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography feature Ventilated Disc front brakes.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography feature Ventilated Disc rear brakes.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography share a length of 5252 mm.
+Land Rover Range Rover variant SV Ranthambore Edition has a length of 5052 mm.
+All Land Rover Range Rover variants have a width of 2209 mm.
+All Land Rover Range Rover variants have a height of 1870 mm.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography share a boot space of 1050 Litres.
+Land Rover Range Rover variant SV Ranthambore Edition offers 541 Litres of boot space.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography share a seating capacity of 5.0.
+Land Rover Range Rover variant SV Ranthambore Edition has a seating capacity of 7.0.
+All Land Rover Range Rover variants have an unladen ground clearance of 219 mm.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography share a wheelbase of 3197 mm.
+Land Rover Range Rover variant SV Ranthambore Edition has a gross weight of 3350 kg.
+All Land Rover Range Rover variants have 5.0 doors.
+Land Rover Range Rover variant SV Ranthambore Edition is equipped with a Hands-Free boot opening mechanism.
+Land Rover Range Rover variant SV Ranthambore Edition has Powered & Folding Outside Rear View Mirror (ORVM).
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography feature tyres of size 285/45 R22.
+All Land Rover Range Rover variants come with Unknown tyres.
+All Land Rover Range Rover variants come equipped with 6.0 airbags.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography come with a 13.1 inch touchscreen display.
+Land Rover Range Rover variant SV Ranthambore Edition features a unknown touchscreen.
+Land Rover Range Rover variant 3.0 I LWB Autobiography features Electric as a secondary fuel type.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography have 22 Inch front alloy wheels.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography have 22 Inch rear alloy wheels.
+Land Rover Range Rover variant SV Ranthambore Edition includes Android Auto, Apple CarPlay connectivity features.
+All Land Rover Range Rover variants feature a Full Digital digital cluster.
+All Land Rover Range Rover variants come with Leather upholstery.
+Land Rover Range Rover variant 3.0 I Diesel LWB HSE has a top speed of 234 kmph.
+Land Rover Range Rover variant 3.0 I LWB Autobiography has a top speed of 242 kmph.
+Land Rover Range Rover variant 3.0 I Diesel LWB HSE accelerates from 0-100 kmph in 6.3 s.
+Land Rover Range Rover variant 3.0 I LWB Autobiography accelerates from 0-100 kmph in 5.9 s.
+Land Rover Range Rover variant SV Ranthambore Edition accelerates from 0-100 kmph in 6.1 s.
+Land Rover Range Rover variant 3.0 I Diesel LWB HSE accelerates from 0-100 kmph in 6.3 s.
+Land Rover Range Rover variant 3.0 I LWB Autobiography accelerates from 0-100 kmph in 5.9 s.
+Land Rover Range Rover variant SV Ranthambore Edition accelerates from 0-100 kmph in 6.1 s.
+All Land Rover Range Rover variants have All Windows anti-pinch power windows.
+Land Rover Range Rover variant 3.0 I Diesel LWB HSE provides a mileage of 13.16 kmpl.
+Land Rover Range Rover variant 3.0 I LWB Autobiography provides a mileage of 10.42 kmpl.
+All Land Rover Range Rover variants have a fuel tank capacity of 90 Litres.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography share the Air suspension front suspension type.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography share the Multi-link suspension rear suspension type.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography share the Tilt & Telescopic steering adjustment type.
+Land Rover Range Rover variants with Adjustable Steering - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variant SV Ranthambore Edition has Powered Adjustment steering adjustability.
+All Land Rover Range Rover variants are equipped with Front & Rear parking sensors.
+All Land Rover Range Rover variants come with Front & Rear USB charging ports.
+Land Rover Range Rover variant SV Ranthambore Edition has Front & Rear power windows.
+Land Rover Range Rover variant SV Ranthambore Edition has Front & Rear cup holders.
+Land Rover Range Rover variant 3.0 I Diesel LWB HSE has Front fog lights.
+Land Rover Range Rover variant 3.0 I LWB Autobiography has Front & Rear fog lights.
+Land Rover Range Rover variant SV Ranthambore Edition has a Shark Fin antenna.
+All Land Rover Range Rover variants have a With Guidedlines rear camera.
+All Land Rover Range Rover variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Land Rover Range Rover variants include Front & Rear speakers.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography share the Front & Rear electric seat adjustment type.
+Land Rover Range Rover variant SV Ranthambore Edition has Front electric adjustable seats.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography share the 40:20:40 Split foldable rear seat type.
+Land Rover Range Rover variant SV Ranthambore Edition has a 60:40 Split foldable rear seat.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography share the With Storage central console armrest type.
+Land Rover Range Rover variant with Central Console Armrest - SV Ranthambore Edition.
+Land Rover Range Rover variants - 3.0 I Diesel LWB HSE & SV Ranthambore Edition share the Twin turbocharger type.
+Land Rover Range Rover variant with Turbo Charger - 3.0 I LWB Autobiography.
+Land Rover Range Rover variants without Knee Airbags - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variants with Rear Seat Headrest - 3.0 I Diesel LWB HSE & 3.0 I LWB Autobiography.
+Land Rover Range Rover variant SV Ranthambore Edition offers Adjustable rear seat headrests.
+All Land Rover Range Rover variants come with a Panoramic sunroof.

@@ -1,0 +1,203 @@
+Maruti Swift has 14 variants: LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+All variants of Maruti Swift have Power Steering.
+All variants of Maruti Swift have Air Conditioner.
+All variants of Maruti Swift have Heater.
+Maruti Swift variants with Automatic Climate Control - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Automatic Climate Control - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG.
+All variants of Maruti Swift have Accessory Power Outlet.
+Maruti Swift variants with Trunk Light - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Trunk Light - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG.
+Maruti Swift variants with Vanity Mirror - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variant without Vanity Mirror - LXi.
+All variants of Maruti Swift have Rear Reading Lamp.
+All variants of Maruti Swift have Adjustable Headrest.
+Maruti Swift variants with Rear AC Vents - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Rear AC Vents - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG.
+Maruti Swift variants with Cruise Control - ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Cruise Control - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT & ZXi CNG.
+Maruti Swift variants with Real-Time Vehicle Tracking - VXi Opt, VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Real-Time Vehicle Tracking - LXi, VXi, VXi AMT & VXi CNG.
+Maruti Swift variants with Engine Start/Stop Button - VXi Opt, VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Engine Start/Stop Button - LXi, VXi, VXi AMT & VXi CNG.
+Maruti Swift variants with Voice Commands - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variant without Voice Commands - LXi.
+All variants of Maruti Swift have KeyLess Entry.
+Maruti Swift variants without Idle Start-Stop System - VXi Opt AMT & ZXi AMT.
+Maruti Swift variants with Follow Me Home Headlamps - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Follow Me Home Headlamps - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG.
+All variants of Maruti Swift have Tachometer.
+Maruti Swift variants with Wheel Covers - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG.
+Maruti Swift variants without Wheel Covers - LXi, ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants with Alloy Wheels - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Alloy Wheels - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG.
+Maruti Swift variant with Integrated Antenna - VXi Opt AMT.
+Maruti Swift variants with Projector Headlamps - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Projector Headlamps - LXi, VXi, VXi Opt, VXi AMT, VXi CNG & VXi Opt CNG.
+Maruti Swift variants with Automatic Headlamps - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Automatic Headlamps - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG.
+Maruti Swift variants with LED DRLs - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without LED DRLs - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG.
+Maruti Swift variants with LED Headlamps - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without LED Headlamps - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG.
+All variants of Maruti Swift have Anti-lock Braking System (ABS).
+All variants of Maruti Swift have Central Locking.
+All variants of Maruti Swift have Driver Airbag.
+All variants of Maruti Swift have Side Airbag.
+All variants of Maruti Swift have Seat Belt Warning.
+All variants of Maruti Swift have Engine Immobilizer.
+All variants of Maruti Swift do not have Side Airbag-Rear.
+All variants of Maruti Swift have Electronic Stability Control (ESC).
+Maruti Swift variants with Anti-Theft Device - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variant without Anti-Theft Device - LXi.
+All variants of Maruti Swift have Speed Alert.
+All variants of Maruti Swift have Speed Sensing Auto Door Lock.
+All variants of Maruti Swift have ISOFIX Child Seat Mounts.
+All variants of Maruti Swift have Hill Assist.
+Maruti Swift variants with Radio - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variant without Radio - LXi.
+Maruti Swift variants with Wireless Phone Charging - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Wireless Phone Charging - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG.
+Maruti Swift variants with Bluetooth Connectivity - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variant without Bluetooth Connectivity - LXi.
+Maruti Swift variants with Android Auto - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variant without Android Auto - LXi.
+Maruti Swift variants with Apple CarPlay - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variant without Apple CarPlay - LXi.
+Maruti Swift variants with Driver Attention Warning - VXi Opt, VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Driver Attention Warning - LXi, VXi, VXi AMT & VXi CNG.
+Maruti Swift variants with Live Location - VXi Opt, VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Live Location - LXi, VXi, VXi AMT & VXi CNG.
+Maruti Swift variants with Over the Air (OTA) Updates - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variant without Over the Air (OTA) Updates - LXi.
+Maruti Swift variants with Google / Alexa Connectivity - VXi Opt, VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Google / Alexa Connectivity - LXi, VXi, VXi AMT & VXi CNG.
+Maruti Swift variants with Over Speeding Alert - VXi Opt, VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Over Speeding Alert - LXi, VXi, VXi AMT & VXi CNG.
+Maruti Swift variants with Smartwatch App - VXi Opt, VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Smartwatch App - LXi, VXi, VXi AMT & VXi CNG.
+Maruti Swift variants with Valet Mode - VXi Opt, VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Valet Mode - LXi, VXi, VXi AMT & VXi CNG.
+Maruti Swift variants with Remote Door Lock/Unlock - VXi Opt, VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Remote Door Lock/Unlock - LXi, VXi, VXi AMT & VXi CNG.
+Maruti Swift variants with Geo-fence Alert - VXi Opt, VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Geo-fence Alert - LXi, VXi, VXi AMT & VXi CNG.
+Maruti Swift variants with Tow Away Alert - VXi Opt, VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Tow Away Alert - LXi, VXi, VXi AMT & VXi CNG.
+Maruti Swift variants with Halogen Headlamps - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG.
+Maruti Swift variants without Halogen Headlamps - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+All variants of Maruti Swift have LED Taillights.
+All variants of Maruti Swift have Electronic Brakeforce Distribution (EBD).
+Maruti Swift variants with Anti-Theft Alarm - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variant without Anti-Theft Alarm - LXi.
+All variants of Maruti Swift have Door Ajar Warning.
+Maruti Swift variant without Blind Spot Camera - ZXi Plus.
+Maruti Swift variants with Height Adjustable Driver Seat - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+All variants of Maruti Swift have Rear Window Defogger.
+Maruti Swift variants with Leather Wrapped Steering Wheel - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+All variants of Maruti Swift have Glove Box.
+All variants of Maruti Swift have Adjustable Headlamps.
+Maruti Swift variants with Outside Rear View Mirror Turn Indicators - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+All variants of Maruti Swift have Passenger Airbag.
+Maruti Swift variants with Day & Night Rear View Mirror - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants with Touchscreen - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants with Rear Window Wiper - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants with Rear Window Washer - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variant with Rear Spoiler - LXi.
+All variants of Maruti Swift have Curtain Airbag.
+Maruti Swift variants with Usb Ports - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variant without Usb Ports - LXi.
+Maruti Swift variants with Gear Shift Indicator - LXi, VXi, VXi Opt, VXi CNG, ZXi, VXi Opt CNG, ZXi Plus, ZXi Plus DT & ZXi CNG.
+Maruti Swift variants without Gear Shift Indicator - VXi AMT, VXi Opt AMT, ZXi AMT, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants with Luggage Hook & Net - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants with LED Fog Lamps - ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without LED Fog Lamps - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT & ZXi CNG.
+All Maruti Swift variants use the Z12E engine.
+All Maruti Swift variants have a displacement of 1197  cubic centimeters.
+Maruti Swift variants - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT have a max power of 80.46 Brake Horsepower (BHP) at 5700 Revolutions Per Minute (RPM).
+Maruti Swift variants - VXi CNG, VXi Opt CNG & ZXi CNG have a max power of 68.80 Brake Horsepower (BHP) at 5700 Revolutions Per Minute (RPM).
+Maruti Swift variants - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT share a max torque of 111.7 Newton meters at 4300 Revolutions Per Minute (RPM).
+Maruti Swift variants - VXi CNG, VXi Opt CNG & ZXi CNG share a max torque of 101.8 Newton meters at 2900 Revolutions Per Minute (RPM).
+All Maruti Swift variants have 4.0 valves per cylinder.
+Maruti Swift variants - LXi, VXi, VXi Opt, VXi CNG, ZXi, VXi Opt CNG, ZXi Plus, ZXi Plus DT & ZXi CNG share a Manual transmission.
+Maruti Swift variants - VXi AMT, VXi Opt AMT, ZXi AMT, ZXi Plus AMT & ZXi Plus AMT DT share a Automatic transmission.
+All Maruti Swift variants have 3.0 cylinders.
+Maruti Swift variants - LXi, VXi, VXi Opt, VXi AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi Plus, ZXi Plus DT & ZXi CNG share a 5-Speed gearbox.
+Maruti Swift variants - VXi Opt AMT, ZXi AMT, ZXi Plus AMT & ZXi Plus AMT DT share a 5-Speed-AMT gearbox.
+All Maruti Swift variants have a Front-Wheel Drive (FWD) drive type.
+Maruti Swift variants - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT use Petrol as fuel.
+Maruti Swift variants - VXi CNG, VXi Opt CNG & ZXi CNG use CNG as fuel.
+All Maruti Swift variants comply with BS VI 2.0 emission norms.
+All Maruti Swift variants come with Electric steering.
+All Maruti Swift variants have a turning radius of 4.8m.
+All Maruti Swift variants have Ventilated Disc front brakes.
+All Maruti Swift variants have Drum rear brakes.
+All Maruti Swift variants have a length of 3860 mm.
+All Maruti Swift variants have a width of 1735 mm.
+All Maruti Swift variants have a height of 1520 mm.
+All Maruti Swift variants offer 265 Litres of boot space.
+All Maruti Swift variants have a seating capacity of 5.0.
+All Maruti Swift variants have an unladen ground clearance of 163 mm.
+All Maruti Swift variants have a wheelbase of 2450 mm.
+Maruti Swift variants - LXi, VXi, VXi Opt, ZXi, ZXi Plus & ZXi Plus DT share a kerb weight of 920 kg.
+Maruti Swift variants - VXi AMT, VXi Opt AMT, ZXi AMT, ZXi Plus AMT & ZXi Plus AMT DT share a kerb weight of 925 kg.
+Maruti Swift variants - VXi CNG, VXi Opt CNG & ZXi CNG share a kerb weight of 990 kg.
+Maruti Swift variants - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT share a gross weight of 1355 kg.
+Maruti Swift variants - VXi CNG, VXi Opt CNG & ZXi CNG share a gross weight of 1425 kg.
+All Maruti Swift variants have 5.0 doors.
+All Maruti Swift variants come with a Electronic boot opening mechanism.
+Maruti Swift variant LXi has Manual Outside Rear View Mirror (ORVM).
+Maruti Swift variants - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT & ZXi CNG feature Powered Outside Rear View Mirror (ORVM).
+Maruti Swift variants - ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT feature Powered & Folding Outside Rear View Mirror (ORVM).
+Maruti Swift variants - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG feature tyres of size 165/80 R14.
+Maruti Swift variants - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT feature tyres of size 185/65 R15.
+All Maruti Swift variants come with Tyre Type tyres.
+Maruti Swift variants - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG feature 14 Inch wheels.
+All Maruti Swift variants come equipped with 6.0 airbags.
+Maruti Swift variants - VXi Opt & VXi Opt CNG have been rated 4 Star by Global NCAP.
+Maruti Swift variant LXi features a unknown touchscreen.
+Maruti Swift variants - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT & ZXi CNG come with a 7 inch touchscreen display.
+Maruti Swift variants - ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT come with a 9 inch touchscreen display.
+Maruti Swift variants - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT come with 4.0 speakers.
+Maruti Swift variants - VXi CNG, VXi Opt CNG & ZXi CNG use Petrol as a secondary fuel type.
+Maruti Swift variants - VXi CNG, VXi Opt CNG & ZXi CNG have a secondary fuel tank capacity of 37.0 liters.
+Maruti Swift variants - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT have 15 Inch front alloy wheels.
+Maruti Swift variants - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT have 15 Inch rear alloy wheels.
+Maruti Swift variants - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT have 2.0 tweeters.
+All Maruti Swift variants feature a Full Digital digital cluster.
+All Maruti Swift variants come with Fabric upholstery.
+Maruti Swift variants - VXi CNG, VXi Opt CNG & ZXi CNG come with boot space of 265 Litres.
+All Maruti Swift variants have Driver's Window anti-pinch power windows.
+Maruti Swift variants - LXi, VXi, VXi Opt, ZXi, ZXi Plus & ZXi Plus DT have mileage figures of 24.8 kmpl.
+Maruti Swift variants - VXi AMT, VXi Opt AMT, ZXi AMT, ZXi Plus AMT & ZXi Plus AMT DT have mileage figures of 25.75 kmpl.
+Maruti Swift variants - VXi CNG, VXi Opt CNG & ZXi CNG have mileage figures of 32.85 km/kg.
+Maruti Swift variants - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT have fuel tank capacities of 37 Litres.
+Maruti Swift variants - VXi CNG, VXi Opt CNG & ZXi CNG have fuel tank capacities of 55 Litres.
+All Maruti Swift variants have the MacPherson Strut suspension front suspension.
+All Maruti Swift variants have the Rear twist beam rear suspension.
+All Maruti Swift variants come with Tilt Steering steering adjustment.
+All Maruti Swift variants have Height only steering adjustability.
+All Maruti Swift variants are equipped with Rear parking sensors.
+Maruti Swift variant without USB Charger - LXi.
+Maruti Swift variants - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG share the Front USB charging configuration.
+Maruti Swift variants - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT share the Front & Rear USB charging configuration.
+All Maruti Swift variants have Front & Rear power windows.
+All Maruti Swift variants come with Front Only cup holders.
+Maruti Swift variants without Fog Lights - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT & ZXi CNG.
+Maruti Swift variants - ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT share the Front fog light configuration.
+All Maruti Swift variants come with a Micropole antenna.
+Maruti Swift variants without Digital Cluster Size - VXi Opt AMT, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT.
+Maruti Swift variants without Rear Camera - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT & ZXi CNG.
+Maruti Swift variants - ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT share the With Guidedlines rear camera type.
+All Maruti Swift variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Maruti Swift variant without Speakers - LXi.
+Maruti Swift variants - VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG, ZXi, VXi Opt CNG, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT share the Front & Rear speaker configuration.
+Maruti Swift variants - LXi, VXi, VXi Opt, VXi AMT, VXi Opt AMT, VXi CNG & VXi Opt CNG share the Bench Folding foldable rear seat type.
+Maruti Swift variants - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT share the 60:40 Split foldable rear seat type.
+All variants of Maruti Swift do not have Turbo Charger.
+Maruti Swift variants - ZXi, ZXi AMT, ZXi Plus, ZXi Plus DT, ZXi CNG, ZXi Plus AMT & ZXi Plus AMT DT share Adjustable rear seat headrests.
+All variants of Maruti Swift do not have Sunroof.
+Maruti Swift variant LXi offers LED Rear Combination Lamps,Body Coloured Bumpers as additional features.
+Maruti Swift variants - VXi, VXi Opt, VXi AMT & VXi CNG share Wireless Android Auto & Apple CarPlay,Onboard Voice Assistant (Wake-up through ""Hi Suzuki"" with Barge-in Feature) as additional features.
+Maruti Swift variants - VXi Opt AMT, ZXi & ZXi CNG share "Wireless Android Auto & Apple CarPlay,Onboard Voice Assistant (Wake-up through ""Hi Suzuki"" with Barge-in Feature) as additional features.
+Maruti Swift variants - VXi Opt CNG & ZXi AMT share "Wireless Android Auto & Apple CarPlay,Onboard Voice Assistant (Wake-up through ""Hi Suzuki"" with Barge-in Feature) " as additional features.
+Maruti Swift variants - ZXi Plus, ZXi Plus DT, ZXi Plus AMT & ZXi Plus AMT DT share "Surround Sense Powered by ARKAMYS ,Wireless Android Auto & Apple CarPlay,Onboard Voice Assistant (Wake-up through ""Hi Suzuki"" with Barge-in Feature) as additional features.

@@ -1,0 +1,257 @@
+﻿Volkswagen Taigun has 14 variants: 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG.
+All variants of Volkswagen Taigun have Power Steering.
+All variants of Volkswagen Taigun have Air Conditioner.
+All variants of Volkswagen Taigun have Heater.
+Volkswagen Taigun variants with Automatic Climate Control - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variant without Automatic Climate Control - 1.0 Comfortline.
+Volkswagen Taigun variants with Accessory Power Outlet - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Trunk Light - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Vanity Mirror - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+All variants of Volkswagen Taigun have Rear Reading Lamp.
+Volkswagen Taigun variants with Adjustable Headrest - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Rear Seat Centre Arm Rest - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variant without Rear Seat Centre Arm Rest - 1.0 Comfortline.
+Volkswagen Taigun variants with Rear AC Vents - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Cruise Control - 1.0 Highline AT, 1.0 Topline ES, 1.0 Topline AT ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants without Cruise Control - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus & 1.5 GT Plus Chrome ES.
+Volkswagen Taigun variants with Real-Time Vehicle Tracking - 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Engine Start/Stop Button - 1.0 Topline ES, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants without Engine Start/Stop Button - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG.
+Volkswagen Taigun variant without Hands-Free Tailgate - 1.0 GT Line.
+Volkswagen Taigun variants with Chrome Grille - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+All variants of Volkswagen Taigun have KeyLess Entry.
+Volkswagen Taigun variants with Idle Start-Stop System - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES & 1.0 Topline AT ES.
+All variants of Volkswagen Taigun have Follow Me Home Headlamps.
+Volkswagen Taigun variants with Tachometer - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variant with Wheel Covers - 1.0 Comfortline.
+Volkswagen Taigun variants without Wheel Covers - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Alloy Wheels - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG.
+Volkswagen Taigun variant without Alloy Wheels - 1.0 Comfortline.
+Volkswagen Taigun variants with Integrated Antenna - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Automatic Headlamps - 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG.
+Volkswagen Taigun variants without Automatic Headlamps - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus & 1.0 Highline AT.
+Volkswagen Taigun variants with LED DRLs - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with LED Headlamps - 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.0 Topline AT ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG.
+Volkswagen Taigun variants without LED Headlamps - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.5 GT, 1.5 GT DSG & 1.5 GT Plus Chrome ES.
+All variants of Volkswagen Taigun have Anti-lock Braking System (ABS).
+All variants of Volkswagen Taigun have Central Locking.
+All variants of Volkswagen Taigun have Driver Airbag.
+Volkswagen Taigun variants with Side Airbag - 1.0 Highline Plus, 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG.
+Volkswagen Taigun variants without Side Airbag - 1.0 Comfortline, 1.0 Highline & 1.0 Highline AT.
+All variants of Volkswagen Taigun have Seat Belt Warning.
+All variants of Volkswagen Taigun have Engine Immobilizer.
+Volkswagen Taigun variants without Side Airbag-Rear - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports & 1.5 GT Plus Chrome DSG ES.
+All variants of Volkswagen Taigun have Electronic Stability Control (ESC).
+Volkswagen Taigun variant with Anti-Theft Device - 1.5 GT Plus Sports DSG.
+All variants of Volkswagen Taigun have Speed Alert.
+Volkswagen Taigun variants with Speed Sensing Auto Door Lock - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.0 Topline AT ES, 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG.
+All variants of Volkswagen Taigun have ISOFIX Child Seat Mounts.
+Volkswagen Taigun variants with Hill Assist - 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG.
+Volkswagen Taigun variants without Hill Assist - 1.0 Comfortline & 1.0 Highline.
+Volkswagen Taigun variants with Impact Sensing Auto Door Unlock - 1.0 Comfortline, 1.0 Highline, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.0 Topline AT ES, 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG.
+Volkswagen Taigun variants with Radio - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Wireless Phone Charging - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variant without Wireless Phone Charging - 1.0 Comfortline.
+Volkswagen Taigun variants with Bluetooth Connectivity - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Android Auto - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Apple CarPlay - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Driver Attention Warning - 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG & 1.0 Topline AT ES.
+Volkswagen Taigun variants without Driver Attention Warning - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus & 1.0 Highline AT.
+Volkswagen Taigun variants with Live Location - 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG & 1.0 Topline AT ES.
+Volkswagen Taigun variants without Live Location - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus & 1.0 Highline AT.
+Volkswagen Taigun variants with Valet Mode - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG & 1.0 Topline AT ES.
+Volkswagen Taigun variant without Valet Mode - 1.0 Comfortline.
+Volkswagen Taigun variants with Geo-fence Alert - 1.0 Highline Plus, 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG & 1.0 Topline AT ES.
+Volkswagen Taigun variants without Geo-fence Alert - 1.0 Comfortline, 1.0 Highline & 1.0 Highline AT.
+Volkswagen Taigun variants with Lumbar Support - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Paddle Shifters - 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline AT ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants without Paddle Shifters - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Topline ES & 1.5 GT Plus Chrome ES.
+Volkswagen Taigun variants with Electronic Multi-Tripmeter - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Digital Clock - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Dual Tone Dashboard - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Halogen Headlamps - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.5 GT, 1.5 GT DSG & 1.5 GT Plus Chrome ES.
+Volkswagen Taigun variants without Halogen Headlamps - 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.0 Topline AT ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with LED Taillights - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+All variants of Volkswagen Taigun have Electronic Brakeforce Distribution (EBD).
+All variants of Volkswagen Taigun have Brake Assist.
+Volkswagen Taigun variants with Anti-Theft Alarm - 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG.
+Volkswagen Taigun variants with Door Ajar Warning - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG.
+Volkswagen Taigun variants with Digital Odometer - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with SOS / Emergency Assistance - 1.0 Highline Plus, 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG & 1.0 Topline AT ES.
+Volkswagen Taigun variants without SOS / Emergency Assistance - 1.0 Comfortline, 1.0 Highline & 1.0 Highline AT.
+Volkswagen Taigun variants with Cooled Glovebox - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variant without Cooled Glovebox - 1.0 Comfortline.
+Volkswagen Taigun variants with Ventilated Seats - 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT DSG, 1.0 Topline AT ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants without Ventilated Seats - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.5 GT & 1.5 GT Plus Chrome ES.
+Volkswagen Taigun variants with Cornering Foglamps - 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variant without Cornering Foglamps - 1.0 Comfortline.
+Volkswagen Taigun variants with Tailgate Ajar Warning - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES & 1.0 Topline AT ES.
+Volkswagen Taigun variants with SOS Button - 1.0 Topline ES & 1.0 Topline AT ES.
+Volkswagen Taigun variants without SOS Button - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus & 1.0 Highline AT.
+Volkswagen Taigun variants with Cornering Headlamps - 1.0 GT Line, 1.0 GT Line AT, 1.5 GT & 1.5 GT DSG.
+Volkswagen Taigun variants with Traction Control - 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG.
+Volkswagen Taigun variants with RSA - 1.0 Topline ES & 1.0 Topline AT ES.
+Volkswagen Taigun variants without RSA - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus & 1.0 Highline AT.
+Volkswagen Taigun variant with Leather Seats - 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variant without Leather Seats - 1.5 GT Plus Chrome ES.
+Volkswagen Taigun variant with Fog Lights - Rear - 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Height Adjustable Driver Seat - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Rear Window Defogger - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Leather Wrapped Steering Wheel - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Glove Box - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Adjustable Headlamps - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Outside Rear View Mirror Turn Indicators - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+All variants of Volkswagen Taigun have Passenger Airbag.
+Volkswagen Taigun variants with Day & Night Rear View Mirror - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG.
+All variants of Volkswagen Taigun have Tyre Pressure Monitoring System (TPMS).
+Volkswagen Taigun variants with Touchscreen - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Rear Window Wiper - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Rear Window Washer - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Chrome Garnish - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+All variants of Volkswagen Taigun have Child Safety Locks.
+Volkswagen Taigun variants with Rear Spoiler - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Rain Sensing Wiper - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variant with Navigation System - 1.5 GT Plus Chrome ES.
+Volkswagen Taigun variants with Smart Access Card Entry - 1.5 GT DSG, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Fabric Upholstery - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+All variants of Volkswagen Taigun have Roof Rails.
+Volkswagen Taigun variant with Dual Tone Body Colour - 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Curtain Airbag - 1.0 Highline Plus, 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG.
+Volkswagen Taigun variants without Curtain Airbag - 1.0 Comfortline, 1.0 Highline & 1.0 Highline AT.
+Volkswagen Taigun variants with Usb Ports - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variant without Usb Ports - 1.0 Comfortline.
+Volkswagen Taigun variants with Luggage Hook & Net - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variant with Low Fuel Warning Light - 1.5 GT Plus Chrome ES.
+Volkswagen Taigun variant with Fog Lights - Front - 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with Integrated 2DIN Audio - 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants with USB & Auxiliary input - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES & 1.0 Topline AT ES share the 1.0L TSI engine.
+Volkswagen Taigun variants - 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG share the 1.5L TSI EVO with ACT engine.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES & 1.0 Topline AT ES share a displacement of 999  cubic centimeters.
+Volkswagen Taigun variants - 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG share a displacement of 1498  cubic centimeters.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES & 1.0 Topline AT ES have a max power of 114 Brake Horsepower (BHP) at 5000 to 5500 Revolutions Per Minute (RPM).
+Volkswagen Taigun variants - 1.0 GT Line & 1.0 GT Line AT have a max power of 113.42 Brake Horsepower (BHP) at 5000 to 5500 Revolutions Per Minute (RPM).
+Volkswagen Taigun variants - 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES have a max power of 147.51 Brake Horsepower (BHP) at 5000 to 6000 Revolutions Per Minute (RPM).
+Volkswagen Taigun variants - 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG have a max power of 147.94 Brake Horsepower (BHP) at 5000 to 6000 Revolutions Per Minute (RPM).
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES & 1.0 Topline AT ES share a max torque of 178 Newton meters at 1750 to 4500 Revolutions Per Minute (RPM).
+Volkswagen Taigun variants - 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG share a max torque of 250 Newton meters at 1600 to 3500 Revolutions Per Minute (RPM).
+All Volkswagen Taigun variants have 4.0 valves per cylinder.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Topline ES, 1.5 GT, 1.5 GT Plus Chrome ES & 1.5 GT Plus Sports share a Manual transmission.
+Volkswagen Taigun variants - 1.0 Highline AT, 1.0 GT Line AT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG share a Automatic transmission.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG have 4.0 cylinders.
+Volkswagen Taigun variants - 1.0 GT Line & 1.0 GT Line AT have 3.0 cylinders.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT Plus Chrome ES & 1.5 GT Plus Sports share a 6-Speed gearbox.
+Volkswagen Taigun variants - 1.0 Highline AT & 1.0 Topline AT ES share a 6-Speed-AT gearbox.
+Volkswagen Taigun variants - 1.5 GT DSG, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG share a 7-Speed-DSG gearbox.
+All Volkswagen Taigun variants have a Front-Wheel Drive (FWD) drive type.
+All Volkswagen Taigun variants run on Petrol.
+All Volkswagen Taigun variants comply with BS VI 2.0 emission norms.
+All Volkswagen Taigun variants come with Electric steering.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES & 1.0 Topline AT ES share a turning radius of 5.5m.
+Volkswagen Taigun variants - 1.0 GT Line, 1.0 GT Line AT, 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG share a turning radius of 5.05m.
+All Volkswagen Taigun variants have Disc front brakes.
+All Volkswagen Taigun variants have Drum rear brakes.
+All Volkswagen Taigun variants have a length of 4221 mm.
+All Volkswagen Taigun variants have a width of 1760 mm.
+All Volkswagen Taigun variants have a height of 1612 mm.
+All Volkswagen Taigun variants offer 385 Litres of boot space.
+All Volkswagen Taigun variants have a seating capacity of 5.0.
+All Volkswagen Taigun variants have an unladen ground clearance of 188 mm.
+All Volkswagen Taigun variants have a wheelbase of 2651 mm.
+Volkswagen Taigun variant 1.0 Comfortline has a kerb weight of 1205 kg.
+Volkswagen Taigun variants - 1.0 Highline & 1.0 Highline Plus share a kerb weight of 1220 kg.
+Volkswagen Taigun variant 1.0 GT Line has a kerb weight of 1225 kg.
+Volkswagen Taigun variants - 1.0 Highline AT & 1.0 Topline ES share a kerb weight of 1255 kg.
+Volkswagen Taigun variant 1.0 GT Line AT has a kerb weight of 1260 kg.
+Volkswagen Taigun variant 1.5 GT has a kerb weight of 1272 kg.
+Volkswagen Taigun variant 1.5 GT DSG has a kerb weight of 1281 kg.
+Volkswagen Taigun variant 1.0 Topline AT ES has a kerb weight of 1285 kg.
+Volkswagen Taigun variants - 1.5 GT Plus Chrome ES & 1.5 GT Plus Sports share a kerb weight of 1304 kg.
+Volkswagen Taigun variants - 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG share a kerb weight of 1314 kg.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line & 1.0 Topline ES share a gross weight of 1650 kg.
+Volkswagen Taigun variants - 1.0 Highline AT & 1.0 Topline AT ES share a gross weight of 1665 kg.
+Volkswagen Taigun variant 1.0 GT Line AT has a gross weight of 1680 kg.
+Volkswagen Taigun variants - 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG share a gross weight of 1700 kg.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports & 1.5 GT Plus Chrome DSG ES share 5.0 doors.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG & 1.0 Topline AT ES feature a Manual boot opening mechanism.
+Volkswagen Taigun variant 1.0 Comfortline has Powered Outside Rear View Mirror (ORVM).
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES & 1.0 Topline AT ES feature Powered & Folding Outside Rear View Mirror (ORVM).
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.5 GT & 1.5 GT DSG feature tyres of size 205/60 R16.
+Volkswagen Taigun variants - 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG feature tyres of size 205/55 R17.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES & 1.0 Topline AT ES are fitted with Tyre Type tyres.
+Volkswagen Taigun variants - 1.0 GT Line, 1.0 GT Line AT, 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES are fitted with Tubeless Radial tyres.
+Volkswagen Taigun variants - 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG are fitted with Unknown tyres.
+Volkswagen Taigun variant 1.0 Comfortline is equipped with 16 Inch wheels.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline & 1.0 Highline AT offer 2.0 airbags.
+Volkswagen Taigun variants - 1.0 Highline Plus, 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG offer 6.0 airbags.
+Volkswagen Taigun variant 1.5 GT Plus Chrome ES features 4.0 airbags.
+Volkswagen Taigun variants - 1.0 GT Line, 1.0 GT Line AT, 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG have been rated 5 Star by Global NCAP.
+Volkswagen Taigun variants - 1.0 GT Line, 1.0 GT Line AT, 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG have a child safety rating of 5 Star from Global NCAP.
+Volkswagen Taigun variant 1.0 Comfortline features a 7 inch touchscreen.
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES come with a 10.09 inch touchscreen display.
+Volkswagen Taigun variants - 1.0 GT Line, 1.0 GT Line AT, 1.5 GT & 1.5 GT DSG come with a 10 inch touchscreen display.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES come with 6.0 speakers.
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.5 GT & 1.5 GT DSG have 16 Inch front alloy wheels.
+Volkswagen Taigun variants - 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.0 Topline AT ES, 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG have 17 Inch front alloy wheels.
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.5 GT & 1.5 GT DSG have 16 Inch rear alloy wheels.
+Volkswagen Taigun variants - 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.0 Topline AT ES, 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG have 17 Inch rear alloy wheels.
+Volkswagen Taigun variant 1.5 GT Plus Chrome ES takes 40.17 s seconds to brake from 100-0 kmph.
+Volkswagen Taigun variant 1.5 GT Plus Chrome DSG ES takes 38.80 s seconds to brake from 100-0 kmph.
+Volkswagen Taigun variant 1.5 GT Plus Chrome ES achieves 0-100 kmph in 8.89 s seconds.
+Volkswagen Taigun variant 1.5 GT Plus Chrome DSG ES achieves 0-100 kmph in 10.08 s seconds.
+Volkswagen Taigun variants - 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES have Android Auto, Apple CarPlay connectivity options.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES & 1.0 Topline AT ES feature a Full Digital digital cluster.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus & 1.0 Highline AT feature Fabric upholstery options.
+Volkswagen Taigun variants - 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG feature Leatherette upholstery options.
+Volkswagen Taigun variants - 1.5 GT & 1.5 GT Plus Chrome ES have a top speed of 165.54 kmph.
+Volkswagen Taigun variants - 1.5 GT DSG & 1.5 GT Plus Chrome DSG ES have a top speed of 150.49 kmph.
+All Volkswagen Taigun variants have a front tread of 1531 mm.
+Volkswagen Taigun variant 1.5 GT Plus Chrome DSG ES achieves city driveability (20-80 kmph) in 6.08 s.
+All Volkswagen Taigun variants have a rear tread of 1516 mm.
+Volkswagen Taigun variants - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES have the same fuel supply system of Turbo Fuel Stratified Injection (TSFi).
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.0 Topline AT ES & 1.5 GT Plus Sports come with Driver's Window anti-pinch power windows.
+Volkswagen Taigun variant 1.5 GT Plus Sports DSG has All Windows anti-pinch power windows.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus & 1.0 Topline ES have mileage figures of 19.2 kmpl.
+Volkswagen Taigun variant 1.0 GT Line provides a mileage of 19.87 kmpl.
+Volkswagen Taigun variants - 1.0 Highline AT & 1.0 Topline AT ES have mileage figures of 17.23 kmpl.
+Volkswagen Taigun variant 1.0 GT Line AT provides a mileage of 18.15 kmpl.
+Volkswagen Taigun variants - 1.5 GT & 1.5 GT DSG have mileage figures of 18.47 kmpl.
+Volkswagen Taigun variants - 1.5 GT Plus Chrome ES & 1.5 GT Plus Sports have mileage figures of 18.61 kmpl.
+Volkswagen Taigun variants - 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG have mileage figures of 19.01 kmpl.
+All Volkswagen Taigun variants have a fuel tank capacity of 50 Litres.
+All Volkswagen Taigun variants have the MacPherson Strut suspension front suspension.
+All Volkswagen Taigun variants have the Rear twist beam rear suspension.
+Volkswagen Taigun variants - 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES share the Tilt & Telescopic steering adjustment type.
+Volkswagen Taigun variants with Adjustable Steering - 1.0 GT Line AT, 1.5 GT, 1.5 GT DSG, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES share the Rear parking sensor configuration.
+Volkswagen Taigun variant without USB Charger - 1.0 Comfortline.
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES share the Front & Rear USB charging configuration.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES & 1.0 Topline AT ES share the Front & Rear power window configuration.
+Volkswagen Taigun variant 1.0 Comfortline has Front Only cup holders.
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES & 1.0 Topline AT ES share the Front & Rear cup holder configuration.
+Volkswagen Taigun variant without Fog Lights - 1.0 Comfortline.
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG & 1.0 Topline AT ES share the Front fog light configuration.
+Volkswagen Taigun variant without Antenna - 1.0 Comfortline.
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG & 1.0 Topline AT ES share the Shark Fin antenna type.
+Volkswagen Taigun variants - 1.0 GT Line, 1.0 GT Line AT, 1.0 Topline ES & 1.0 Topline AT ES share the 8 inch digital cluster size.
+Volkswagen Taigun variant without Rear Camera - 1.0 Comfortline.
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES, 1.5 GT Plus Sports, 1.5 GT Plus Chrome DSG ES & 1.5 GT Plus Sports DSG share the With Guidedlines rear camera type.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG share the Driver and Passenger seatbelt pretensioner and force limiter type.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES share the Front & Rear speaker configuration.
+Volkswagen Taigun variant 1.0 Comfortline has a Bench Folding foldable rear seat.
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES share the 60:40 Split foldable rear seat type.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.0 Topline ES, 1.5 GT, 1.5 GT DSG, 1.0 Topline AT ES, 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES share the With Storage central console armrest type.
+All variants of Volkswagen Taigun have Turbo Charger.
+Volkswagen Taigun variants - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES & 1.0 Topline AT ES share Adjustable rear seat headrests.
+Volkswagen Taigun variants with Rear Seat Headrest - 1.0 GT Line, 1.5 GT, 1.5 GT DSG & 1.5 GT Plus Chrome ES.
+Volkswagen Taigun variants without Sunroof - 1.0 Comfortline, 1.0 Highline, 1.0 Highline Plus, 1.0 GT Line, 1.0 Highline AT, 1.0 GT Line AT, 1.5 GT & 1.5 GT DSG.
+Volkswagen Taigun variants - 1.0 Topline ES & 1.0 Topline AT ES share a Single Pane sunroof.
+Volkswagen Taigun variant 1.5 GT Plus Chrome ES offers a Panoramic sunroof.
+Volkswagen Taigun variant with Sunroof - 1.5 GT Plus Chrome DSG ES.
+Volkswagen Taigun variant 1.0 Comfortline offers Signature Trapezoidal chrome wing, front,Chrome strip on grille - upper,Front diffuser Silver painted,Muscular elevated bonnet with chiseled lines,Sharp dual shoulder lines,Functional roof rails, Black,Side cladding, grained,Body coloured door mirrors housing with LED indicators,Body coloured door handles,Rear diffuser Silver painted,Signature Trapezoidal chrome wing, rear as additional features.
+Volkswagen Taigun variants - 1.0 Highline, 1.0 Highline Plus, 1.0 Highline AT, 1.0 Topline ES & 1.0 Topline AT ES share Wireless App-Connect with Android AutoTM, Apple CarPlay,Sygic navigation,offline,Gaana,Audiobooks as additional features.
+Volkswagen Taigun variant 1.0 GT Line offers VW Play Touchscreen infotainment with Apps,Wireless Android Auto, Apple CarPlay, as additional features.
+Volkswagen Taigun variant 1.0 GT Line AT offers VW Play Touchscreen infotainment with Apps,Wireless Android Auto, Apple CarPlay as additional features.
+Volkswagen Taigun variants - 1.5 GT & 1.5 GT DSG share GT welcome message on infotainment,Wireless- Android Auto, Apple CarPlay, as additional features.
+Volkswagen Taigun variants - 1.5 GT Plus Chrome ES & 1.5 GT Plus Chrome DSG ES share Valet mode,ygicTM navigation, offline, GaanaTM, Booking.comTM, AudiobooksTM, 25.65 cm VW Play Touchscreen infotainment with Apps as additional features.
+Volkswagen Taigun variants - 1.5 GT Plus Sports & 1.5 GT Plus Sports DSG share Black glossy front grille, Signature Trapezoidal wing and diffuser,Darkened LED head lamps,Carbon Steel Grey roof,Red GT branding on the grille, fender and rear,Black roof rails, door mirror housing and window bar,Dark Chrome door handles,R17 ‘Cassino’ black alloy wheels,Red painted brake calipers in front,Black fender badges,Rear Signature Trapezoidal wing and diffuser in Black as additional features.

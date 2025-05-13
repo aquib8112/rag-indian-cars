@@ -1,0 +1,94 @@
+﻿Force Gurkha 5 Door has 1 variants: Diesel.
+Force Gurkha 5 Door has Power Steering.
+Force Gurkha 5 Door has Air Conditioner.
+Force Gurkha 5 Door has Heater.
+Force Gurkha 5 Door has Accessory Power Outlet.
+Force Gurkha 5 Door has Vanity Mirror.
+Force Gurkha 5 Door has Rear Reading Lamp.
+Force Gurkha 5 Door has Adjustable Headrest.
+Force Gurkha 5 Door has Rear AC Vents.
+Force Gurkha 5 Door has Engine Start/Stop Button.
+Force Gurkha 5 Door has KeyLess Entry.
+Force Gurkha 5 Door has Follow Me Home Headlamps.
+Force Gurkha 5 Door has Tachometer.
+Force Gurkha 5 Door has Alloy Wheels.
+Force Gurkha 5 Door has Integrated Antenna.
+Force Gurkha 5 Door has LED DRLs.
+Force Gurkha 5 Door has LED Headlamps.
+Force Gurkha 5 Door has Anti-lock Braking System (ABS).
+Force Gurkha 5 Door has Central Locking.
+Force Gurkha 5 Door has Driver Airbag.
+Force Gurkha 5 Door has Seat Belt Warning.
+Force Gurkha 5 Door has Engine Immobilizer.
+Force Gurkha 5 Door has Speed Alert.
+Force Gurkha 5 Door has Speed Sensing Auto Door Lock.
+Force Gurkha 5 Door has ISOFIX Child Seat Mounts.
+Force Gurkha 5 Door has Hill Assist.
+Force Gurkha 5 Door has Impact Sensing Auto Door Unlock.
+Force Gurkha 5 Door has Radio.
+Force Gurkha 5 Door has Bluetooth Connectivity.
+Force Gurkha 5 Door has Android Auto.
+Force Gurkha 5 Door has Apple CarPlay.
+Force Gurkha 5 Door has Height Adjustable Front Seat Belts.
+Force Gurkha 5 Door has Electronic Brakeforce Distribution (EBD).
+Force Gurkha 5 Door has Brake Assist.
+Force Gurkha 5 Door has Door Ajar Warning.
+Force Gurkha 5 Door has Tailgate Ajar Warning.
+Force Gurkha 5 Door has Cornering Headlamps.
+Force Gurkha 5 Door has Height Adjustable Driver Seat.
+Force Gurkha 5 Door has Glove Box.
+Force Gurkha 5 Door has Adjustable Headlamps.
+Force Gurkha 5 Door has Passenger Airbag.
+Force Gurkha 5 Door has Day & Night Rear View Mirror.
+Force Gurkha 5 Door has Tyre Pressure Monitoring System (TPMS).
+Force Gurkha 5 Door has Touchscreen.
+Force Gurkha 5 Door has Child Safety Locks.
+Force Gurkha 5 Door has Usb Ports.
+Force Gurkha 5 Door has Integrated 2DIN Audio.
+The Force Gurkha 5 Door has the FM 2.6 CR CD engine.
+The Force Gurkha 5 Door has a displacement of 2596  cubic centimeters.
+The Force Gurkha 5 Door generates 138.08 Brake Horsepower (BHP) at 3200 Revolutions Per Minute (RPM).
+The Force Gurkha 5 Door generates 320 Newton meters at 1400 to 2600 Revolutions Per Minute (RPM).
+The Force Gurkha 5 Door has 4.0 valves per cylinder.
+The Force Gurkha 5 Door has a Manual transmission.
+The Force Gurkha 5 Door has 4.0 cylinders.
+The Force Gurkha 5 Door has a 5-Speed gearbox.
+The Force Gurkha 5 Door has a Four-Wheel Drive (4WD) drive type.
+The Force Gurkha 5 Door runs on Diesel.
+The Force Gurkha 5 Door complies with BS VI 2.0 emission norms.
+The Force Gurkha 5 Door has Hydraulic steering.
+The Force Gurkha 5 Door has a turning radius of 6.3m.
+The Force Gurkha 5 Door has Disc front brakes.
+The Force Gurkha 5 Door has Drum rear brakes.
+The Force Gurkha 5 Door has a length of 4390 mm.
+The Force Gurkha 5 Door has a width of 1865 mm.
+The Force Gurkha 5 Door has a height of 2095 mm.
+The Force Gurkha 5 Door has a seating capacity of 7.0.
+The Force Gurkha 5 Door has an unladen ground clearance of 233 mm.
+The Force Gurkha 5 Door has a wheelbase of 2825 mm.
+The Force Gurkha 5 Door has a gross weight of 3125 kg.
+The Force Gurkha 5 Door has 5.0 doors.
+The Force Gurkha 5 Door features a Manual boot opening mechanism.
+The Force Gurkha 5 Door is fitted with tyres of size 255/65 R18.
+The Force Gurkha 5 Door is equipped with Tubeless Radial tyres.
+The Force Gurkha 5 Door is equipped with 2.0 airbags.
+The Force Gurkha 5 Door is equipped with a 9 Inch touchscreen.
+The Force Gurkha 5 Door features 18 Inch front alloy wheels.
+The Force Gurkha 5 Door features 18 Inch rear alloy wheels.
+The Force Gurkha 5 Door features Android Auto, Apple CarPlay connectivity options.
+The Force Gurkha 5 Door comes with a Full Digital digital cluster.
+The Force Gurkha 5 Door features Leather upholstery.
+The Force Gurkha 5 Door delivers a highway mileage of 12 kmpl.
+The Force Gurkha 5 Door comes with a fuel tank capacity of 63.5 Litres.
+The Force Gurkha 5 Door comes with the Double wishbone suspension front suspension.
+The Force Gurkha 5 Door comes with the Multi-link suspension rear suspension.
+The Force Gurkha 5 Door features Tilt & Telescopic steering adjustment.
+Force Gurkha 5 Door has Adjustable Steering.
+The Force Gurkha 5 Door features Rear parking sensors.
+The Force Gurkha 5 Door features Front & Rear USB charging ports.
+Force Gurkha 5 Door does not have Digital Cluster Size.
+The Force Gurkha 5 Door has Driver and Passenger seatbelt pretensioners and force limiters.
+The Force Gurkha 5 Door has Front & Rear speakers.
+Force Gurkha 5 Door has Turbo Charger.
+Force Gurkha 5 Door has Rear Seat Headrest.
+The Force Gurkha 5 Door includes Iconic Design - The Gurkha has a timeless appeal & Commanding road presence,First in segment Air intake snorket for fresh air supply and water wading,Full LED Headlamp - High intensity Force LED pro Edge Headlamps and DRLs as additional features.

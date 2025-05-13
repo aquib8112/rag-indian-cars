@@ -1,0 +1,84 @@
+﻿Bmw I5 has 1 variants: M60 xDrive.
+Bmw I5 has Power Steering.
+Bmw I5 has Air Conditioner.
+Bmw I5 has Heater.
+Bmw I5 has Automatic Climate Control.
+Bmw I5 has Accessory Power Outlet.
+Bmw I5 has Rear Reading Lamp.
+Bmw I5 has Adjustable Headrest.
+Bmw I5 has Rear Seat Centre Arm Rest.
+Bmw I5 has Rear AC Vents.
+Bmw I5 has Cruise Control.
+Bmw I5 has Engine Start/Stop Button.
+Bmw I5 has Voice Commands.
+Bmw I5 does not have Hands-Free Tailgate.
+Bmw I5 has Idle Start-Stop System.
+Bmw I5 has Tachometer.
+Bmw I5 has Wheel Covers.
+Bmw I5 has Integrated Antenna.
+Bmw I5 has Projector Headlamps.
+Bmw I5 has Automatic Headlamps.
+Bmw I5 has LED DRLs.
+Bmw I5 has LED Headlamps.
+Bmw I5 has Radio.
+Bmw I5 has Bluetooth Connectivity.
+Bmw I5 has Android Auto.
+Bmw I5 has Apple CarPlay.
+Bmw I5 has Height Adjustable Front Seat Belts.
+Bmw I5 has Lumbar Support.
+Bmw I5 has Paddle Shifters.
+Bmw I5 has LED Taillights.
+Bmw I5 has Cooled Glovebox.
+Bmw I5 has Puddle Lamps.
+Bmw I5 has Battery Saver.
+Bmw I5 has Tailgate Ajar Warning.
+Bmw I5 has Regenerative Braking.
+Bmw I5 does not have Fast Charging.
+Bmw I5 has Height Adjustable Driver Seat.
+Bmw I5 has Rear Window Defogger.
+Bmw I5 has Glove Box.
+Bmw I5 has Adjustable Headlamps.
+Bmw I5 has Outside Rear View Mirror Turn Indicators.
+Bmw I5 has Touchscreen.
+Bmw I5 has Usb Ports.
+Bmw I5 has LED Fog Lamps.
+The Bmw I5 generates 592.73 Brake Horsepower (BHP).
+The Bmw I5 generates 795 Newton meters.
+The Bmw I5 has a Automatic transmission.
+The Bmw I5 has a All-Wheel Drive (AWD) drive type.
+The Bmw I5 runs on Electric.
+The Bmw I5 complies with ZEV emission norms.
+The Bmw I5 has Ventilated Disc front brakes.
+The Bmw I5 has Ventilated Disc rear brakes.
+The Bmw I5 has a length of 5060 mm.
+The Bmw I5 has a width of 2156 mm.
+The Bmw I5 has a height of 1505 mm.
+The Bmw I5 offers 490 Litres of boot space.
+The Bmw I5 has a seating capacity of 5.0.
+The Bmw I5 has a wheelbase of 2995 mm.
+The Bmw I5 has 5.0 doors.
+The Bmw I5 features a Powered boot opening mechanism.
+The Bmw I5 is equipped with Powered & Folding Outside Rear View Mirror (ORVM).
+The Bmw I5 is equipped with Unknown tyres.
+The Bmw I5 is equipped with 6.0 airbags.
+The Bmw I5 is equipped with a unknown touchscreen.
+The Bmw I5 features Android Auto, Apple CarPlay connectivity options.
+The Bmw I5 comes with a Full Digital digital cluster.
+The Bmw I5 features Leatherette upholstery.
+The Bmw I5 has a reported boot space of 490 Litres.
+The Bmw I5 has a battery capacity of 83.9 kWh.
+The Bmw I5 features a motor with 442 kW power.
+The Bmw I5 provides a range of 516 km.
+The Bmw I5 charges in 4 Hours 15Mins at 22Kw (0–100%) using an A.C charger.
+The Bmw I5 charges in 30 Min at 205kW (10–80%) using a D.C charger.
+The Bmw I5 is equipped with a CCS-II charging port.
+The Bmw I5 comes with the Multi-link suspension front suspension.
+The Bmw I5 comes with the Multi-link suspension rear suspension.
+The Bmw I5 features Front & Rear parking sensors.
+The Bmw I5 features Front & Rear USB charging ports.
+The Bmw I5 features Front & Rear power windows.
+The Bmw I5 features Front & Rear cup holders.
+The Bmw I5 features Front fog lights.
+The Bmw I5 has Front & Rear speakers.
+Bmw I5 has Central Console Armrest.
+The Bmw I5 includes Adjustable rear seat headrests.

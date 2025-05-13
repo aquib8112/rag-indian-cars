@@ -1,0 +1,257 @@
+Maruti Baleno has 9 variants: Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+All variants of Maruti Baleno have Power Steering.
+All variants of Maruti Baleno have Air Conditioner.
+All variants of Maruti Baleno have Heater.
+All variants of Maruti Baleno have Automatic Climate Control.
+All variants of Maruti Baleno have Accessory Power Outlet.
+Maruti Baleno variants with Vanity Mirror - Alpha & Alpha AMT.
+All variants of Maruti Baleno have Rear Reading Lamp.
+All variants of Maruti Baleno have Adjustable Headrest.
+Maruti Baleno variants with Rear AC Vents - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Rear AC Vents - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Cruise Control - Alpha & Alpha AMT.
+Maruti Baleno variants without Cruise Control - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT & Zeta CNG.
+Maruti Baleno variants with Real-Time Vehicle Tracking - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Real-Time Vehicle Tracking - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Engine Start/Stop Button - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Engine Start/Stop Button - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Voice Commands - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Voice Commands - Sigma, Delta, Delta AMT & Delta CNG.
+All variants of Maruti Baleno do not have Hands-Free Tailgate.
+Maruti Baleno variants with Chrome Grille - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variant without Chrome Grille - Sigma.
+All variants of Maruti Baleno have KeyLess Entry.
+Maruti Baleno variants with Follow Me Home Headlamps - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Follow Me Home Headlamps - Sigma, Delta, Delta AMT & Delta CNG.
+All variants of Maruti Baleno have Tachometer.
+Maruti Baleno variants with Wheel Covers - Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants without Wheel Covers - Sigma, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants with Alloy Wheels - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Alloy Wheels - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Integrated Antenna - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variant without Integrated Antenna - Sigma.
+All variants of Maruti Baleno have Projector Headlamps.
+All variants of Maruti Baleno do not have Automatic Headlamps.
+Maruti Baleno variants with LED DRLs - Alpha & Alpha AMT.
+Maruti Baleno variants without LED DRLs - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT & Zeta CNG.
+Maruti Baleno variants with LED Headlamps - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without LED Headlamps - Sigma, Delta, Delta AMT & Delta CNG.
+All variants of Maruti Baleno have Anti-lock Braking System (ABS).
+All variants of Maruti Baleno have Central Locking.
+All variants of Maruti Baleno have Driver Airbag.
+Maruti Baleno variants with Side Airbag - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Side Airbag - Sigma, Delta, Delta AMT & Delta CNG.
+All variants of Maruti Baleno have Seat Belt Warning.
+All variants of Maruti Baleno have Engine Immobilizer.
+All variants of Maruti Baleno do not have E-Call & I-Call.
+All variants of Maruti Baleno do not have Side Airbag-Rear.
+All variants of Maruti Baleno have Electronic Stability Control (ESC).
+Maruti Baleno variants with Anti-Theft Device - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variant without Anti-Theft Device - Sigma.
+All variants of Maruti Baleno have Speed Alert.
+All variants of Maruti Baleno have Speed Sensing Auto Door Lock.
+All variants of Maruti Baleno have ISOFIX Child Seat Mounts.
+All variants of Maruti Baleno have Hill Assist.
+All variants of Maruti Baleno have Impact Sensing Auto Door Unlock.
+Maruti Baleno variants with 360 View Camera - Alpha & Alpha AMT.
+Maruti Baleno variants without 360 View Camera - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT & Zeta CNG.
+Maruti Baleno variants with Radio - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variant without Radio - Sigma.
+Maruti Baleno variants with Bluetooth Connectivity - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variant without Bluetooth Connectivity - Sigma.
+Maruti Baleno variants with Android Auto - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variant without Android Auto - Sigma.
+Maruti Baleno variants with Apple CarPlay - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variant without Apple CarPlay - Sigma.
+All variants of Maruti Baleno do not have Driver Attention Warning.
+Maruti Baleno variants with Live Location - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Live Location - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Over the Air (OTA) Updates - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Over the Air (OTA) Updates - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Over Speeding Alert - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Over Speeding Alert - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Smartwatch App - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Smartwatch App - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Valet Mode - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Valet Mode - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Remote Door Lock/Unlock - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Remote Door Lock/Unlock - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Geo-fence Alert - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Geo-fence Alert - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Tow Away Alert - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Tow Away Alert - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Halogen Headlamps - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants without Halogen Headlamps - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+All variants of Maruti Baleno have LED Taillights.
+All variants of Maruti Baleno have Electronic Brakeforce Distribution (EBD).
+All variants of Maruti Baleno have Brake Assist.
+Maruti Baleno variants with Anti-Theft Alarm - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variant without Anti-Theft Alarm - Sigma.
+All variants of Maruti Baleno have Door Ajar Warning.
+Maruti Baleno variants with Remote Immobiliser - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Remote Immobiliser - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with SOS / Emergency Assistance - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without SOS / Emergency Assistance - Sigma, Delta, Delta AMT & Delta CNG.
+All variants of Maruti Baleno do not have Blind Spot Camera.
+Maruti Baleno variants with Heads-Up Display (HUD) - Alpha & Alpha AMT.
+Maruti Baleno variants without Heads-Up Display (HUD) - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT & Zeta CNG.
+All variants of Maruti Baleno do not have Forward Collision Warning.
+All variants of Maruti Baleno do not have Automatic Emergency Braking.
+All variants of Maruti Baleno do not have Oncoming Lane Mitigation.
+All variants of Maruti Baleno do not have Speed Assist System.
+All variants of Maruti Baleno do not have Traffic Sign Recognition.
+All variants of Maruti Baleno do not have Blind Spot Collision Avoidance Assist.
+All variants of Maruti Baleno do not have Lane Departure Warning.
+All variants of Maruti Baleno do not have Lane Keep Assist.
+All variants of Maruti Baleno do not have Lane Departure Prevention Assist.
+All variants of Maruti Baleno do not have Road Departure Mitigation System.
+All variants of Maruti Baleno do not have Adaptive Cruise Control.
+All variants of Maruti Baleno do not have Leading Vehicle Departure Alert.
+All variants of Maruti Baleno do not have Adaptive High Beam Assist.
+All variants of Maruti Baleno do not have Rear Cross Traffic Alert.
+All variants of Maruti Baleno do not have Rear Cross Traffic Collision-Avoidance Assist.
+Maruti Baleno variants with Unauthorised Vehicle entry - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Unauthorised Vehicle entry - Sigma, Delta, Delta AMT & Delta CNG.
+All variants of Maruti Baleno do not have Cooled Glovebox.
+All variants of Maruti Baleno do not have Glove Box light.
+All variants of Maruti Baleno do not have Inbuilt Assistant.
+Maruti Baleno variants with Send POI to Vehicle From App - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Send POI to Vehicle From App - Sigma, Delta, Delta AMT & Delta CNG.
+All variants of Maruti Baleno do not have Ventilated Seats.
+All variants of Maruti Baleno do not have Puddle Lamps.
+All variants of Maruti Baleno do not have Hill Descent Control.
+All variants of Maruti Baleno do not have Active noise cancellation.
+Maruti Baleno variants with Battery Saver - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Battery Saver - Sigma, Delta, Delta AMT & Delta CNG.
+All variants of Maruti Baleno do not have Rear Window Sunblind.
+All variants of Maruti Baleno do not have Rear Windscreen Sunblind.
+All variants of Maruti Baleno do not have Leather wrap gear-shift selector.
+All variants of Maruti Baleno do not have Headlamp Washers.
+All variants of Maruti Baleno do not have Smoke Headlamps.
+All variants of Maruti Baleno do not have Heated Outside Rear View Mirror.
+All variants of Maruti Baleno do not have Blind Spot Monitor.
+All variants of Maruti Baleno do not have PUC Expiry.
+All variants of Maruti Baleno do not have Insurance Expiry.
+All variants of Maruti Baleno do not have E-Manual.
+All variants of Maruti Baleno do not have Digital Car Key.
+Maruti Baleno variants with Live Weather - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Live Weather - Sigma, Delta, Delta AMT & Delta CNG.
+All variants of Maruti Baleno do not have Remote Vehicle Ignition Start/Stop.
+All variants of Maruti Baleno do not have Remote Boot Open.
+Maruti Baleno variants with Height Adjustable Driver Seat - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+All variants of Maruti Baleno have Rear Window Defogger.
+Maruti Baleno variants with Leather Wrapped Steering Wheel - Alpha & Alpha AMT.
+All variants of Maruti Baleno have Glove Box.
+Maruti Baleno variants with Outside Rear View Mirror Turn Indicators - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+All variants of Maruti Baleno have Passenger Airbag.
+Maruti Baleno variants with Day & Night Rear View Mirror - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+All variants of Maruti Baleno have Tyre Pressure Monitoring System (TPMS).
+Maruti Baleno variants with Touchscreen - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants with Rear Window Wiper - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants with Rear Window Washer - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+All variants of Maruti Baleno have Rear Spoiler.
+Maruti Baleno variants with Rain Sensing Wiper - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta CNG, Alpha & Alpha AMT.
+All variants of Maruti Baleno have Roof Rails.
+All variants of Maruti Baleno have Cigarette Lighter.
+All variants of Maruti Baleno have Roof Carrier.
+All variants of Maruti Baleno have Side Stepper.
+Maruti Baleno variants with Curtain Airbag - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variants without Curtain Airbag - Sigma, Delta, Delta AMT & Delta CNG.
+Maruti Baleno variants with Usb Ports - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variant without Usb Ports - Sigma.
+Maruti Baleno variants with Gear Shift Indicator - Sigma, Delta, Delta CNG, Zeta, Zeta CNG & Alpha.
+Maruti Baleno variants without Gear Shift Indicator - Delta AMT, Zeta AMT & Alpha AMT.
+Maruti Baleno variants with LED Fog Lamps - Alpha & Alpha AMT.
+Maruti Baleno variants without LED Fog Lamps - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT & Zeta CNG.
+Maruti Baleno variants with Integrated 2DIN Audio - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT.
+Maruti Baleno variant without Integrated 2DIN Audio - Sigma.
+All variants of Maruti Baleno do not have Rear Curtain.
+All Maruti Baleno variants use the 1.2 L K Series Engine engine.
+All Maruti Baleno variants have a displacement of 1197  cubic centimeters.
+Maruti Baleno variants - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT have a max power of 88.50 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Baleno variants - Delta CNG & Zeta CNG have a max power of 76.43 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Baleno variants - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT share a max torque of 113 Newton meters at 4400 Revolutions Per Minute (RPM).
+Maruti Baleno variants - Delta CNG & Zeta CNG share a max torque of 98.5 Newton meters at 4300 Revolutions Per Minute (RPM).
+All Maruti Baleno variants have 4.0 valves per cylinder.
+Maruti Baleno variants - Sigma, Delta, Delta CNG, Zeta, Zeta CNG & Alpha share a Manual transmission.
+Maruti Baleno variants - Delta AMT, Zeta AMT & Alpha AMT share a Automatic transmission.
+All Maruti Baleno variants have 4.0 cylinders.
+Maruti Baleno variants - Sigma, Delta, Delta CNG, Zeta, Zeta CNG & Alpha share a 5-Speed gearbox.
+Maruti Baleno variants - Delta AMT, Zeta AMT & Alpha AMT share a 5-Speed-AMT gearbox.
+All Maruti Baleno variants have a Front-Wheel Drive (FWD) drive type.
+Maruti Baleno variants - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT use Petrol as fuel.
+Maruti Baleno variants - Delta CNG & Zeta CNG use CNG as fuel.
+All Maruti Baleno variants comply with BS VI 2.0 emission norms.
+All Maruti Baleno variants come with Electric steering.
+All Maruti Baleno variants have a turning radius of 4.85m.
+All Maruti Baleno variants have Disc front brakes.
+All Maruti Baleno variants have Drum rear brakes.
+All Maruti Baleno variants have a length of 3990 mm.
+All Maruti Baleno variants have a width of 1745 mm.
+All Maruti Baleno variants have a height of 1500 mm.
+Maruti Baleno variants - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Alpha & Alpha AMT share a boot space of 318 Litres.
+All Maruti Baleno variants have a seating capacity of 5.0.
+All Maruti Baleno variants have a wheelbase of 2520 mm.
+Maruti Baleno variants - Sigma, Delta, Zeta & Alpha share a kerb weight of 925-955 kg.
+Maruti Baleno variants - Delta AMT, Zeta AMT & Alpha AMT share a kerb weight of 940-960 kg.
+Maruti Baleno variants - Delta CNG & Zeta CNG share a kerb weight of 1020-1035 kg.
+Maruti Baleno variants - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT share a gross weight of 1410 kg.
+Maruti Baleno variants - Delta CNG & Zeta CNG share a gross weight of 1450 kg.
+All Maruti Baleno variants have 5.0 doors.
+All Maruti Baleno variants come with a Manual boot opening mechanism.
+Maruti Baleno variant Sigma has Manual Outside Rear View Mirror (ORVM).
+Maruti Baleno variants - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT feature Powered & Folding Outside Rear View Mirror (ORVM).
+Maruti Baleno variants - Sigma, Delta, Delta AMT & Delta CNG feature tyres of size 185/65 R15.
+Maruti Baleno variants - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT feature tyres of size 195/55 R16.
+All Maruti Baleno variants come with Tyre Type tyres.
+Maruti Baleno variants - Sigma, Delta, Delta AMT & Delta CNG feature 15 Inch wheels.
+Maruti Baleno variants - Sigma, Delta, Delta AMT & Delta CNG offer 2.0 airbags.
+Maruti Baleno variants - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT offer 6.0 airbags.
+Maruti Baleno variant Delta CNG has a Global NCAP rating of 0 Star.
+Maruti Baleno variant Delta CNG has a Global NCAP child safety rating of 0 Star.
+Maruti Baleno variants - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT & Zeta CNG come with a 7 inch touchscreen display.
+Maruti Baleno variants - Alpha & Alpha AMT come with a 9 Inch touchscreen display.
+Maruti Baleno variants - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT come with 4.0 speakers.
+Maruti Baleno variants - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT have 16 Inch front alloy wheels.
+Maruti Baleno variants - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT have 16 Inch rear alloy wheels.
+Maruti Baleno variants - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT have 2.0 tweeters.
+Maruti Baleno variants - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT have Android Auto, Apple CarPlay connectivity options.
+All Maruti Baleno variants feature a Full Digital digital cluster.
+All Maruti Baleno variants come with Fabric upholstery.
+Maruti Baleno variants - Delta CNG & Zeta come with boot space of 318 Litres.
+All Maruti Baleno variants have a top speed of 180 kmph.
+All Maruti Baleno variants use a Rack & Pinion steering gear type.
+All Maruti Baleno variants have Driver's Window anti-pinch power windows.
+Maruti Baleno variants - Sigma, Delta, Zeta & Alpha have mileage figures of 22.35 kmpl.
+Maruti Baleno variants - Delta AMT, Zeta AMT & Alpha AMT have mileage figures of 22.94 kmpl.
+Maruti Baleno variants - Delta CNG & Zeta CNG have mileage figures of 30.61 km/kg.
+Maruti Baleno variants - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT have highway mileage figures of 24 kmpl.
+Maruti Baleno variants - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT have fuel tank capacities of 37 Litres.
+Maruti Baleno variants - Delta CNG & Zeta CNG have fuel tank capacities of 55 Litres.
+All Maruti Baleno variants have the MacPherson Strut suspension front suspension.
+All Maruti Baleno variants have the Rear twist beam rear suspension.
+Maruti Baleno variants - Sigma, Delta, Delta AMT & Delta CNG share the Tilt Steering steering adjustment type.
+Maruti Baleno variants - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT share the Tilt & Telescopic steering adjustment type.
+Maruti Baleno variants with Adjustable Steering - Sigma, Delta AMT, Delta CNG, Zeta, Zeta AMT & Zeta CNG.
+All Maruti Baleno variants are equipped with Rear parking sensors.
+Maruti Baleno variant without USB Charger - Sigma.
+Maruti Baleno variants - Delta, Delta AMT & Delta CNG share the Front USB charging configuration.
+Maruti Baleno variants - Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT share the Front & Rear USB charging configuration.
+All Maruti Baleno variants have Front & Rear power windows.
+Maruti Baleno variants without Fog Lights - Sigma, Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT & Zeta CNG.
+Maruti Baleno variants - Alpha & Alpha AMT share the Front fog light configuration.
+All Maruti Baleno variants feature a 4.2 inch digital cluster.
+All Maruti Baleno variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Maruti Baleno variant without Speakers - Sigma.
+Maruti Baleno variants - Delta, Delta AMT, Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT share the Front & Rear speaker configuration.
+All variants of Maruti Baleno do not have Electric Adjustable Seats.
+Maruti Baleno variants - Sigma, Delta & Delta AMT share the Bench Folding foldable rear seat type.
+Maruti Baleno variants - Delta CNG, Zeta, Zeta AMT, Zeta CNG, Alpha & Alpha AMT share the 60:40 Split foldable rear seat type.
+All variants of Maruti Baleno do not have Turbo Charger.
+All variants of Maruti Baleno do not have Knee Airbags.
+All variants of Maruti Baleno do not have Autonomous Parking.
+All variants of Maruti Baleno do not have Sunroof.
+Maruti Baleno variant without Additional Features - Sigma.
+Maruti Baleno variants - Delta, Delta AMT & Delta CNG share SmartPlay Studio as additional features.
+Maruti Baleno variants - Zeta, Zeta AMT & Zeta CNG share SmartPlay Pro, Wireless Android Auto & Apple CarPlay as additional features.
+Maruti Baleno variants - Alpha & Alpha AMT share SmartPlay Pro+, Wireless Android Auto & Apple CarPlay, Surround Sense powered by ARKAMYS as additional features.

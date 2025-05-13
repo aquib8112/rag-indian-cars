@@ -1,0 +1,126 @@
+Toyota Hilux has 3 variants: STD, High & High AT.
+All variants of Toyota Hilux have Power Steering.
+All variants of Toyota Hilux have Air Conditioner.
+All variants of Toyota Hilux have Heater.
+Toyota Hilux variants with Automatic Climate Control - High & High AT.
+Toyota Hilux variant without Automatic Climate Control - STD.
+All variants of Toyota Hilux have Accessory Power Outlet.
+All variants of Toyota Hilux have Adjustable Headrest.
+Toyota Hilux variants with Rear AC Vents - High & High AT.
+Toyota Hilux variant without Rear AC Vents - STD.
+All variants of Toyota Hilux have Cruise Control.
+All variants of Toyota Hilux have Engine Start/Stop Button.
+All variants of Toyota Hilux have Voice Commands.
+All variants of Toyota Hilux have KeyLess Entry.
+All variants of Toyota Hilux have Tachometer.
+All variants of Toyota Hilux do not have Wheel Covers.
+All variants of Toyota Hilux have Alloy Wheels.
+Toyota Hilux variants with LED DRLs - High & High AT.
+Toyota Hilux variant without LED DRLs - STD.
+Toyota Hilux variants with LED Headlamps - High & High AT.
+Toyota Hilux variant without LED Headlamps - STD.
+All variants of Toyota Hilux have Anti-lock Braking System (ABS).
+All variants of Toyota Hilux have Central Locking.
+All variants of Toyota Hilux have Driver Airbag.
+All variants of Toyota Hilux have Side Airbag.
+All variants of Toyota Hilux have Seat Belt Warning.
+All variants of Toyota Hilux have Engine Immobilizer.
+All variants of Toyota Hilux have E-Call & I-Call.
+All variants of Toyota Hilux have Electronic Stability Control (ESC).
+All variants of Toyota Hilux have Anti-Theft Device.
+All variants of Toyota Hilux have Speed Sensing Auto Door Lock.
+All variants of Toyota Hilux have ISOFIX Child Seat Mounts.
+All variants of Toyota Hilux have Hill Assist.
+All variants of Toyota Hilux have Radio.
+All variants of Toyota Hilux have Bluetooth Connectivity.
+All variants of Toyota Hilux have Android Auto.
+All variants of Toyota Hilux have Apple CarPlay.
+All variants of Toyota Hilux have Smartwatch App.
+Toyota Hilux variant with Height Adjustable Front Seat Belts - STD.
+All variants of Toyota Hilux have Lumbar Support.
+All variants of Toyota Hilux have Tow Away Alert.
+Toyota Hilux variant with Halogen Headlamps - STD.
+Toyota Hilux variants without Halogen Headlamps - High & High AT.
+All variants of Toyota Hilux have Brake Assist.
+All variants of Toyota Hilux have Anti-Theft Alarm.
+All variants of Toyota Hilux have Digital Odometer.
+All variants of Toyota Hilux have SOS / Emergency Assistance.
+All variants of Toyota Hilux have Cooled Glovebox.
+All variants of Toyota Hilux have Hill Descent Control.
+All variants of Toyota Hilux have Traction Control.
+All variants of Toyota Hilux have Glove Box.
+All variants of Toyota Hilux have Adjustable Headlamps.
+All variants of Toyota Hilux have Outside Rear View Mirror Turn Indicators.
+All variants of Toyota Hilux have Passenger Airbag.
+All variants of Toyota Hilux have Day & Night Rear View Mirror.
+All variants of Toyota Hilux have Touchscreen.
+All variants of Toyota Hilux have Child Safety Locks.
+All variants of Toyota Hilux have Curtain Airbag.
+All variants of Toyota Hilux have Usb Ports.
+Toyota Hilux variant with Gear Shift Indicator - High.
+All variants of Toyota Hilux have LED Fog Lamps.
+All variants of Toyota Hilux have Integrated 2DIN Audio.
+All Toyota Hilux variants use the 2.8 L Diesel Engine engine.
+All Toyota Hilux variants have a displacement of 2755  cubic centimeters.
+Toyota Hilux variants - STD & High have a max power of 201.15 Brake Horsepower (BHP) at 3400 Revolutions Per Minute (RPM).
+Toyota Hilux variant High AT delivers a max power of 201.15 Brake Horsepower (BHP) at 3000 to 3400 Revolutions Per Minute (RPM).
+Toyota Hilux variants - STD & High share a max torque of 420 Newton meters at 1400 to 3400 Revolutions Per Minute (RPM).
+Toyota Hilux variant High AT has a max torque of 500 Newton meters at 1600 to 2800 Revolutions Per Minute (RPM).
+All Toyota Hilux variants have 4.0 valves per cylinder.
+Toyota Hilux variants - STD & High share a Manual transmission.
+Toyota Hilux variant High AT has a Automatic transmission.
+All Toyota Hilux variants have 4.0 cylinders.
+Toyota Hilux variant STD comes with a 6-Speed gearbox.
+Toyota Hilux variant High comes with a 6-Speed iMT gearbox.
+Toyota Hilux variant High AT comes with a 6-Speed-AT gearbox.
+All Toyota Hilux variants have a Four-Wheel Drive (4WD) drive type.
+All Toyota Hilux variants run on Diesel.
+All Toyota Hilux variants comply with BS VI 2.0 emission norms.
+All Toyota Hilux variants come with Electric steering.
+All Toyota Hilux variants have a turning radius of 6.4m.
+All Toyota Hilux variants have Ventilated Disc front brakes.
+All Toyota Hilux variants have Drum rear brakes.
+All Toyota Hilux variants have a length of 5325 mm.
+All Toyota Hilux variants have a width of 1855 mm.
+All Toyota Hilux variants have a height of 1815 mm.
+All Toyota Hilux variants offer 435 Litres of boot space.
+All Toyota Hilux variants have a seating capacity of 5.0.
+All Toyota Hilux variants have a wheelbase of 3085 mm.
+All Toyota Hilux variants have a gross weight of 2910 kg.
+All Toyota Hilux variants have 4.0 doors.
+All Toyota Hilux variants come with a Manual boot opening mechanism.
+Toyota Hilux variant STD comes with tyres of size 265/65 R17.
+Toyota Hilux variants - High & High AT feature tyres of size 265/60 R18.
+All Toyota Hilux variants come with Tubeless Radial tyres.
+All Toyota Hilux variants come equipped with 7.0 airbags.
+Toyota Hilux variant STD has a Global NCAP rating of 5 Star.
+Toyota Hilux variant STD has a Global NCAP child safety rating of 4 Star.
+All Toyota Hilux variants come with a 8 inch touchscreen display.
+All Toyota Hilux variants come with 6.0 speakers.
+Toyota Hilux variant STD has 17 Inch front alloy wheels.
+Toyota Hilux variants - High & High AT have 18 Inch front alloy wheels.
+Toyota Hilux variant STD has 17 Inch rear alloy wheels.
+Toyota Hilux variants - High & High AT have 18 Inch rear alloy wheels.
+All Toyota Hilux variants come with Android Auto, Apple CarPlay connectivity options.
+Toyota Hilux variant STD is equipped with Fabric upholstery.
+Toyota Hilux variants - High & High AT feature Leather upholstery options.
+All Toyota Hilux variants offer a boot space of 435 Litres.
+All Toyota Hilux variants have All Windows anti-pinch power windows.
+All Toyota Hilux variants provide a highway mileage of 13 kmpl.
+All Toyota Hilux variants have a fuel tank capacity of 80 Litres.
+All Toyota Hilux variants have the Double wishbone suspension front suspension.
+All Toyota Hilux variants have the Leaf spring suspension rear suspension.
+All Toyota Hilux variants come with Tilt & Telescopic steering adjustment.
+All variants of Toyota Hilux have Adjustable Steering.
+All Toyota Hilux variants are equipped with Front & Rear parking sensors.
+All Toyota Hilux variants are equipped with Front & Rear fog lights.
+All Toyota Hilux variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Toyota Hilux variants include Front & Rear speakers.
+All Toyota Hilux variants have a 60:40 Split foldable rear seat.
+All Toyota Hilux variants have a With Storage central console armrest.
+All Toyota Hilux variants come with Driver knee airbags.
+Toyota Hilux variant with Rear Seat Headrest - STD.
+All Toyota Hilux variants come with 2 drive modes.
+All Toyota Hilux variants offer Eco & Power drive modes.
+Toyota Hilux variant STD offers New design Front Bumper W/ Piano black accents,Chrome-plated Door Handles ,Aero-stabilising Fins on ORVM Base and Rear Combination Lamps,Halogen Rear Combination Lamps,Bold New Trapezoid-shaped grille with Silver surround,STEEL STEP PAINT Rear Bumper,Machine Finish alloy wheels as additional features.
+Toyota Hilux variants - High & High AT share New design Front Bumper W/ Piano black accents,Chrome-plated Door Handles ,Aero-stabilising Fins on ORVM Base and Rear Combination Lamps,LED Rear Combination Lamps,Bold Piano Black Trapezoidal grille with Chrome surround,STEEL STEP CHROME Rear Bumper,Super Chrome alloy wheel design,Chrome Beltline,Retractable Side Mirrors with Side turn indicators as additional features.

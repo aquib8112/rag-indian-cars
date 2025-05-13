@@ -1,0 +1,134 @@
+Audi A4 has 3 variants: Premium, Premium Plus & Technology.
+All variants of Audi A4 have Power Steering.
+All variants of Audi A4 have Air Conditioner.
+All variants of Audi A4 have Heater.
+All variants of Audi A4 have Automatic Climate Control.
+All variants of Audi A4 have Accessory Power Outlet.
+All variants of Audi A4 have Trunk Light.
+All variants of Audi A4 have Vanity Mirror.
+All variants of Audi A4 have Rear Reading Lamp.
+All variants of Audi A4 have Adjustable Headrest.
+All variants of Audi A4 have Rear Seat Centre Arm Rest.
+All variants of Audi A4 have Rear AC Vents.
+All variants of Audi A4 have Cruise Control.
+All variants of Audi A4 have Real-Time Vehicle Tracking.
+All variants of Audi A4 have Engine Start/Stop Button.
+Audi A4 variants with Voice Commands - Premium Plus & Technology.
+Audi A4 variant with Hands-Free Tailgate - Technology.
+Audi A4 variants without Hands-Free Tailgate - Premium & Premium Plus.
+All variants of Audi A4 have KeyLess Entry.
+All variants of Audi A4 have Follow Me Home Headlamps.
+All variants of Audi A4 have Tachometer.
+All variants of Audi A4 have Alloy Wheels.
+All variants of Audi A4 have Projector Headlamps.
+All variants of Audi A4 have Automatic Headlamps.
+All variants of Audi A4 have LED DRLs.
+All variants of Audi A4 have LED Headlamps.
+All variants of Audi A4 have Anti-lock Braking System (ABS).
+All variants of Audi A4 have Central Locking.
+All variants of Audi A4 have Driver Airbag.
+All variants of Audi A4 have Side Airbag.
+All variants of Audi A4 have Seat Belt Warning.
+All variants of Audi A4 have Engine Immobilizer.
+All variants of Audi A4 have Side Airbag-Rear.
+All variants of Audi A4 have Electronic Stability Control (ESC).
+All variants of Audi A4 have Anti-Theft Device.
+All variants of Audi A4 have Speed Alert.
+All variants of Audi A4 have Speed Sensing Auto Door Lock.
+All variants of Audi A4 have ISOFIX Child Seat Mounts.
+All variants of Audi A4 have Hill Assist.
+All variants of Audi A4 have Impact Sensing Auto Door Unlock.
+All variants of Audi A4 have 360 View Camera.
+All variants of Audi A4 have Radio.
+All variants of Audi A4 have Wireless Phone Charging.
+All variants of Audi A4 have Bluetooth Connectivity.
+All variants of Audi A4 have Android Auto.
+All variants of Audi A4 have Apple CarPlay.
+All variants of Audi A4 have Height Adjustable Front Seat Belts.
+All variants of Audi A4 have LED Taillights.
+All variants of Audi A4 have Electronic Brakeforce Distribution (EBD).
+All variants of Audi A4 have Brake Assist.
+All variants of Audi A4 have Anti-Theft Alarm.
+All variants of Audi A4 have Door Ajar Warning.
+All variants of Audi A4 have Cooled Glovebox.
+All variants of Audi A4 have Hill Descent Control.
+Audi A4 variants with Heated Outside Rear View Mirror - Premium Plus & Technology.
+All variants of Audi A4 have Tailgate Ajar Warning.
+All variants of Audi A4 have Traction Control.
+Audi A4 variant without Internal Storage - Premium Plus.
+All variants of Audi A4 have Height Adjustable Driver Seat.
+All variants of Audi A4 have Rear Window Defogger.
+All variants of Audi A4 have Leather Wrapped Steering Wheel.
+All variants of Audi A4 have Glove Box.
+All variants of Audi A4 have Adjustable Headlamps.
+All variants of Audi A4 have Outside Rear View Mirror Turn Indicators.
+All variants of Audi A4 have Passenger Airbag.
+All variants of Audi A4 have Day & Night Rear View Mirror.
+All variants of Audi A4 have Tyre Pressure Monitoring System (TPMS).
+All variants of Audi A4 have Touchscreen.
+All variants of Audi A4 have Rear Window Wiper.
+All variants of Audi A4 have Rear Window Washer.
+All variants of Audi A4 have Child Safety Locks.
+All variants of Audi A4 have Rain Sensing Wiper.
+All variants of Audi A4 have Air Quality Control.
+All variants of Audi A4 have Curtain Airbag.
+All variants of Audi A4 have Usb Ports.
+All variants of Audi A4 have Luggage Hook & Net.
+All Audi A4 variants use the 2.0 L TFSI petrol engine engine.
+All Audi A4 variants have a displacement of 1984  cubic centimeters.
+All Audi A4 variants produce a maximum power of 207 Brake Horsepower (BHP) at 4200 to 6000 Revolutions Per Minute (RPM).
+All Audi A4 variants produce a maximum torque of 320 Newton meters at 1450 to 4200 Revolutions Per Minute (RPM).
+All Audi A4 variants have 4.0 valves per cylinder.
+All Audi A4 variants have a Automatic transmission.
+All Audi A4 variants have 4.0 cylinders.
+All Audi A4 variants come with a 7-Speed-S-tronic gearbox.
+All Audi A4 variants have a Front-Wheel Drive (FWD) drive type.
+All Audi A4 variants run on Petrol.
+All Audi A4 variants comply with BS VI 2.0 emission norms.
+All Audi A4 variants come with Electric steering.
+All Audi A4 variants have a length of 4762 mm.
+All Audi A4 variants have a width of 1847 mm.
+All Audi A4 variants have a height of 1433 mm.
+All Audi A4 variants offer 460 Litres of boot space.
+All Audi A4 variants have a seating capacity of 5.0.
+All Audi A4 variants have a wheelbase of 2500 mm.
+Audi A4 variants - Premium & Premium Plus share a kerb weight of 1550 kg.
+Audi A4 variant Technology has a kerb weight of 1555 kg.
+All Audi A4 variants have a gross weight of 2145 kg.
+All Audi A4 variants have 4.0 doors.
+All Audi A4 variants come with a Electronic boot opening mechanism.
+All Audi A4 variants have Powered & Folding Outside Rear View Mirror (ORVM).
+All Audi A4 variants have tyres of size 225/50 R17.
+All Audi A4 variants come with Tubeless Radial tyres.
+All Audi A4 variants come equipped with 8.0 airbags.
+All Audi A4 variants come with a unknown touchscreen display.
+All Audi A4 variants come with 17 Inch front alloy wheels.
+All Audi A4 variants come with 17 Inch rear alloy wheels.
+All Audi A4 variants feature a Full Digital digital cluster.
+All Audi A4 variants come with Leather upholstery.
+All Audi A4 variants have a top speed of 241 kmph.
+All Audi A4 variants accelerate from 0-100 kmph in 7.1 s.
+All Audi A4 variants accelerate from 0-100 kmph in 7.1 s.
+Audi A4 variants - Premium Plus & Technology come with the same steering gear type of Rack & Pinion.
+All Audi A4 variants have a rear tread of 1555 mm.
+All Audi A4 variants have All Windows anti-pinch power windows.
+All Audi A4 variants provide a highway mileage of 17.4 kmpl.
+All Audi A4 variants have a fuel tank capacity of 54 Litres.
+Audi A4 variants - Premium & Premium Plus share the Tilt & Telescopic steering adjustment type.
+Audi A4 variant Technology has Tilt & Collapsible steering adjustment.
+Audi A4 variants - Premium Plus & Technology share the Height & Reach steering adjustability option.
+All Audi A4 variants are equipped with Front & Rear parking sensors.
+All Audi A4 variants come with Front & Rear USB charging ports.
+All Audi A4 variants have Front & Rear power windows.
+All Audi A4 variants come with Front & Rear cup holders.
+All Audi A4 variants have a With Guidedlines rear camera.
+All Audi A4 variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Audi A4 variants include Front & Rear speakers.
+All Audi A4 variants have Front electric adjustable seats.
+All variants of Audi A4 have Central Console Armrest.
+All variants of Audi A4 have Turbo Charger.
+All Audi A4 variants come with Adjustable rear seat headrests.
+All variants of Audi A4 have Sunroof.
+Audi A4 variant Premium offers Audi Smartphone Interface,Audi Sound System as additional features.
+Audi A4 variant Premium Plus offers Driver information system with color display, 25.65 cm Central MMI Touch Screen, MMI Radio Plus with Bluetooth Interface, Audi Sound System, Audi Smartphone Interface, as additional features.
+Audi A4 variant Technology offers Audi Virtual Cockpit Plus, Audi Phone Box with wireless charging, 25.65 cm Central MMI Touch Screen, MMI Navigation plus with MMI touch response, Audi Sound System, Audi Smartphone Interface, as additional features.

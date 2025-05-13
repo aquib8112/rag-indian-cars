@@ -1,0 +1,90 @@
+The Renault Kwid AMT has been launched in India at a price of Rs. 4.25 lakhs (ex-Delhi).
+
+What you'll like.
+Automatic is priced merely 30,000 rupees over the 1.0L MT! City convenience for cheap
+AMTs deliver better fuel-economy than conventional torque-converter ATs
+Distinctive styling! Looks swell for an A-segment hatchback
+Well-packaged cabin with good space, comfy seats, lots of storage & a huge 300 liter boot
+Suspension offers a comfortable ride with neutral handling. 180 mm of GC too
+Equipment in a budget car (driver's airbag, digital meter cluster, touchscreen ICE, navigation, full MID & more)
+
+What you won't like.
+A bare-bones AT! Manual mode, sport mode, creep feature & larger brake pedal are all missing
+AMTs simply lack the smoothness & shift-speed of conventional ATs
+Some essential features absent (internally adjustable ORVMs, retractable rear seatbelts etc.)
+Tyres & brakes should have been beefed up on the 1.0L AMT variant
+28 litre fuel tank is the smallest in the segment and its 5 meter turning radius the biggest
+Renault's dealer & after-sales network is far weaker than that of Maruti & Hyundai
+
+Introduction
+The last straw from the Kwid bunch is out with the 1.0 AMT. The AMT variant was first showcased at the 2016 Auto Expo and grabbed some eyeballs at the event (link to report). But we knew about the automatic even before that - at the time of the Kwid's original unveiling, BHPian SnS_12 told us where the AT's rotary knob is going to be placed (link to post)!
+Automatics have always been the transmission of choice in the premium segments. However, it's not like economy segment customers don't want convenience - they most certainly do! This is where the AMT (automated manual transmission) comes in. This cheaper automatic technology is best suited to budget cars as it's relatively inexpensive to buy, has simpler mechanicals (thus lower maintenance bills than say, a DSG) and manages to return acceptable fuel economy. What's more, the AMT can be bolted onto any manual-transmission car. A manufacturer doesn't need to design a new slushbox from the ground up.
+You have to give credit to Renault for continuously updating the Kwid. Such updates are key to keep the momentum going. After the 0.8L's launch in September 2015, the 1.0L variant was introduced in August 2016 and now, the AMT has arrived. Does the strategy look familiar? Yep, it's a cut-copy-paste of the Maruti Alto textbook. The Kwid's unique proposition & strong marketing push have rewarded it with splendid sales figures. The monthly sales average is around the 10,000 mark, while the total sales (since launch) are 1.07 lakhs! It outsells all other Renault-Nissan-Datsun cars
+combined. That's a tremendous achievement; it also proves that the cautious Indian entry-level customer will move away from the 'safe brands' if there is sufficient differentiation & the value proposition is too hard to resist.
+The AMT is available only in the top end RXT (O) variant. One good thing about the Kwid AMT is that Renault has made the Driver Airbag standard
+was optional on the 1.0 MT). The 1.0 SCe AMT gets all the features from the Kwid 1.0's optional package, including front seatbelt pretensioners + load limiters, leather insert on the steering wheel and some chrome touches too. About time for Renault to start offering ABS on the Kwid, we say!
+Renault has priced the Kwid AMT at Rs. 4.25 lakhs which is just Rs. 30,000 above the 1.0 MT. This has got to be the lowest premium on an Automatic - even the Nano AMT carries a Rs. 41,000 premium, while for Maruti, it hovers between 42,000 - 47,000 rupees. Renault is consistently keeping the Kwid's VFM quotient in place; remember how the 1.0L variant was priced merely 22k over the 0.8L?
+On the flip side, the Kwid's AMT is also a bare-basic deployment. It uses the main ECU itself (not a separate one for the transmission), and doesn't even have creep / manual mode / sport mode functionality (all of which are available in the Nano!!). Renault appears to have forgotten that one of the reasons behind the Kwid's success has been its impressive feature list. We wish they charged 10,000 rupees more and gave us an AMT with all the missing features.
+
+Exterior
+So, what's new on the outside? Umm, nothing. The AMT gets no cosmetic updates over the 1.0 MT. It looks exactly the same except for this small 'Easy-R' AMT badge at the rear. Renault wants you to read Easy-R as easier.
+The Kwid AMT is available only with the 1.0 engine. Smart move, the additional power is always welcome when you have a lazy transmission. Can't say the same about this loud chequered-flag sticker though (should be simple to replace with a plain black one like the Kwid 800).
+AT exclusively on the RXT. We won't complain about the lack of variants as the RXT is the only one with the driver-side airbag.
+
+Interior
+The dashboard layout remains the same as the Kwid MT, except for the AT dial which has been placed on the centre fascia (Kwid MT gets a blank filler there) & absent gear stick. The AT knob's unique
+placement is quite comfortable & ergonomic to use. Also, since you won't be using it too much (except while parking), there's nothing to complain about.
+Rotary knob with merely 3 positions reminds us of toy cars. Dial didn't feel that cheap (neither is it premium in anyway). Its operation is smooth enough too. The center area with the red marker is fixed, only the outer ring moves. No safety issue as the driver needs to press the brake pedal to move it from N->D or N->R.
+Look ma, no gear lever"!!
+What you get instead is this deep cubbyhole (750 ml bottle shown here). On a lighter note, BHPian DryIce said "I am worried about a water bottle placed in that cubby hole. New owners (who shift from an MT) may find a bottle in their hands when all they wanted, was to engage reverse!"
+RXT (O) trim means you get a leather wrap & airbag here.
+Digital instrument cluster is almost identical to the MT, except for this 'foot on brake pedal' light which keeps on blinking if your foot isn't on the brake pedal when required (i.e. starting the car, moving to D / R). It's accompanied by 4 audible beeps.
+The gear position is displayed on the bottom left. If the brake pedal isn't pressed properly while switching between the modes, this indicator starts blinking as well. You don't get a useful readout for the currently engaged gear(Maruti Alto has it).
+No dead pedal here (Alto AMT doesn't have one either). There is enough place to rest your left foot though.
+Sadly, the brake pedal is the same small size as the MT!! Usually, ATs get a bigger / wider brake pedal (likewise with the Alto AMT). This is definitely the most bare-bones AT deployment we've see in the Indian car market. Not cool, Renault. As feature-packed as your MT is, the AT misses the bare essentials!
+AMT instructions provided on the driver's sunvisor.
+
+Driving the Kwid AMT
+Kwid 1.0L makes 67 BHP @ 5,500 rpm and 91 Nm @ 4,250 rpm. Good call in offering the AMT only on the more powerful 1.0, and not the 0.8L.
+AMT components sit next to the gearbox.
+The engine & gearbox are controlled by the same ECU (not separate ones like in other cars). One of the reasons for its competitive price.
+What is an AMT?
+Mechanically, the AMT gearbox is identical to the Kwid's 5-speed manual transmission. What's different is
+how the clutch is operated and how the gears are shifted. In the manual, the driver is responsible for these tasks. With the AMT, hydraulic actuators located in the engine bay operate the clutch and shift gears. There's no clutch pedal, and zero driver input is required for gearshifts, making it exactly like a conventional automatic to operate. Simply put, the mechanical functions of operating the clutch and gear-lever have moved from inside the cabin to the engine bay.
+This AMT unit isn't the same as the one in the Duster AMT. The Duster uses a ZF Sachs AMT, while the Maruti-Suzuki cars deploy Magneti Marelli AMTs. The AMT of the Kwid is developed with Bosch (hardware) and FEV (software).
+Starting the Kwid AMT.
+Turn the key into ON position and you'll hear a wheezy sound. No need to worry, that's just the AMT gearbox initialising. Slot the shift control dial to N position, press the brake pedal and crank the engine after 3 seconds (it won't start if you don't wait). With the brake pedal pressed, turn the dial from N to D mode and off you go! If the brake pedal isn't pressed, the system warns you with 4 beeps and the 'foot on brake pedal' light.
+
+In city traffic.
+The start-off is smooth and the AMT has adequate pep to handle the typical urban conditions. The Kwid is a good city commuter and the AMT just adds to the ease of driving. The high seating position and manoeuvrability make the car a breeze to drive around. Just slot her into 'D' and let the AMT's hydraulics (instead of your limbs) take care of the clutch & gearshifts. You can cruise around with just one hand + one leg. The light steering, healthy visibility & small footprint also contribute to making things effortless. If you like the Kwid & drive in traffic everyday, the 30k price premium makes this AT a no-brainer. Your left leg will thank you.
+One problem with the Kwid AMT though is the absence of a 'creep' function (crawling without accelerator input). Competing AMT units get 'creep' which means you can drive in bumper-to-bumper traffic with just one pedal. Translated, leave the brake pedal, close the gap to the car in front and press the brake again. In the Kwid however, you have to alternate between the brake & accelerator pedals. Drive around for a considerable amount of time in tight traffic & you'll realise just how big a miss 'creep' is. You'll also miss the creep function while parking in a tight spot. For instance, with the Alto AMT, you can slowly inch into the parking spot without pressing the accelerator.
+While the lack of the creep feature means you don't have to keep the brake pedal pressed at red lights, we still recommend doing so for safety reasons (in case you get rear-ended & to prevent rolling if the road has even a slight slope).
+
+Gearshift quality.
+AMTs aren't known for their gearshift quality and no, the Kwid AMT is nowhere as smooth as a torque-converter slushbox or CVT. No comparison. The gearshifts are indeed very noticeable and yes, that infamous head bob is still there (especially in the lower gears). You move forward with the gap in power delivery, as the AMT slowly shifts up to the next gear. Some of you might get used to this, others will find it to be a deal-breaker. Be sure to go for a long test-drive before cutting a cheque. First-time automatic drivers won't have any complaints with the AMT. However, those used to smoother AT gearboxes will definitely notice the compromise.
+The good news is, a feather-light foot will control the head bob to tolerable levels (a heavy foot makes it more prominent). Best to drive the AMT with minimal accelerator inputs around town since the drop in acceleration at each shift won't be as large. Important to note that, no matter how evident the gearshifts seem to the driver, passengers will barely notice them! Passengers just don't anticipate shifts the same way the driver does, and this makes it a smoother ride for them. Then, there are some driving tips you can apply to make your gearshift experience smoother. Here's one that some will be okay with, others might find cumbersome: When accelerating up to speed, let off the accelerator at intervals, and the AMT will cease that opportunity to upshift. E.g. When going from 0-40 km/h, let off the accelerator very slightly right after ~10, ~20 and ~30 km/h, and the AMT will take each one of those opportunities to upshift a gear - almost like you told it to! Finally, you'll be happy to know that shift quality gets better between higher gears, and is virtually seamless when going downhill.
+On the rare occasions that you floor the accelerator hard, you'll see the AMT trying miserably to match the sudden requirement of power. The shifts are extremely jerky when driven like this, and the typical 'head bob' is transformed into a full body jerk!! The engine also gets noisy at high rpms, so it's just better to back off.
+Lastly, you can hear the gears shifting in the Kwid (if you pay attention). Things weren't so obvious in the Marutis.
+
+Slowing down & the absence of Manual Mode.
+Let go of the accelerator and you'll see that downshifts also happen with a little head bob. But what will really get your goat is the absence of manual mode. In the Alto AMT, you can downshift (using manual mode) to slow the car down via engine braking. Not so with the Kwid where you'll have to depend on the brakes only. This can get pretty unnerving on downhill slopes & mountain roads. Continuous downhill driving can overheat the brakes. What's worse, if you gain a bit of speed or take your foot off the accelerator, the transmission will upshift (the last thing you want when rolling down)!! Solution = Manipulate and keep the speed low to prevent an upshift.
+This absence of manual mode can be a deal-breaker. Unlike the Alto AMT, you cannot choose a gear to climb a steep incline in. Lastly, the missing manual mode means you can't prepare the car for overtaking (before the actual move). In an Alto, you can downshift, bring the engine into its power band and then move out of your lane to overtake. With the Kwid, you have to be patient.
+
+Highway performance.
+The Kwid 0.8L wasn't much of a highway performer, but that was fixed with the 1.0. The AMT unit is nicely mated to the 1.0L for relaxed cruising. On the highway, gathering speed isn't much of an issue and the engine-gearbox combo works well in tandem. We suggest cruising at a comfortable pace in the middle lane (vis a vis trying to drive hard in the fast lane). After all, the AMT is about convenience, not outright performance. You can cruise at 100 km/h in the Kwid AMT - we don't recommend going higher in a basic economy hatchback.
+Overtaking will need some planning though. The AMT acts very dumb-witted if you ask for a quick response. It takes a second or two to downshift when you suddenly floor the accelerator to overtake the car in front of you. Even then, power delivery isn't instantaneous and hence, it's advised to keep safe gaps for overtaking. Since manual mode isn't available with this AMT unit, downshifting before overtaking isn't an option. It will definitely take you longer to overtake than in an Alto AMT. What's more, the Kwid AMT can decide to upshift in the middle of an overtaking move (in the Alto, you can hold the gear to the redline). Just be cautious out there.
+
+Handling inclines.
+In stop & go traffic on an uphill stretch, the AMT will roll back between your releasing the brake pedal & pressing the accelerator. As is the norm with AMTs, you'll have to heavily rely on the handbrake to avoid rollback. Be sure to use the handbrake properly, else you'll be burning the clutch up. The low end torque of the 1.0L is satisfactory by segment standards and the car has no trouble going up inclines. If parking on a slope, make sure you leave the knob in R/D position and engage the handbrake (there's no 'Park' mode in an AMT).
+
+Fuel-efficiency.
+The Kwid's AMT is tuned for economy and is always eager to upshift. You'll see it moving into 2nd at 12-13 kmph! The ARAI-tested fuel economy is 24.04 kmpl which is ~1 kmpl more than the manual variant. AMTs generally deliver good fuel economy (unlike the fuel guzzling torque-converter ATs - talk to any i10 AT owner). Plus, the Kwid has a 3-cylinder engine which is inherently more efficient.
+
+Additional Points.
+We had mentioned this in the Kwid 1.0 review too - Renault should be selling the 1.0 with beefier brakes. This is all the more required in the AMT variant where you lose out on engine braking (versus the MT). Overall braking is as expected in an economy hatchback (read = nothing to write home about), but they are more suited to an easy driving style. We wish Renault had provided ABS & given more powerful brakes here.
+Despite its shortcomings, the AMT manages the clutch & gearbox a lot better than sub-par drivers out there. There's no doubt that it is more talented than a below-average driver in choosing when to shift, how to shift and what gear to be in.
+The vehicle cannot be started with the gear selection knob in R or D positions. N only.
+If the shift control dial hasn't been slotted in position properly, 'R-N' or 'N-D' will start blinking together on the MID.
+For regular usage, there is no need to use Neutral, other than for starting the Kwid.
+If you're buying the Kwid AMT, be sure to get the extended warranty for 4 years / 80,000 km. While the AMT is mechanically very simple, we still don't know how its long-term performance will be.
+Renault says they aren't offering the creep function 'based on owner feedback'. Really? How come the thrice-as-expensive Duster AMT has it then? Hogwash.

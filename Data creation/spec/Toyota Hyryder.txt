@@ -1,0 +1,193 @@
+Toyota Hyryder has 13 variants: E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+All variants of Toyota Hyryder have Power Steering.
+All variants of Toyota Hyryder have Air Conditioner.
+All variants of Toyota Hyryder have Heater.
+All variants of Toyota Hyryder have Automatic Climate Control.
+All variants of Toyota Hyryder have Accessory Power Outlet.
+Toyota Hyryder variants with Trunk Light - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variant without Trunk Light - E.
+All variants of Toyota Hyryder have Vanity Mirror.
+All variants of Toyota Hyryder have Rear Reading Lamp.
+All variants of Toyota Hyryder have Adjustable Headrest.
+All variants of Toyota Hyryder have Rear Seat Centre Arm Rest.
+All variants of Toyota Hyryder have Rear AC Vents.
+Toyota Hyryder variants with Cruise Control - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variant without Cruise Control - E.
+All variants of Toyota Hyryder have Engine Start/Stop Button.
+All variants of Toyota Hyryder have KeyLess Entry.
+Toyota Hyryder variants with Follow Me Home Headlamps - G, G CNG, G AT, V, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variants without Follow Me Home Headlamps - E, S, S CNG, S AT & S HYBRID.
+All variants of Toyota Hyryder have Tachometer.
+Toyota Hyryder variants with Wheel Covers - E, S, S CNG, S AT & S HYBRID.
+Toyota Hyryder variants without Wheel Covers - G, G CNG, G AT, V, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variants with Alloy Wheels - G, G CNG, G AT, V, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variants without Alloy Wheels - E, S, S CNG, S AT & S HYBRID.
+All variants of Toyota Hyryder have Integrated Antenna.
+All variants of Toyota Hyryder have Projector Headlamps.
+Toyota Hyryder variants with Automatic Headlamps - G, G CNG, G AT, V, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variants without Automatic Headlamps - E, S, S CNG, S AT & S HYBRID.
+All variants of Toyota Hyryder have LED DRLs.
+Toyota Hyryder variants with LED Headlamps - G, G CNG, G AT, V, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variants without LED Headlamps - E, S, S CNG, S AT & S HYBRID.
+All variants of Toyota Hyryder have Anti-lock Braking System (ABS).
+All variants of Toyota Hyryder have Central Locking.
+All variants of Toyota Hyryder have Driver Airbag.
+Toyota Hyryder variants with Side Airbag - G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variants without Side Airbag - E, S, S CNG & S AT.
+All variants of Toyota Hyryder have Seat Belt Warning.
+All variants of Toyota Hyryder have Engine Immobilizer.
+All variants of Toyota Hyryder have Electronic Stability Control (ESC).
+All variants of Toyota Hyryder have Speed Alert.
+All variants of Toyota Hyryder have Speed Sensing Auto Door Lock.
+All variants of Toyota Hyryder have ISOFIX Child Seat Mounts.
+All variants of Toyota Hyryder have Hill Assist.
+All variants of Toyota Hyryder have Impact Sensing Auto Door Unlock.
+Toyota Hyryder variants with 360 View Camera - V, V AT, V AWD & V HYBRID.
+Toyota Hyryder variants without 360 View Camera - E, S, S CNG, S AT, G, G CNG, G AT, S HYBRID & G HYBRID.
+Toyota Hyryder variants with Radio - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variant without Radio - E.
+Toyota Hyryder variants with Wireless Phone Charging - G HYBRID & V HYBRID.
+Toyota Hyryder variants without Wireless Phone Charging - E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT & V AWD.
+Toyota Hyryder variants with Bluetooth Connectivity - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variant without Bluetooth Connectivity - E.
+Toyota Hyryder variants with Android Auto - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variant without Android Auto - E.
+Toyota Hyryder variants with Apple CarPlay - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variant without Apple CarPlay - E.
+All variants of Toyota Hyryder have Height Adjustable Front Seat Belts.
+Toyota Hyryder variants with Paddle Shifters - S AT, G AT, S HYBRID, V AT, G HYBRID & V HYBRID.
+Toyota Hyryder variants without Paddle Shifters - E, S, S CNG, G, G CNG, V & V AWD.
+Toyota Hyryder variants with Halogen Headlamps - E, S, S CNG, S AT & S HYBRID.
+Toyota Hyryder variants without Halogen Headlamps - G, G CNG, G AT, V, V AT, V AWD, G HYBRID & V HYBRID.
+All variants of Toyota Hyryder have LED Taillights.
+All variants of Toyota Hyryder have Electronic Brakeforce Distribution (EBD).
+All variants of Toyota Hyryder have Door Ajar Warning.
+Toyota Hyryder variants with Heads-Up Display (HUD) - G HYBRID & V HYBRID.
+Toyota Hyryder variants without Heads-Up Display (HUD) - E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT & V AWD.
+Toyota Hyryder variants with Glove Box light - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variant without Glove Box light - E.
+Toyota Hyryder variant with Ventilated Seats - V HYBRID.
+Toyota Hyryder variants without Ventilated Seats - E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD & G HYBRID.
+Toyota Hyryder variant with Hill Descent Control - V AWD.
+Toyota Hyryder variants without Hill Descent Control - E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, G HYBRID & V HYBRID.
+All variants of Toyota Hyryder have Tailgate Ajar Warning.
+All variants of Toyota Hyryder have Height Adjustable Driver Seat.
+Toyota Hyryder variants with Leather Wrapped Steering Wheel - E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+All variants of Toyota Hyryder have Glove Box.
+All variants of Toyota Hyryder have Adjustable Headlamps.
+All variants of Toyota Hyryder have Outside Rear View Mirror Turn Indicators.
+All variants of Toyota Hyryder have Passenger Airbag.
+All variants of Toyota Hyryder have Day & Night Rear View Mirror.
+Toyota Hyryder variants with Tyre Pressure Monitoring System (TPMS) - E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variants with Touchscreen - E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variants with Rear Window Wiper - E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variants with Rear Window Washer - E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+All variants of Toyota Hyryder have Child Safety Locks.
+All variants of Toyota Hyryder have Rear Spoiler.
+All variants of Toyota Hyryder have Air Quality Control.
+Toyota Hyryder variants with Roof Rails - E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variants with Curtain Airbag - G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variants without Curtain Airbag - E, S, S CNG & S AT.
+All variants of Toyota Hyryder have Usb Ports.
+Toyota Hyryder variants with Gear Shift Indicator - E, S, G, V & V AWD.
+Toyota Hyryder variants without Gear Shift Indicator - S CNG, S AT, G CNG, G AT, S HYBRID, V AT, G HYBRID & V HYBRID.
+Toyota Hyryder variants with Integrated 2DIN Audio - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID.
+Toyota Hyryder variant without Integrated 2DIN Audio - E.
+Toyota Hyryder variants - E, S, S AT, G, G AT, V, V AT & V AWD share the K15B engine.
+Toyota Hyryder variants - S CNG & G CNG share the K15C engine.
+Toyota Hyryder variants - S HYBRID, G HYBRID & V HYBRID share the M15D-FXE engine.
+Toyota Hyryder variants - E, S, S CNG, S AT, G, G CNG, G AT, V, V AT & V AWD share a displacement of 1462  cubic centimeters.
+Toyota Hyryder variants - S HYBRID, G HYBRID & V HYBRID share a displacement of 1490  cubic centimeters.
+Toyota Hyryder variants - E, S, S AT, G, G AT, V, V AT & V AWD have a max power of 101.64 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Toyota Hyryder variants - S CNG & G CNG have a max power of 86.63 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Toyota Hyryder variants - S HYBRID, G HYBRID & V HYBRID have a max power of 91.18 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Toyota Hyryder variants - E, S, S AT, G, G AT, V, V AT & V AWD share a max torque of 136.8 Newton meters at 4400 Revolutions Per Minute (RPM).
+Toyota Hyryder variants - S CNG & G CNG share a max torque of 121.5 Newton meters at 4200 Revolutions Per Minute (RPM).
+Toyota Hyryder variants - S HYBRID, G HYBRID & V HYBRID share a max torque of 122 Newton meters at 4400 to 4800 Revolutions Per Minute (RPM).
+All Toyota Hyryder variants have 4.0 valves per cylinder.
+Toyota Hyryder variants - E, S, S CNG, G, G CNG, V & V AWD share a Manual transmission.
+Toyota Hyryder variants - S AT, G AT, S HYBRID, V AT, G HYBRID & V HYBRID share a Automatic transmission.
+Toyota Hyryder variants - E, S, S CNG, S AT, G, G CNG, G AT, V, V AT & V AWD have 4.0 cylinders.
+Toyota Hyryder variants - S HYBRID, G HYBRID & V HYBRID have 3.0 cylinders.
+Toyota Hyryder variants - E, S, S CNG, G, G CNG, V, S HYBRID, V AWD, G HYBRID & V HYBRID share a 5-Speed gearbox.
+Toyota Hyryder variants - S AT, G AT & V AT share a 6-Speed gearbox.
+Toyota Hyryder variants - E, S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, G HYBRID & V HYBRID share a Front-Wheel Drive (FWD) drive type.
+Toyota Hyryder variant V AWD has a All-Wheel Drive (AWD) drive type.
+Toyota Hyryder variants - E, S, S AT, G, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID use Petrol as fuel.
+Toyota Hyryder variants - S CNG & G CNG use CNG as fuel.
+All Toyota Hyryder variants comply with BS VI 2.0 emission norms.
+All Toyota Hyryder variants come with Electric steering.
+All Toyota Hyryder variants have a turning radius of 5.4m.
+All Toyota Hyryder variants have Ventilated Disc front brakes.
+All Toyota Hyryder variants have Solid Disc rear brakes.
+All Toyota Hyryder variants have a length of 4365 mm.
+All Toyota Hyryder variants have a width of 1795 mm.
+All Toyota Hyryder variants have a height of 1645 mm.
+All Toyota Hyryder variants offer 373 Litres of boot space.
+All Toyota Hyryder variants have a seating capacity of 5.0.
+All Toyota Hyryder variants have a wheelbase of 2600 mm.
+Toyota Hyryder variants - E, S, G & V share a kerb weight of 1155-1185 kg.
+Toyota Hyryder variants - S CNG & G CNG share a kerb weight of 1245 kg.
+Toyota Hyryder variants - S AT, G AT & V AT share a kerb weight of 1190-1210 kg.
+Toyota Hyryder variants - S HYBRID, G HYBRID & V HYBRID share a kerb weight of 1265-1295 kg.
+Toyota Hyryder variant V AWD has a kerb weight of 1255 kg.
+Toyota Hyryder variants - E, S, G & V share a gross weight of 1645 kg.
+Toyota Hyryder variants - S CNG & G CNG share a gross weight of 1705 kg.
+Toyota Hyryder variants - S AT, G AT & V AT share a gross weight of 1670 kg.
+Toyota Hyryder variants - S HYBRID, G HYBRID & V HYBRID share a gross weight of 1755 kg.
+Toyota Hyryder variant V AWD has a gross weight of 1715 kg.
+All Toyota Hyryder variants have 5.0 doors.
+All Toyota Hyryder variants come with a Manual boot opening mechanism.
+All Toyota Hyryder variants have tyres of size 215/60 R17.
+All Toyota Hyryder variants come with Tubeless Radial tyres.
+Toyota Hyryder variants - E, S, S CNG, S AT & S HYBRID feature 17 Inch wheels.
+Toyota Hyryder variants - E, S, S CNG & S AT offer 2.0 airbags.
+Toyota Hyryder variants - G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID offer 6.0 airbags.
+Toyota Hyryder variant G AT has a Global NCAP rating of 4 Star.
+Toyota Hyryder variant G AT has a Global NCAP child safety rating of 3 Star.
+Toyota Hyryder variants - S, S CNG, S AT & S HYBRID come with a 7 inch touchscreen display.
+Toyota Hyryder variants - G, G CNG, G AT, V, V AT, V AWD, G HYBRID & V HYBRID come with a 9 Inch touchscreen display.
+Toyota Hyryder variant E features 2.0 speakers.
+Toyota Hyryder variants - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID come with 4.0 speakers.
+Toyota Hyryder variants - S HYBRID, G HYBRID & V HYBRID use Electric as a secondary fuel type.
+Toyota Hyryder variants - G, G CNG, G AT, V, V AT, V AWD, G HYBRID & V HYBRID have 17 Inch front alloy wheels.
+Toyota Hyryder variants - G, G CNG, G AT, V, V AT, V AWD, G HYBRID & V HYBRID have 17 Inch rear alloy wheels.
+Toyota Hyryder variants - G, G CNG, G AT, V, V AT, V AWD, G HYBRID & V HYBRID have 2.0 tweeters.
+Toyota Hyryder variants - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID have Android Auto, Apple CarPlay connectivity options.
+Toyota Hyryder variants - E, S, S CNG, S AT, G, G CNG, G AT, V, V AT & V AWD feature a Semi Digital digital cluster.
+Toyota Hyryder variants - S HYBRID, G HYBRID & V HYBRID feature a Full Digital digital cluster.
+All Toyota Hyryder variants come with Fabric upholstery.
+All Toyota Hyryder variants offer a boot space of 373 Litres.
+Toyota Hyryder variants - E, S, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID have a top speed of 180 kmph.
+All Toyota Hyryder variants have Driver's Window anti-pinch power windows.
+Toyota Hyryder variants - E, S, G & V have mileage figures of 21.12 kmpl.
+Toyota Hyryder variants - S CNG & G CNG have mileage figures of 26.6 km/kg.
+Toyota Hyryder variants - S AT, G AT & V AT have mileage figures of 20.58 kmpl.
+Toyota Hyryder variants - S HYBRID, G HYBRID & V HYBRID have mileage figures of 27.97 kmpl.
+Toyota Hyryder variant V AWD provides a mileage of 19.39 kmpl.
+Toyota Hyryder variants - E, S, S AT, G, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID have fuel tank capacities of 45 Litres.
+Toyota Hyryder variants - S CNG & G CNG have fuel tank capacities of 55 Litres.
+All Toyota Hyryder variants have the MacPherson Strut suspension front suspension.
+All Toyota Hyryder variants have the Rear twist beam rear suspension.
+All Toyota Hyryder variants come with Tilt & Telescopic steering adjustment.
+All variants of Toyota Hyryder have Adjustable Steering.
+All Toyota Hyryder variants are equipped with Rear parking sensors.
+Toyota Hyryder variant without USB Charger - E.
+Toyota Hyryder variants - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID share the Front & Rear USB charging configuration.
+All Toyota Hyryder variants come with a Shark Fin antenna.
+Toyota Hyryder variants - E, S, S CNG, S AT, G, G CNG, G AT, V, V AT & V AWD share the 4.2 inch digital cluster size.
+Toyota Hyryder variants - S HYBRID, G HYBRID & V HYBRID share the 7 inch digital cluster size.
+Toyota Hyryder variant without Rear Camera - E.
+Toyota Hyryder variants - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID share the With Guidedlines rear camera type.
+All Toyota Hyryder variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Toyota Hyryder variant E has Front Only speakers.
+Toyota Hyryder variants - S, S CNG, S AT, G, G CNG, G AT, V, S HYBRID, V AT, V AWD, G HYBRID & V HYBRID share the Front & Rear speaker configuration.
+All Toyota Hyryder variants have a 60:40 Split foldable rear seat.
+All Toyota Hyryder variants have a With Storage central console armrest.
+All variants of Toyota Hyryder have Rear Seat Headrest.
+Toyota Hyryder variants without Sunroof - E, S, S CNG, S AT, G, G CNG, G AT & S HYBRID.
+Toyota Hyryder variants - V, V AT, V AWD, G HYBRID & V HYBRID share a Panoramic sunroof.
+Toyota Hyryder variant E offers LED Position lamp, Twin LED Day-time running lamp / Side turn lamp, High mount stop lamp, Front & rear Black wheel arch cladding, Front & Rear Silver Skid Plate, Front Windshield & Back Door Green Glass, Side under protection garnish, Body color outside door handle, Silver Back door garnish, Green Front Door Rear Door Quarter Glass as additional features.
+Toyota Hyryder variants - S, S CNG, S AT & S HYBRID share New Smart Playcast Touchscreen, Toyota i-Connect as additional features.
+Toyota Hyryder variants - G, G CNG, G AT, V, V AT, V AWD & G HYBRID share New Smart Playcast Touchscreen, Toyota i-Connect, Arkamys Sound tuning as additional features.
+Toyota Hyryder variant V HYBRID offers New Smart Playcast Touchscreen, Toyota i-Connect, Arkamys Sound tuning, Premium sound with special speaker as additional features.

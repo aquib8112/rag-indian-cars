@@ -1,0 +1,77 @@
+﻿Isuzu S Cab Z has 1 variants: 4x2 MT.
+Isuzu S Cab Z has Power Steering.
+Isuzu S Cab Z has Air Conditioner.
+Isuzu S Cab Z has Heater.
+Isuzu S Cab Z has Accessory Power Outlet.
+Isuzu S Cab Z has Vanity Mirror.
+Isuzu S Cab Z has Adjustable Headrest.
+Isuzu S Cab Z does not have Hands-Free Tailgate.
+Isuzu S Cab Z has Wheel Covers.
+Isuzu S Cab Z has Projector Headlamps.
+Isuzu S Cab Z has LED DRLs.
+Isuzu S Cab Z has LED Headlamps.
+Isuzu S Cab Z has Driver Airbag.
+Isuzu S Cab Z has Engine Immobilizer.
+Isuzu S Cab Z has Speed Sensing Auto Door Lock.
+Isuzu S Cab Z has ISOFIX Child Seat Mounts.
+Isuzu S Cab Z has Android Auto.
+Isuzu S Cab Z has Apple CarPlay.
+Isuzu S Cab Z has Height Adjustable Front Seat Belts.
+Isuzu S Cab Z has LED Taillights.
+Isuzu S Cab Z has Leather Wrapped Steering Wheel.
+Isuzu S Cab Z has Glove Box.
+Isuzu S Cab Z has Adjustable Headlamps.
+Isuzu S Cab Z has Outside Rear View Mirror Turn Indicators.
+Isuzu S Cab Z has Passenger Airbag.
+Isuzu S Cab Z has Day & Night Rear View Mirror.
+Isuzu S Cab Z has Touchscreen.
+Isuzu S Cab Z has Air Quality Control.
+Isuzu S Cab Z has Side Stepper.
+Isuzu S Cab Z has Usb Ports.
+Isuzu S Cab Z has Gear Shift Indicator.
+The Isuzu S Cab Z has the Variable Geometric Turbo Intercooled engine.
+The Isuzu S Cab Z has a displacement of 2499  cubic centimeters.
+The Isuzu S Cab Z generates 77.77 Brake Horsepower (BHP) at 3800 Revolutions Per Minute (RPM).
+The Isuzu S Cab Z generates 176 Newton meters at 1500 to 2400 Revolutions Per Minute (RPM).
+The Isuzu S Cab Z has 4.0 valves per cylinder.
+The Isuzu S Cab Z has a Manual transmission.
+The Isuzu S Cab Z has 4.0 cylinders.
+The Isuzu S Cab Z has a 5-Speed gearbox.
+The Isuzu S Cab Z has a Four-by-Two-Wheel Drive (4x2) drive type.
+The Isuzu S Cab Z runs on Diesel.
+The Isuzu S Cab Z complies with BS VI 2.0 emission norms.
+The Isuzu S Cab Z has Hydraulic steering.
+The Isuzu S Cab Z has Disc front brakes.
+The Isuzu S Cab Z has Drum rear brakes.
+The Isuzu S Cab Z has a length of 5295 mm.
+The Isuzu S Cab Z has a width of 1860 mm.
+The Isuzu S Cab Z has a height of 1840 mm.
+The Isuzu S Cab Z has a seating capacity of 5.0.
+The Isuzu S Cab Z has a wheelbase of 3095 mm.
+The Isuzu S Cab Z has a kerb weight of 1915 kg.
+The Isuzu S Cab Z has a gross weight of 2850 kg.
+The Isuzu S Cab Z has 4.0 doors.
+The Isuzu S Cab Z is fitted with tyres of size 205/75 R16.
+The Isuzu S Cab Z is equipped with Radial tyres.
+The Isuzu S Cab Z comes with 16 Inch wheels.
+The Isuzu S Cab Z is equipped with 2.0 airbags.
+The Isuzu S Cab Z is equipped with a 7 inch touchscreen.
+The Isuzu S Cab Z is equipped with 4.0 speakers.
+The Isuzu S Cab Z is equipped with 2.0 tweeters.
+The Isuzu S Cab Z features Android Auto, Apple CarPlay connectivity options.
+The Isuzu S Cab Z comes with a Full Digital digital cluster.
+The Isuzu S Cab Z features Fabric upholstery.
+The Isuzu S Cab Z comes with a fuel tank capacity of 55 Litres.
+The Isuzu S Cab Z comes with the Double wishbone suspension front suspension.
+The Isuzu S Cab Z comes with the Leaf spring suspension rear suspension.
+The Isuzu S Cab Z features Tilt Steering steering adjustment.
+Isuzu S Cab Z has Adjustable Steering.
+The Isuzu S Cab Z features Rear parking sensors.
+The Isuzu S Cab Z features Front & Rear USB charging ports.
+The Isuzu S Cab Z features Front fog lights.
+The Isuzu S Cab Z features a Shark Fin antenna.
+The Isuzu S Cab Z has a With Guidedlines rear camera.
+The Isuzu S Cab Z has Front & Rear speakers.
+The Isuzu S Cab Z has a With Storage central console armrest.
+Isuzu S Cab Z has Turbo Charger.
+The Isuzu S Cab Z includes Front fog lamps with chrome bezel,Chrome highlights (Grille, ORVM,Door, Tail gate handles),Shark fin antenna with Gun Metal finish as additional features.

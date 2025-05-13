@@ -1,0 +1,123 @@
+﻿Toyota Land Cruiser 300 has 1 variants: ZX.
+Toyota Land Cruiser 300 has Power Steering.
+Toyota Land Cruiser 300 has Air Conditioner.
+Toyota Land Cruiser 300 has Heater.
+Toyota Land Cruiser 300 has Automatic Climate Control.
+Toyota Land Cruiser 300 has Accessory Power Outlet.
+Toyota Land Cruiser 300 has Trunk Light.
+Toyota Land Cruiser 300 has Vanity Mirror.
+Toyota Land Cruiser 300 has Rear Reading Lamp.
+Toyota Land Cruiser 300 has Adjustable Headrest.
+Toyota Land Cruiser 300 has Rear Seat Centre Arm Rest.
+Toyota Land Cruiser 300 has Rear AC Vents.
+Toyota Land Cruiser 300 has Cruise Control.
+Toyota Land Cruiser 300 has Engine Start/Stop Button.
+Toyota Land Cruiser 300 has Hands-Free Tailgate.
+Toyota Land Cruiser 300 has Chrome Grille.
+Toyota Land Cruiser 300 has KeyLess Entry.
+Toyota Land Cruiser 300 has Tachometer.
+Toyota Land Cruiser 300 has Automatic Headlamps.
+Toyota Land Cruiser 300 has LED DRLs.
+Toyota Land Cruiser 300 has LED Headlamps.
+Toyota Land Cruiser 300 has Anti-lock Braking System (ABS).
+Toyota Land Cruiser 300 has Central Locking.
+Toyota Land Cruiser 300 has Driver Airbag.
+Toyota Land Cruiser 300 has Side Airbag.
+Toyota Land Cruiser 300 has Seat Belt Warning.
+Toyota Land Cruiser 300 has Engine Immobilizer.
+Toyota Land Cruiser 300 has Side Airbag-Rear.
+Toyota Land Cruiser 300 has Electronic Stability Control (ESC).
+Toyota Land Cruiser 300 has Anti-Theft Device.
+Toyota Land Cruiser 300 has Speed Alert.
+Toyota Land Cruiser 300 has Speed Sensing Auto Door Lock.
+Toyota Land Cruiser 300 has ISOFIX Child Seat Mounts.
+Toyota Land Cruiser 300 has Impact Sensing Auto Door Unlock.
+Toyota Land Cruiser 300 has 360 View Camera.
+Toyota Land Cruiser 300 has Radio.
+Toyota Land Cruiser 300 has Wireless Phone Charging.
+Toyota Land Cruiser 300 has Bluetooth Connectivity.
+Toyota Land Cruiser 300 has Android Auto.
+Toyota Land Cruiser 300 has Apple CarPlay.
+Toyota Land Cruiser 300 has Height Adjustable Front Seat Belts.
+Toyota Land Cruiser 300 has Lumbar Support.
+Toyota Land Cruiser 300 has Electronic Multi-Tripmeter.
+Toyota Land Cruiser 300 has Digital Clock.
+Toyota Land Cruiser 300 has Dual Tone Dashboard.
+Toyota Land Cruiser 300 has LED Taillights.
+Toyota Land Cruiser 300 has Brake Assist.
+Toyota Land Cruiser 300 has Anti-Theft Alarm.
+Toyota Land Cruiser 300 has Door Ajar Warning.
+Toyota Land Cruiser 300 has Digital Odometer.
+Toyota Land Cruiser 300 has Heads-Up Display (HUD).
+Toyota Land Cruiser 300 has Ventilated Seats.
+Toyota Land Cruiser 300 has Hill Descent Control.
+Toyota Land Cruiser 300 has Active noise cancellation.
+Toyota Land Cruiser 300 has Tailgate Ajar Warning.
+Toyota Land Cruiser 300 has Traction Control.
+Toyota Land Cruiser 300 has Leather Seats.
+Toyota Land Cruiser 300 has Driving Experience Control Eco.
+Toyota Land Cruiser 300 has Height Adjustable Driver Seat.
+Toyota Land Cruiser 300 has Rear Window Defogger.
+Toyota Land Cruiser 300 has Leather Wrapped Steering Wheel.
+Toyota Land Cruiser 300 has Glove Box.
+Toyota Land Cruiser 300 has Adjustable Headlamps.
+Toyota Land Cruiser 300 has Outside Rear View Mirror Turn Indicators.
+Toyota Land Cruiser 300 has Passenger Airbag.
+Toyota Land Cruiser 300 has Day & Night Rear View Mirror.
+Toyota Land Cruiser 300 has Tyre Pressure Monitoring System (TPMS).
+Toyota Land Cruiser 300 has Touchscreen.
+Toyota Land Cruiser 300 has Chrome Garnish.
+Toyota Land Cruiser 300 has Child Safety Locks.
+Toyota Land Cruiser 300 has Roof Rails.
+Toyota Land Cruiser 300 has Usb Ports.
+Toyota Land Cruiser 300 has Luggage Hook & Net.
+Toyota Land Cruiser 300 has LED Fog Lamps.
+Toyota Land Cruiser 300 has Integrated 2DIN Audio.
+The Toyota Land Cruiser 300 has the F33A-FTV engine.
+The Toyota Land Cruiser 300 has a displacement of 3346  cubic centimeters.
+The Toyota Land Cruiser 300 generates 304.41 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+The Toyota Land Cruiser 300 generates 700 Newton meters at 1600 to 2600 Revolutions Per Minute (RPM).
+The Toyota Land Cruiser 300 has 4.0 valves per cylinder.
+The Toyota Land Cruiser 300 has a Automatic transmission.
+The Toyota Land Cruiser 300 has 6.0 cylinders.
+The Toyota Land Cruiser 300 has a 10-Speed AT gearbox.
+The Toyota Land Cruiser 300 has a Four-Wheel Drive (4WD) drive type.
+The Toyota Land Cruiser 300 runs on Diesel.
+The Toyota Land Cruiser 300 complies with BS VI 2.0 emission norms.
+The Toyota Land Cruiser 300 has Power steering.
+The Toyota Land Cruiser 300 has Disc front brakes.
+The Toyota Land Cruiser 300 has Disc rear brakes.
+The Toyota Land Cruiser 300 has a length of 4985 mm.
+The Toyota Land Cruiser 300 has a width of 1980 mm.
+The Toyota Land Cruiser 300 has a height of 1945 mm.
+The Toyota Land Cruiser 300 offers 1131 Litres of boot space.
+The Toyota Land Cruiser 300 has a seating capacity of 5.0.
+The Toyota Land Cruiser 300 has a wheelbase of 2850 mm.
+The Toyota Land Cruiser 300 has a kerb weight of 2900 kg.
+The Toyota Land Cruiser 300 has 5.0 doors.
+The Toyota Land Cruiser 300 is fitted with tyres of size 265/55 R20.
+The Toyota Land Cruiser 300 is equipped with Unknown tyres.
+The Toyota Land Cruiser 300 is equipped with 10.0 airbags.
+The Toyota Land Cruiser 300 has been rated 5 Star by Global NCAP.
+The Toyota Land Cruiser 300 is equipped with a 12.29 inch touchscreen.
+The Toyota Land Cruiser 300 is equipped with 14.0 speakers.
+The Toyota Land Cruiser 300 features Android Auto, Apple CarPlay connectivity options.
+The Toyota Land Cruiser 300 achieves a top speed of 165 kmph.
+The Toyota Land Cruiser 300 has a front tread of 1536 mm.
+The Toyota Land Cruiser 300 delivers a mileage of 11 kmpl.
+The Toyota Land Cruiser 300 comes with a fuel tank capacity of 110 Litres.
+The Toyota Land Cruiser 300 comes with the Double wishbone suspension front suspension.
+The Toyota Land Cruiser 300 comes with the Multi-link, Solid Axle rear suspension.
+The Toyota Land Cruiser 300 features Tilt & Telescopic steering adjustment.
+Toyota Land Cruiser 300 has Adjustable Steering.
+The Toyota Land Cruiser 300 features Front & Rear parking sensors.
+The Toyota Land Cruiser 300 features Front & Rear USB charging ports.
+The Toyota Land Cruiser 300 features Front & Rear fog lights.
+The Toyota Land Cruiser 300 has Front & Rear speakers.
+The Toyota Land Cruiser 300 has a 40:20:40 Split foldable rear seat.
+Toyota Land Cruiser 300 has Central Console Armrest.
+The Toyota Land Cruiser 300 has a Twin turbocharger.
+Toyota Land Cruiser 300 has Rear Seat Headrest.
+Toyota Land Cruiser 300 has Sunroof.
+The Toyota Land Cruiser 300 has 6 drive modes.
+The Toyota Land Cruiser 300 includes Audio System with 14U JBL Speakers,Wireless Charger for Front Seats as additional features.

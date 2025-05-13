@@ -1,0 +1,145 @@
+Toyota Fortuner Legender has 2 variants: 4x2 AT & 4x4 AT.
+All variants of Toyota Fortuner Legender have Power Steering.
+All variants of Toyota Fortuner Legender have Air Conditioner.
+All variants of Toyota Fortuner Legender have Heater.
+All variants of Toyota Fortuner Legender have Automatic Climate Control.
+All variants of Toyota Fortuner Legender have Accessory Power Outlet.
+All variants of Toyota Fortuner Legender have Trunk Light.
+All variants of Toyota Fortuner Legender have Vanity Mirror.
+All variants of Toyota Fortuner Legender have Rear Reading Lamp.
+All variants of Toyota Fortuner Legender have Adjustable Headrest.
+All variants of Toyota Fortuner Legender have Rear Seat Centre Arm Rest.
+All variants of Toyota Fortuner Legender have Rear AC Vents.
+All variants of Toyota Fortuner Legender have Cruise Control.
+All variants of Toyota Fortuner Legender have Real-Time Vehicle Tracking.
+All variants of Toyota Fortuner Legender have Engine Start/Stop Button.
+All variants of Toyota Fortuner Legender have Voice Commands.
+All variants of Toyota Fortuner Legender have Hands-Free Tailgate.
+All variants of Toyota Fortuner Legender have KeyLess Entry.
+Toyota Fortuner Legender variant with Idle Start-Stop System - 4x4 AT.
+Toyota Fortuner Legender variant without Idle Start-Stop System - 4x2 AT.
+All variants of Toyota Fortuner Legender have Tachometer.
+All variants of Toyota Fortuner Legender do not have Wheel Covers.
+All variants of Toyota Fortuner Legender have Alloy Wheels.
+All variants of Toyota Fortuner Legender have Integrated Antenna.
+All variants of Toyota Fortuner Legender have Automatic Headlamps.
+All variants of Toyota Fortuner Legender have LED DRLs.
+All variants of Toyota Fortuner Legender have LED Headlamps.
+All variants of Toyota Fortuner Legender have Anti-lock Braking System (ABS).
+All variants of Toyota Fortuner Legender have Central Locking.
+All variants of Toyota Fortuner Legender have Driver Airbag.
+All variants of Toyota Fortuner Legender have Side Airbag.
+All variants of Toyota Fortuner Legender have Seat Belt Warning.
+All variants of Toyota Fortuner Legender have Engine Immobilizer.
+All variants of Toyota Fortuner Legender do not have Side Airbag-Rear.
+All variants of Toyota Fortuner Legender have Electronic Stability Control (ESC).
+All variants of Toyota Fortuner Legender have Anti-Theft Device.
+All variants of Toyota Fortuner Legender have Speed Alert.
+All variants of Toyota Fortuner Legender have Speed Sensing Auto Door Lock.
+All variants of Toyota Fortuner Legender have ISOFIX Child Seat Mounts.
+All variants of Toyota Fortuner Legender have Hill Assist.
+All variants of Toyota Fortuner Legender have Impact Sensing Auto Door Unlock.
+All variants of Toyota Fortuner Legender have Radio.
+All variants of Toyota Fortuner Legender have Wireless Phone Charging.
+All variants of Toyota Fortuner Legender have Bluetooth Connectivity.
+All variants of Toyota Fortuner Legender have Android Auto.
+All variants of Toyota Fortuner Legender have Apple CarPlay.
+All variants of Toyota Fortuner Legender have Height Adjustable Front Seat Belts.
+All variants of Toyota Fortuner Legender have Lumbar Support.
+All variants of Toyota Fortuner Legender have Paddle Shifters.
+All variants of Toyota Fortuner Legender have Dual Tone Dashboard.
+All variants of Toyota Fortuner Legender have LED Taillights.
+All variants of Toyota Fortuner Legender have Electronic Brakeforce Distribution (EBD).
+All variants of Toyota Fortuner Legender have Brake Assist.
+All variants of Toyota Fortuner Legender have Anti-Theft Alarm.
+All variants of Toyota Fortuner Legender have Door Ajar Warning.
+All variants of Toyota Fortuner Legender have Digital Odometer.
+All variants of Toyota Fortuner Legender have Cooled Glovebox.
+All variants of Toyota Fortuner Legender have Ventilated Seats.
+All variants of Toyota Fortuner Legender have Puddle Lamps.
+All variants of Toyota Fortuner Legender have Leather wrap gear-shift selector.
+All variants of Toyota Fortuner Legender have Tailgate Ajar Warning.
+All variants of Toyota Fortuner Legender have Traction Control.
+All variants of Toyota Fortuner Legender have Height Adjustable Driver Seat.
+All variants of Toyota Fortuner Legender have Rear Window Defogger.
+All variants of Toyota Fortuner Legender have Leather Wrapped Steering Wheel.
+All variants of Toyota Fortuner Legender have Glove Box.
+All variants of Toyota Fortuner Legender have Adjustable Headlamps.
+All variants of Toyota Fortuner Legender have Outside Rear View Mirror Turn Indicators.
+All variants of Toyota Fortuner Legender have Passenger Airbag.
+All variants of Toyota Fortuner Legender have Day & Night Rear View Mirror.
+All variants of Toyota Fortuner Legender have Touchscreen.
+All variants of Toyota Fortuner Legender have Rear Window Wiper.
+All variants of Toyota Fortuner Legender have Rear Window Washer.
+All variants of Toyota Fortuner Legender have Child Safety Locks.
+All variants of Toyota Fortuner Legender have Rear Spoiler.
+All variants of Toyota Fortuner Legender have Roof Rails.
+All variants of Toyota Fortuner Legender have Usb Ports.
+All variants of Toyota Fortuner Legender have Luggage Hook & Net.
+All variants of Toyota Fortuner Legender have LED Fog Lamps.
+All variants of Toyota Fortuner Legender have Integrated 2DIN Audio.
+All Toyota Fortuner Legender variants use the 2.8 L Diesel engine engine.
+All Toyota Fortuner Legender variants have a displacement of 2755  cubic centimeters.
+All Toyota Fortuner Legender variants produce a maximum power of 201.15 Brake Horsepower (BHP) at 3000 to 3400 Revolutions Per Minute (RPM).
+All Toyota Fortuner Legender variants produce a maximum torque of 500 Newton meters at 1600 to 2800 Revolutions Per Minute (RPM).
+All Toyota Fortuner Legender variants have 4.0 valves per cylinder.
+All Toyota Fortuner Legender variants have a Automatic transmission.
+All Toyota Fortuner Legender variants have 4.0 cylinders.
+All Toyota Fortuner Legender variants come with a 6-Speed with Sequential Shift gearbox.
+Toyota Fortuner Legender variant 4x2 AT has a Two-Wheel Drive (2WD) drive type.
+Toyota Fortuner Legender variant 4x4 AT has a Four-Wheel Drive (4WD) drive type.
+All Toyota Fortuner Legender variants run on Diesel.
+All Toyota Fortuner Legender variants comply with BS VI 2.0 emission norms.
+All Toyota Fortuner Legender variants come with Electric steering.
+All Toyota Fortuner Legender variants have a turning radius of 5.8m.
+All Toyota Fortuner Legender variants have Ventilated Disc front brakes.
+All Toyota Fortuner Legender variants have Ventilated Disc rear brakes.
+All Toyota Fortuner Legender variants have a length of 4795 mm.
+All Toyota Fortuner Legender variants have a width of 1855 mm.
+All Toyota Fortuner Legender variants have a height of 1835 mm.
+All Toyota Fortuner Legender variants offer 296 Litres of boot space.
+All Toyota Fortuner Legender variants have a seating capacity of 7.0.
+All Toyota Fortuner Legender variants have a wheelbase of 2745 mm.
+Toyota Fortuner Legender variant 4x2 AT has a gross weight of 2610 kg.
+Toyota Fortuner Legender variant 4x4 AT has a gross weight of 2735 kg.
+All Toyota Fortuner Legender variants have 5.0 doors.
+All Toyota Fortuner Legender variants come with a Electronic boot opening mechanism.
+All Toyota Fortuner Legender variants have tyres of size 265/60 R18.
+All Toyota Fortuner Legender variants come with Tubeless Radial tyres.
+All Toyota Fortuner Legender variants come equipped with 7.0 airbags.
+Toyota Fortuner Legender variant 4x2 AT has a Global NCAP rating of 5 Star.
+All Toyota Fortuner Legender variants come with a 8 inch touchscreen display.
+Toyota Fortuner Legender variant 4x2 AT features 6.0 speakers.
+Toyota Fortuner Legender variant 4x4 AT features 11.0 speakers.
+All Toyota Fortuner Legender variants come with 18 Inch front alloy wheels.
+All Toyota Fortuner Legender variants come with 18 Inch rear alloy wheels.
+All Toyota Fortuner Legender variants come with Android Auto, Apple CarPlay connectivity options.
+All Toyota Fortuner Legender variants feature a Full Digital digital cluster.
+All Toyota Fortuner Legender variants come with Leatherette upholstery.
+All Toyota Fortuner Legender variants offer a boot space of 296 Litres.
+All Toyota Fortuner Legender variants have a top speed of 190 kmph.
+All Toyota Fortuner Legender variants come with a DOHC valve configuration.
+All Toyota Fortuner Legender variants use a Direct Injection (Di) fuel supply system.
+All Toyota Fortuner Legender variants have All Windows anti-pinch power windows.
+All Toyota Fortuner Legender variants provide a highway mileage of 14.4 kmpl.
+All Toyota Fortuner Legender variants have a fuel tank capacity of 80 Litres.
+All Toyota Fortuner Legender variants have the Double wishbone suspension front suspension.
+All Toyota Fortuner Legender variants have the Multi-link suspension rear suspension.
+All Toyota Fortuner Legender variants come with Tilt & Telescopic steering adjustment.
+All variants of Toyota Fortuner Legender have Adjustable Steering.
+All Toyota Fortuner Legender variants are equipped with Front & Rear parking sensors.
+All Toyota Fortuner Legender variants come with Front & Rear USB charging ports.
+All Toyota Fortuner Legender variants are equipped with Front & Rear fog lights.
+All Toyota Fortuner Legender variants have a With Guidedlines rear camera.
+All Toyota Fortuner Legender variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Toyota Fortuner Legender variants include Front & Rear speakers.
+All Toyota Fortuner Legender variants have Front electric adjustable seats.
+All Toyota Fortuner Legender variants have a 60:40 Split foldable rear seat.
+All variants of Toyota Fortuner Legender have Central Console Armrest.
+All variants of Toyota Fortuner Legender have Turbo Charger.
+All Toyota Fortuner Legender variants come with Driver knee airbags.
+All variants of Toyota Fortuner Legender have Rear Seat Headrest.
+All Toyota Fortuner Legender variants come with 3 drive modes.
+All Toyota Fortuner Legender variants offer Eco, Normal & Sport drive modes.
+Toyota Fortuner Legender variant 4x2 AT offers "Split Quad LED Headlamps with Waterfall LED Line Guide Signature,New Design Split LED Rear Combination Lamps,Sequential Turn Indicators [Fr & Rr.],New Design Front Bumper with Skid Plate,Catamaran Style Front and Rear Bumper,Sleek and Cool Design Theme Grille with Piano Black Highlights,Dual Tone Black Roof,Illuminated Entry System - Puddle Lamps Under Outside Mirror,Chrome Plated Door Handles and Window Beltline,Multi Layer Machine Cut Finish Alloy Wheels,Fully Automatic Power Back Door with Height Adjust Memory and Jam Protection,Aero-Stabilising Fins on ORVM Base and Rear Combination Lamps" as additional features.
+Toyota Fortuner Legender variant 4x4 AT offers "Premium JBL Speakers (11 Speakers Including Subwoofer & Amplifier)" as additional features.

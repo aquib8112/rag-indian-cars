@@ -1,0 +1,218 @@
+Lamborghini Urus has 3 variants: S, Performante & SE Plugin Hybrid.
+All variants of Lamborghini Urus have Power Steering.
+All variants of Lamborghini Urus have Air Conditioner.
+All variants of Lamborghini Urus have Heater.
+All variants of Lamborghini Urus have Automatic Climate Control.
+All variants of Lamborghini Urus have Accessory Power Outlet.
+Lamborghini Urus variant with Trunk Light - SE Plugin Hybrid.
+Lamborghini Urus variants without Trunk Light - S & Performante.
+Lamborghini Urus variant with Vanity Mirror - SE Plugin Hybrid.
+Lamborghini Urus variants without Vanity Mirror - S & Performante.
+All variants of Lamborghini Urus have Rear Reading Lamp.
+Lamborghini Urus variant with Adjustable Headrest - SE Plugin Hybrid.
+All variants of Lamborghini Urus have Rear Seat Centre Arm Rest.
+All variants of Lamborghini Urus have Rear AC Vents.
+Lamborghini Urus variant with Cruise Control - SE Plugin Hybrid.
+Lamborghini Urus variants without Cruise Control - S & Performante.
+Lamborghini Urus variant with Real-Time Vehicle Tracking - SE Plugin Hybrid.
+All variants of Lamborghini Urus have Engine Start/Stop Button.
+Lamborghini Urus variant with Voice Commands - SE Plugin Hybrid.
+Lamborghini Urus variants without Voice Commands - S & Performante.
+All variants of Lamborghini Urus do not have Chrome Grille.
+All variants of Lamborghini Urus have KeyLess Entry.
+Lamborghini Urus variant with Idle Start-Stop System - SE Plugin Hybrid.
+Lamborghini Urus variant with Follow Me Home Headlamps - SE Plugin Hybrid.
+Lamborghini Urus variants without Follow Me Home Headlamps - S & Performante.
+All variants of Lamborghini Urus have Tachometer.
+All variants of Lamborghini Urus do not have Wheel Covers.
+All variants of Lamborghini Urus have Alloy Wheels.
+All variants of Lamborghini Urus have Integrated Antenna.
+All variants of Lamborghini Urus do not have Automatic Headlamps.
+All variants of Lamborghini Urus have Anti-lock Braking System (ABS).
+All variants of Lamborghini Urus have Central Locking.
+All variants of Lamborghini Urus have Driver Airbag.
+All variants of Lamborghini Urus have Side Airbag.
+All variants of Lamborghini Urus have Seat Belt Warning.
+All variants of Lamborghini Urus have Engine Immobilizer.
+All variants of Lamborghini Urus have Side Airbag-Rear.
+Lamborghini Urus variant with Electronic Stability Control (ESC) - SE Plugin Hybrid.
+All variants of Lamborghini Urus have Anti-Theft Device.
+Lamborghini Urus variant with Speed Alert - SE Plugin Hybrid.
+Lamborghini Urus variant with Speed Sensing Auto Door Lock - SE Plugin Hybrid.
+Lamborghini Urus variants without Speed Sensing Auto Door Lock - S & Performante.
+Lamborghini Urus variant with ISOFIX Child Seat Mounts - SE Plugin Hybrid.
+Lamborghini Urus variants without ISOFIX Child Seat Mounts - S & Performante.
+Lamborghini Urus variant with Hill Assist - SE Plugin Hybrid.
+Lamborghini Urus variants without Hill Assist - S & Performante.
+Lamborghini Urus variant with Impact Sensing Auto Door Unlock - SE Plugin Hybrid.
+Lamborghini Urus variants without Impact Sensing Auto Door Unlock - S & Performante.
+All variants of Lamborghini Urus have 360 View Camera.
+Lamborghini Urus variant with Radio - SE Plugin Hybrid.
+Lamborghini Urus variants without Radio - S & Performante.
+Lamborghini Urus variant with Wireless Phone Charging - SE Plugin Hybrid.
+Lamborghini Urus variants without Wireless Phone Charging - S & Performante.
+All variants of Lamborghini Urus have Bluetooth Connectivity.
+Lamborghini Urus variant with Android Auto - SE Plugin Hybrid.
+Lamborghini Urus variants without Android Auto - S & Performante.
+Lamborghini Urus variant with Apple CarPlay - SE Plugin Hybrid.
+Lamborghini Urus variants without Apple CarPlay - S & Performante.
+All variants of Lamborghini Urus have Height Adjustable Front Seat Belts.
+All variants of Lamborghini Urus have Lumbar Support.
+Lamborghini Urus variants without Paddle Shifters - S & Performante.
+Lamborghini Urus variants with Electronic Multi-Tripmeter - S & Performante.
+Lamborghini Urus variants with Digital Clock - S & Performante.
+Lamborghini Urus variants with Outside Temperature Display - S & Performante.
+Lamborghini Urus variants without Dual Tone Dashboard - S & Performante.
+Lamborghini Urus variants without Power Antenna - S & Performante.
+Lamborghini Urus variant with Electronic Brakeforce Distribution (EBD) - SE Plugin Hybrid.
+All variants of Lamborghini Urus have Brake Assist.
+Lamborghini Urus variant with Anti-Theft Alarm - SE Plugin Hybrid.
+Lamborghini Urus variants without Anti-Theft Alarm - S & Performante.
+All variants of Lamborghini Urus have Door Ajar Warning.
+All variants of Lamborghini Urus have Digital Odometer.
+Lamborghini Urus variants without Heads-Up Display (HUD) - S & Performante.
+Lamborghini Urus variant with Cooled Glovebox - SE Plugin Hybrid.
+Lamborghini Urus variants without Cooled Glovebox - S & Performante.
+Lamborghini Urus variant with Glove Box light - SE Plugin Hybrid.
+Lamborghini Urus variants without Ventilated Seats - S & Performante.
+Lamborghini Urus variant with Hill Descent Control - SE Plugin Hybrid.
+Lamborghini Urus variants without Hill Descent Control - S & Performante.
+Lamborghini Urus variants without Battery Saver - S & Performante.
+All variants of Lamborghini Urus do not have Smoke Headlamps.
+Lamborghini Urus variant with Blind Spot Monitor - SE Plugin Hybrid.
+Lamborghini Urus variants without Blind Spot Monitor - S & Performante.
+Lamborghini Urus variant with Tailgate Ajar Warning - SE Plugin Hybrid.
+Lamborghini Urus variants without Tailgate Ajar Warning - S & Performante.
+Lamborghini Urus variants with Remote Trunk Opener - S & Performante.
+All variants of Lamborghini Urus have Remote Fuel Lid Opener.
+Lamborghini Urus variants without Compass - S & Performante.
+Lamborghini Urus variants without Lane Change Indicator - S & Performante.
+Lamborghini Urus variants without Wi-Fi Connectivity - S & Performante.
+Lamborghini Urus variants without Xenon Headlamps - S & Performante.
+All variants of Lamborghini Urus have Traction Control.
+Lamborghini Urus variants with Leather Seats - S & Performante.
+Lamborghini Urus variants without Driving Experience Control Eco - S & Performante.
+Lamborghini Urus variants without MirrorLink - S & Performante.
+Lamborghini Urus variants without Fog Lights - Rear - S & Performante.
+All variants of Lamborghini Urus do not have Super Charge.
+All variants of Lamborghini Urus have Height Adjustable Driver Seat.
+All variants of Lamborghini Urus have Rear Window Defogger.
+All variants of Lamborghini Urus have Leather Wrapped Steering Wheel.
+All variants of Lamborghini Urus have Glove Box.
+All variants of Lamborghini Urus have Adjustable Headlamps.
+All variants of Lamborghini Urus have Outside Rear View Mirror Turn Indicators.
+All variants of Lamborghini Urus have Passenger Airbag.
+All variants of Lamborghini Urus have Day & Night Rear View Mirror.
+Lamborghini Urus variants with Tyre Pressure Monitoring System (TPMS) - S, Performante & SE Plugin Hybrid.
+All variants of Lamborghini Urus have Touchscreen.
+All variants of Lamborghini Urus have Rear Window Wiper.
+All variants of Lamborghini Urus have Rear Window Washer.
+All variants of Lamborghini Urus have Chrome Garnish.
+All variants of Lamborghini Urus have Child Safety Locks.
+All variants of Lamborghini Urus have Rear Spoiler.
+All variants of Lamborghini Urus have Rain Sensing Wiper.
+All variants of Lamborghini Urus have Air Quality Control.
+All variants of Lamborghini Urus have Tinted Glass.
+Lamborghini Urus variants with Folding Table in The Rear - S & Performante.
+Lamborghini Urus variants with Navigation System - S & Performante.
+Lamborghini Urus variants with Smart Access Card Entry - S & Performante.
+Lamborghini Urus variants with Fabric Upholstery - S & Performante.
+All variants of Lamborghini Urus have Roof Rails.
+Lamborghini Urus variants with Cigarette Lighter - S & Performante.
+All variants of Lamborghini Urus have Roof Carrier.
+All variants of Lamborghini Urus have Side Stepper.
+Lamborghini Urus variant with Curtain Airbag - SE Plugin Hybrid.
+All variants of Lamborghini Urus have Usb Ports.
+Lamborghini Urus variants without Gear Shift Indicator - S & Performante.
+Lamborghini Urus variants without Luggage Hook & Net - S & Performante.
+Lamborghini Urus variants with Low Fuel Warning Light - S & Performante.
+Lamborghini Urus variants without Heated Wing Mirror - S & Performante.
+Lamborghini Urus variants with Fog Lights - Front - S & Performante.
+Lamborghini Urus variants with Integrated 2DIN Audio - S & Performante.
+Lamborghini Urus variants with USB & Auxiliary input - S & Performante.
+Lamborghini Urus variants without Rear Curtain - S & Performante.
+Lamborghini Urus variants without Audio System Remote Control - S & Performante.
+All Lamborghini Urus variants use the V8 bi-turbo engine engine.
+Lamborghini Urus variants - S & SE Plugin Hybrid share a displacement of 3999  cubic centimeters.
+Lamborghini Urus variant Performante has a displacement of 3996  cubic centimeters.
+All Lamborghini Urus variants produce a maximum power of 657.10 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Lamborghini Urus variants - S & SE Plugin Hybrid share a max torque of 850 Newton meters at 2300 to 4500 Revolutions Per Minute (RPM).
+Lamborghini Urus variant Performante has a max torque of 850 Newton meters at 2250 to 4500 Revolutions Per Minute (RPM).
+All Lamborghini Urus variants have 4.0 valves per cylinder.
+All Lamborghini Urus variants have a Automatic transmission.
+All Lamborghini Urus variants have 8.0 cylinders.
+All Lamborghini Urus variants come with a 8-Speed gearbox.
+All Lamborghini Urus variants have a Four-Wheel Drive (4WD) drive type.
+All Lamborghini Urus variants run on Petrol.
+All Lamborghini Urus variants comply with BS VI 2.0 emission norms.
+Lamborghini Urus variants - S & Performante have Power steering.
+Lamborghini Urus variant SE Plugin Hybrid has Electric steering.
+All Lamborghini Urus variants have a turning radius of 5.4m.
+All Lamborghini Urus variants have Carbon Ceramic front brakes.
+All Lamborghini Urus variants have Carbon Ceramic rear brakes.
+Lamborghini Urus variants - S & Performante share a length of 5137 mm.
+Lamborghini Urus variant SE Plugin Hybrid has a length of 5123 mm.
+All Lamborghini Urus variants have a width of 2181 mm.
+Lamborghini Urus variants - S & SE Plugin Hybrid share a height of 1638 mm.
+Lamborghini Urus variant Performante has a height of 1618 mm.
+All Lamborghini Urus variants offer 616 Litres of boot space.
+All Lamborghini Urus variants have a seating capacity of 5.0.
+Lamborghini Urus variants - S & Performante share a wheelbase of 2445 mm.
+Lamborghini Urus variant SE Plugin Hybrid has a wheelbase of 3003 mm.
+Lamborghini Urus variants - S & Performante share a kerb weight of 2150 kg.
+All Lamborghini Urus variants have 5.0 doors.
+Lamborghini Urus variants - S & SE Plugin Hybrid feature tyres of size F:285/45 ZR21,R:315/40 ZR21.
+Lamborghini Urus variant Performante comes with tyres of size F:285/40ZR22,R:325/35ZR22.
+All Lamborghini Urus variants come with Tubeless Radial tyres.
+All Lamborghini Urus variants come equipped with 8.0 airbags.
+Lamborghini Urus variants - S & Performante have been rated 4 Star by Global NCAP.
+Lamborghini Urus variant SE Plugin Hybrid features a unknown touchscreen.
+All Lamborghini Urus variants come with 21.0 speakers.
+Lamborghini Urus variant SE Plugin Hybrid features Electric as a secondary fuel type.
+Lamborghini Urus variants - S & SE Plugin Hybrid have Android Auto, Apple CarPlay connectivity options.
+Lamborghini Urus variant SE Plugin Hybrid includes a Full Digital digital cluster.
+Lamborghini Urus variant S has a top speed of 305 kmph.
+Lamborghini Urus variant Performante has a top speed of 306 kmph.
+Lamborghini Urus variant SE Plugin Hybrid has a top speed of 312 kmph.
+Lamborghini Urus variant SE Plugin Hybrid features a front tread of 1695 mm.
+Lamborghini Urus variant S accelerates from 0-100 kmph in 3.5 s.
+Lamborghini Urus variant Performante accelerates from 0-100 kmph in 3.3 s.
+Lamborghini Urus variant SE Plugin Hybrid accelerates from 0-100 kmph in 3.4 s.
+Lamborghini Urus variant S accelerates from 0-100 kmph in 3.5 s.
+Lamborghini Urus variant Performante accelerates from 0-100 kmph in 3.3 s.
+Lamborghini Urus variant SE Plugin Hybrid accelerates from 0-100 kmph in 3.4 s.
+All Lamborghini Urus variants come with a DOHC valve configuration.
+Lamborghini Urus variant SE Plugin Hybrid has a rear tread of 1710 mm.
+Lamborghini Urus variants - S & Performante offer the same trunk opening mechanism, which is Remote.
+Lamborghini Urus variants - S & Performante come with Driver's Window anti-pinch power windows.
+Lamborghini Urus variant SE Plugin Hybrid has All Windows anti-pinch power windows.
+Lamborghini Urus variants - S & Performante have highway mileage figures of 7.8 kmpl.
+Lamborghini Urus variants - S & SE Plugin Hybrid have fuel tank capacities of 85 Litres.
+Lamborghini Urus variant Performante features a fuel tank capacity of 75 Litres.
+All Lamborghini Urus variants have the Multi-link suspension front suspension.
+All Lamborghini Urus variants have the Multi-link suspension rear suspension.
+Lamborghini Urus variant SE Plugin Hybrid has Tilt & Telescopic steering adjustment.
+Lamborghini Urus variants with Adjustable Steering - S & Performante.
+Lamborghini Urus variant SE Plugin Hybrid has Powered Adjustment steering adjustability.
+All Lamborghini Urus variants are equipped with Front & Rear parking sensors.
+Lamborghini Urus variants - S & Performante share the Front USB charging configuration.
+Lamborghini Urus variant SE Plugin Hybrid has Front & Rear USB charging ports.
+Lamborghini Urus variant SE Plugin Hybrid has Front & Rear power windows.
+Lamborghini Urus variant SE Plugin Hybrid has Front & Rear cup holders.
+Lamborghini Urus variants without Rear Camera - S & Performante.
+Lamborghini Urus variant SE Plugin Hybrid has a With Guidedlines rear camera.
+Lamborghini Urus variants without Pretensioners & Force Limiter Seatbelts - S & Performante.
+Lamborghini Urus variant SE Plugin Hybrid has Driver and Passenger seatbelt pretensioners and force limiters.
+All Lamborghini Urus variants include Front & Rear speakers.
+All Lamborghini Urus variants have Front & Rear electric adjustable seats.
+Lamborghini Urus variants - S & Performante share the Bench Folding foldable rear seat type.
+All variants of Lamborghini Urus have Central Console Armrest.
+Lamborghini Urus variants - S & SE Plugin Hybrid share the Twin turbocharger type.
+Lamborghini Urus variant with Turbo Charger - Performante.
+Lamborghini Urus variants without Knee Airbags - S & Performante.
+Lamborghini Urus variants with Rear Seat Headrest - S & Performante.
+All variants of Lamborghini Urus have Sunroof.
+Lamborghini Urus variants - S & Performante share the 6 drive mode configuration.
+Lamborghini Urus variants - S & SE Plugin Hybrid share Lamborghini Infotainment System III (LIS III), Bang & Olufsen sound system with 21 loudspeakers and a power output of 1700 watts. as additional features.
+Lamborghini Urus variant Performante offers Cutting Edge,Distinct and streamlined Design With Multiple Souls: Sporty,Elegant and Off Road
+ The Front Bonnet With Centre Peak and The Cross Lines On Rear Door as additional features.

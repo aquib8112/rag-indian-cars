@@ -1,0 +1,186 @@
+Volvo C40 Recharge has 1 variants: E80.
+Volvo C40 Recharge has Power Steering.
+Volvo C40 Recharge has Air Conditioner.
+Volvo C40 Recharge has Heater.
+Volvo C40 Recharge has Automatic Climate Control.
+Volvo C40 Recharge has Accessory Power Outlet.
+Volvo C40 Recharge has Trunk Light.
+Volvo C40 Recharge has Vanity Mirror.
+Volvo C40 Recharge has Rear Reading Lamp.
+Volvo C40 Recharge has Adjustable Headrest.
+Volvo C40 Recharge has Rear Seat Centre Arm Rest.
+Volvo C40 Recharge has Rear AC Vents.
+Volvo C40 Recharge has Cruise Control.
+Volvo C40 Recharge has Real-Time Vehicle Tracking.
+Volvo C40 Recharge does not have Engine Start/Stop Button.
+Volvo C40 Recharge has Voice Commands.
+Volvo C40 Recharge has Hands-Free Tailgate.
+Volvo C40 Recharge has KeyLess Entry.
+Volvo C40 Recharge has Idle Start-Stop System.
+Volvo C40 Recharge has Follow Me Home Headlamps.
+Volvo C40 Recharge has Tachometer.
+Volvo C40 Recharge has Alloy Wheels.
+Volvo C40 Recharge has Integrated Antenna.
+Volvo C40 Recharge has Projector Headlamps.
+Volvo C40 Recharge has Automatic Headlamps.
+Volvo C40 Recharge has LED DRLs.
+Volvo C40 Recharge has LED Headlamps.
+Volvo C40 Recharge has Anti-lock Braking System (ABS).
+Volvo C40 Recharge has Central Locking.
+Volvo C40 Recharge has Driver Airbag.
+Volvo C40 Recharge has Side Airbag.
+Volvo C40 Recharge has Seat Belt Warning.
+Volvo C40 Recharge has E-Call & I-Call.
+Volvo C40 Recharge has Remote AC On/Off.
+Volvo C40 Recharge does not have Side Airbag-Rear.
+Volvo C40 Recharge has Electronic Stability Control (ESC).
+Volvo C40 Recharge has Speed Alert.
+Volvo C40 Recharge has Speed Sensing Auto Door Lock.
+Volvo C40 Recharge has ISOFIX Child Seat Mounts.
+Volvo C40 Recharge has Hill Assist.
+Volvo C40 Recharge has Impact Sensing Auto Door Unlock.
+Volvo C40 Recharge has 360 View Camera.
+Volvo C40 Recharge has Radio.
+Volvo C40 Recharge has Wireless Phone Charging.
+Volvo C40 Recharge has Bluetooth Connectivity.
+Volvo C40 Recharge has Android Auto.
+Volvo C40 Recharge has Apple CarPlay.
+Volvo C40 Recharge has Driver Attention Warning.
+Volvo C40 Recharge has Live Location.
+Volvo C40 Recharge has Over the Air (OTA) Updates.
+Volvo C40 Recharge has Google / Alexa Connectivity.
+Volvo C40 Recharge has Over Speeding Alert.
+Volvo C40 Recharge has Smartwatch App.
+Volvo C40 Recharge has Valet Mode.
+Volvo C40 Recharge has Remote Door Lock/Unlock.
+Volvo C40 Recharge has Geo-fence Alert.
+Volvo C40 Recharge has Height Adjustable Front Seat Belts.
+Volvo C40 Recharge has Lumbar Support.
+Volvo C40 Recharge has Paddle Shifters.
+Volvo C40 Recharge has Electronic Multi-Tripmeter.
+Volvo C40 Recharge has Digital Clock.
+Volvo C40 Recharge has Dual Tone Dashboard.
+Volvo C40 Recharge has LED Taillights.
+Volvo C40 Recharge has Electronic Brakeforce Distribution (EBD).
+Volvo C40 Recharge has Brake Assist.
+Volvo C40 Recharge has Anti-Theft Alarm.
+Volvo C40 Recharge has Door Ajar Warning.
+Volvo C40 Recharge has Digital Odometer.
+Volvo C40 Recharge has Remote Immobiliser.
+Volvo C40 Recharge has SOS / Emergency Assistance.
+Volvo C40 Recharge has Blind Spot Camera.
+Volvo C40 Recharge has Forward Collision Warning.
+Volvo C40 Recharge has Automatic Emergency Braking.
+Volvo C40 Recharge has Oncoming Lane Mitigation.
+Volvo C40 Recharge has Speed Assist System.
+Volvo C40 Recharge has Traffic Sign Recognition.
+Volvo C40 Recharge has Blind Spot Collision Avoidance Assist.
+Volvo C40 Recharge has Lane Departure Warning.
+Volvo C40 Recharge has Lane Keep Assist.
+Volvo C40 Recharge has Adaptive Cruise Control.
+Volvo C40 Recharge has Leading Vehicle Departure Alert.
+Volvo C40 Recharge has Unauthorised Vehicle entry.
+Volvo C40 Recharge has Cooled Glovebox.
+Volvo C40 Recharge has Glove Box light.
+Volvo C40 Recharge has Inbuilt Assistant.
+Volvo C40 Recharge has Navigation with Live Traffic.
+Volvo C40 Recharge has Send POI to Vehicle From App.
+Volvo C40 Recharge has In Car Remote Control App.
+Volvo C40 Recharge has Puddle Lamps.
+Volvo C40 Recharge has Hill Descent Control.
+Volvo C40 Recharge has Battery Saver.
+Volvo C40 Recharge does not have Leather wrap gear-shift selector.
+Volvo C40 Recharge has Blind Spot Monitor.
+Volvo C40 Recharge has E-Manual.
+Volvo C40 Recharge has Digital Car Key.
+Volvo C40 Recharge has Live Weather.
+Volvo C40 Recharge has Remote Vehicle Ignition Start/Stop.
+Volvo C40 Recharge has Remote Boot Open.
+Volvo C40 Recharge has Tailgate Ajar Warning.
+Volvo C40 Recharge has Remote Vehicle Status Check.
+Volvo C40 Recharge has SOS Button.
+Volvo C40 Recharge has Remote Trunk Opener.
+Volvo C40 Recharge has Lane Change Indicator.
+Volvo C40 Recharge has Wi-Fi Connectivity.
+Volvo C40 Recharge has Save Route/Place.
+Volvo C40 Recharge has Regenerative Braking.
+Volvo C40 Recharge has Fast Charging.
+Volvo C40 Recharge has Traction Control.
+Volvo C40 Recharge has RSA.
+Volvo C40 Recharge has Acoustic Vehicle Alert System.
+Volvo C40 Recharge has Crash Notification.
+Volvo C40 Recharge has Rear Entertainment System.
+Volvo C40 Recharge has Height Adjustable Driver Seat.
+Volvo C40 Recharge has Glove Box.
+Volvo C40 Recharge has Adjustable Headlamps.
+Volvo C40 Recharge has Outside Rear View Mirror Turn Indicators.
+Volvo C40 Recharge has Passenger Airbag.
+Volvo C40 Recharge has Day & Night Rear View Mirror.
+Volvo C40 Recharge has Tyre Pressure Monitoring System (TPMS).
+Volvo C40 Recharge has Touchscreen.
+Volvo C40 Recharge has Child Safety Locks.
+Volvo C40 Recharge has Rear Spoiler.
+Volvo C40 Recharge has Air Quality Control.
+Volvo C40 Recharge has Folding Table in The Rear.
+Volvo C40 Recharge has Navigation System.
+Volvo C40 Recharge has Smart Access Card Entry.
+Volvo C40 Recharge has Roof Rails.
+Volvo C40 Recharge has Usb Ports.
+Volvo C40 Recharge has Luggage Hook & Net.
+Volvo C40 Recharge has LED Fog Lamps.
+Volvo C40 Recharge has Fog Lights - Front.
+Volvo C40 Recharge has Integrated 2DIN Audio.
+Volvo C40 Recharge has USB & Auxiliary input.
+The Volvo C40 Recharge generates 402.30 Brake Horsepower (BHP).
+The Volvo C40 Recharge generates 660 Newton meters.
+The Volvo C40 Recharge has a Automatic transmission.
+The Volvo C40 Recharge has a 1-Speed gearbox.
+The Volvo C40 Recharge has a All-Wheel Drive (AWD) drive type.
+The Volvo C40 Recharge runs on Electric.
+The Volvo C40 Recharge complies with ZEV emission norms.
+The Volvo C40 Recharge has Electric steering.
+The Volvo C40 Recharge has Disc front brakes.
+The Volvo C40 Recharge has Disc rear brakes.
+The Volvo C40 Recharge has a length of 4440 mm.
+The Volvo C40 Recharge has a width of 1873 mm.
+The Volvo C40 Recharge has a height of 1591 mm.
+The Volvo C40 Recharge offers 413 Litres of boot space.
+The Volvo C40 Recharge has a seating capacity of 5.0.
+The Volvo C40 Recharge has a wheelbase of 2080 mm.
+The Volvo C40 Recharge has 4.0 doors.
+The Volvo C40 Recharge features a Automatic boot opening mechanism.
+The Volvo C40 Recharge is fitted with tyres of size 235/50 R19.
+The Volvo C40 Recharge is equipped with Tubeless Radial tyres.
+The Volvo C40 Recharge is equipped with 7.0 airbags.
+The Volvo C40 Recharge is equipped with a 9 Inch touchscreen.
+The Volvo C40 Recharge features Android Auto, Apple CarPlay connectivity options.
+The Volvo C40 Recharge comes with a Full Digital digital cluster.
+The Volvo C40 Recharge features Fabric upholstery.
+The Volvo C40 Recharge achieves a top speed of 180 kmph.
+The Volvo C40 Recharge has a front tread of 1641 mm.
+The Volvo C40 Recharge comes with a Lithium-Ion Battery battery.
+The Volvo C40 Recharge is equipped with a Remote trunk opener.
+The Volvo C40 Recharge has a battery capacity of 78 kWh.
+The Volvo C40 Recharge features a motor with 402.3 kW power.
+The Volvo C40 Recharge provides a range of 530 km.
+The Volvo C40 Recharge charges in 8 Hours using an A.C charger.
+The Volvo C40 Recharge charges in 27 Min at 150kW using a D.C charger.
+The Volvo C40 Recharge is equipped with a CCS-II charging port.
+The Volvo C40 Recharge supports 11 kW AC | 150 kW DC as charging options.
+The Volvo C40 Recharge reaches 0-100 km/h in 4.5 s.
+The Volvo C40 Recharge requires 27 Min at 150kW for a full charge.
+Volvo C40 Recharge has Adjustable Steering.
+The Volvo C40 Recharge features Front & Rear parking sensors.
+The Volvo C40 Recharge features Front & Rear USB charging ports.
+The Volvo C40 Recharge features Front fog lights.
+The Volvo C40 Recharge features a Shark Fin antenna.
+The Volvo C40 Recharge has a With Guidedlines rear camera.
+The Volvo C40 Recharge has Driver seatbelt pretensioners and force limiters.
+The Volvo C40 Recharge has Front & Rear speakers.
+The Volvo C40 Recharge has Front electric adjustable seats.
+The Volvo C40 Recharge has a 60:40 Split foldable rear seat.
+The Volvo C40 Recharge has a With Storage central console armrest.
+The Volvo C40 Recharge features inbuilt apps such as JioSaavan, Spotify, & Etc..
+Volvo C40 Recharge has Rear Seat Headrest.
+The Volvo C40 Recharge includes a Panoramic sunroof.
+The Volvo C40 Recharge includes Harmon kardon premium sound system,Remote cuntrol button in steering wheel,22.86cms (9 inch) centre display with touch screen,2 USB Type-c connectors front,Digital service pack,Android based google assisted infotainment system,Volvo on call,with Telematic ca Module,Apple car play with wire,Speech funcion,Inductive charging for smartphone as additional features.

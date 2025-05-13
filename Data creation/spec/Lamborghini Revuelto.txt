@@ -1,0 +1,120 @@
+﻿Lamborghini Revuelto has 1 variants: LB 744.
+Lamborghini Revuelto has Power Steering.
+Lamborghini Revuelto has Air Conditioner.
+Lamborghini Revuelto has Heater.
+Lamborghini Revuelto has Automatic Climate Control.
+Lamborghini Revuelto has Accessory Power Outlet.
+Lamborghini Revuelto has Trunk Light.
+Lamborghini Revuelto has Vanity Mirror.
+Lamborghini Revuelto has Adjustable Headrest.
+Lamborghini Revuelto has Cruise Control.
+Lamborghini Revuelto has Engine Start/Stop Button.
+Lamborghini Revuelto does not have Hands-Free Tailgate.
+Lamborghini Revuelto has KeyLess Entry.
+Lamborghini Revuelto has Follow Me Home Headlamps.
+Lamborghini Revuelto has Tachometer.
+Lamborghini Revuelto has Alloy Wheels.
+Lamborghini Revuelto has Integrated Antenna.
+Lamborghini Revuelto has Automatic Headlamps.
+Lamborghini Revuelto has LED DRLs.
+Lamborghini Revuelto has LED Headlamps.
+Lamborghini Revuelto has Anti-lock Braking System (ABS).
+Lamborghini Revuelto has Central Locking.
+Lamborghini Revuelto has Driver Airbag.
+Lamborghini Revuelto has Side Airbag.
+Lamborghini Revuelto has Engine Immobilizer.
+Lamborghini Revuelto has Electronic Stability Control (ESC).
+Lamborghini Revuelto has Anti-Theft Device.
+Lamborghini Revuelto has Speed Alert.
+Lamborghini Revuelto has Speed Sensing Auto Door Lock.
+Lamborghini Revuelto has ISOFIX Child Seat Mounts.
+Lamborghini Revuelto has Hill Assist.
+Lamborghini Revuelto has Impact Sensing Auto Door Unlock.
+Lamborghini Revuelto has Radio.
+Lamborghini Revuelto has Bluetooth Connectivity.
+Lamborghini Revuelto has Android Auto.
+Lamborghini Revuelto has Apple CarPlay.
+Lamborghini Revuelto has Height Adjustable Front Seat Belts.
+Lamborghini Revuelto has Lumbar Support.
+Lamborghini Revuelto has Paddle Shifters.
+Lamborghini Revuelto has Dual Tone Dashboard.
+Lamborghini Revuelto has LED Taillights.
+Lamborghini Revuelto has Brake Assist.
+Lamborghini Revuelto has Anti-Theft Alarm.
+Lamborghini Revuelto has Door Ajar Warning.
+Lamborghini Revuelto has Digital Odometer.
+Lamborghini Revuelto has Heads-Up Display (HUD).
+Lamborghini Revuelto has Cooled Glovebox.
+Lamborghini Revuelto has Glove Box light.
+Lamborghini Revuelto has Ventilated Seats.
+Lamborghini Revuelto does not have Headlamp Washers.
+Lamborghini Revuelto has Blind Spot Monitor.
+Lamborghini Revuelto has Tailgate Ajar Warning.
+Lamborghini Revuelto has Cornering Headlamps.
+Lamborghini Revuelto has Traction Control.
+Lamborghini Revuelto has Internal Storage.
+Lamborghini Revuelto has Height Adjustable Driver Seat.
+Lamborghini Revuelto has Leather Wrapped Steering Wheel.
+Lamborghini Revuelto has Glove Box.
+Lamborghini Revuelto has Adjustable Headlamps.
+Lamborghini Revuelto has Outside Rear View Mirror Turn Indicators.
+Lamborghini Revuelto has Passenger Airbag.
+Lamborghini Revuelto has Day & Night Rear View Mirror.
+Lamborghini Revuelto has Tyre Pressure Monitoring System (TPMS).
+Lamborghini Revuelto has Touchscreen.
+Lamborghini Revuelto has Child Safety Locks.
+Lamborghini Revuelto has Rear Spoiler.
+Lamborghini Revuelto has Rain Sensing Wiper.
+Lamborghini Revuelto has Gear Shift Indicator.
+Lamborghini Revuelto has Luggage Hook & Net.
+Lamborghini Revuelto has LED Fog Lamps.
+Lamborghini Revuelto has Integrated 2DIN Audio.
+The Lamborghini Revuelto has the V12 NA 6.5l engine.
+The Lamborghini Revuelto has a displacement of 6498  cubic centimeters.
+The Lamborghini Revuelto generates 1001.11 Brake Horsepower (BHP) at 9250 Revolutions Per Minute (RPM).
+The Lamborghini Revuelto generates 725 Newton meters at 6750 Revolutions Per Minute (RPM).
+The Lamborghini Revuelto has 4.0 valves per cylinder.
+The Lamborghini Revuelto has a Automatic transmission.
+The Lamborghini Revuelto has 12.0 cylinders.
+The Lamborghini Revuelto has a 8-Speed-DCT gearbox.
+The Lamborghini Revuelto has a All-Wheel Drive (AWD) drive type.
+The Lamborghini Revuelto runs on Petrol.
+The Lamborghini Revuelto complies with BS VI 2.0 emission norms.
+The Lamborghini Revuelto has Electric steering.
+The Lamborghini Revuelto has Carbon Ceramic front brakes.
+The Lamborghini Revuelto has Carbon Ceramic rear brakes.
+The Lamborghini Revuelto has a length of 4947 mm.
+The Lamborghini Revuelto has a width of 2266 mm.
+The Lamborghini Revuelto has a height of 1160 mm.
+The Lamborghini Revuelto offers 158 Litres of boot space.
+The Lamborghini Revuelto has a seating capacity of 2.0.
+The Lamborghini Revuelto has a wheelbase of 2651 mm.
+The Lamborghini Revuelto has a kerb weight of 1772 kg.
+The Lamborghini Revuelto has 2.0 doors.
+The Lamborghini Revuelto is fitted with tyres of size 265/35 ZR20,345/30 ZR21.
+The Lamborghini Revuelto is equipped with Tubeless Radial tyres.
+The Lamborghini Revuelto is equipped with 5.0 airbags.
+The Lamborghini Revuelto has Electric as a secondary fuel type.
+The Lamborghini Revuelto features Android Auto, Apple CarPlay connectivity options.
+The Lamborghini Revuelto has a reported boot space of 158 Litres.
+The Lamborghini Revuelto achieves a top speed of 350 kmph.
+The Lamborghini Revuelto has a front tread of 1536 mm.
+The Lamborghini Revuelto achieves 0-100 kmph acceleration in 2.5 s.
+The Lamborghini Revuelto achieves 0-100 kmph in 2.5 s.
+The Lamborghini Revuelto is equipped with a Rack & Pinion steering gear type.
+The Lamborghini Revuelto features a P2-P3 eMotor motor type.
+The Lamborghini Revuelto features All Windows anti-pinch power windows.
+The Lamborghini Revuelto comes with the Double wishbone suspension front suspension.
+The Lamborghini Revuelto comes with the Double wishbone suspension rear suspension.
+The Lamborghini Revuelto features Tilt & Telescopic steering adjustment.
+Lamborghini Revuelto has Adjustable Steering.
+Lamborghini Revuelto has Parking Sensors.
+The Lamborghini Revuelto features Front USB charging ports.
+The Lamborghini Revuelto features Front fog lights.
+The Lamborghini Revuelto has a With Guidedlines rear camera.
+The Lamborghini Revuelto has Driver and Passenger seatbelt pretensioners and force limiters.
+The Lamborghini Revuelto has Front electric adjustable seats.
+Lamborghini Revuelto has Central Console Armrest.
+The Lamborghini Revuelto has Driver knee airbags.
+Lamborghini Revuelto has Sunroof.
+The Lamborghini Revuelto includes Y-shaped dashboard design, as additional features.

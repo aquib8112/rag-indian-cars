@@ -1,0 +1,168 @@
+Maserati Gran Turismo has 4 variants: 4.7 V8, Sport Diesel, 4.7 MC & MC Diesel.
+All variants of Maserati Gran Turismo have Power Steering.
+All variants of Maserati Gran Turismo have Air Conditioner.
+All variants of Maserati Gran Turismo have Heater.
+All variants of Maserati Gran Turismo have Automatic Climate Control.
+All variants of Maserati Gran Turismo have Accessory Power Outlet.
+All variants of Maserati Gran Turismo have Trunk Light.
+All variants of Maserati Gran Turismo have Vanity Mirror.
+All variants of Maserati Gran Turismo do not have Rear Reading Lamp.
+All variants of Maserati Gran Turismo have Rear Seat Centre Arm Rest.
+All variants of Maserati Gran Turismo have Rear AC Vents.
+All variants of Maserati Gran Turismo have Cruise Control.
+All variants of Maserati Gran Turismo have Engine Start/Stop Button.
+All variants of Maserati Gran Turismo do not have Voice Commands.
+All variants of Maserati Gran Turismo do not have Chrome Grille.
+All variants of Maserati Gran Turismo have KeyLess Entry.
+All variants of Maserati Gran Turismo do not have Follow Me Home Headlamps.
+All variants of Maserati Gran Turismo have Tachometer.
+All variants of Maserati Gran Turismo do not have Wheel Covers.
+All variants of Maserati Gran Turismo have Alloy Wheels.
+All variants of Maserati Gran Turismo do not have Integrated Antenna.
+All variants of Maserati Gran Turismo do not have Automatic Headlamps.
+All variants of Maserati Gran Turismo have Anti-lock Braking System (ABS).
+All variants of Maserati Gran Turismo have Central Locking.
+All variants of Maserati Gran Turismo have Driver Airbag.
+All variants of Maserati Gran Turismo have Side Airbag.
+All variants of Maserati Gran Turismo have Seat Belt Warning.
+All variants of Maserati Gran Turismo have Engine Immobilizer.
+All variants of Maserati Gran Turismo do not have Side Airbag-Rear.
+All variants of Maserati Gran Turismo have Anti-Theft Device.
+All variants of Maserati Gran Turismo do not have Speed Sensing Auto Door Lock.
+All variants of Maserati Gran Turismo do not have ISOFIX Child Seat Mounts.
+All variants of Maserati Gran Turismo do not have Hill Assist.
+All variants of Maserati Gran Turismo do not have Impact Sensing Auto Door Unlock.
+All variants of Maserati Gran Turismo do not have 360 View Camera.
+All variants of Maserati Gran Turismo have Radio.
+All variants of Maserati Gran Turismo have Bluetooth Connectivity.
+All variants of Maserati Gran Turismo do not have Height Adjustable Front Seat Belts.
+All variants of Maserati Gran Turismo have Lumbar Support.
+All variants of Maserati Gran Turismo have Paddle Shifters.
+All variants of Maserati Gran Turismo have Electronic Multi-Tripmeter.
+All variants of Maserati Gran Turismo do not have Digital Clock.
+All variants of Maserati Gran Turismo have Outside Temperature Display.
+All variants of Maserati Gran Turismo do not have Dual Tone Dashboard.
+All variants of Maserati Gran Turismo have Power Antenna.
+All variants of Maserati Gran Turismo do not have Halogen Headlamps.
+All variants of Maserati Gran Turismo have Brake Assist.
+All variants of Maserati Gran Turismo do not have Anti-Theft Alarm.
+All variants of Maserati Gran Turismo have Door Ajar Warning.
+All variants of Maserati Gran Turismo have Digital Odometer.
+All variants of Maserati Gran Turismo do not have Heads-Up Display (HUD).
+All variants of Maserati Gran Turismo do not have Cooled Glovebox.
+All variants of Maserati Gran Turismo do not have Ventilated Seats.
+All variants of Maserati Gran Turismo do not have Hill Descent Control.
+All variants of Maserati Gran Turismo do not have Battery Saver.
+All variants of Maserati Gran Turismo have Smoke Headlamps.
+All variants of Maserati Gran Turismo do not have Blind Spot Monitor.
+All variants of Maserati Gran Turismo do not have Tailgate Ajar Warning.
+All variants of Maserati Gran Turismo have Remote Trunk Opener.
+All variants of Maserati Gran Turismo have Remote Fuel Lid Opener.
+All variants of Maserati Gran Turismo do not have Lane Change Indicator.
+All variants of Maserati Gran Turismo have Xenon Headlamps.
+All variants of Maserati Gran Turismo have Traction Control.
+All variants of Maserati Gran Turismo do not have Rear Entertainment System.
+All variants of Maserati Gran Turismo have Leather Seats.
+All variants of Maserati Gran Turismo do not have Driving Experience Control Eco.
+All variants of Maserati Gran Turismo do not have Fog Lights - Rear.
+All variants of Maserati Gran Turismo do not have Internal Storage.
+All variants of Maserati Gran Turismo have Super Charge.
+All variants of Maserati Gran Turismo have Height Adjustable Driver Seat.
+All variants of Maserati Gran Turismo have Rear Window Defogger.
+All variants of Maserati Gran Turismo have Leather Wrapped Steering Wheel.
+All variants of Maserati Gran Turismo have Glove Box.
+All variants of Maserati Gran Turismo have Adjustable Headlamps.
+All variants of Maserati Gran Turismo have Outside Rear View Mirror Turn Indicators.
+All variants of Maserati Gran Turismo have Passenger Airbag.
+All variants of Maserati Gran Turismo have Day & Night Rear View Mirror.
+All variants of Maserati Gran Turismo have Tyre Pressure Monitoring System (TPMS).
+All variants of Maserati Gran Turismo have Touchscreen.
+All variants of Maserati Gran Turismo have Rear Window Wiper.
+All variants of Maserati Gran Turismo have Rear Window Washer.
+All variants of Maserati Gran Turismo have Chrome Garnish.
+All variants of Maserati Gran Turismo have Child Safety Locks.
+All variants of Maserati Gran Turismo have Rear Spoiler.
+All variants of Maserati Gran Turismo have Rain Sensing Wiper.
+All variants of Maserati Gran Turismo have Air Quality Control.
+All variants of Maserati Gran Turismo have Tinted Glass.
+All variants of Maserati Gran Turismo have Folding Table in The Rear.
+All variants of Maserati Gran Turismo have Navigation System.
+All variants of Maserati Gran Turismo have Smart Access Card Entry.
+All variants of Maserati Gran Turismo have Fabric Upholstery.
+All variants of Maserati Gran Turismo have Roof Rails.
+All variants of Maserati Gran Turismo have Cigarette Lighter.
+All variants of Maserati Gran Turismo have Roof Carrier.
+All variants of Maserati Gran Turismo have Side Stepper.
+All variants of Maserati Gran Turismo have Usb Ports.
+All variants of Maserati Gran Turismo do not have Gear Shift Indicator.
+All variants of Maserati Gran Turismo do not have Luggage Hook & Net.
+All variants of Maserati Gran Turismo have Low Fuel Warning Light.
+All variants of Maserati Gran Turismo have Fog Lights - Front.
+All variants of Maserati Gran Turismo have Integrated 2DIN Audio.
+All variants of Maserati Gran Turismo have USB & Auxiliary input.
+All variants of Maserati Gran Turismo do not have Rear Curtain.
+All variants of Maserati Gran Turismo do not have Audio System Remote Control.
+Maserati Gran Turismo variants - 4.7 V8 & 4.7 MC share the V-Type Petrol Engine engine.
+Maserati Gran Turismo variants - Sport Diesel & MC Diesel share the V-Type Diesel Engine engine.
+All Maserati Gran Turismo variants have a displacement of 4691  cubic centimeters.
+All Maserati Gran Turismo variants produce a maximum power of 460 Brake Horsepower (BHP) at 7000 Revolutions Per Minute (RPM).
+All Maserati Gran Turismo variants produce a maximum torque of 520 Newton meters at 4750 Revolutions Per Minute (RPM).
+All Maserati Gran Turismo variants have 4.0 valves per cylinder.
+All Maserati Gran Turismo variants have a Automatic transmission.
+All Maserati Gran Turismo variants have 8.0 cylinders.
+All Maserati Gran Turismo variants come with a 6-Speed gearbox.
+All Maserati Gran Turismo variants have a Rear-Wheel Drive (RWD) drive type.
+Maserati Gran Turismo variants - 4.7 V8 & 4.7 MC use Petrol as fuel.
+Maserati Gran Turismo variants - Sport Diesel & MC Diesel use Diesel as fuel.
+All Maserati Gran Turismo variants comply with BS VI 2.0 emission norms.
+All Maserati Gran Turismo variants come with Power steering.
+All Maserati Gran Turismo variants have a turning radius of 5.35m.
+All Maserati Gran Turismo variants have Ventilated Disc front brakes.
+All Maserati Gran Turismo variants have Ventilated Disc rear brakes.
+All Maserati Gran Turismo variants have a length of 4881 mm.
+All Maserati Gran Turismo variants have a width of 2056 mm.
+All Maserati Gran Turismo variants have a height of 1353 mm.
+All Maserati Gran Turismo variants offer 260 Litres of boot space.
+All Maserati Gran Turismo variants have a seating capacity of 4.0.
+All Maserati Gran Turismo variants have an unladen ground clearance of 100 mm.
+All Maserati Gran Turismo variants have a wheelbase of 2942 mm.
+Maserati Gran Turismo variants - 4.7 V8 & 4.7 MC share a kerb weight of 1955 kg.
+Maserati Gran Turismo variant Sport Diesel has a kerb weight of 1880 kg.
+Maserati Gran Turismo variant MC Diesel has a kerb weight of 1873 kg.
+All Maserati Gran Turismo variants have 2.0 doors.
+All Maserati Gran Turismo variants have tyres of size 245/40 R19,285/40 R19.
+All Maserati Gran Turismo variants come with Tubeless Radial tyres.
+Maserati Gran Turismo variants - 4.7 V8 & 4.7 MC offer 6.0 airbags.
+Maserati Gran Turismo variants - Sport Diesel & MC Diesel offer 4.0 airbags.
+Maserati Gran Turismo variants - 4.7 V8 & 4.7 MC have a top speed of 285 kmph.
+Maserati Gran Turismo variant Sport Diesel has a top speed of 299 kmph.
+Maserati Gran Turismo variant MC Diesel has a top speed of 301 kmph.
+Maserati Gran Turismo variant 4.7 V8 features a front tread of 1143 mm.
+Maserati Gran Turismo variant Sport Diesel features a front tread of 1677 mm.
+Maserati Gran Turismo variant 4.7 MC features a front tread of 1624 mm.
+Maserati Gran Turismo variant MC Diesel features a front tread of 1641 mm.
+All Maserati Gran Turismo variants accelerate from 0-100 kmph in 5.2 s.
+All Maserati Gran Turismo variants accelerate from 0-100 kmph in 5.2 s.
+All Maserati Gran Turismo variants come with a DOHC valve configuration.
+All Maserati Gran Turismo variants use a Rack & Pinion steering gear type.
+All Maserati Gran Turismo variants have a rear tread of 1590 mm.
+All Maserati Gran Turismo variants use a Direct Injection (Di) fuel supply system.
+All Maserati Gran Turismo variants feature a Smart trunk opener.
+All Maserati Gran Turismo variants offer a mileage of 10 kmpl.
+All Maserati Gran Turismo variants have a fuel tank capacity of 86 Litres.
+All Maserati Gran Turismo variants come with Height & Reach Adjustment steering adjustment.
+All variants of Maserati Gran Turismo have Adjustable Steering.
+All Maserati Gran Turismo variants are equipped with Front & Rear parking sensors.
+All Maserati Gran Turismo variants come with Front USB charging ports.
+All variants of Maserati Gran Turismo do not have Pretensioners & Force Limiter Seatbelts.
+All Maserati Gran Turismo variants include Front & Rear speakers.
+All Maserati Gran Turismo variants have Front electric adjustable seats.
+All variants of Maserati Gran Turismo do not have Foldable Rear Seat.
+All variants of Maserati Gran Turismo do not have Central Console Armrest.
+Maserati Gran Turismo variants without Turbo Charger - 4.7 V8 & 4.7 MC.
+Maserati Gran Turismo variants with Turbo Charger - Sport Diesel & MC Diesel.
+All variants of Maserati Gran Turismo do not have Knee Airbags.
+All variants of Maserati Gran Turismo do not have Autonomous Parking.
+All variants of Maserati Gran Turismo have Rear Seat Headrest.
+All variants of Maserati Gran Turismo do not have Sunroof.
+All Maserati Gran Turismo variants come with 0 drive modes.

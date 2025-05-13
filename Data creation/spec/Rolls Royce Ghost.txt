@@ -1,0 +1,153 @@
+Rolls Royce Ghost has 2 variants: V12 & V12 Extended.
+All variants of Rolls Royce Ghost have Power Steering.
+All variants of Rolls Royce Ghost have Air Conditioner.
+All variants of Rolls Royce Ghost have Heater.
+All variants of Rolls Royce Ghost have Automatic Climate Control.
+All variants of Rolls Royce Ghost have Accessory Power Outlet.
+All variants of Rolls Royce Ghost have Trunk Light.
+All variants of Rolls Royce Ghost have Vanity Mirror.
+All variants of Rolls Royce Ghost have Rear Reading Lamp.
+All variants of Rolls Royce Ghost have Adjustable Headrest.
+All variants of Rolls Royce Ghost have Rear Seat Centre Arm Rest.
+All variants of Rolls Royce Ghost have Rear AC Vents.
+All variants of Rolls Royce Ghost have Cruise Control.
+All variants of Rolls Royce Ghost have Real-Time Vehicle Tracking.
+All variants of Rolls Royce Ghost have Engine Start/Stop Button.
+All variants of Rolls Royce Ghost have Voice Commands.
+All variants of Rolls Royce Ghost have Hands-Free Tailgate.
+All variants of Rolls Royce Ghost have Chrome Grille.
+All variants of Rolls Royce Ghost have Tachometer.
+All variants of Rolls Royce Ghost do not have Wheel Covers.
+All variants of Rolls Royce Ghost have Alloy Wheels.
+All variants of Rolls Royce Ghost have Integrated Antenna.
+All variants of Rolls Royce Ghost have Automatic Headlamps.
+All variants of Rolls Royce Ghost have LED DRLs.
+All variants of Rolls Royce Ghost have LED Headlamps.
+All variants of Rolls Royce Ghost have Driver Airbag.
+All variants of Rolls Royce Ghost have Side Airbag.
+All variants of Rolls Royce Ghost have Seat Belt Warning.
+All variants of Rolls Royce Ghost do not have Side Airbag-Rear.
+All variants of Rolls Royce Ghost have Anti-Theft Device.
+All variants of Rolls Royce Ghost have ISOFIX Child Seat Mounts.
+All variants of Rolls Royce Ghost have Hill Assist.
+Rolls Royce Ghost variant with Radio - V12.
+Rolls Royce Ghost variant with Wireless Phone Charging - V12.
+Rolls Royce Ghost variant with Bluetooth Connectivity - V12.
+Rolls Royce Ghost variant with Android Auto - V12.
+Rolls Royce Ghost variant with Apple CarPlay - V12.
+All variants of Rolls Royce Ghost have Height Adjustable Front Seat Belts.
+All variants of Rolls Royce Ghost have Lumbar Support.
+All variants of Rolls Royce Ghost have Paddle Shifters.
+All variants of Rolls Royce Ghost have Electronic Multi-Tripmeter.
+All variants of Rolls Royce Ghost have Digital Clock.
+All variants of Rolls Royce Ghost have Outside Temperature Display.
+All variants of Rolls Royce Ghost do not have Dual Tone Dashboard.
+All variants of Rolls Royce Ghost have LED Taillights.
+All variants of Rolls Royce Ghost have Brake Assist.
+All variants of Rolls Royce Ghost have Anti-Theft Alarm.
+All variants of Rolls Royce Ghost have Door Ajar Warning.
+All variants of Rolls Royce Ghost have Digital Odometer.
+All variants of Rolls Royce Ghost have Blind Spot Camera.
+All variants of Rolls Royce Ghost have Heads-Up Display (HUD).
+All variants of Rolls Royce Ghost have Cooled Glovebox.
+All variants of Rolls Royce Ghost have Ventilated Seats.
+Rolls Royce Ghost variant with Active noise cancellation - V12 Extended.
+Rolls Royce Ghost variant without Active noise cancellation - V12.
+All variants of Rolls Royce Ghost have Cornering Foglamps.
+All variants of Rolls Royce Ghost have Leather wrap gear-shift selector.
+All variants of Rolls Royce Ghost have Tailgate Ajar Warning.
+Rolls Royce Ghost variant with Compass - V12.
+All variants of Rolls Royce Ghost have Lane Change Indicator.
+Rolls Royce Ghost variant with Wi-Fi Connectivity - V12.
+All variants of Rolls Royce Ghost have Cornering Headlamps.
+All variants of Rolls Royce Ghost have Traction Control.
+Rolls Royce Ghost variant with Rear Entertainment System - V12.
+All variants of Rolls Royce Ghost have Leather Seats.
+All variants of Rolls Royce Ghost have Driving Experience Control Eco.
+Rolls Royce Ghost variant with MirrorLink - V12.
+All variants of Rolls Royce Ghost have Fog Lights - Rear.
+Rolls Royce Ghost variant with Internal Storage - V12.
+All variants of Rolls Royce Ghost have Find My Car location.
+All variants of Rolls Royce Ghost have Height Adjustable Driver Seat.
+All variants of Rolls Royce Ghost have Rear Window Defogger.
+All variants of Rolls Royce Ghost have Leather Wrapped Steering Wheel.
+All variants of Rolls Royce Ghost have Glove Box.
+All variants of Rolls Royce Ghost have Adjustable Headlamps.
+All variants of Rolls Royce Ghost have Outside Rear View Mirror Turn Indicators.
+Rolls Royce Ghost variant with Passenger Airbag - V12 Extended.
+All variants of Rolls Royce Ghost have Tyre Pressure Monitoring System (TPMS).
+Rolls Royce Ghost variant with Touchscreen - V12.
+All variants of Rolls Royce Ghost have Rear Window Wiper.
+All variants of Rolls Royce Ghost have Rear Window Washer.
+All variants of Rolls Royce Ghost have Chrome Garnish.
+All variants of Rolls Royce Ghost have Child Safety Locks.
+All variants of Rolls Royce Ghost have Rear Spoiler.
+All variants of Rolls Royce Ghost have Rain Sensing Wiper.
+All variants of Rolls Royce Ghost have Air Quality Control.
+All variants of Rolls Royce Ghost have Tinted Glass.
+All variants of Rolls Royce Ghost have Folding Table in The Rear.
+All variants of Rolls Royce Ghost have Navigation System.
+All variants of Rolls Royce Ghost have Smart Access Card Entry.
+All variants of Rolls Royce Ghost have Roof Rails.
+All variants of Rolls Royce Ghost have Cigarette Lighter.
+All variants of Rolls Royce Ghost have Roof Carrier.
+All variants of Rolls Royce Ghost have Side Stepper.
+All variants of Rolls Royce Ghost have Dual Tone Body Colour.
+Rolls Royce Ghost variant with Usb Ports - V12.
+All variants of Rolls Royce Ghost have Gear Shift Indicator.
+All variants of Rolls Royce Ghost have Luggage Hook & Net.
+All variants of Rolls Royce Ghost have LED Fog Lamps.
+All variants of Rolls Royce Ghost have Low Fuel Warning Light.
+All variants of Rolls Royce Ghost have Heated Wing Mirror.
+All variants of Rolls Royce Ghost have Power Boot.
+All variants of Rolls Royce Ghost have Fog Lights - Front.
+Rolls Royce Ghost variant with Integrated 2DIN Audio - V12.
+Rolls Royce Ghost variant with USB & Auxiliary input - V12.
+All variants of Rolls Royce Ghost have Rear Curtain.
+Rolls Royce Ghost variant with Audio System Remote Control - V12.
+All Rolls Royce Ghost variants use the 6.7 L V12 engine.
+All Rolls Royce Ghost variants have a displacement of 6750  cubic centimeters.
+All Rolls Royce Ghost variants produce a maximum power of 563 Brake Horsepower (BHP) at 5250 Revolutions Per Minute (RPM).
+All Rolls Royce Ghost variants produce a maximum torque of 820 Newton meters at 1500 Revolutions Per Minute (RPM).
+All Rolls Royce Ghost variants have 4.0 valves per cylinder.
+All Rolls Royce Ghost variants have a Automatic transmission.
+All Rolls Royce Ghost variants have 12.0 cylinders.
+All Rolls Royce Ghost variants come with a 8-Speed-AT gearbox.
+All Rolls Royce Ghost variants have a All-Wheel Drive (AWD) drive type.
+All Rolls Royce Ghost variants run on Petrol.
+All Rolls Royce Ghost variants comply with BS VI emission norms.
+Rolls Royce Ghost variant V12 has a length of 5457 mm.
+Rolls Royce Ghost variant V12 Extended has a length of 5627 mm.
+All Rolls Royce Ghost variants have a width of 1948 mm.
+Rolls Royce Ghost variant V12 has a height of 1550 mm.
+Rolls Royce Ghost variant V12 Extended has a height of 1552 mm.
+All Rolls Royce Ghost variants offer 490 Litres of boot space.
+All Rolls Royce Ghost variants have a seating capacity of 5.0.
+Rolls Royce Ghost variant V12 has a wheelbase of 3295 mm.
+Rolls Royce Ghost variant V12 Extended has a wheelbase of 3465 mm.
+Rolls Royce Ghost variant V12 has a kerb weight of 2435 kg.
+Rolls Royce Ghost variant V12 Extended has a kerb weight of 2525 kg.
+All Rolls Royce Ghost variants have 5.0 doors.
+All Rolls Royce Ghost variants come with Unknown tyres.
+All Rolls Royce Ghost variants come equipped with 6.0 airbags.
+Rolls Royce Ghost variant V12 includes Android Auto connectivity features.
+All Rolls Royce Ghost variants have a top speed of 250 kmph.
+All Rolls Royce Ghost variants have a front tread of 1280 mm.
+Rolls Royce Ghost variant V12 accelerates from 0-100 kmph in 5.0 s.
+Rolls Royce Ghost variant V12 Extended accelerates from 0-100 kmph in 4.9 s.
+Rolls Royce Ghost variant V12 accelerates from 0-100 kmph in 5.0 s.
+Rolls Royce Ghost variant V12 Extended accelerates from 0-100 kmph in 4.9 s.
+All Rolls Royce Ghost variants use a Direct Injection (Di) fuel supply system.
+All Rolls Royce Ghost variants feature a Smart trunk opener.
+All Rolls Royce Ghost variants provide a highway mileage of 6 kmpl.
+All variants of Rolls Royce Ghost have Adjustable Steering.
+All Rolls Royce Ghost variants are equipped with Front & Rear parking sensors.
+All Rolls Royce Ghost variants come with Front & Rear USB charging ports.
+Rolls Royce Ghost variant V12 has Front & Rear speakers.
+All Rolls Royce Ghost variants have Front & Rear electric adjustable seats.
+All Rolls Royce Ghost variants have a 60:40 Split foldable rear seat.
+All variants of Rolls Royce Ghost have Central Console Armrest.
+All variants of Rolls Royce Ghost have Turbo Charger.
+All Rolls Royce Ghost variants have Semi autonomous parking.
+All variants of Rolls Royce Ghost have Rear Seat Headrest.
+All variants of Rolls Royce Ghost have Sunroof.

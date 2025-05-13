@@ -1,0 +1,177 @@
+Mg Gloster has 15 variants: Sharp 4x2 7Str, Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str, Snow Storm 4x2 7Str, Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str.
+All variants of Mg Gloster have Power Steering.
+All variants of Mg Gloster have Air Conditioner.
+All variants of Mg Gloster have Heater.
+All variants of Mg Gloster have Automatic Climate Control.
+All variants of Mg Gloster have Accessory Power Outlet.
+All variants of Mg Gloster have Trunk Light.
+All variants of Mg Gloster have Vanity Mirror.
+All variants of Mg Gloster have Rear Reading Lamp.
+All variants of Mg Gloster have Adjustable Headrest.
+All variants of Mg Gloster have Rear Seat Centre Arm Rest.
+All variants of Mg Gloster have Rear AC Vents.
+All variants of Mg Gloster have Cruise Control.
+All variants of Mg Gloster have Real-Time Vehicle Tracking.
+All variants of Mg Gloster have Engine Start/Stop Button.
+All variants of Mg Gloster have Voice Commands.
+All variants of Mg Gloster have Hands-Free Tailgate.
+All variants of Mg Gloster have KeyLess Entry.
+All variants of Mg Gloster have Follow Me Home Headlamps.
+All variants of Mg Gloster have Tachometer.
+All variants of Mg Gloster have Alloy Wheels.
+Mg Gloster variants with Automatic Headlamps - Black Storm 4x2 6Str, Black Storm 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str, Snow Storm 4x2 7Str, Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str & Desert Storm 4x4 7Str.
+All variants of Mg Gloster have LED DRLs.
+All variants of Mg Gloster have LED Headlamps.
+All variants of Mg Gloster have Anti-lock Braking System (ABS).
+All variants of Mg Gloster have Central Locking.
+All variants of Mg Gloster have Driver Airbag.
+All variants of Mg Gloster have Side Airbag.
+All variants of Mg Gloster have Seat Belt Warning.
+All variants of Mg Gloster have Engine Immobilizer.
+All variants of Mg Gloster have E-Call & I-Call.
+All variants of Mg Gloster have Remote AC On/Off.
+All variants of Mg Gloster do not have Side Airbag-Rear.
+All variants of Mg Gloster have Electronic Stability Control (ESC).
+All variants of Mg Gloster have Anti-Theft Device.
+All variants of Mg Gloster have Speed Alert.
+All variants of Mg Gloster have Speed Sensing Auto Door Lock.
+All variants of Mg Gloster have ISOFIX Child Seat Mounts.
+All variants of Mg Gloster have Hill Assist.
+All variants of Mg Gloster have Impact Sensing Auto Door Unlock.
+All variants of Mg Gloster have 360 View Camera.
+All variants of Mg Gloster have Radio.
+All variants of Mg Gloster have Wireless Phone Charging.
+All variants of Mg Gloster have Bluetooth Connectivity.
+All variants of Mg Gloster have Android Auto.
+All variants of Mg Gloster have Apple CarPlay.
+All variants of Mg Gloster have Driver Attention Warning.
+All variants of Mg Gloster have Live Location.
+All variants of Mg Gloster have Over Speeding Alert.
+All variants of Mg Gloster have Smartwatch App.
+All variants of Mg Gloster have Valet Mode.
+All variants of Mg Gloster have Remote Door Lock/Unlock.
+All variants of Mg Gloster have Geo-fence Alert.
+All variants of Mg Gloster have Height Adjustable Front Seat Belts.
+All variants of Mg Gloster have Lumbar Support.
+All variants of Mg Gloster have Paddle Shifters.
+All variants of Mg Gloster have LED Taillights.
+All variants of Mg Gloster have Electronic Brakeforce Distribution (EBD).
+All variants of Mg Gloster have Brake Assist.
+All variants of Mg Gloster have Anti-Theft Alarm.
+All variants of Mg Gloster have Door Ajar Warning.
+Mg Gloster variants with Forward Collision Warning - Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str, Snow Storm 4x2 7Str, Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str.
+Mg Gloster variant without Forward Collision Warning - Sharp 4x2 7Str.
+Mg Gloster variants with Automatic Emergency Braking - Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str, Snow Storm 4x2 7Str, Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str.
+Mg Gloster variant without Automatic Emergency Braking - Sharp 4x2 7Str.
+Mg Gloster variants with Lane Departure Warning - Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str, Snow Storm 4x2 7Str, Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str.
+Mg Gloster variant without Lane Departure Warning - Sharp 4x2 7Str.
+Mg Gloster variants with Lane Keep Assist - Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str, Snow Storm 4x2 7Str, Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str.
+Mg Gloster variant without Lane Keep Assist - Sharp 4x2 7Str.
+Mg Gloster variants with Adaptive Cruise Control - Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str, Snow Storm 4x2 7Str, Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str.
+Mg Gloster variant without Adaptive Cruise Control - Sharp 4x2 7Str.
+All variants of Mg Gloster have Rear Cross Traffic Alert.
+All variants of Mg Gloster have Inbuilt Assistant.
+All variants of Mg Gloster have Navigation with Live Traffic.
+All variants of Mg Gloster have Send POI to Vehicle From App.
+All variants of Mg Gloster have Ventilated Seats.
+All variants of Mg Gloster have Hill Descent Control.
+All variants of Mg Gloster have Heated Outside Rear View Mirror.
+All variants of Mg Gloster have Blind Spot Monitor.
+All variants of Mg Gloster have Live Weather.
+All variants of Mg Gloster have Remote Boot Open.
+All variants of Mg Gloster have Tailgate Ajar Warning.
+All variants of Mg Gloster have Remote Vehicle Status Check.
+All variants of Mg Gloster have SOS Button.
+All variants of Mg Gloster have Lane Change Indicator.
+All variants of Mg Gloster have Engine Start Alarm.
+All variants of Mg Gloster have Cornering Headlamps.
+All variants of Mg Gloster have Traction Control.
+All variants of Mg Gloster have RSA.
+All variants of Mg Gloster have Hinglish Voice Commands.
+All variants of Mg Gloster have Height Adjustable Driver Seat.
+All variants of Mg Gloster have Rear Window Defogger.
+All variants of Mg Gloster have Leather Wrapped Steering Wheel.
+All variants of Mg Gloster have Glove Box.
+All variants of Mg Gloster have Adjustable Headlamps.
+All variants of Mg Gloster have Outside Rear View Mirror Turn Indicators.
+All variants of Mg Gloster have Passenger Airbag.
+All variants of Mg Gloster have Day & Night Rear View Mirror.
+All variants of Mg Gloster have Tyre Pressure Monitoring System (TPMS).
+All variants of Mg Gloster have Touchscreen.
+All variants of Mg Gloster have Rear Window Wiper.
+All variants of Mg Gloster have Rear Window Washer.
+All variants of Mg Gloster have Child Safety Locks.
+All variants of Mg Gloster have Rain Sensing Wiper.
+All variants of Mg Gloster have Air Quality Control.
+All variants of Mg Gloster have Roof Rails.
+All variants of Mg Gloster have Curtain Airbag.
+All variants of Mg Gloster have Usb Ports.
+All variants of Mg Gloster have Luggage Hook & Net.
+Mg Gloster variants - Sharp 4x2 7Str, Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str & Snow Storm 4x2 7Str share the DIESEL 2.0L TURBO engine.
+Mg Gloster variants - Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str share the DIESEL 2.0L TWIN TURBO engine.
+All Mg Gloster variants have a displacement of 1996  cubic centimeters.
+Mg Gloster variants - Sharp 4x2 7Str, Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str & Snow Storm 4x2 7Str have a max power of 158.79 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Mg Gloster variants - Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str have a max power of 212.55 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Mg Gloster variants - Sharp 4x2 7Str, Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str & Snow Storm 4x2 7Str share a max torque of 373.5 Newton meters at 1500 to 2400 Revolutions Per Minute (RPM).
+Mg Gloster variants - Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str share a max torque of 478.5 Newton meters at 1500 to 2400 Revolutions Per Minute (RPM).
+All Mg Gloster variants have 4.0 valves per cylinder.
+All Mg Gloster variants have a Automatic transmission.
+All Mg Gloster variants have 4.0 cylinders.
+All Mg Gloster variants come with a 8-Speed-AT gearbox.
+Mg Gloster variants - Sharp 4x2 7Str, Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str & Snow Storm 4x2 7Str share a Two-Wheel Drive (2WD) drive type.
+Mg Gloster variants - Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str share a Four-Wheel Drive (4WD) drive type.
+All Mg Gloster variants run on Diesel.
+All Mg Gloster variants comply with BS VI 2.0 emission norms.
+All Mg Gloster variants come with Electric steering.
+All Mg Gloster variants have Disc front brakes.
+All Mg Gloster variants have Disc rear brakes.
+All Mg Gloster variants have a length of 4985 mm.
+All Mg Gloster variants have a width of 1926 mm.
+All Mg Gloster variants have a height of 1867 mm.
+All Mg Gloster variants offer 343 Litres of boot space.
+Mg Gloster variants - Sharp 4x2 7Str, Black Storm 4x2 7Str, Savvy 4x2 7Str, Desert Storm 4x2 7Str, Snow Storm 4x2 7Str, Black Storm 4x4 7Str, Savvy 4x4 7Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str share a seating capacity of 7.0.
+Mg Gloster variants - Black Storm 4x2 6Str, Savvy 4x2 6Str, Desert Storm 4x2 6Str, Black Storm 4x4 6Str, Savvy 4x4 6Str & Desert Storm 4x4 6Str share a seating capacity of 6.0.
+All Mg Gloster variants have a wheelbase of 2950 mm.
+All Mg Gloster variants have 5.0 doors.
+All Mg Gloster variants come with a Automatic boot opening mechanism.
+All Mg Gloster variants have tyres of size 255/55 R19.
+All Mg Gloster variants come with Tubeless Radial tyres.
+All Mg Gloster variants come equipped with 6.0 airbags.
+All Mg Gloster variants come with a 12.28 inch touchscreen display.
+All Mg Gloster variants come with 12.0 speakers.
+All Mg Gloster variants come with 19 Inch front alloy wheels.
+All Mg Gloster variants come with 19 Inch rear alloy wheels.
+All Mg Gloster variants come with Android Auto, Apple CarPlay connectivity options.
+All Mg Gloster variants feature a Full Digital digital cluster.
+All Mg Gloster variants come with Leatherette upholstery.
+All Mg Gloster variants offer a boot space of 343 Litres.
+All Mg Gloster variants have All Windows anti-pinch power windows.
+Mg Gloster variants - Sharp 4x2 7Str, Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str, Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str have highway mileage figures of 15.34 kmpl.
+Mg Gloster variant Snow Storm 4x2 7Str has a highway mileage of 15.3 kmpl.
+All Mg Gloster variants have a fuel tank capacity of 75 Litres.
+Mg Gloster variants - Sharp 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Savvy 4x4 6Str & Savvy 4x4 7Str share the Multi-link suspension front suspension type.
+Mg Gloster variants - Black Storm 4x2 6Str, Black Storm 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str, Snow Storm 4x2 7Str, Black Storm 4x4 6Str, Black Storm 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str share the Double wishbone suspension front suspension type.
+All Mg Gloster variants have the Multi-link suspension rear suspension.
+All Mg Gloster variants come with Tilt & Telescopic steering adjustment.
+All variants of Mg Gloster have Adjustable Steering.
+All Mg Gloster variants are equipped with Front & Rear parking sensors.
+All Mg Gloster variants come with Front & Rear USB charging ports.
+All Mg Gloster variants are equipped with Front & Rear fog lights.
+All Mg Gloster variants feature a 8 inch digital cluster.
+All Mg Gloster variants have a With Guidedlines rear camera.
+All Mg Gloster variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Mg Gloster variants include Front & Rear speakers.
+All Mg Gloster variants have Front electric adjustable seats.
+Mg Gloster variants - Sharp 4x2 7Str, Black Storm 4x2 7Str, Savvy 4x2 7Str, Desert Storm 4x2 7Str, Snow Storm 4x2 7Str, Black Storm 4x4 7Str, Savvy 4x4 7Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str share the 60:40 Split foldable rear seat type.
+Mg Gloster variants - Black Storm 4x2 6Str, Savvy 4x2 6Str, Desert Storm 4x2 6Str, Black Storm 4x4 6Str, Savvy 4x4 6Str & Desert Storm 4x4 6Str share the 2nd Row Captain Seats Tumble Fold foldable rear seat type.
+All Mg Gloster variants have a With Storage central console armrest.
+Mg Gloster variants with Turbo Charger - Sharp 4x2 7Str, Black Storm 4x2 6Str, Black Storm 4x2 7Str, Savvy 4x2 6Str, Savvy 4x2 7Str, Desert Storm 4x2 6Str, Desert Storm 4x2 7Str & Snow Storm 4x2 7Str.
+Mg Gloster variants - Black Storm 4x4 6Str, Black Storm 4x4 7Str, Savvy 4x4 6Str, Savvy 4x4 7Str, Desert Storm 4x4 6Str, Desert Storm 4x4 7Str & Snow Storm 4x4 7Str share the Twin turbocharger type.
+All Mg Gloster variants come with built-in apps including Gaana.
+All Mg Gloster variants have Full autonomous parking.
+All Mg Gloster variants feature ambient lighting with 64 color options.
+All variants of Mg Gloster have Rear Seat Headrest.
+All Mg Gloster variants come with a Panoramic sunroof.
+All Mg Gloster variants come with 3 drive modes.
+All Mg Gloster variants offer Eco, Normal & Sport drive modes.
+All Mg Gloster variants come with High Quality Audio System - 12 Speakers (Including Subwoofer & Amplifier),Customizable Lock Screen Wallpaper as additional features.

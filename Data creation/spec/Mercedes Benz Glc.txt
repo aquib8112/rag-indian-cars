@@ -1,0 +1,209 @@
+Mercedes Benz Glc has 2 variants: 300 & 220d.
+All variants of Mercedes Benz Glc have Power Steering.
+All variants of Mercedes Benz Glc have Air Conditioner.
+All variants of Mercedes Benz Glc have Heater.
+All variants of Mercedes Benz Glc have Automatic Climate Control.
+All variants of Mercedes Benz Glc have Accessory Power Outlet.
+All variants of Mercedes Benz Glc have Trunk Light.
+All variants of Mercedes Benz Glc have Vanity Mirror.
+All variants of Mercedes Benz Glc have Rear Reading Lamp.
+All variants of Mercedes Benz Glc have Adjustable Headrest.
+All variants of Mercedes Benz Glc have Rear Seat Centre Arm Rest.
+All variants of Mercedes Benz Glc have Rear AC Vents.
+All variants of Mercedes Benz Glc have Cruise Control.
+All variants of Mercedes Benz Glc have Real-Time Vehicle Tracking.
+All variants of Mercedes Benz Glc have Engine Start/Stop Button.
+All variants of Mercedes Benz Glc have Voice Commands.
+All variants of Mercedes Benz Glc have Hands-Free Tailgate.
+All variants of Mercedes Benz Glc have Chrome Grille.
+All variants of Mercedes Benz Glc have KeyLess Entry.
+All variants of Mercedes Benz Glc have Tachometer.
+Mercedes Benz Glc variant without Wheel Covers - 220d.
+All variants of Mercedes Benz Glc have Alloy Wheels.
+All variants of Mercedes Benz Glc have Automatic Headlamps.
+All variants of Mercedes Benz Glc have LED DRLs.
+All variants of Mercedes Benz Glc have LED Headlamps.
+All variants of Mercedes Benz Glc have Anti-lock Braking System (ABS).
+All variants of Mercedes Benz Glc have Central Locking.
+All variants of Mercedes Benz Glc have Driver Airbag.
+All variants of Mercedes Benz Glc have Side Airbag.
+All variants of Mercedes Benz Glc have Seat Belt Warning.
+All variants of Mercedes Benz Glc have Engine Immobilizer.
+All variants of Mercedes Benz Glc have E-Call & I-Call.
+All variants of Mercedes Benz Glc have Remote AC On/Off.
+All variants of Mercedes Benz Glc do not have Side Airbag-Rear.
+Mercedes Benz Glc variant with Anti-Theft Device - 300.
+All variants of Mercedes Benz Glc have Speed Alert.
+All variants of Mercedes Benz Glc have ISOFIX Child Seat Mounts.
+All variants of Mercedes Benz Glc have Hill Assist.
+All variants of Mercedes Benz Glc have 360 View Camera.
+All variants of Mercedes Benz Glc have Radio.
+All variants of Mercedes Benz Glc have Wireless Phone Charging.
+All variants of Mercedes Benz Glc have Bluetooth Connectivity.
+All variants of Mercedes Benz Glc have Android Auto.
+All variants of Mercedes Benz Glc have Apple CarPlay.
+All variants of Mercedes Benz Glc have Live Location.
+All variants of Mercedes Benz Glc have Google / Alexa Connectivity.
+All variants of Mercedes Benz Glc have Remote Door Lock/Unlock.
+All variants of Mercedes Benz Glc have Geo-fence Alert.
+Mercedes Benz Glc variant with Remote Climate Control (A/C) - 220d.
+Mercedes Benz Glc variant with Height Adjustable Front Seat Belts - 220d.
+Mercedes Benz Glc variant without Height Adjustable Front Seat Belts - 300.
+Mercedes Benz Glc variant with Lumbar Support - 300.
+Mercedes Benz Glc variant without Lumbar Support - 220d.
+Mercedes Benz Glc variant with Paddle Shifters - 300.
+Mercedes Benz Glc variant without Paddle Shifters - 220d.
+Mercedes Benz Glc variant with Electronic Multi-Tripmeter - 220d.
+Mercedes Benz Glc variant with Digital Clock - 220d.
+Mercedes Benz Glc variant with Outside Temperature Display - 220d.
+All variants of Mercedes Benz Glc have Dual Tone Dashboard.
+Mercedes Benz Glc variant without Power Antenna - 220d.
+All variants of Mercedes Benz Glc have Halogen Headlamps.
+All variants of Mercedes Benz Glc have LED Taillights.
+All variants of Mercedes Benz Glc have Brake Assist.
+All variants of Mercedes Benz Glc have Anti-Theft Alarm.
+All variants of Mercedes Benz Glc have Digital Odometer.
+All variants of Mercedes Benz Glc have SOS / Emergency Assistance.
+All variants of Mercedes Benz Glc have Blind Spot Camera.
+All variants of Mercedes Benz Glc have Speed Assist System.
+All variants of Mercedes Benz Glc have Traffic Sign Recognition.
+All variants of Mercedes Benz Glc have Blind Spot Collision Avoidance Assist.
+All variants of Mercedes Benz Glc have Lane Departure Warning.
+All variants of Mercedes Benz Glc have Lane Keep Assist.
+All variants of Mercedes Benz Glc have Adaptive High Beam Assist.
+All variants of Mercedes Benz Glc have Cooled Glovebox.
+All variants of Mercedes Benz Glc have Navigation with Live Traffic.
+All variants of Mercedes Benz Glc have Send POI to Vehicle From App.
+Mercedes Benz Glc variant without Ventilated Seats - 220d.
+All variants of Mercedes Benz Glc have Hill Descent Control.
+All variants of Mercedes Benz Glc have Active noise cancellation.
+Mercedes Benz Glc variant without Battery Saver - 220d.
+All variants of Mercedes Benz Glc have Rear Window Sunblind.
+All variants of Mercedes Benz Glc have Rear Windscreen Sunblind.
+Mercedes Benz Glc variant without Leather wrap gear-shift selector - 220d.
+Mercedes Benz Glc variant without Smoke Headlamps - 220d.
+All variants of Mercedes Benz Glc have Blind Spot Monitor.
+All variants of Mercedes Benz Glc have Digital Car Key.
+All variants of Mercedes Benz Glc have Live Weather.
+All variants of Mercedes Benz Glc have Tailgate Ajar Warning.
+Mercedes Benz Glc variant with Remote Trunk Opener - 220d.
+All variants of Mercedes Benz Glc have Remote Fuel Lid Opener.
+All variants of Mercedes Benz Glc have Lane Change Indicator.
+All variants of Mercedes Benz Glc have Wi-Fi Connectivity.
+All variants of Mercedes Benz Glc have Save Route/Place.
+All variants of Mercedes Benz Glc have Cornering Headlamps.
+All variants of Mercedes Benz Glc have Xenon Headlamps.
+Mercedes Benz Glc variant without Regenerative Braking - 300.
+Mercedes Benz Glc variant with Leather Seats - 220d.
+Mercedes Benz Glc variant with Driving Experience Control Eco - 220d.
+All variants of Mercedes Benz Glc do not have MirrorLink.
+Mercedes Benz Glc variant without Fog Lights - Rear - 220d.
+All variants of Mercedes Benz Glc have Height Adjustable Driver Seat.
+All variants of Mercedes Benz Glc have Rear Window Defogger.
+All variants of Mercedes Benz Glc have Leather Wrapped Steering Wheel.
+All variants of Mercedes Benz Glc have Glove Box.
+All variants of Mercedes Benz Glc have Adjustable Headlamps.
+All variants of Mercedes Benz Glc have Outside Rear View Mirror Turn Indicators.
+All variants of Mercedes Benz Glc have Passenger Airbag.
+All variants of Mercedes Benz Glc have Day & Night Rear View Mirror.
+All variants of Mercedes Benz Glc have Tyre Pressure Monitoring System (TPMS).
+All variants of Mercedes Benz Glc have Touchscreen.
+All variants of Mercedes Benz Glc have Rear Window Wiper.
+All variants of Mercedes Benz Glc have Rear Window Washer.
+All variants of Mercedes Benz Glc have Chrome Garnish.
+All variants of Mercedes Benz Glc have Child Safety Locks.
+All variants of Mercedes Benz Glc have Rear Spoiler.
+All variants of Mercedes Benz Glc have Rain Sensing Wiper.
+All variants of Mercedes Benz Glc have Air Quality Control.
+Mercedes Benz Glc variant with Tinted Glass - 220d.
+Mercedes Benz Glc variant with Navigation System - 220d.
+All variants of Mercedes Benz Glc have Smart Access Card Entry.
+Mercedes Benz Glc variant with Fabric Upholstery - 220d.
+All variants of Mercedes Benz Glc have Roof Rails.
+Mercedes Benz Glc variant with Roof Carrier - 220d.
+All variants of Mercedes Benz Glc have Side Stepper.
+All variants of Mercedes Benz Glc have Usb Ports.
+Mercedes Benz Glc variant without Gear Shift Indicator - 220d.
+All variants of Mercedes Benz Glc have Luggage Hook & Net.
+Mercedes Benz Glc variant with Low Fuel Warning Light - 220d.
+Mercedes Benz Glc variant with Fog Lights - Front - 220d.
+All variants of Mercedes Benz Glc have Integrated 2DIN Audio.
+Mercedes Benz Glc variant without Rear Curtain - 220d.
+Mercedes Benz Glc variant 300 has the M254 engine.
+Mercedes Benz Glc variant 220d has the OM654M engine.
+Mercedes Benz Glc variant 300 has a displacement of 1999  cubic centimeters.
+Mercedes Benz Glc variant 220d has a displacement of 1993  cubic centimeters.
+Mercedes Benz Glc variant 300 delivers a max power of 254.79 Brake Horsepower (BHP) at 5800 Revolutions Per Minute (RPM).
+Mercedes Benz Glc variant 220d delivers a max power of 194.44 Brake Horsepower (BHP) at 3600 Revolutions Per Minute (RPM).
+Mercedes Benz Glc variant 300 has a max torque of 400 Newton meters at 1800 to 2200 Revolutions Per Minute (RPM).
+Mercedes Benz Glc variant 220d has a max torque of 440 Newton meters at 2000 to 3200 Revolutions Per Minute (RPM).
+All Mercedes Benz Glc variants have 4.0 valves per cylinder.
+All Mercedes Benz Glc variants have a Automatic transmission.
+All Mercedes Benz Glc variants have 4.0 cylinders.
+Mercedes Benz Glc variant 300 comes with a 9-Speed gearbox.
+Mercedes Benz Glc variant 220d comes with a 9-Speed-TRONIC gearbox.
+Mercedes Benz Glc variant 300 has a Four-Wheel Drive (4WD) drive type.
+Mercedes Benz Glc variant 220d has a All-Wheel Drive (AWD) drive type.
+Mercedes Benz Glc variant 300 runs on Petrol.
+Mercedes Benz Glc variant 220d runs on Diesel.
+All Mercedes Benz Glc variants come with Electric steering.
+Mercedes Benz Glc variant 220d has Disc front brakes.
+Mercedes Benz Glc variant 220d has Disc rear brakes.
+All Mercedes Benz Glc variants have a length of 4716 mm.
+All Mercedes Benz Glc variants have a width of 1890 mm.
+All Mercedes Benz Glc variants have a height of 1640 mm.
+All Mercedes Benz Glc variants offer 620 Litres of boot space.
+All Mercedes Benz Glc variants have a seating capacity of 5.0.
+Mercedes Benz Glc variant 300 has a wheelbase of 3095 mm.
+Mercedes Benz Glc variant 220d has a wheelbase of 2580 mm.
+All Mercedes Benz Glc variants have a kerb weight of 2000 kg.
+All Mercedes Benz Glc variants have a gross weight of 2550 kg.
+All Mercedes Benz Glc variants have 5.0 doors.
+All Mercedes Benz Glc variants come with a Automatic boot opening mechanism.
+All Mercedes Benz Glc variants have tyres of size 235/55 R19.
+All Mercedes Benz Glc variants come with Tubeless Radial tyres.
+All Mercedes Benz Glc variants have R19 Inch wheels.
+All Mercedes Benz Glc variants come equipped with 7.0 airbags.
+All Mercedes Benz Glc variants come with a 11.9 inch touchscreen display.
+All Mercedes Benz Glc variants come with 15.0 speakers.
+All Mercedes Benz Glc variants come with 19 Inch front alloy wheels.
+All Mercedes Benz Glc variants come with 19 Inch rear alloy wheels.
+All Mercedes Benz Glc variants come with Android Auto, Apple CarPlay connectivity options.
+All Mercedes Benz Glc variants feature a Full Digital digital cluster.
+All Mercedes Benz Glc variants come with Leather upholstery.
+Mercedes Benz Glc variant 300 has a top speed of 240 kmph.
+Mercedes Benz Glc variant 220d has a top speed of 219 kmph.
+Mercedes Benz Glc variant 300 features a front tread of 1561 mm.
+Mercedes Benz Glc variant 300 accelerates from 0-100 kmph in 6.2 s.
+Mercedes Benz Glc variant 220d accelerates from 0-100 kmph in 8 s.
+Mercedes Benz Glc variant 300 accelerates from 0-100 kmph in 6.2 s.
+Mercedes Benz Glc variant 220d accelerates from 0-100 kmph in 8 s.
+All Mercedes Benz Glc variants have a rear tread of 1640 mm.
+Mercedes Benz Glc variant 300 features a Multi-Point Fuel Injection (MPFi) fuel supply system.
+Mercedes Benz Glc variant 220d features a Common Rail Direct Injection (CRDi) fuel supply system.
+Mercedes Benz Glc variant 220d has a Remote trunk opener.
+All Mercedes Benz Glc variants have All Windows anti-pinch power windows.
+Mercedes Benz Glc variant 300 has a highway mileage of 12.7 kmpl.
+Mercedes Benz Glc variant 220d has a highway mileage of 18 kmpl.
+All Mercedes Benz Glc variants have a fuel tank capacity of 66 Litres.
+All Mercedes Benz Glc variants have the Multi-link suspension front suspension.
+All Mercedes Benz Glc variants have the Multi-link suspension rear suspension.
+All Mercedes Benz Glc variants come with Tilt & Telescopic steering adjustment.
+All variants of Mercedes Benz Glc have Adjustable Steering.
+All Mercedes Benz Glc variants are equipped with Front & Rear parking sensors.
+All Mercedes Benz Glc variants come with Front USB charging ports.
+All Mercedes Benz Glc variants feature a 12.3 inch digital cluster.
+All Mercedes Benz Glc variants have a With Guidedlines rear camera.
+Mercedes Benz Glc variant 300 has Driver seatbelt pretensioners and force limiters.
+Mercedes Benz Glc variant 220d has Driver and Passenger seatbelt pretensioners and force limiters.
+All Mercedes Benz Glc variants include Front & Rear speakers.
+All Mercedes Benz Glc variants have Front & Rear electric adjustable seats.
+All Mercedes Benz Glc variants have a 60:40 Split foldable rear seat.
+All variants of Mercedes Benz Glc have Central Console Armrest.
+Mercedes Benz Glc variant with Turbo Charger - 220d.
+All Mercedes Benz Glc variants have Full autonomous parking.
+All Mercedes Benz Glc variants feature ambient lighting with 64 color options.
+All variants of Mercedes Benz Glc have Rear Seat Headrest.
+All Mercedes Benz Glc variants come with a Panoramic sunroof.
+All Mercedes Benz Glc variants come with 4 drive modes.
+All Mercedes Benz Glc variants come with connect with Alexa, Google Home integration and Parking location on navigation system as additional features.

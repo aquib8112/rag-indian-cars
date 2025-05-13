@@ -1,0 +1,143 @@
+Mg Comet Ev has 6 variants: Executive, Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+All variants of Mg Comet Ev have Power Steering.
+All variants of Mg Comet Ev have Air Conditioner.
+All variants of Mg Comet Ev have Heater.
+All variants of Mg Comet Ev have Accessory Power Outlet.
+Mg Comet Ev variants with Vanity Mirror - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Vanity Mirror - Executive.
+Mg Comet Ev variants with Real-Time Vehicle Tracking - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Real-Time Vehicle Tracking - Executive.
+Mg Comet Ev variants with Engine Start/Stop Button - Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variants without Engine Start/Stop Button - Executive, Excite & Excite FC.
+Mg Comet Ev variants with Voice Commands - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Voice Commands - Executive.
+All variants of Mg Comet Ev have KeyLess Entry.
+All variants of Mg Comet Ev have Follow Me Home Headlamps.
+All variants of Mg Comet Ev have Wheel Covers.
+Mg Comet Ev variants with LED Headlamps - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without LED Headlamps - Executive.
+All variants of Mg Comet Ev have Anti-lock Braking System (ABS).
+All variants of Mg Comet Ev have Central Locking.
+All variants of Mg Comet Ev have Driver Airbag.
+All variants of Mg Comet Ev have Seat Belt Warning.
+All variants of Mg Comet Ev have Engine Immobilizer.
+Mg Comet Ev variants with E-Call & I-Call - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without E-Call & I-Call - Executive.
+Mg Comet Ev variants with Electronic Stability Control (ESC) - Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variants without Electronic Stability Control (ESC) - Executive, Excite & Excite FC.
+Mg Comet Ev variants with Anti-Theft Device - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Anti-Theft Device - Executive.
+Mg Comet Ev variants with Speed Alert - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Speed Alert - Executive.
+All variants of Mg Comet Ev have Speed Sensing Auto Door Lock.
+All variants of Mg Comet Ev have ISOFIX Child Seat Mounts.
+Mg Comet Ev variants with Hill Assist - Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variants without Hill Assist - Executive, Excite & Excite FC.
+All variants of Mg Comet Ev have Impact Sensing Auto Door Unlock.
+All variants of Mg Comet Ev have Radio.
+All variants of Mg Comet Ev have Bluetooth Connectivity.
+Mg Comet Ev variants with Android Auto - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Android Auto - Executive.
+Mg Comet Ev variants with Apple CarPlay - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Apple CarPlay - Executive.
+Mg Comet Ev variants with Live Location - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Live Location - Executive.
+Mg Comet Ev variants with Over the Air (OTA) Updates - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Over the Air (OTA) Updates - Executive.
+Mg Comet Ev variants with Over Speeding Alert - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Over Speeding Alert - Executive.
+Mg Comet Ev variants with Smartwatch App - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Smartwatch App - Executive.
+Mg Comet Ev variants with Valet Mode - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variants with Remote Door Lock/Unlock - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Remote Door Lock/Unlock - Executive.
+Mg Comet Ev variants with Geo-fence Alert - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Geo-fence Alert - Executive.
+All variants of Mg Comet Ev have Dual Tone Dashboard.
+Mg Comet Ev variant with Halogen Headlamps - Executive.
+Mg Comet Ev variants without Halogen Headlamps - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variants with LED Taillights - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without LED Taillights - Executive.
+All variants of Mg Comet Ev have Electronic Brakeforce Distribution (EBD).
+Mg Comet Ev variants with Anti-Theft Alarm - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Anti-Theft Alarm - Executive.
+All variants of Mg Comet Ev have Digital Odometer.
+Mg Comet Ev variants with Remote Immobiliser - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Remote Immobiliser - Executive.
+Mg Comet Ev variants with Digital Car Key - Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variants without Digital Car Key - Executive, Excite & Excite FC.
+Mg Comet Ev variants with Wi-Fi Connectivity - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Wi-Fi Connectivity - Executive.
+Mg Comet Ev variants with Engine Start Alarm - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Engine Start Alarm - Executive.
+Mg Comet Ev variants with Fast Charging - Excite FC, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variants without Fast Charging - Executive, Excite & Exclusive.
+Mg Comet Ev variants with Hinglish Voice Commands - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+Mg Comet Ev variant without Hinglish Voice Commands - Executive.
+All variants of Mg Comet Ev have Glove Box.
+All variants of Mg Comet Ev have Outside Rear View Mirror Turn Indicators.
+All variants of Mg Comet Ev have Passenger Airbag.
+All variants of Mg Comet Ev have Day & Night Rear View Mirror.
+All variants of Mg Comet Ev have Tyre Pressure Monitoring System (TPMS).
+Mg Comet Ev variants with Touchscreen - Executive, Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition.
+All variants of Mg Comet Ev have Usb Ports.
+All variants of Mg Comet Ev have Luggage Hook & Net.
+All variants of Mg Comet Ev have LED Fog Lamps.
+All Mg Comet Ev variants produce a maximum power of 41.42 Brake Horsepower (BHP).
+All Mg Comet Ev variants produce a maximum torque of 110 Newton meters.
+All Mg Comet Ev variants have a Automatic transmission.
+All Mg Comet Ev variants come with a 1-Speed gearbox.
+All Mg Comet Ev variants have a Rear-Wheel Drive (RWD) drive type.
+All Mg Comet Ev variants run on Electric.
+All Mg Comet Ev variants comply with ZEV emission norms.
+All Mg Comet Ev variants come with Electric steering.
+All Mg Comet Ev variants have a turning radius of 4.2m.
+All Mg Comet Ev variants have Disc front brakes.
+Mg Comet Ev variants - Executive, Excite & Excite FC feature Drum rear brakes.
+Mg Comet Ev variants - Exclusive, Exclusive FC & 100 Year Limited Edition feature Disc rear brakes.
+All Mg Comet Ev variants have a length of 2974 mm.
+All Mg Comet Ev variants have a width of 1505 mm.
+All Mg Comet Ev variants have a height of 1640 mm.
+All Mg Comet Ev variants offer 350 Litres of boot space.
+All Mg Comet Ev variants have a seating capacity of 4.0.
+All Mg Comet Ev variants have a wheelbase of 2010 mm.
+All Mg Comet Ev variants have 2.0 doors.
+All Mg Comet Ev variants come with a Manual boot opening mechanism.
+All Mg Comet Ev variants have tyres of size 145/70 R12.
+All Mg Comet Ev variants come with Tyre Type tyres.
+All Mg Comet Ev variants have 12 Inch wheels.
+All Mg Comet Ev variants come equipped with 2.0 airbags.
+Mg Comet Ev variants - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition come with a 10.25 inch touchscreen display.
+All Mg Comet Ev variants come with 2.0 speakers.
+Mg Comet Ev variants - Executive, Excite, Excite FC, Exclusive & Exclusive FC have a 100-0 kmph braking time of 55.71 s seconds.
+Mg Comet Ev variants - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition have Android Auto, Apple CarPlay connectivity options.
+All Mg Comet Ev variants feature a LCD Digital Cluster digital cluster.
+All Mg Comet Ev variants come with Fabric upholstery.
+All Mg Comet Ev variants offer a boot space of 350 Litres.
+Mg Comet Ev variants - Executive, Excite, Excite FC, Exclusive & Exclusive FC have a city driveability (20-80 kmph) time of 10.14 s.
+All Mg Comet Ev variants are equipped with a Permanent Magnet Synchronous Motor motor type.
+All Mg Comet Ev variants are powered by a Lithium-Ion Battery battery.
+All Mg Comet Ev variants come with a 17.3 kWh battery capacity.
+All Mg Comet Ev variants are equipped with a 41.42 kW motor power.
+All Mg Comet Ev variants offer a driving range of 230 km.
+All Mg Comet Ev variants come with a CCS-II charging port.
+Mg Comet Ev variants - Executive, Excite & Exclusive have the same charging time of 7 Hours at 3.3KW (0-100%).
+Mg Comet Ev variants - Excite FC, Exclusive FC & 100 Year Limited Edition have the same charging time of 3.5 Hours at 7.5KW (0-100%).
+All Mg Comet Ev variants have a tested range of 182 km.
+All Mg Comet Ev variants have the MacPherson Strut suspension front suspension.
+All Mg Comet Ev variants have the Multi-link suspension rear suspension.
+Mg Comet Ev variants - Exclusive, Exclusive FC & 100 Year Limited Edition share the Tilt Steering steering adjustment type.
+Mg Comet Ev variants without Adjustable Steering - Executive, Excite & Excite FC.
+Mg Comet Ev variants with Adjustable Steering - Exclusive, Exclusive FC & 100 Year Limited Edition.
+All Mg Comet Ev variants are equipped with Rear parking sensors.
+All Mg Comet Ev variants come with Front USB charging ports.
+Mg Comet Ev variant Executive has a 7 inch digital cluster.
+Mg Comet Ev variants - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition share the 10.25 inch digital cluster size.
+Mg Comet Ev variants without Rear Camera - Executive, Excite & Excite FC.
+Mg Comet Ev variants - Exclusive, Exclusive FC & 100 Year Limited Edition share the With Guidedlines rear camera type.
+All Mg Comet Ev variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Mg Comet Ev variants have a 50:50 Split foldable rear seat.
+Mg Comet Ev variants - Executive, Excite, Excite FC, Exclusive & Exclusive FC share the i-Smart App inbuilt apps.
+Mg Comet Ev variant 100 Year Limited Edition includes inbuilt apps like JioSaavn, & i-Smart App.
+Mg Comet Ev variant Executive offers Basic Audio,Bluetooth Music & Calling as additional features.
+Mg Comet Ev variants - Excite, Excite FC, Exclusive, Exclusive FC & 100 Year Limited Edition share Bluetooth Music & Calling,Wireless Android Auto & Apple CarPlay,i-Smart with 55+ Connected car features as additional features.

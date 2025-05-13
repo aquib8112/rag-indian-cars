@@ -1,0 +1,96 @@
+﻿Citroen Ec3 has 4 variants: Feel, Feel DT, Shine & Shine DT.
+All variants of Citroen Ec3 have Power Steering.
+All variants of Citroen Ec3 have Air Conditioner.
+All variants of Citroen Ec3 have Heater.
+All variants of Citroen Ec3 have Accessory Power Outlet.
+All variants of Citroen Ec3 have Vanity Mirror.
+All variants of Citroen Ec3 do not have Chrome Grille.
+All variants of Citroen Ec3 have KeyLess Entry.
+Citroen Ec3 variants with Alloy Wheels - Shine & Shine DT.
+Citroen Ec3 variants without Alloy Wheels - Feel & Feel DT.
+All variants of Citroen Ec3 have Integrated Antenna.
+All variants of Citroen Ec3 have LED DRLs.
+All variants of Citroen Ec3 have Anti-lock Braking System (ABS).
+All variants of Citroen Ec3 have Central Locking.
+All variants of Citroen Ec3 have Driver Airbag.
+All variants of Citroen Ec3 have Seat Belt Warning.
+All variants of Citroen Ec3 have Engine Immobilizer.
+All variants of Citroen Ec3 do not have E-Call & I-Call.
+All variants of Citroen Ec3 have Speed Alert.
+All variants of Citroen Ec3 have Speed Sensing Auto Door Lock.
+All variants of Citroen Ec3 have Radio.
+All variants of Citroen Ec3 have Bluetooth Connectivity.
+All variants of Citroen Ec3 have Android Auto.
+All variants of Citroen Ec3 have Apple CarPlay.
+All variants of Citroen Ec3 have Over Speeding Alert.
+All variants of Citroen Ec3 have Remote Door Lock/Unlock.
+All variants of Citroen Ec3 have Halogen Headlamps.
+All variants of Citroen Ec3 have Electronic Brakeforce Distribution (EBD).
+All variants of Citroen Ec3 have Door Ajar Warning.
+All variants of Citroen Ec3 have Height Adjustable Driver Seat.
+Citroen Ec3 variants with Rear Window Defogger - Feel, Feel DT, Shine & Shine DT.
+Citroen Ec3 variants with Leather Wrapped Steering Wheel - Feel, Feel DT, Shine & Shine DT.
+All variants of Citroen Ec3 have Passenger Airbag.
+All variants of Citroen Ec3 have Touchscreen.
+Citroen Ec3 variants with Rear Window Wiper - Feel, Feel DT, Shine & Shine DT.
+All variants of Citroen Ec3 have Chrome Garnish.
+All variants of Citroen Ec3 have Child Safety Locks.
+All variants of Citroen Ec3 have Roof Rails.
+All variants of Citroen Ec3 have Usb Ports.
+All variants of Citroen Ec3 have Luggage Hook & Net.
+All Citroen Ec3 variants produce a maximum power of 56.21 Brake Horsepower (BHP).
+All Citroen Ec3 variants produce a maximum torque of 143 Newton meters.
+All Citroen Ec3 variants have a Automatic transmission.
+All Citroen Ec3 variants come with a 1-Speed gearbox.
+All Citroen Ec3 variants have a Front-Wheel Drive (FWD) drive type.
+All Citroen Ec3 variants run on Electric.
+All Citroen Ec3 variants comply with ZEV emission norms.
+All Citroen Ec3 variants come with Electric steering.
+All Citroen Ec3 variants have a turning radius of 4.98m.
+All Citroen Ec3 variants have Disc front brakes.
+All Citroen Ec3 variants have Drum rear brakes.
+All Citroen Ec3 variants have a length of 3981 mm.
+All Citroen Ec3 variants have a width of 1733 mm.
+All Citroen Ec3 variants have a height of 1604 mm.
+All Citroen Ec3 variants offer 315 Litres of boot space.
+All Citroen Ec3 variants have a seating capacity of 5.0.
+All Citroen Ec3 variants have a wheelbase of 2540 mm.
+Citroen Ec3 variants - Feel & Feel DT share a kerb weight of 1316 kg.
+Citroen Ec3 variants - Shine & Shine DT share a kerb weight of 1329 kg.
+All Citroen Ec3 variants have a gross weight of 1716 kg.
+All Citroen Ec3 variants have 5.0 doors.
+All Citroen Ec3 variants have tyres of size 195/65 R15.
+All Citroen Ec3 variants come with Tubeless Radial tyres.
+Citroen Ec3 variants - Feel & Feel DT feature 15 Inch wheels.
+All Citroen Ec3 variants come equipped with 2.0 airbags.
+Citroen Ec3 variant Feel DT has a Global NCAP child safety rating of 1 Star.
+All Citroen Ec3 variants come with a 10.23 inch touchscreen display.
+All Citroen Ec3 variants come with 4.0 speakers.
+All Citroen Ec3 variants achieve 100-0 kmph braking in 46.70 s seconds.
+All Citroen Ec3 variants come with Android Auto, Apple CarPlay connectivity options.
+All Citroen Ec3 variants feature a Full Digital digital cluster.
+All Citroen Ec3 variants come with Fabric upholstery.
+All Citroen Ec3 variants have a top speed of 107 kmph.
+Citroen Ec3 variant Feel features a front tread of 1511 mm.
+All Citroen Ec3 variants have a city driveability (20-80 kmph) time of 8.74 s.
+All Citroen Ec3 variants are equipped with a Permanent Magnet Synchronous Motor motor type.
+All Citroen Ec3 variants are powered by a Lithium-Ion Battery battery.
+All Citroen Ec3 variants come with a 29.2 kWh battery capacity.
+All Citroen Ec3 variants are equipped with a 41.92 kW motor power.
+All Citroen Ec3 variants offer a driving range of 320 km.
+All Citroen Ec3 variants take 57 Min to charge using a D.C charger.
+All Citroen Ec3 variants come with a CCS-II charging port.
+All Citroen Ec3 variants come with a 3.3 kW Charger charger type.
+All Citroen Ec3 variants take 10hrs 30mins to charge using a 15 A plug point.
+All Citroen Ec3 variants have a tested range of 257 km.
+All Citroen Ec3 variants have the MacPherson Strut suspension front suspension.
+All Citroen Ec3 variants have the Rear twist beam rear suspension.
+All Citroen Ec3 variants come with Tilt Steering steering adjustment.
+All Citroen Ec3 variants are equipped with Rear parking sensors.
+All Citroen Ec3 variants come with Front & Rear USB charging ports.
+Citroen Ec3 variants without Rear Camera - Feel & Feel DT.
+Citroen Ec3 variants - Shine & Shine DT share the With Guidedlines rear camera type.
+All Citroen Ec3 variants include Front & Rear speakers.
+All Citroen Ec3 variants have a Bench Folding foldable rear seat.
+All Citroen Ec3 variants come with 2 drive modes.
+All Citroen Ec3 variants come with Citroën Connect Touchscreen,Mirror Screen,Wireless Smartphone Connectivity,MyCitroën Connect, C - BUDDY' Personal Assistant Application,Smartphone Storage - Rear Console, Smartphone Charger Wire Guide on Instrument Panel,USB Port - Front 1 + Rear 2 Fast Charger as additional features.

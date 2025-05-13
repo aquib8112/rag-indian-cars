@@ -1,0 +1,156 @@
+﻿Aston Martin Db12 has 1 variants: Coupe.
+Aston Martin Db12 has Power Steering.
+Aston Martin Db12 has Air Conditioner.
+Aston Martin Db12 has Heater.
+Aston Martin Db12 has Automatic Climate Control.
+Aston Martin Db12 has Accessory Power Outlet.
+Aston Martin Db12 has Trunk Light.
+Aston Martin Db12 has Vanity Mirror.
+Aston Martin Db12 has Rear Reading Lamp.
+Aston Martin Db12 has Adjustable Headrest.
+Aston Martin Db12 has Rear Seat Centre Arm Rest.
+Aston Martin Db12 has Rear AC Vents.
+Aston Martin Db12 has Cruise Control.
+Aston Martin Db12 has Engine Start/Stop Button.
+Aston Martin Db12 has Voice Commands.
+Aston Martin Db12 has Hands-Free Tailgate.
+Aston Martin Db12 has KeyLess Entry.
+Aston Martin Db12 has Follow Me Home Headlamps.
+Aston Martin Db12 has Tachometer.
+Aston Martin Db12 has Alloy Wheels.
+Aston Martin Db12 has Integrated Antenna.
+Aston Martin Db12 has Automatic Headlamps.
+Aston Martin Db12 has LED DRLs.
+Aston Martin Db12 has LED Headlamps.
+Aston Martin Db12 has Anti-lock Braking System (ABS).
+Aston Martin Db12 has Central Locking.
+Aston Martin Db12 has Driver Airbag.
+Aston Martin Db12 has Side Airbag.
+Aston Martin Db12 has Seat Belt Warning.
+Aston Martin Db12 has Engine Immobilizer.
+Aston Martin Db12 does not have E-Call & I-Call.
+Aston Martin Db12 has Side Airbag-Rear.
+Aston Martin Db12 has Electronic Stability Control (ESC).
+Aston Martin Db12 has Anti-Theft Device.
+Aston Martin Db12 has Speed Alert.
+Aston Martin Db12 has Speed Sensing Auto Door Lock.
+Aston Martin Db12 has ISOFIX Child Seat Mounts.
+Aston Martin Db12 has Hill Assist.
+Aston Martin Db12 has Impact Sensing Auto Door Unlock.
+Aston Martin Db12 has 360 View Camera.
+Aston Martin Db12 has Radio.
+Aston Martin Db12 has Wireless Phone Charging.
+Aston Martin Db12 has Bluetooth Connectivity.
+Aston Martin Db12 has Apple CarPlay.
+Aston Martin Db12 has Driver Attention Warning.
+Aston Martin Db12 has Remote Door Lock/Unlock.
+Aston Martin Db12 has Height Adjustable Front Seat Belts.
+Aston Martin Db12 has Lumbar Support.
+Aston Martin Db12 has Paddle Shifters.
+Aston Martin Db12 has Dual Tone Dashboard.
+Aston Martin Db12 has LED Taillights.
+Aston Martin Db12 has Electronic Brakeforce Distribution (EBD).
+Aston Martin Db12 has Brake Assist.
+Aston Martin Db12 has Anti-Theft Alarm.
+Aston Martin Db12 has Door Ajar Warning.
+Aston Martin Db12 has Digital Odometer.
+Aston Martin Db12 has SOS / Emergency Assistance.
+Aston Martin Db12 has Heads-Up Display (HUD).
+Aston Martin Db12 has Traffic Sign Recognition.
+Aston Martin Db12 has Lane Keep Assist.
+Aston Martin Db12 has Adaptive Cruise Control.
+Aston Martin Db12 has Adaptive High Beam Assist.
+Aston Martin Db12 has Rear Cross Traffic Alert.
+Aston Martin Db12 has Cooled Glovebox.
+Aston Martin Db12 has Glove Box light.
+Aston Martin Db12 has Active noise cancellation.
+Aston Martin Db12 has Leather wrap gear-shift selector.
+Aston Martin Db12 has Heated Outside Rear View Mirror.
+Aston Martin Db12 has Blind Spot Monitor.
+Aston Martin Db12 does not have Remote Boot Open.
+Aston Martin Db12 has Tailgate Ajar Warning.
+Aston Martin Db12 has Traction Control.
+Aston Martin Db12 has Acoustic Vehicle Alert System.
+Aston Martin Db12 has Height Adjustable Driver Seat.
+Aston Martin Db12 has Rear Window Defogger.
+Aston Martin Db12 has Leather Wrapped Steering Wheel.
+Aston Martin Db12 has Glove Box.
+Aston Martin Db12 has Adjustable Headlamps.
+Aston Martin Db12 has Outside Rear View Mirror Turn Indicators.
+Aston Martin Db12 has Passenger Airbag.
+Aston Martin Db12 has Day & Night Rear View Mirror.
+Aston Martin Db12 has Tyre Pressure Monitoring System (TPMS).
+Aston Martin Db12 has Touchscreen.
+Aston Martin Db12 has Child Safety Locks.
+Aston Martin Db12 has Rear Spoiler.
+Aston Martin Db12 has Rain Sensing Wiper.
+Aston Martin Db12 has Smart Access Card Entry.
+Aston Martin Db12 has Curtain Airbag.
+Aston Martin Db12 has Usb Ports.
+Aston Martin Db12 has Gear Shift Indicator.
+Aston Martin Db12 has Luggage Hook & Net.
+Aston Martin Db12 has LED Fog Lamps.
+Aston Martin Db12 has Integrated 2DIN Audio.
+The Aston Martin Db12 has the M177 biturbo V8 engine.
+The Aston Martin Db12 has a displacement of 3982  cubic centimeters.
+The Aston Martin Db12 generates 670.69 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+The Aston Martin Db12 generates 800 Newton meters at 2750 to 6000 Revolutions Per Minute (RPM).
+The Aston Martin Db12 has 4.0 valves per cylinder.
+The Aston Martin Db12 has a Automatic transmission.
+The Aston Martin Db12 has 8.0 cylinders.
+The Aston Martin Db12 has a 8-Speed AMT gearbox.
+The Aston Martin Db12 has a Rear-Wheel Drive (RWD) drive type.
+The Aston Martin Db12 runs on Petrol.
+The Aston Martin Db12 complies with BS VI 2.0 emission norms.
+The Aston Martin Db12 has Electric steering.
+The Aston Martin Db12 has a turning radius of 6.2m.
+The Aston Martin Db12 has Ventilated Disc front brakes.
+The Aston Martin Db12 has Ventilated Disc rear brakes.
+The Aston Martin Db12 has a length of 4725 mm.
+The Aston Martin Db12 has a width of 2135 mm.
+The Aston Martin Db12 has a height of 1295 mm.
+The Aston Martin Db12 offers 262 Litres of boot space.
+The Aston Martin Db12 has a seating capacity of 2.0.
+The Aston Martin Db12 has an unladen ground clearance of 120 mm.
+The Aston Martin Db12 has a wheelbase of 2740 mm.
+The Aston Martin Db12 has a kerb weight of 1788 kg.
+The Aston Martin Db12 features a Automatic boot opening mechanism.
+The Aston Martin Db12 is fitted with tyres of size F275/35, R325/30/ZR21.
+The Aston Martin Db12 is equipped with Unknown tyres.
+The Aston Martin Db12 is equipped with 10.0 airbags.
+The Aston Martin Db12 is equipped with a 10.25 inch touchscreen.
+The Aston Martin Db12 is equipped with 11.0 speakers.
+The Aston Martin Db12 features 21 Inch front alloy wheels.
+The Aston Martin Db12 features 21 Inch rear alloy wheels.
+The Aston Martin Db12 features Mirror Link connectivity options.
+The Aston Martin Db12 comes with a Multi-Information Display (MID) digital cluster.
+The Aston Martin Db12 features Leather upholstery.
+The Aston Martin Db12 achieves a top speed of 325 kmph.
+The Aston Martin Db12 achieves 0-100 kmph acceleration in 3.6 s.
+The Aston Martin Db12 achieves 0-100 kmph in 3.6 s.
+The Aston Martin Db12 is equipped with a Sequential electronic fuel injection fuel supply system.
+The Aston Martin Db12 features 1.0 subwoofer(s).
+The Aston Martin Db12 features All Windows anti-pinch power windows.
+The Aston Martin Db12 delivers a highway mileage of 12.75 kmpl.
+The Aston Martin Db12 comes with a fuel tank capacity of 78 Litres.
+The Aston Martin Db12 comes with the MacPherson Strut suspension front suspension.
+The Aston Martin Db12 comes with the Multi-link, Solid Axle rear suspension.
+The Aston Martin Db12 features Electrical Steering steering adjustment.
+Aston Martin Db12 has Adjustable Steering.
+The Aston Martin Db12 features Front & Rear parking sensors.
+The Aston Martin Db12 features Front USB charging ports.
+The Aston Martin Db12 features Front & Rear fog lights.
+The Aston Martin Db12 features a Shark Fin antenna.
+The Aston Martin Db12 has a 10.25 inch digital cluster.
+The Aston Martin Db12 has a With Guidedlines rear camera.
+The Aston Martin Db12 has Driver and Passenger seatbelt pretensioners and force limiters.
+The Aston Martin Db12 has Front & Rear speakers.
+The Aston Martin Db12 has Front electric adjustable seats.
+Aston Martin Db12 has Central Console Armrest.
+The Aston Martin Db12 has a Twin turbocharger.
+The Aston Martin Db12 has Driver knee airbags.
+The Aston Martin Db12 has Semi autonomous parking.
+Aston Martin Db12 has Rear Seat Headrest.
+The Aston Martin Db12 includes a Optional sunroof.
+The Aston Martin Db12 has 4 drive modes.
+The Aston Martin Db12 includes "390-watt 11 Speaker Aston Martin Audio System, Bluetooth mobile phone connectivity with audio streaming, Satellite navigation system, USB ports (x2),12v charging socket, optional :- Bowers & Wilkins 15 SPEAKERS, DOUBLE AMPLIFIED AND 1170w OF IMMERSIVE SOUND , ALUMINIUM DOUBLE DOME TWEETERS AND CONTINUUM® MIDRANGE SPEAKERS ,DEDICATED 3D HEADLINE SPEAKERS AND POWERFUL SUBWOOFER," as additional features.

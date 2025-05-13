@@ -1,0 +1,204 @@
+BYD Atto 3 Review
+
+BYD Atto 3 Pros
+A proper electric car that's built on a dedicated EV platform (and not an IC-engine convert)
+Well-rounded product that looks good, has a nice cabin and good space too
+Green image & zero tailpipe emissions appeal to the environmentally conscious
+Punchy motor offers fast performance. 0-100 km/h time of 7.3 seconds is enjoyable!!
+Selectable regenerative braking and drive modes allow you to extract maximum performance or efficiency, as needed
+400-km range is adequate for urban commuting as well as the usual road-tripping with family
+Low running costs & cheaper long-term maintenance (as is the case with all EVs)
+An excellent city car. Smooth driving experience, good low-speed ride quality, and easy to drive
+8-year / 1,60,000 km battery warranty, 8-year / 1,50,000 km warranty on motor, 6 years roadside assistance, and more
+Features such as the vehicle-to-load function (AC power for appliances), 12.8-inch touchscreen, panoramic sunroof, adaptive cruise control, NFC key card, etc.
+5-star Euro NCAP rating. Safety kit includes 7 airbags, level 2 ADAS features, a 360-degree camera, ESP etc.
+
+BYD Atto 3 Cons
+Expensive! The Atto 3 is premium priced at 35 - 37 lakhs OTR
+Funky interior design may not be to everyone's liking
+Needs a charging point installed at your home parking. This is not doable for many people
+Comfort-oriented suspension setup offers nothing for the enthusiasts
+Lack of charging infrastructure limits long-distance / highway usability
+Long full tank charging times in comparison with an ICE car. Overnight charging is best
+Missing features such as ventilated seats, rain-sensing wipers, connected car tech, spare wheel (!!!!!), wireless Android Auto / Apple CarPlay
+8-speaker sound system is ordinary for the price
+Single variant on offer. No cheaper entry-level variants to choose from
+A relatively new brand in India (although BYD is huge globally), so long-term reliability & after-sales service quality are unknowns
+Dealer network is currently tiny (~20 dealers across India only)
+
+Introduction
+Electric SUVs are the thing now, and you have some options to consider in the Indian market. The Atto 3, which is one of the options, is something that not a lot of people are aware of. Its an electric car from a Chinese brand called BYD (Build Your Dreams), which has been in India since 2007, not making cars, but manufacturing electronic parts, batteries, and mobile phones in Tamil Nadu. Internationally, the Chinese brand is expanding rapidly and has surpassed Tesla to become the worlds largest supplier of EVs. You can read more about BYD and its growth in the past years in
+this article by Seeking Alpha.
+In India, BYD started selling the E6 MPV in November 2021 for the B2B segment only (now also available for private buyers). In 2022, they brought in the Atto 3, which is exclusively for private buyers. It is an electric crossover with a 60.5 kWh battery pack and a claimed ARAI range of 521 km. Its powered by a 201 BHP electric motor that allows it to accelerate from 0 to 100 km/h in a claimed 7.3 seconds.
+
+BYD Atto 3 Price & Brochure
+BYD has launched the Atto 3 in a single variant in India at a price of Rs. 33.99 lakh (ex-showroom). Technically, its a standalone product in its class as the MG ZS EV and the Tata Nexon EV Max are priced much lower. Also, cars like the Volvo XC40 Recharge and the Kia EV6 cost a lot more. If you had to describe the pricing of the Atto 3, it is on the higher side, primarily because BYD is positioning the car as a premium electric SUV thats loaded with features and has a good power and range combination. Moreover, as of now, the car is being assembled in India from SKD units. The prices will drop once the local assembly begins, which is planned in phase 2. You are also paying for the electric technology and being an early adopter of the same. Individuals can avail of income tax benefits under section 80EEB (only applicable for vehicles registered by individuals) - click here to read a detailed article on the same.
+You can download the BYD Atto 3 brochure here - BYD Atto 3 Brochure.pdf
+
+Running Costs
+The Atto 3 has a 60.5 kWh battery pack which translates to ~60 units of electricity for a full charge. The per-unit cost of electricity depends on the slab that you are in & your location, but on average, its about Rs. 8 per unit. This translates to ~Rs. 480-500 to charge to 100%. BYD claims a range of 521 km (ARAI) and 480 km (NEDC) and you can expect a realistic driving range of 400 km (more on this later). You can get more range if you drive very conservatively. Thus, you can expect an approximate running cost of Rs. 1-1.2 per km which is an impressive number.
+Want to know more about EVs? Be sure to read GTO's excellent article (Electric Cars...through the eyes of a diehard petrol-head) on the topic.
+
+Exterior
+Design & Styling
+The name Atto 3 is inspired by Attosecond, which is the smallest time scale unit in physics (one quintillionth of a second). The car is built on an EV-specific platform (e-platform 3.0) and despite it being called an SUV, it resembles a crossover. The Atto 3 feels like it has been designed keeping the international market in mind. It’s sleek, and aerodynamic and has good proportions overall that make it look pleasant. The dimensions of the Atto 3 are something that caught me a little off-guard when I first saw it in person. I was expecting the car to be close to the Hyundai Creta / Kia Seltos in terms of dimensions, but it is noticeably longer and wider. On the other hand, it's not as tall. It looks more like a stretched-out hatchback. The car measures 4,455 mm in length, 1,875 mm in width, and 1,615 mm in height with a wheelbase of 2,720 mm.
+Notable features on the outside include LED adaptive front lights, LED DRLs, LED tail lamps and 18-inch alloy wheels. There are 4 colour options – Boulder Grey (our test car), Parkour Red, Ski White, and Surf Blue.
+
+Build Quality, Fit & Finish
+The Atto 3 is assembled in India from semi-knockdown kits (SKD). Overall, the build quality of the car feels satisfactory, but not impressive especially considering the price at which it is being currently sold. The amount of flex in certain panels like the quarter panel and even the doors was more than you would expect. The panel gaps aren’t super tight, but we found them to be consistent. The fit & finish in certain areas could've been better though.
+
+Wheels & Tyres
+The BYD Atto 3 gets 18-inch alloy wheels shod with 215/55 section tyres. Our test car had Atlas Batman A51 tyres which are range-focused. The recommended tyre pressure is 36 PSI all around which is for maximizing the range. This does affect the ride quality while driving (more on this later). If you are going to drive it like an enthusiast, you should consider wider tyres. The torque on tap is enough to make the tyres chirp on hard acceleration and even in the corners.
+
+Ground Clearance
+The Atto 3 has an unladen ground clearance of 175 mm, which is good enough for most driving conditions in India.
+Standard & Extended Warranty
+The Atto 3 comes with a standard warranty of 3 years / 1,25,000 km. The battery has an 8-year / 1,60,000 km warranty while the motor & motor controller have an 8-year / 1,50,000 km warranty. The DC-DC assembly, high voltage electric control assembly and OBC have a 6-year / 1,50,000 km warranty. You also get 3 years of free 4G data subscription, 6 years roadside assistance and 6 times of free labour cost maintenance. There are plenty more details regarding the standard warranty. Make sure you go through them if you buy the car – Booking and Warranty Policy.pdf
+Details about the extended warranty haven’t been disclosed yet.
+
+Safety
+The BYD Atto 3 is loaded with safety features like 7 airbags, a 360-degree camera system, TPMS, traction control system, ABS + EBD, electronic stability program, hill decent control, hill-hold assist, electronic parking brake with auto hold, adaptive cruise control and ISOFIX child seat anchors for 3 seats. You also get Level 2 ADAS (Advanced Driving Assistance System) features which BYD calls as DiPilot. This includes features like automatic emergency braking, blind spot detection, door open warning, lane departure warning, lane departure prevention, adaptive front lighting, rear cross-traffic alert & brake and front and rear collision warning. It has received a 5-star safety rating in Euro NCAP crash tests.
+The Lithium Iron Phosphate (LFP) Blade battery needs special mention here as BYD claims that it is the safest battery out there. As per the claims, while undergoing nail penetration tests, the Blade battery emitted neither smoke nor fire after being penetrated and its surface temperature reached 30 to 60 degrees Celsius. Under the same conditions, a conventional LFP block battery temperature reached a dangerous 200 to 400 degrees Celsius. Also, under extreme test conditions, such as being crushed, bent, heated in a furnace to 300°C, and overcharged by 260%, the battery didn’t explode or catch fire.
+
+Interior
+Cabin Design & Quality
+Funky is probably the best word to describe the interiors of the BYD Atto 3. Its unlike anything weve seen in recent times where the design language is getting more and more conservative to please the masses. Its almost concept car-like and some people may think its a little too much. But once you spend some time with the car, it starts to grow on you. For starters, there is a curvy dashboard finished in navy blue and cream-white shades with red accents. Theres a big floating 12.8-inch touchscreen that sits right in the middle and you can switch its orientation from landscape to portrait mode at the press of a button.
+The top and middle portions of the dashboard are soft to the touch, and this pattern continues even on the doorpads. Elements are nicely laid out on the wide center console and are easy to operate. The quality of materials used is great in some areas like the soft touch elements, steering wheel, gear knob, AC vents, etc. But just about average in some areas like the glovebox, door pockets, lower parts of the dashboard, etc. All in all, the cabin quality is good and wont disappoint most owners. That being said, dont expect Volkswagen Tiguan or Skoda Kodiaq level of quality here.
+
+Space & Comfort
+Getting in and out of the BYD Atto 3 is quite comfortable. Its not as tall as some SUVs though, so you have to duck slightly as you would in a crossover. Once inside, theres a good amount of space. You can especially feel the width of the car on the inside. The front passengers dont sit too close and the wide center console gives you a good sense of space. What also adds to this sense of space is the tall windshield, big windows, stretched-out dashboard, and panoramic sunroof. The cabin feels nice and airy.
+Front passengers get sporty-looking bucket seats that are quite comfortable. Theyre finished in dual-tone upholstery like the dashboard and get red contrast stitching. Theyre perforated, but dont get seat ventilation, which is disappointing as it is a must-have feature in Indian conditions. The cushioning is on point and they provide ample support as well. Theres a healthy amount of side bolstering to keep you in place and the center armrest is also placed at a nice height.
+
+Driving Position & Ergonomics
+Get into the driver seat and the first thing you will notice is the tall windscreen which gives you good frontal visibility. If you have a high seating position, you even see the contours on the sides of the bonnet. The driver can electrically adjust the seat in 6 ways while the passenger seat gets 4-way power adjustment. No lumbar adjustment has been provided. Finding your perfect driving position is quite easy as the steering gets tilt and telescopic adjustment. The flat bottom steering wheel has a cool design and is chunky too. Its nice to hold and has thumb contours as well. The horn is easily reachable with one's thumbs and not hard to press. The cabin is well laid out and all the functions are ergonomically placed.
+
+Cabin Storage
+There is a good amount of storage space for the front passengers. The door pockets can squeeze in a 1-liter bottle, but not much more than that. The glovebox is well-sized and can hold a lot more than just the owners manual and other documents. You also get a very spacious storage bin under the center armrest, two cupholders and a wireless charging pad / phone holder. The center console also has a storage space underneath where you can keep a smartphone or a tablet.
+Rear passengers get seatback pockets to keep their stuff. There are a couple of smartphone pockets above the regular seatback pockets. There is also a place to keep a phone near the center console. It comes with USB charging ports (Type A & C). The rear center armrest houses two cupholders.
+
+Air-Conditioning
+We got to drive the BYD Atto 3 in Mumbai around December which is a relatively cool month. Even so, during the afternoon, when the temperatures were high, the Atto 3s A/C did a good job of cooling the cabin. Theres not much of a drop in the performance of the air conditioning while driving in Eco mode. The car also comes with a built-in CN95 and PM 2.5 air filter, which in todays day and age, is
+a necessity in metro cities.
+
+Features
+Unique & Noteworthy Features
+At the price point at which the Atto 3 is being sold, you would expect it to be loaded with features and it doesnt disappoint. There are a few unique features like the Vehicle to Load mobile power supply function, which transforms the car into a power bank. You will need an adapter that can be purchased as an add-on. It supports power up to 3.3 kW, which is good enough for most high-power electrical appliances. The car comes with a heat pump as standard, which is a useful feature for low-temperature regions. It enhances thermal efficiency (up to 20%) and reduces energy loss which can increase the driving range in regions where the temperatures are low. Another unique feature that is more focused on the convenience side is that you can change the orientation of the massive 12.8-inch touchscreen from landscape to portrait and vice-versa at the press of a button on the steering wheel! Super cool. You also have a portable card key that you can tap on the driver-side ORVM to unlock the car. Additionally, theres ambient lighting that syncs with the music. Apart from these features, the Atto 3 is equipped with a panoramic sunroof, electric tailgate, adaptive headlamps, smartphone connectivity, wireless charger, and ISOFIX child seat anchor on the front passenger seat (apart from the rear seats). You do miss out on some features like ventilated seats, wireless Android Auto & Apple CarPlay, auto wipers, connected car technology, and a spare wheel. Yes, you can live without some of these features, but sure wouldve been nice of BYD to include these in the standard equipment list.
+
+Audio System & Sound Quality
+The 12.8-inch touchscreen infotainment system is very much tablet-like in operation. Its big and has a crisp display. Theres no lag as such and jumping through different options and screens is pretty seamless. However, the interface isnt very user-friendly and finding the right function can take some time. Its paired with an 8-speaker sound system which sounds just average for the price. The audio is pretty flat and IMO the vocals couldve been better. Playing around with the equalizer and presets doesnt make things any better.
+
+Rear Passengers
+Rear Seat Comfort & Space
+Just like the front seats, getting in and out of the rear seats isnt cumbersome. You get 3 adjustable headrests and 3-point seatbelts for all 3 passengers. Due to the sheer width of the cabin, an adult third passenger in the middle wont be very uncomfortable. The hard backrest (due to the centre armrest) isnt something one would look forward to experiencing, but for short journeys, seating 3 in the back shouldnt be a problem.
+Theres a decent amount of knee room and headroom for rear passengers. At 510 I had enough legroom behind my driving position and could even slide my feet under the front seat to get more comfortable. The backrest also has contours for the side passengers. The cushioning is on the softer side and should be comfortable over long drives. The high floor results in a knees-up seating position which can get irritating for tall passengers. Rear passengers get a center armrest with two cupholders, seatback pockets with smartphone holders, air-con vents, and USB charging ports (Type-A and Type-C).
+
+Boot Space
+The BYD Atto 3 has a healthy boot space of 440 liters with the rear seats up. The 60:40 split rear seats can be folded down to increase cargo space to a massive 1,340 liters. The boot floor can be adjusted to create a flat floor. As mentioned earlier, the BYD Atto 3 doesnt get a spare wheel. Instead, you get a tyre puncture repair kit. Wed suggest you invest in one as it is always better to have a spare wheel in case of a tyre blowout.
+
+Driving the BYD Atto 3
+Powering the BYD Atto 3 is a Permanent Magnet Synchronous Motor that puts out 201 BHP and 310 Nm torque.
+Before we get to the driving part, lets get some basics right. There are 3 main components in an EV  the battery, the motor, and the controller/charger. The battery is what stores the energy and the motor is what uses that energy to move the car. The controller/charger converts the energy from the battery into a usable form to power the motor. In more technical terms, the power grid from your house or a charging station is usually an AC. The lithium-ion battery can store electric energy in DC form. So while charging, theres an AC/DC converter that will convert the power grid's AC into DC and store it in your cars battery. The DC fast chargers that you see usually have the AC/DC converter inbuilt, which is how they can charge your cars battery faster.
+It's important to note that the Atto 3 is built on an EV-specific platform and is not based on an IC engine platform like most conventional EVs. Hence, the design of the batteries and powertrain has been done keeping the EV-specific requirements in mind. For starters, the Blade battery has cells that are made in a honeycomb-like structure. So, each cell serves as a structural beam to withstand force. Combined together and after placing high-strength panels on the upper and lower side of the pack, the rigidity of the structure is increased. This does affect the dynamics of the car. Next up is the powertrain  the Atto 3 uses an 8-in-1 electric powertrain system. What does this mean? 8 components of the powertrain which are usually placed separately are combined into one component to optimize space and energy efficiency (also lesser cables). The components that are grouped in the Atto 3s powertrain are - VCU (vehicle control unit), BMS (battery management system), MCU (motor control unit), PDU (power distribution unit), DC-DC controller, on-board charger (explained above), drive motor and transmission. Since all these components are compressed together, this reduces the load on the front axle significantly. How does this affect the car in terms of driving? Read on to find out.
+We got to drive the Atto 3 on the streets of Mumbai and it felt right at home. Start the car, shift to D mode, take your foot off the brake pedal and the car gets off the line in the smoothest way possible. You also start to hear faint music from the speakers while driving around at low speeds. Its more like ambient music which is also played on the outside of the car to let the pedestrians know that theres a car coming. Its not very loud and can be heard when youre about a meter away from the car. We saw some very confused people wondering why the car is playing soothing music on the road. Build some speed and the music stops.
+If you primarily drive around in the city, you will appreciate the Atto 3s smoothness. The power delivery till part throttle is linear and predictable. No jerks from gearshifts and no engine sound means it is an extremely refined experience. Our preferred setting while driving in the city was Eco Mode and with the highest level of regeneration. It felt adequate for driving in the city and keeping up with the traffic. Something worth mentioning about city driving is the size of the car. It has a broad footprint and it doesn't easily mask its width & length. You have to be careful when maneuvering the car out of tight lanes and might even have to use the 360-degree camera.
+Floor the A pedal and you will be greeted with instant acceleration. The car is fast and the 310 Nm torque is available right from the get-go. BYD claims a 0-100 km/h time of 7.3 seconds and we dont doubt it. Youll definitely be ahead of most of the IC engine cars when the signal turns green. If you enjoy instant acceleration and are experiencing an electric car for the first time, this car might just make you a convert. If youve driven some of the other EVs, you will notice that the acceleration is very similar to others in this range. As mentioned earlier, the weight on the front axle is less and BYD has made sure that the power delivery is a little more linear. Otherwise, this would result in a lot of wheelspin under hard acceleration.
+Out on the highways, the Atto 3 is just as good as in the city. Getting up to 80 / 100 km/h is effortless and so is maintaining it. Want to make a quick overtake, no worries there. Just bury the accelerator pedal and you will zoom past the car ahead with ease. You'll hit silly speeds effortlessly and not even realize it due to the lack of drama (engine noise, etc.). Remember that single-gear EVs don't have the higher-end punch above 120 km/h that geared turbo-petrol cars have. The top speed of the Atto 3 is limited to 160 km/h. If you drive hard, the range will drop faster. This is also why you will see EVs that are driving longer distances sticking to the middle lane and cruising at 80-100 km/h (which is the best cruising speed for the current lots of EVs).
+There are 3 driving modes to choose from and unlike some other cars, these aren't gimmicky. They're mapped specifically for different driving styles and also change the steering weight.
+Normal Mode : This is the default mode to drive in and works well in the city as well as the highway. It is a good balance of power and economy. The steering is light in this driving mode.
+Eco Mode : When you want to extract maximum range, this is the mode to engage. The throttle response is dumbed down which results in a smoother drive. However, you never feel that the car is lacking power. Theres still enough power on tap to keep up with the traffic and make those quick overtakes. We found this mode to be the best for driving in the city. The difference in steering weight from normal mode is very little. It almost makes the Normal mode redundant.
+Sport Mode : Want to show your friends the EV acceleration, scroll down to this mode, and off you go. The throttle response is sharp and the car feels ready to fly. It feels a little too jerky for day-to-day city driving and also eats up battery faster. Best to use this mode on the highways when you want to have some fun while driving. The steering weighs up slightly, but not as much as enthusiasts would enjoy.
+
+Regenerative Braking
+BYD has kept it simple with regenerative braking. There are only 2 levels  Standard and High. The Standard level is barely noticeable and if you have the car in this mode, you might end up using the brakes a lot. The High level very much resembles engine braking in IC engine cars. Its not very intrusive and you wont be getting a head nod every time you lift off the accelerator. Its great for driving around in the city as well as on the highways. People wishing to do hypermiling with the Atto 3, will wish for stronger regeneration from the motor.
+
+Noise, Vibration & Harshness (NVH)
+As is the case with EVs, the Atto 3 is also super quiet. Theres no engine or gearbox to make any noise, so the overall driving experience is silent. At low speeds, the cars pedestrian warning system music is heard on the outside and inside too. Inside the cabin, this might be irritating for some people as it plays in the background even when you are playing some music.
+At highway speeds, the wind noise is well controlled, but the tyre noise, at 100 km/h, is very much audible. The motor spins silently at high speeds and the whine is very well controlled.
+
+Range
+The BYD Atto 3 has an ARAI claimed range of 521 km and as per NEDC (New European Driving Cycle) the range is 480 km. Both these tests are done on a dynamometer and do not reflect the real-world range. In real-world driving conditions, you can expect a range of ~ 400 km. Given the rising demand for EVs, there are plenty of charging stations popping up everywhere, which ought to take care of range anxiety as well. There are many apps and websites like
+pulseenergy.io, plugshare.com, etc. that list out all the charging stations near you. At the end of the day though, remember the golden rule = EVs are best charged where they are parked (either at your office or home).
+
+Charging
+When you buy a BYD Atto 3, you get a 7 kW home charger with the car (with installation) that can charge the car in 9.5-10 hours. If youre traveling and need a quick refill, an 80 kW DC fast charger can juice up the battery from 0% to 80% in 50 minutes. You also get a 3kW portable charger that can be plugged into any 15 Amp socket (the larger 3-pin sockets used for ACs and fridges), but that would take a very long time to charge from 0-100%. If you ever run out of battery, you can always contact BYDs roadside assistance. You get 6 years of roadside assistance with the Atto 3.
+The BYD Atto 3 has a drag coefficient of 0.29Cd.
+
+Suspension & Ride Comfort
+The Atto 3 gets a MacPherson strut suspension at the front and multi-link suspension at the rear. While the first thought might be that the setup is sporty considering it has independent suspension all around, its not. This Atto 3s suspension setup is very comfort-oriented, and it does the job well. Low-speed ride is good, and the car absorbs small to medium-sized bumps quite well. Passengers will appreciate the absorbent nature of the suspension and will be comfortable at the front and rear too. The suspension also works silently at city speeds which is a good thing. Big potholes do register themselves inside and you will have to be careful while tackling them. The recommended tyre pressure is a rather high 36 PSI and at this pressure, you do feel a lot of the road. We dropped the pressure to 32 PSI and there was a noticeable difference. You get that added bit of cushioning which makes the ride more comfortable. If you are primarily going to be driving in the city, keep the pressure at 32 PSI and fill up to the recommended 36 PSI on the highways. Also note that the TPMS warning doesnt come up at 32 PSI, so youre good.
+
+Handling & Dynamics
+In a straight line, the Atto 3 feels stable and it doesnt feel nervous even at 120 km/h. Going over some undulations or expansion joints will result in a fair bit of vertical movement though. As mentioned earlier, the suspension setup is tuned more for comfort than sporty handling. Theres a fair bit of body roll in corners and you even get some understeer. This is a car that does not like to be pushed hard in corners. Also, the lighter front end doesnt really inspire confidence while turning in.
+Quick lane changes at high speeds are something you should avoid in the Atto 3. While most of us are used to driving heavy front-end cars, this center-heavy car might catch you off guard. The car has a pendulum-like effect at speed where the rear sways a bit, which gives an uncomfortable feeling. Better to give gradual and slow steering inputs at high speeds.
+
+Steering
+The electric power steering is a nice unit and easy to operate as well. It is very light at city speeds which makes it very user-friendly. The steering weighs up on the highways, but we wished that it would weigh up some more. You can switch to Sport mode for a little heft, but it's still on the lighter side. Its vague in the centre and doesnt feel very connected as well.
+
+Braking
+The Atto 3 has ventilated discs at the front and solid discs at the rear. All in all, the car has good stopping power and emergency braking situations are handled well too. On the other hand, the brake pedal does feel a little spongy, and takes some time to get used to it.
+
+BYD Atto 3 Exterior Images
+Very European-looking front end. Doesn’t look too bulky and has some creases that make it look stylish.
+Mercedes-like rear end with the LED light running across the tailgate connecting the taillamps. While the top part of the rear looks clean, the bumper design looks too busy IMO.
+Coupe-like sloping roofline gives the car a squat-like stance. Charging port is placed on the RHS fender. Wheelbase is long and overhangs are short. Approach angle is 19 degrees and departure angle is 24 degrees.
+The BYD Atto 3 measures 4,455 mm in length, 1,875 mm in width, and 1,615 mm in height with a wheelbase of 2,720 mm and unladen ground clearance of 175 mm.
+The overall build quality feels satisfactory, but it's not up to German standards.
+LED headlamps with integrated LED DRLs. The headlamps get adaptive lighting and follow-me-home features.
+Headlamps are connected by an LED strip and a brushed silver bar with "BYD" lettering in the middle. Lower part of the bumper has piano black air curtains. There's a faux skid plate below with an integrated air dam. Front camera is placed underneath the number plate, while the bumper houses 2 radar sensors.
+Healthy bit of underbody protection at the front.
+The ORVMs get integrated turn indicators and accommodate the side cameras for the 360-degree view system. Fender badge says "BYD DESIGN".
+You can tap your key card on the driver-side ORVM to unlock the car.
+Fish scale detailing on the C-pillar looks interesting.
+18-inch alloy wheels have a paper windmill-like design which is unique. Front brakes are ventilated discs while at the rear there are solid discs. 18-inch wheels are shod with 215/55 section tyres.
+Panoramic sunroof is big. Roof rails add to the SUV look. They aren't functional though.
+The rear windshield is tiny, and tailgate spells out the company name ‘Build Your Dreams’. You also get an EV badge on the left and Atto 3 badge on the right.
+Split LED tail-lamps have a sleek design. There’s a chrome strip that runs across the tailgate connecting the two tail-lamp clusters.
+Rear bumper has a faux skid plate at the bottom along with the rear fog lamp. There are 4 radar sensors at the rear of the Atto 3.
+Multi-link suspension at the rear.
+Underbody protection extends all the way to the back
+
+BYD Atto 3 Interior Images
+One look at the interiors of the Atto 3 and it appears that the BYD designers were given complete creative freedom. It’s full of funky and quirky bits but somehow manages to grow on you with time. Dashboard has a dual-tone navy blue and white theme and the lower parts are finished in black.
+Chunky flat-bottom steering wheel is wrapped in navy blue leather and gets contrast red stitching. It has 3 spokes finished in brushed silver and piano black inserts in the middle. It gets tilt and telescopic adjustment.
+Press the top left button on the left spoke to change the orientation of the touchscreen from landscape to portrait and vice versa. Other buttons on the left spoke are for the adaptive cruise control and lane keep assist. Multimedia controls are placed on the right spoke.
+The Atto 3 doesn’t get rain-sensing wipers which is a glaring omission. Wiper controls are on the left and the light controls are on the right stalk. There’s also a button on the side of the wiper stalk to toggle through the odometer, tripmeter, and mileage.
+5-inch digital instrument cluster looks tiny, but it provides all the necessary information. You get an instantaneous kW usage reading on the left, a speedometer in the middle, and the range on right. Other basic information like trip, odo, etc. are displayed on the bottom right while drive modes and regeneration levels are displayed on the bottom left. Some people might find the font too tiny to read.
+You can toggle through the different drive modes by pressing the drive mode button on the center console. Using the buttons on the steering wheel, you can scroll through information and various options like an acceleration timer, adaptive cruise control options, and a TPMS display.
+Funky side A/C vents. Knob on the left controls the airflow.
+Top part of the doorpad is soft to the touch and the armrest area gets this silver insert with studs at both ends. The overall design is unique and refreshing at the same time.
+Slide the blue part on top of the tweeter to open the door. It may seem weird at first, but you’ll get used to it sooner than you could imagine. Tweeter gets ambient lighting.
+Typical ORVM and window switch control. Note that all 4 windows get one-touch up & down function.
+Door pockets can hold a 1-liter bottle each and the driver-side door pocket holds the boot release button. Another wild design bit is these guitar strings that support the door pads. You can strum on them to play some bad music. Nonetheless, they look cool.
+Bucket front seats are comfortable and provide good overall support. The driver seat is 8-way adjustable while the passenger seat gets 4-way power adjustment. Headrests are fixed, but seatbelts are adjustable.
+A closer look at the upholstery - a nice blend of navy blue and cream white with red accents. White part is perforated, but the car doesn’t get seat ventilation.
+Front passenger seat also gets ISOFIX child seat anchors.
+Pedals are well-spaced out. Wide dead pedal has a comfortable angle. The bonnet release lever is placed on the right and you have to pull on it twice to unlock the bonnet.
+ORVM is well-sized and gives a good view of the road behind. With the blind spot detection feature switched on, it also gives you a warning when a vehicle behind is trying to overtake you.
+IRVM is of a good size, but thanks to the tiny windshield and big headrests, the rear view is restricted.
+Center console is pretty wide and doesn’t have a lot of buttons.
+Massive 12.8-inch touchscreen is equipped with Android Auto and Apple CarPlay connectivity.
+The 360-degree camera setup is pretty good and allows you to view the car from various angles. There are multiple options that you can explore to understand your surroundings better. Yes, the fish-eye view from the side cameras can be a little distracting, but it is helpful in tight spaces. Also, you can switch the screen orientation from landscape to portrait if you wish.
+Lots of features and functions can be operated via the touchscreen all of which we couldn’t go through in our short test drive. The display is crisp and has good colours. HVAC controls are integrated into the touchscreen and you can also check the air filtration options here.
+Your driving data, energy consumption, control charging settings, etc. are displayed. Another useful feature is that it comes with an inbuilt dashcam, and you can access the footage directly from the screen.
+Central A/C vents have an identical design to the side units. They are unique, and the plastic may seem ordinary, but they feel sturdy enough. A wireless charging pad has been provided below.
+Beautifully designed gear selector is of the perfect size and feels good to use. Shift lock is placed on the side (black button) and "P" can be engaged by pressing a button at the base.
+These are the only buttons on the centre console. You have the start/stop button and the electronic parking brake in the middle. On the left, you have the hazard lights switch, parking sensors assist, blind spot monitoring switch, auto hold, and regeneration level select buttons. On the right, you have an audio control knob, auto climate control button, blower control, defogger control, and drive mode select buttons. There’s a snow mode button in the middle for better traction in snowy conditions.
+Two cupholders get a rubberized base. Also, you get a removable attachment to raise the height of the base of the cupholder.
+Driver centre armrest is wide and has soft cushioning too.
+Storage bin underneath the armrest is massive and can be used to store a lot of things.
+There’s also a second level of storage in the center console with a 12V socket, USB type A and type C ports, and a micro SD card slot for recording dashcam videos.
+A closer look at the curvy dashboard. The navy-blue part and the white part are both soft to the touch and feel premium.
+The car has a nice ambient light package. It even syncs with the music being played.
+Well-sized glovebox doesn’t get illumination or ventilation.
+Sunroof controls are placed in this piano black panel. You can even operate the sunroof using voice controls.
+Panoramic sunroof brings in plenty of light making the cabin feel airy.
+Rear doorpads have a similar design to the front ones. The good news is that the top part is also soft to the touch.
+The rear seats get 3 individual headrests and 3-point seatbelts for all 3 passengers.
+There's Adequate legroom in the back and getting in and out of the rear seats is an easy affair.
+A look at the minimum and maximum legroom available.
+In the rear seat, Aditya at 5'10" had good headroom and enough knee room behind his driving position. The backrest angle is comfortable. However, due to the high floor height, taller occupants will be seated in a knees-up position. The side window provides a good view of the happenings outside and the center armrest is also set at a good height.
+Seatback pockets have clever phone slots.
+Rear A/C vents are identical in design to the front ones. Below, you also get a glossy black "BYD Design" badge.
+Further down, you have a mobile phone holder along with USB Type-A and Type-C charging ports.
+440-liter boot can hold enough luggage for a weekend getaway.
+Rear seats can be folded in a 60:40 ratio and the boot floor can also be raised to form a flat floor. With the rear seats folded down, the boot space increases to 1,340 liters.
+Underneath the boot floor, you will find a tyre puncture repair kit. We would strongly suggest that you invest in a spare wheel and tyre just to be on the safer side in case of a tyre blowout.

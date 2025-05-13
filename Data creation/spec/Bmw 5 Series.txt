@@ -1,0 +1,77 @@
+Bmw 5 Series has 1 variants: 530Li.
+Bmw 5 Series has Power Steering.
+Bmw 5 Series has Air Conditioner.
+Bmw 5 Series has Heater.
+Bmw 5 Series has Vanity Mirror.
+Bmw 5 Series has Rear Reading Lamp.
+Bmw 5 Series has Adjustable Headrest.
+Bmw 5 Series does not have Hands-Free Tailgate.
+Bmw 5 Series has KeyLess Entry.
+Bmw 5 Series has Idle Start-Stop System.
+Bmw 5 Series has Follow Me Home Headlamps.
+Bmw 5 Series has Tachometer.
+Bmw 5 Series has LED DRLs.
+Bmw 5 Series has LED Headlamps.
+Bmw 5 Series has Anti-lock Braking System (ABS).
+Bmw 5 Series has Central Locking.
+Bmw 5 Series has Driver Airbag.
+Bmw 5 Series has Side Airbag.
+Bmw 5 Series has Seat Belt Warning.
+Bmw 5 Series has Engine Immobilizer.
+Bmw 5 Series has Side Airbag-Rear.
+Bmw 5 Series has Electronic Stability Control (ESC).
+Bmw 5 Series has Anti-Theft Device.
+Bmw 5 Series has Speed Alert.
+Bmw 5 Series has Speed Sensing Auto Door Lock.
+Bmw 5 Series has Hill Assist.
+Bmw 5 Series has Impact Sensing Auto Door Unlock.
+Bmw 5 Series has Radio.
+Bmw 5 Series has Bluetooth Connectivity.
+Bmw 5 Series has Android Auto.
+Bmw 5 Series has Apple CarPlay.
+Bmw 5 Series has LED Taillights.
+Bmw 5 Series has Electronic Brakeforce Distribution (EBD).
+Bmw 5 Series has Anti-Theft Alarm.
+Bmw 5 Series has Door Ajar Warning.
+Bmw 5 Series has Tailgate Ajar Warning.
+Bmw 5 Series has Height Adjustable Driver Seat.
+Bmw 5 Series has Glove Box.
+Bmw 5 Series has Adjustable Headlamps.
+Bmw 5 Series has Passenger Airbag.
+Bmw 5 Series has Touchscreen.
+Bmw 5 Series has Child Safety Locks.
+Bmw 5 Series has Curtain Airbag.
+Bmw 5 Series has Usb Ports.
+The Bmw 5 Series has a displacement of 1998  cubic centimeters.
+The Bmw 5 Series generates 255 Brake Horsepower (BHP) at 4500 Revolutions Per Minute (RPM).
+The Bmw 5 Series generates 400 Newton meters at 1600 Revolutions Per Minute (RPM).
+The Bmw 5 Series has 4.0 valves per cylinder.
+The Bmw 5 Series has a Automatic transmission.
+The Bmw 5 Series has 4.0 cylinders.
+The Bmw 5 Series has a Rear-Wheel Drive (RWD) drive type.
+The Bmw 5 Series runs on Petrol.
+The Bmw 5 Series complies with BS VI 2.0 emission norms.
+The Bmw 5 Series has Power steering.
+The Bmw 5 Series has Disc front brakes.
+The Bmw 5 Series has Disc rear brakes.
+The Bmw 5 Series has a length of 5165 mm.
+The Bmw 5 Series has a width of 2156 mm.
+The Bmw 5 Series has a height of 1518 mm.
+The Bmw 5 Series offers 500 Litres of boot space.
+The Bmw 5 Series has a seating capacity of 5.0.
+The Bmw 5 Series has a wheelbase of 3105 mm.
+The Bmw 5 Series has 4.0 doors.
+The Bmw 5 Series is equipped with Unknown tyres.
+The Bmw 5 Series is equipped with 8.0 airbags.
+The Bmw 5 Series is equipped with a unknown touchscreen.
+The Bmw 5 Series comes with a Full Digital digital cluster.
+The Bmw 5 Series has a reported boot space of 500 Litres.
+The Bmw 5 Series features Driver's Window anti-pinch power windows.
+The Bmw 5 Series delivers a highway mileage of 15.7 kmpl.
+The Bmw 5 Series features Tilt & Telescopic steering adjustment.
+Bmw 5 Series has Adjustable Steering.
+The Bmw 5 Series features Rear parking sensors.
+The Bmw 5 Series features Front & Rear USB charging ports.
+The Bmw 5 Series has a With Guidedlines rear camera.
+The Bmw 5 Series has Driver and Passenger seatbelt pretensioners and force limiters.
+The Bmw 5 Series has Front & Rear speakers.

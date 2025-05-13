@@ -1,0 +1,167 @@
+﻿Bentley Bentayga has 5 variants: V8, EWB, S, Azure & EWB Azure FIRST EDITION.
+All variants of Bentley Bentayga have Power Steering.
+All variants of Bentley Bentayga have Air Conditioner.
+All variants of Bentley Bentayga have Heater.
+All variants of Bentley Bentayga have Automatic Climate Control.
+All variants of Bentley Bentayga have Accessory Power Outlet.
+All variants of Bentley Bentayga have Trunk Light.
+All variants of Bentley Bentayga have Vanity Mirror.
+All variants of Bentley Bentayga have Rear Reading Lamp.
+All variants of Bentley Bentayga have Rear Seat Centre Arm Rest.
+All variants of Bentley Bentayga have Rear AC Vents.
+All variants of Bentley Bentayga have Cruise Control.
+All variants of Bentley Bentayga have Engine Start/Stop Button.
+All variants of Bentley Bentayga have Voice Commands.
+All variants of Bentley Bentayga have Chrome Grille.
+All variants of Bentley Bentayga have KeyLess Entry.
+All variants of Bentley Bentayga have Follow Me Home Headlamps.
+All variants of Bentley Bentayga have Tachometer.
+All variants of Bentley Bentayga have Alloy Wheels.
+All variants of Bentley Bentayga have Integrated Antenna.
+All variants of Bentley Bentayga have Automatic Headlamps.
+All variants of Bentley Bentayga have LED DRLs.
+All variants of Bentley Bentayga have LED Headlamps.
+All variants of Bentley Bentayga have Anti-lock Braking System (ABS).
+All variants of Bentley Bentayga have Central Locking.
+All variants of Bentley Bentayga have Driver Airbag.
+All variants of Bentley Bentayga have Side Airbag.
+All variants of Bentley Bentayga have Seat Belt Warning.
+All variants of Bentley Bentayga have Engine Immobilizer.
+All variants of Bentley Bentayga do not have Side Airbag-Rear.
+All variants of Bentley Bentayga have Anti-Theft Device.
+All variants of Bentley Bentayga have Speed Alert.
+All variants of Bentley Bentayga have Speed Sensing Auto Door Lock.
+All variants of Bentley Bentayga have ISOFIX Child Seat Mounts.
+All variants of Bentley Bentayga have Hill Assist.
+All variants of Bentley Bentayga have Impact Sensing Auto Door Unlock.
+All variants of Bentley Bentayga have 360 View Camera.
+All variants of Bentley Bentayga have Radio.
+All variants of Bentley Bentayga have Wireless Phone Charging.
+All variants of Bentley Bentayga have Bluetooth Connectivity.
+All variants of Bentley Bentayga have Android Auto.
+All variants of Bentley Bentayga have Apple CarPlay.
+All variants of Bentley Bentayga have Height Adjustable Front Seat Belts.
+All variants of Bentley Bentayga have Lumbar Support.
+All variants of Bentley Bentayga have Paddle Shifters.
+All variants of Bentley Bentayga have Electronic Multi-Tripmeter.
+All variants of Bentley Bentayga have Digital Clock.
+All variants of Bentley Bentayga have Outside Temperature Display.
+All variants of Bentley Bentayga have Dual Tone Dashboard.
+All variants of Bentley Bentayga have LED Taillights.
+All variants of Bentley Bentayga have Brake Assist.
+All variants of Bentley Bentayga have Anti-Theft Alarm.
+All variants of Bentley Bentayga have Door Ajar Warning.
+All variants of Bentley Bentayga have Digital Odometer.
+All variants of Bentley Bentayga have Heads-Up Display (HUD).
+All variants of Bentley Bentayga have Cooled Glovebox.
+All variants of Bentley Bentayga have Ventilated Seats.
+All variants of Bentley Bentayga have Hill Descent Control.
+All variants of Bentley Bentayga do not have Battery Saver.
+All variants of Bentley Bentayga have Leather wrap gear-shift selector.
+All variants of Bentley Bentayga do not have Headlamp Washers.
+All variants of Bentley Bentayga have Blind Spot Monitor.
+All variants of Bentley Bentayga have Tailgate Ajar Warning.
+All variants of Bentley Bentayga have Remote Trunk Opener.
+All variants of Bentley Bentayga have Remote Fuel Lid Opener.
+All variants of Bentley Bentayga have Compass.
+All variants of Bentley Bentayga have Lane Change Indicator.
+All variants of Bentley Bentayga have Wi-Fi Connectivity.
+All variants of Bentley Bentayga have Traction Control.
+All variants of Bentley Bentayga have Rear Entertainment System.
+All variants of Bentley Bentayga have Leather Seats.
+All variants of Bentley Bentayga have Driving Experience Control Eco.
+All variants of Bentley Bentayga have MirrorLink.
+All variants of Bentley Bentayga have Fog Lights - Rear.
+All variants of Bentley Bentayga have Internal Storage.
+All variants of Bentley Bentayga have Height Adjustable Driver Seat.
+All variants of Bentley Bentayga have Rear Window Defogger.
+All variants of Bentley Bentayga have Leather Wrapped Steering Wheel.
+All variants of Bentley Bentayga have Glove Box.
+All variants of Bentley Bentayga have Adjustable Headlamps.
+All variants of Bentley Bentayga have Outside Rear View Mirror Turn Indicators.
+All variants of Bentley Bentayga have Passenger Airbag.
+All variants of Bentley Bentayga have Day & Night Rear View Mirror.
+All variants of Bentley Bentayga have Tyre Pressure Monitoring System (TPMS).
+All variants of Bentley Bentayga have Touchscreen.
+All variants of Bentley Bentayga have Rear Window Wiper.
+All variants of Bentley Bentayga have Rear Window Washer.
+All variants of Bentley Bentayga have Chrome Garnish.
+All variants of Bentley Bentayga have Child Safety Locks.
+All variants of Bentley Bentayga have Rear Spoiler.
+All variants of Bentley Bentayga have Rain Sensing Wiper.
+All variants of Bentley Bentayga have Air Quality Control.
+All variants of Bentley Bentayga have Tinted Glass.
+All variants of Bentley Bentayga have Folding Table in The Rear.
+All variants of Bentley Bentayga have Navigation System.
+All variants of Bentley Bentayga have Smart Access Card Entry.
+All variants of Bentley Bentayga have Roof Rails.
+All variants of Bentley Bentayga have Cigarette Lighter.
+All variants of Bentley Bentayga have Roof Carrier.
+All variants of Bentley Bentayga have Side Stepper.
+All variants of Bentley Bentayga have Dual Tone Body Colour.
+All variants of Bentley Bentayga have Usb Ports.
+Bentley Bentayga variant with Gear Shift Indicator - V8.
+Bentley Bentayga variants without Gear Shift Indicator - EWB, S, Azure & EWB Azure FIRST EDITION.
+Bentley Bentayga variant with Luggage Hook & Net - V8.
+Bentley Bentayga variants without Luggage Hook & Net - EWB, S, Azure & EWB Azure FIRST EDITION.
+All variants of Bentley Bentayga have LED Fog Lamps.
+All variants of Bentley Bentayga have Low Fuel Warning Light.
+All variants of Bentley Bentayga have Heated Wing Mirror.
+All variants of Bentley Bentayga have Fog Lights - Front.
+All variants of Bentley Bentayga have Integrated 2DIN Audio.
+All variants of Bentley Bentayga have USB & Auxiliary input.
+Bentley Bentayga variant with Rear Curtain - V8.
+Bentley Bentayga variants without Rear Curtain - EWB, S, Azure & EWB Azure FIRST EDITION.
+All Bentley Bentayga variants use the 4.0 V8 twin-turbocharged petrol engine engine.
+Bentley Bentayga variant V8 has a displacement of 3956  cubic centimeters.
+Bentley Bentayga variants - EWB, S, Azure & EWB Azure FIRST EDITION share a displacement of 3993  cubic centimeters.
+All Bentley Bentayga variants produce a maximum power of 542 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Bentley Bentayga variants produce a maximum torque of 770 Newton meters at 2000 to 4500 Revolutions Per Minute (RPM).
+All Bentley Bentayga variants have 4.0 valves per cylinder.
+All Bentley Bentayga variants have a Automatic transmission.
+All Bentley Bentayga variants have 8.0 cylinders.
+All Bentley Bentayga variants come with a 8-Speed gearbox.
+All Bentley Bentayga variants have a All-Wheel Drive (AWD) drive type.
+All Bentley Bentayga variants run on Petrol.
+All Bentley Bentayga variants comply with BS VI 2.0 emission norms.
+All Bentley Bentayga variants have Ventilated Disc front brakes.
+All Bentley Bentayga variants have Ventilated Disc rear brakes.
+All Bentley Bentayga variants have a length of 5125 mm.
+All Bentley Bentayga variants have a width of 2222 mm.
+All Bentley Bentayga variants have a height of 1728 mm.
+All Bentley Bentayga variants offer 484 Litres of boot space.
+All Bentley Bentayga variants have a seating capacity of 4.0.
+Bentley Bentayga variant V8 has a wheelbase of 2995 mm.
+Bentley Bentayga variants - EWB & EWB Azure FIRST EDITION share a wheelbase of 2680 mm.
+Bentley Bentayga variants - S & Azure share a wheelbase of 2930 mm.
+All Bentley Bentayga variants have a kerb weight of 2416 kg.
+All Bentley Bentayga variants have a gross weight of 3250 kg.
+All Bentley Bentayga variants have 5.0 doors.
+All Bentley Bentayga variants have tyres of size 285/45 R21.
+All Bentley Bentayga variants come with Tubeless Radial tyres.
+All Bentley Bentayga variants come equipped with 6.0 airbags.
+All Bentley Bentayga variants come with a 10.9 inch touchscreen display.
+All Bentley Bentayga variants come with 20.0 speakers.
+All Bentley Bentayga variants come with Android Auto, Apple CarPlay, SD Card Reader, HDMI Input, Mirror Link connectivity options.
+All Bentley Bentayga variants have a top speed of 290 kmph.
+Bentley Bentayga variant V8 features a front tread of 1575 mm.
+All Bentley Bentayga variants accelerate from 0-100 kmph in 4.5 s.
+All Bentley Bentayga variants accelerate from 0-100 kmph in 4.5 s.
+All Bentley Bentayga variants use a Direct Injection (Di) fuel supply system.
+All Bentley Bentayga variants feature a Smart trunk opener.
+Bentley Bentayga variant Azure provides a mileage of 8.6 kmpl.
+Bentley Bentayga variants - V8, EWB, S & EWB Azure FIRST EDITION have highway mileage figures of 7.6 kmpl.
+All Bentley Bentayga variants have a fuel tank capacity of 85 Litres.
+All Bentley Bentayga variants have the Multi-link suspension front suspension.
+All Bentley Bentayga variants have the Multi-link suspension rear suspension.
+All variants of Bentley Bentayga have Adjustable Steering.
+All Bentley Bentayga variants are equipped with Front & Rear parking sensors.
+All Bentley Bentayga variants come with Front & Rear USB charging ports.
+All Bentley Bentayga variants include Front & Rear speakers.
+All Bentley Bentayga variants have Front & Rear electric adjustable seats.
+All variants of Bentley Bentayga have Central Console Armrest.
+All Bentley Bentayga variants come with a Twin turbocharger.
+Bentley Bentayga variant V8 has Semi autonomous parking.
+All variants of Bentley Bentayga have Rear Seat Headrest.
+All variants of Bentley Bentayga have Sunroof.
+Bentley Bentayga variant V8 offers 8 Driving modes as additional features.

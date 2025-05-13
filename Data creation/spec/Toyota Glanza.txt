@@ -1,0 +1,200 @@
+Toyota Glanza has 9 variants: E, S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+All variants of Toyota Glanza have Power Steering.
+All variants of Toyota Glanza have Air Conditioner.
+All variants of Toyota Glanza have Heater.
+All variants of Toyota Glanza have Automatic Climate Control.
+All variants of Toyota Glanza have Accessory Power Outlet.
+Toyota Glanza variants with Trunk Light - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Trunk Light - E, S, S AMT & S CNG.
+Toyota Glanza variants with Vanity Mirror - S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variant without Vanity Mirror - E.
+All variants of Toyota Glanza have Rear Reading Lamp.
+All variants of Toyota Glanza have Adjustable Headrest.
+Toyota Glanza variants with Rear AC Vents - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Rear AC Vents - E, S, S AMT & S CNG.
+Toyota Glanza variants with Cruise Control - V & V AMT.
+Toyota Glanza variants without Cruise Control - E, S, S AMT, S CNG, G, G AMT & G CNG.
+Toyota Glanza variants with Real-Time Vehicle Tracking - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Real-Time Vehicle Tracking - E, S, S AMT & S CNG.
+Toyota Glanza variants with Engine Start/Stop Button - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Engine Start/Stop Button - E, S, S AMT & S CNG.
+Toyota Glanza variants with Voice Commands - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Voice Commands - E, S, S AMT & S CNG.
+All variants of Toyota Glanza have KeyLess Entry.
+Toyota Glanza variants with Idle Start-Stop System - E, S, S AMT, G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variant without Idle Start-Stop System - S CNG.
+Toyota Glanza variants with Follow Me Home Headlamps - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Follow Me Home Headlamps - E, S, S AMT & S CNG.
+All variants of Toyota Glanza have Tachometer.
+Toyota Glanza variants with Alloy Wheels - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Alloy Wheels - E, S, S AMT & S CNG.
+All variants of Toyota Glanza have Integrated Antenna.
+All variants of Toyota Glanza have Projector Headlamps.
+Toyota Glanza variants with Automatic Headlamps - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Automatic Headlamps - E, S, S AMT & S CNG.
+Toyota Glanza variants with LED DRLs - V & V AMT.
+Toyota Glanza variants with LED Headlamps - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without LED Headlamps - E, S, S AMT & S CNG.
+All variants of Toyota Glanza have Anti-lock Braking System (ABS).
+All variants of Toyota Glanza have Central Locking.
+All variants of Toyota Glanza have Driver Airbag.
+Toyota Glanza variants with Side Airbag - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Side Airbag - E, S, S AMT & S CNG.
+All variants of Toyota Glanza have Seat Belt Warning.
+All variants of Toyota Glanza have Engine Immobilizer.
+All variants of Toyota Glanza do not have E-Call & I-Call.
+All variants of Toyota Glanza do not have Side Airbag-Rear.
+All variants of Toyota Glanza have Electronic Stability Control (ESC).
+All variants of Toyota Glanza have Speed Alert.
+All variants of Toyota Glanza have Speed Sensing Auto Door Lock.
+All variants of Toyota Glanza have ISOFIX Child Seat Mounts.
+All variants of Toyota Glanza have Hill Assist.
+Toyota Glanza variants with 360 View Camera - V & V AMT.
+Toyota Glanza variants without 360 View Camera - E, S, S AMT, S CNG, G, G AMT & G CNG.
+Toyota Glanza variants with Radio - S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variant without Radio - E.
+Toyota Glanza variants with Bluetooth Connectivity - S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variant without Bluetooth Connectivity - E.
+Toyota Glanza variants with Android Auto - S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variant without Android Auto - E.
+Toyota Glanza variants with Apple CarPlay - S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variant without Apple CarPlay - E.
+Toyota Glanza variants with Live Location - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Live Location - E, S, S AMT & S CNG.
+Toyota Glanza variants with Over the Air (OTA) Updates - V & V AMT.
+Toyota Glanza variants without Over the Air (OTA) Updates - E, S, S AMT, S CNG, G, G AMT & G CNG.
+Toyota Glanza variants with Google / Alexa Connectivity - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Google / Alexa Connectivity - E, S, S AMT & S CNG.
+Toyota Glanza variants with Smartwatch App - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Smartwatch App - E, S, S AMT & S CNG.
+Toyota Glanza variants with Valet Mode - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Valet Mode - E, S, S AMT & S CNG.
+Toyota Glanza variants with Remote Door Lock/Unlock - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Remote Door Lock/Unlock - E, S, S AMT & S CNG.
+Toyota Glanza variants with Geo-fence Alert - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Geo-fence Alert - E, S, S AMT & S CNG.
+Toyota Glanza variants with Tow Away Alert - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Tow Away Alert - E, S, S AMT & S CNG.
+All variants of Toyota Glanza have Dual Tone Dashboard.
+Toyota Glanza variants with Halogen Headlamps - E, S, S AMT & S CNG.
+Toyota Glanza variants without Halogen Headlamps - G, G AMT, G CNG, V & V AMT.
+All variants of Toyota Glanza have LED Taillights.
+All variants of Toyota Glanza have Electronic Brakeforce Distribution (EBD).
+All variants of Toyota Glanza have Brake Assist.
+All variants of Toyota Glanza have Door Ajar Warning.
+All variants of Toyota Glanza have Digital Odometer.
+Toyota Glanza variants with Heads-Up Display (HUD) - V & V AMT.
+Toyota Glanza variants without Heads-Up Display (HUD) - E, S, S AMT, S CNG, G, G AMT & G CNG.
+Toyota Glanza variant with Forward Collision Warning - G.
+Toyota Glanza variants with Unauthorised Vehicle entry - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Unauthorised Vehicle entry - E, S, S AMT & S CNG.
+Toyota Glanza variants with Glove Box light - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Glove Box light - E, S, S AMT & S CNG.
+All variants of Toyota Glanza do not have Hill Descent Control.
+Toyota Glanza variants with Remote Vehicle Status Check - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Remote Vehicle Status Check - E, S, S AMT & S CNG.
+Toyota Glanza variants with Height Adjustable Driver Seat - E, S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+All variants of Toyota Glanza have Rear Window Defogger.
+Toyota Glanza variants with Leather Wrapped Steering Wheel - E, S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+All variants of Toyota Glanza have Glove Box.
+Toyota Glanza variants with Outside Rear View Mirror Turn Indicators - E, S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+All variants of Toyota Glanza have Passenger Airbag.
+All variants of Toyota Glanza have Day & Night Rear View Mirror.
+Toyota Glanza variants with Touchscreen - E, S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants with Rear Window Wiper - E, S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants with Rear Window Washer - E, S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+All variants of Toyota Glanza have Child Safety Locks.
+All variants of Toyota Glanza have Rear Spoiler.
+Toyota Glanza variants with Curtain Airbag - G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variants without Curtain Airbag - E, S, S AMT & S CNG.
+Toyota Glanza variants with Usb Ports - S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variant without Usb Ports - E.
+All variants of Toyota Glanza have Gear Shift Indicator.
+Toyota Glanza variants with LED Fog Lamps - V & V AMT.
+Toyota Glanza variants without LED Fog Lamps - E, S, S AMT, S CNG, G, G AMT & G CNG.
+Toyota Glanza variants with Integrated 2DIN Audio - S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT.
+Toyota Glanza variant without Integrated 2DIN Audio - E.
+Toyota Glanza variants - E, S, S AMT, G, G AMT, V & V AMT share the 1.2 L Petrol Engine engine.
+Toyota Glanza variants - S CNG & G CNG share the 1.2 L CNG Engine engine.
+All Toyota Glanza variants have a displacement of 1197  cubic centimeters.
+Toyota Glanza variants - E, S, S AMT, G, G AMT, V & V AMT have a max power of 88.50 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Toyota Glanza variants - S CNG & G CNG have a max power of 76.43 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Toyota Glanza variants - E, S, S AMT, G, G AMT, V & V AMT share a max torque of 113 Newton meters at 4400 Revolutions Per Minute (RPM).
+Toyota Glanza variants - S CNG & G CNG share a max torque of 98.5 Newton meters at 4300 Revolutions Per Minute (RPM).
+All Toyota Glanza variants have 4.0 valves per cylinder.
+Toyota Glanza variants - E, S, S CNG, G, G CNG & V share a Manual transmission.
+Toyota Glanza variants - S AMT, G AMT & V AMT share a Automatic transmission.
+All Toyota Glanza variants have 4.0 cylinders.
+Toyota Glanza variants - E, S, S CNG, G, G CNG & V share a 5-Speed gearbox.
+Toyota Glanza variants - S AMT, G AMT & V AMT share a 5-Speed-AMT gearbox.
+All Toyota Glanza variants have a Front-Wheel Drive (FWD) drive type.
+Toyota Glanza variants - E, S, S AMT, G, G AMT, V & V AMT use Petrol as fuel.
+Toyota Glanza variants - S CNG & G CNG use CNG as fuel.
+All Toyota Glanza variants comply with BS VI 2.0 emission norms.
+All Toyota Glanza variants come with Power steering.
+All Toyota Glanza variants have a turning radius of 4.85m.
+All Toyota Glanza variants have Disc front brakes.
+All Toyota Glanza variants have Drum rear brakes.
+All Toyota Glanza variants have a length of 3990 mm.
+All Toyota Glanza variants have a width of 1745 mm.
+All Toyota Glanza variants have a height of 1500 mm.
+All Toyota Glanza variants offer 318 Litres of boot space.
+All Toyota Glanza variants have a seating capacity of 5.0.
+All Toyota Glanza variants have a wheelbase of 2520 mm.
+Toyota Glanza variants - E, S, G & V share a kerb weight of 920-955 kg.
+Toyota Glanza variants - S AMT, G AMT & V AMT share a kerb weight of 935-960 kg.
+Toyota Glanza variants - S CNG & G CNG share a kerb weight of 1015-1035 kg.
+Toyota Glanza variants - E, S, S AMT, G, G AMT, V & V AMT share a gross weight of 1410 kg.
+Toyota Glanza variants - S CNG & G CNG share a gross weight of 1450 kg.
+All Toyota Glanza variants have 5.0 doors.
+All Toyota Glanza variants come with a Manual boot opening mechanism.
+Toyota Glanza variants - E, S, S AMT & S CNG feature tyres of size 185/65 R15.
+Toyota Glanza variants - G, G AMT, G CNG, V & V AMT feature tyres of size 195/55 R16.
+All Toyota Glanza variants come with Tyre Type tyres.
+Toyota Glanza variants - E, S, S AMT & S CNG feature 15 Inch wheels.
+Toyota Glanza variants - E, S, S AMT & S CNG offer 2.0 airbags.
+Toyota Glanza variants - G, G AMT, G CNG, V & V AMT offer 6.0 airbags.
+Toyota Glanza variants - G, G AMT & G CNG come with a 7 inch touchscreen display.
+Toyota Glanza variants - V & V AMT come with a 9 Inch touchscreen display.
+Toyota Glanza variants - S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT come with 4.0 speakers.
+Toyota Glanza variants - S CNG & G CNG use Petrol as a secondary fuel type.
+Toyota Glanza variants - S CNG & G CNG have a secondary fuel tank capacity of 37.0 liters.
+Toyota Glanza variants - G, G AMT, G CNG, V & V AMT have 16 Inch front alloy wheels.
+Toyota Glanza variants - G, G AMT, G CNG, V & V AMT have 16 Inch rear alloy wheels.
+Toyota Glanza variants - G, G AMT, G CNG, V & V AMT have 2.0 tweeters.
+Toyota Glanza variants - S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT have Android Auto, Apple CarPlay connectivity options.
+All Toyota Glanza variants feature a Full Digital digital cluster.
+All Toyota Glanza variants come with Fabric upholstery.
+All Toyota Glanza variants offer a boot space of 318 Litres.
+Toyota Glanza variants - S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT come with Driver's Window anti-pinch power windows.
+Toyota Glanza variants - E, S, G & V have mileage figures of 22.35 kmpl.
+Toyota Glanza variants - S AMT, G AMT & V AMT have mileage figures of 22.94 kmpl.
+Toyota Glanza variants - S CNG & G CNG have mileage figures of 30.61 km/kg.
+Toyota Glanza variants - E, S, G & V have highway mileage figures of 21.43 kmpl.
+Toyota Glanza variants - S AMT, G AMT & V AMT have highway mileage figures of 20.31 kmpl.
+Toyota Glanza variants - E, S, S AMT, G, G AMT, V & V AMT have fuel tank capacities of 37 Litres.
+Toyota Glanza variants - S CNG & G CNG have fuel tank capacities of 55 Litres.
+All Toyota Glanza variants have the MacPherson Strut suspension front suspension.
+All Toyota Glanza variants have the Rear twist beam rear suspension.
+Toyota Glanza variants - E, S, S AMT & S CNG share the Tilt Steering steering adjustment type.
+Toyota Glanza variants - G, G AMT, G CNG, V & V AMT share the Tilt & Telescopic steering adjustment type.
+All variants of Toyota Glanza have Adjustable Steering.
+All Toyota Glanza variants are equipped with Rear parking sensors.
+Toyota Glanza variants without USB Charger - E, S, S AMT & S CNG.
+Toyota Glanza variants - G, G AMT, G CNG, V & V AMT share the Front & Rear USB charging configuration.
+Toyota Glanza variants without Fog Lights - E, S, S AMT, S CNG, G, G AMT & G CNG.
+Toyota Glanza variants - V & V AMT share the Front fog light configuration.
+All Toyota Glanza variants feature a 4.2 inch digital cluster.
+Toyota Glanza variants without Rear Camera - E, S, S AMT & S CNG.
+Toyota Glanza variants - G, G AMT, G CNG, V & V AMT share the With Guidedlines rear camera type.
+All Toyota Glanza variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Toyota Glanza variant without Speakers - E.
+Toyota Glanza variants - S, S AMT, S CNG, G, G AMT, G CNG, V & V AMT share the Front & Rear speaker configuration.
+All Toyota Glanza variants have a 60:40 Split foldable rear seat.
+Toyota Glanza variants - E, S, S AMT, G, G AMT, G CNG, V & V AMT share the With Storage central console armrest type.
+Toyota Glanza variant with Central Console Armrest - S CNG.
+All variants of Toyota Glanza have Rear Seat Headrest.
+Toyota Glanza variant E offers Toyota i-Connect as additional features.
+Toyota Glanza variants - S, S AMT & S CNG share Toyota i-Connect, Smart Playcast Audio as additional features.
+Toyota Glanza variants - G, G AMT & G CNG share Toyota i-Connect, Hey Toyota,Hey Siri Voice Assistance Compatibilit, Smart Playcast Pro as additional features.
+Toyota Glanza variants - V & V AMT share Toyota i-Connect, Hey Toyota, Smart Playcast Pro S, Premium sound system (Arkamys), Hey Siri Voice Assistance Compatibilit as additional features.

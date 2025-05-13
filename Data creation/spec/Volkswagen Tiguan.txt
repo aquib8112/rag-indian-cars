@@ -1,0 +1,137 @@
+Volkswagen Tiguan has 1 variants: 2.0 TSI Elegance.
+Volkswagen Tiguan has Power Steering.
+Volkswagen Tiguan has Air Conditioner.
+Volkswagen Tiguan has Heater.
+Volkswagen Tiguan has Automatic Climate Control.
+Volkswagen Tiguan has Accessory Power Outlet.
+Volkswagen Tiguan has Trunk Light.
+Volkswagen Tiguan has Vanity Mirror.
+Volkswagen Tiguan has Rear Reading Lamp.
+Volkswagen Tiguan has Adjustable Headrest.
+Volkswagen Tiguan has Rear Seat Centre Arm Rest.
+Volkswagen Tiguan has Rear AC Vents.
+Volkswagen Tiguan has Cruise Control.
+Volkswagen Tiguan has Engine Start/Stop Button.
+Volkswagen Tiguan has Hands-Free Tailgate.
+Volkswagen Tiguan has KeyLess Entry.
+Volkswagen Tiguan has Follow Me Home Headlamps.
+Volkswagen Tiguan has Tachometer.
+Volkswagen Tiguan has Alloy Wheels.
+Volkswagen Tiguan has Integrated Antenna.
+Volkswagen Tiguan has Automatic Headlamps.
+Volkswagen Tiguan has LED DRLs.
+Volkswagen Tiguan has LED Headlamps.
+Volkswagen Tiguan has Anti-lock Braking System (ABS).
+Volkswagen Tiguan has Central Locking.
+Volkswagen Tiguan has Driver Airbag.
+Volkswagen Tiguan has Side Airbag.
+Volkswagen Tiguan has Seat Belt Warning.
+Volkswagen Tiguan has Engine Immobilizer.
+Volkswagen Tiguan has Electronic Stability Control (ESC).
+Volkswagen Tiguan has Speed Alert.
+Volkswagen Tiguan has Speed Sensing Auto Door Lock.
+Volkswagen Tiguan has ISOFIX Child Seat Mounts.
+Volkswagen Tiguan has Hill Assist.
+Volkswagen Tiguan has Impact Sensing Auto Door Unlock.
+Volkswagen Tiguan has Radio.
+Volkswagen Tiguan has Wireless Phone Charging.
+Volkswagen Tiguan has Bluetooth Connectivity.
+Volkswagen Tiguan has Android Auto.
+Volkswagen Tiguan has Apple CarPlay.
+Volkswagen Tiguan has Driver Attention Warning.
+Volkswagen Tiguan has Height Adjustable Front Seat Belts.
+Volkswagen Tiguan has Lumbar Support.
+Volkswagen Tiguan has Paddle Shifters.
+Volkswagen Tiguan has Electronic Brakeforce Distribution (EBD).
+Volkswagen Tiguan has Brake Assist.
+Volkswagen Tiguan has Door Ajar Warning.
+Volkswagen Tiguan has Hill Descent Control.
+Volkswagen Tiguan has Leather wrap gear-shift selector.
+Volkswagen Tiguan has Heated Outside Rear View Mirror.
+Volkswagen Tiguan has Lane Change Indicator.
+Volkswagen Tiguan has Regenerative Braking.
+Volkswagen Tiguan has Height Adjustable Driver Seat.
+Volkswagen Tiguan has Rear Window Defogger.
+Volkswagen Tiguan has Leather Wrapped Steering Wheel.
+Volkswagen Tiguan has Glove Box.
+Volkswagen Tiguan has Adjustable Headlamps.
+Volkswagen Tiguan has Outside Rear View Mirror Turn Indicators.
+Volkswagen Tiguan has Passenger Airbag.
+Volkswagen Tiguan has Day & Night Rear View Mirror.
+Volkswagen Tiguan has Tyre Pressure Monitoring System (TPMS).
+Volkswagen Tiguan has Touchscreen.
+Volkswagen Tiguan has Rear Window Wiper.
+Volkswagen Tiguan has Rear Window Washer.
+Volkswagen Tiguan has Child Safety Locks.
+Volkswagen Tiguan has Rear Spoiler.
+Volkswagen Tiguan has Rain Sensing Wiper.
+Volkswagen Tiguan has Air Quality Control.
+Volkswagen Tiguan has Tinted Glass.
+Volkswagen Tiguan has Roof Rails.
+Volkswagen Tiguan has Curtain Airbag.
+Volkswagen Tiguan has Usb Ports.
+Volkswagen Tiguan has Luggage Hook & Net.
+Volkswagen Tiguan has Integrated 2DIN Audio.
+The Volkswagen Tiguan has the 2.0 TSI engine.
+The Volkswagen Tiguan has a displacement of 1984  cubic centimeters.
+The Volkswagen Tiguan generates 187.74 Brake Horsepower (BHP) at 4200 to 6000 Revolutions Per Minute (RPM).
+The Volkswagen Tiguan generates 320 Newton meters at 1500 to 4100 Revolutions Per Minute (RPM).
+The Volkswagen Tiguan has 4.0 valves per cylinder.
+The Volkswagen Tiguan has a Automatic transmission.
+The Volkswagen Tiguan has 4.0 cylinders.
+The Volkswagen Tiguan has a 7-Speed-DSG gearbox.
+The Volkswagen Tiguan has a All-Wheel Drive (AWD) drive type.
+The Volkswagen Tiguan runs on Petrol.
+The Volkswagen Tiguan complies with BS VI 2.0 emission norms.
+The Volkswagen Tiguan has Electric steering.
+The Volkswagen Tiguan has a turning radius of 5.39m.
+The Volkswagen Tiguan has Ventilated Disc front brakes.
+The Volkswagen Tiguan has Disc rear brakes.
+The Volkswagen Tiguan has a length of 4509 mm.
+The Volkswagen Tiguan has a width of 1839 mm.
+The Volkswagen Tiguan has a height of 1665 mm.
+The Volkswagen Tiguan offers 615 Litres of boot space.
+The Volkswagen Tiguan has a seating capacity of 5.0.
+The Volkswagen Tiguan has a wheelbase of 2679 mm.
+The Volkswagen Tiguan has a kerb weight of 1703 kg.
+The Volkswagen Tiguan has a gross weight of 2230 kg.
+The Volkswagen Tiguan has 5.0 doors.
+The Volkswagen Tiguan features a Electronic boot opening mechanism.
+The Volkswagen Tiguan is fitted with tyres of size 235/55 R18.
+The Volkswagen Tiguan is equipped with Tubeless Radial tyres.
+The Volkswagen Tiguan is equipped with 6.0 airbags.
+The Volkswagen Tiguan has been rated 5 Star by Global NCAP.
+The Volkswagen Tiguan has received a 5 Star child safety rating from Global NCAP.
+The Volkswagen Tiguan is equipped with a 8 inch touchscreen.
+The Volkswagen Tiguan is equipped with 8.0 speakers.
+The Volkswagen Tiguan features 18 Inch front alloy wheels.
+The Volkswagen Tiguan features 18 Inch rear alloy wheels.
+The Volkswagen Tiguan features Android Auto, Apple CarPlay connectivity options.
+The Volkswagen Tiguan comes with a Full Digital digital cluster.
+The Volkswagen Tiguan features Leather upholstery.
+The Volkswagen Tiguan features a rear tread of 1566 mm.
+The Volkswagen Tiguan features Driver's Window anti-pinch power windows.
+The Volkswagen Tiguan delivers a mileage of 12.65 kmpl.
+The Volkswagen Tiguan comes with a fuel tank capacity of 60 Litres.
+The Volkswagen Tiguan comes with the Multi-link suspension front suspension.
+The Volkswagen Tiguan comes with the Multi-link suspension rear suspension.
+The Volkswagen Tiguan features Tilt & Telescopic steering adjustment.
+Volkswagen Tiguan has Adjustable Steering.
+The Volkswagen Tiguan features Front & Rear parking sensors.
+The Volkswagen Tiguan features Front & Rear USB charging ports.
+The Volkswagen Tiguan features Front & Rear fog lights.
+The Volkswagen Tiguan features a Shark Fin antenna.
+The Volkswagen Tiguan has a 10 Inch digital cluster.
+The Volkswagen Tiguan has a With Guidedlines rear camera.
+The Volkswagen Tiguan has Driver and Passenger seatbelt pretensioners and force limiters.
+The Volkswagen Tiguan has Front & Rear speakers.
+The Volkswagen Tiguan has Front electric adjustable seats.
+The Volkswagen Tiguan has a 40:20:40 Split foldable rear seat.
+The Volkswagen Tiguan has a With Storage central console armrest.
+Volkswagen Tiguan has Turbo Charger.
+The Volkswagen Tiguan offers ambient lighting with 30 color choices.
+Volkswagen Tiguan has Rear Seat Headrest.
+The Volkswagen Tiguan includes a Panoramic sunroof.
+The Volkswagen Tiguan has 3 drive modes.
+The Volkswagen Tiguan features Eco, Normal & Sport drive modes.
+The Volkswagen Tiguan includes Simultaneous pairing of 2 compatible mobile devices,Car information display as additional features.

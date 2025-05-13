@@ -1,0 +1,174 @@
+Bentley Continental has 14 variants: GT V8, GTC V8, GT S V8, GT Azure V8, GT Speed, GTC S V8, GT Speed Edition 12, GTC Azure V8, GT Mulliner V8, GTC Speed, GTC Speed Edition 12, GTC Mulliner V8, GT Mulliner W12 & GTC Mulliner W12.
+All variants of Bentley Continental have Power Steering.
+All variants of Bentley Continental have Air Conditioner.
+All variants of Bentley Continental have Heater.
+All variants of Bentley Continental have Automatic Climate Control.
+All variants of Bentley Continental have Accessory Power Outlet.
+All variants of Bentley Continental have Trunk Light.
+All variants of Bentley Continental do not have Vanity Mirror.
+All variants of Bentley Continental do not have Rear Reading Lamp.
+All variants of Bentley Continental have Rear Seat Centre Arm Rest.
+All variants of Bentley Continental have Rear AC Vents.
+All variants of Bentley Continental have Cruise Control.
+All variants of Bentley Continental have Engine Start/Stop Button.
+All variants of Bentley Continental do not have Voice Commands.
+All variants of Bentley Continental do not have Chrome Grille.
+All variants of Bentley Continental have KeyLess Entry.
+All variants of Bentley Continental have Follow Me Home Headlamps.
+All variants of Bentley Continental have Tachometer.
+All variants of Bentley Continental do not have Wheel Covers.
+All variants of Bentley Continental have Alloy Wheels.
+All variants of Bentley Continental have Integrated Antenna.
+All variants of Bentley Continental do not have Automatic Headlamps.
+All variants of Bentley Continental have Anti-lock Braking System (ABS).
+All variants of Bentley Continental have Central Locking.
+All variants of Bentley Continental have Driver Airbag.
+All variants of Bentley Continental have Side Airbag.
+All variants of Bentley Continental have Seat Belt Warning.
+All variants of Bentley Continental have Engine Immobilizer.
+All variants of Bentley Continental do not have Side Airbag-Rear.
+All variants of Bentley Continental have Anti-Theft Device.
+All variants of Bentley Continental do not have Speed Sensing Auto Door Lock.
+All variants of Bentley Continental do not have ISOFIX Child Seat Mounts.
+All variants of Bentley Continental do not have Hill Assist.
+All variants of Bentley Continental do not have Impact Sensing Auto Door Unlock.
+All variants of Bentley Continental do not have 360 View Camera.
+All variants of Bentley Continental have Radio.
+All variants of Bentley Continental have Bluetooth Connectivity.
+All variants of Bentley Continental have Height Adjustable Front Seat Belts.
+All variants of Bentley Continental have Lumbar Support.
+All variants of Bentley Continental have Paddle Shifters.
+All variants of Bentley Continental have Electronic Multi-Tripmeter.
+All variants of Bentley Continental do not have Digital Clock.
+All variants of Bentley Continental do not have Outside Temperature Display.
+All variants of Bentley Continental do not have Dual Tone Dashboard.
+All variants of Bentley Continental do not have Halogen Headlamps.
+All variants of Bentley Continental have Brake Assist.
+All variants of Bentley Continental have Anti-Theft Alarm.
+All variants of Bentley Continental have Door Ajar Warning.
+All variants of Bentley Continental do not have Digital Odometer.
+All variants of Bentley Continental do not have Heads-Up Display (HUD).
+All variants of Bentley Continental do not have Cooled Glovebox.
+All variants of Bentley Continental do not have Ventilated Seats.
+All variants of Bentley Continental do not have Hill Descent Control.
+All variants of Bentley Continental do not have Battery Saver.
+All variants of Bentley Continental do not have Smoke Headlamps.
+All variants of Bentley Continental do not have Blind Spot Monitor.
+All variants of Bentley Continental do not have Tailgate Ajar Warning.
+All variants of Bentley Continental have Remote Trunk Opener.
+All variants of Bentley Continental have Remote Fuel Lid Opener.
+All variants of Bentley Continental do not have Lane Change Indicator.
+All variants of Bentley Continental have Xenon Headlamps.
+All variants of Bentley Continental do not have Traction Control.
+All variants of Bentley Continental do not have Rear Entertainment System.
+All variants of Bentley Continental have Leather Seats.
+All variants of Bentley Continental have Driving Experience Control Eco.
+All variants of Bentley Continental have Fog Lights - Rear.
+All variants of Bentley Continental do not have Internal Storage.
+All variants of Bentley Continental do not have Super Charge.
+All variants of Bentley Continental have Height Adjustable Driver Seat.
+All variants of Bentley Continental have Rear Window Defogger.
+All variants of Bentley Continental have Leather Wrapped Steering Wheel.
+All variants of Bentley Continental have Glove Box.
+All variants of Bentley Continental have Adjustable Headlamps.
+All variants of Bentley Continental have Outside Rear View Mirror Turn Indicators.
+All variants of Bentley Continental have Passenger Airbag.
+All variants of Bentley Continental have Day & Night Rear View Mirror.
+All variants of Bentley Continental have Tyre Pressure Monitoring System (TPMS).
+All variants of Bentley Continental have Touchscreen.
+All variants of Bentley Continental have Rear Window Wiper.
+All variants of Bentley Continental have Rear Window Washer.
+All variants of Bentley Continental have Chrome Garnish.
+All variants of Bentley Continental have Child Safety Locks.
+All variants of Bentley Continental have Rear Spoiler.
+All variants of Bentley Continental have Rain Sensing Wiper.
+All variants of Bentley Continental have Air Quality Control.
+All variants of Bentley Continental have Tinted Glass.
+All variants of Bentley Continental have Folding Table in The Rear.
+All variants of Bentley Continental have Navigation System.
+All variants of Bentley Continental have Smart Access Card Entry.
+All variants of Bentley Continental have Fabric Upholstery.
+All variants of Bentley Continental have Roof Rails.
+All variants of Bentley Continental have Cigarette Lighter.
+All variants of Bentley Continental have Roof Carrier.
+All variants of Bentley Continental have Side Stepper.
+All variants of Bentley Continental have Usb Ports.
+All variants of Bentley Continental do not have Gear Shift Indicator.
+All variants of Bentley Continental do not have Luggage Hook & Net.
+All variants of Bentley Continental have Low Fuel Warning Light.
+All variants of Bentley Continental do not have Fog Lights - Front.
+All variants of Bentley Continental do not have Integrated 2DIN Audio.
+All variants of Bentley Continental have USB & Auxiliary input.
+All variants of Bentley Continental do not have Rear Curtain.
+All variants of Bentley Continental do not have Audio System Remote Control.
+Bentley Continental variants - GT V8, GT S V8, GT Azure V8, GTC S V8, GTC Azure V8 & GT Mulliner V8 share the Twin Turbocharger V8 engine.
+Bentley Continental variants - GTC V8, GTC Speed, GTC Speed Edition 12 & GTC Mulliner V8 share the Twin Turbocharger V8 Engi engine.
+Bentley Continental variants - GT Speed, GT Speed Edition 12, GT Mulliner W12 & GTC Mulliner W12 share the 6.0 litre W12 petrol engine.
+Bentley Continental variants - GT V8, GT S V8, GT Azure V8, GTC S V8, GTC Azure V8, GT Mulliner V8 & GTC Mulliner V8 share a displacement of 3996  cubic centimeters.
+Bentley Continental variants - GTC V8 & GTC Speed share a displacement of 3993  cubic centimeters.
+Bentley Continental variants - GT Speed, GT Speed Edition 12, GT Mulliner W12 & GTC Mulliner W12 share a displacement of 5950  cubic centimeters.
+Bentley Continental variant GTC Speed Edition 12 has a displacement of 5993  cubic centimeters.
+Bentley Continental variants - GT V8, GT S V8, GT Azure V8, GTC S V8, GTC Azure V8, GT Mulliner V8 & GTC Mulliner V8 have a max power of 542 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Bentley Continental variants - GTC V8, GTC Speed & GTC Speed Edition 12 have a max power of 500 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Bentley Continental variants - GT Speed, GT Speed Edition 12, GT Mulliner W12 & GTC Mulliner W12 have a max power of 650 Brake Horsepower (BHP) at 5000 to 6000 Revolutions Per Minute (RPM).
+Bentley Continental variants - GT V8, GT Azure V8, GTC Azure V8, GT Mulliner V8 & GTC Mulliner V8 share a max torque of 770 Newton meters at 2000 to 4500 Revolutions Per Minute (RPM).
+Bentley Continental variants - GTC V8, GTC Speed & GTC Speed Edition 12 share a max torque of 660 Newton meters at 1700 Revolutions Per Minute (RPM).
+Bentley Continental variants - GT S V8 & GTC S V8 share a max torque of 770 Newton meters at 2000 to  4500 Revolutions Per Minute (RPM).
+Bentley Continental variant GT Speed has a max torque of 900 Newton meters at 1500 to 500 Revolutions Per Minute (RPM).
+Bentley Continental variants - GT Speed Edition 12 & GT Mulliner W12 share a max torque of 900 Newton meters at 1500 to 5000 Revolutions Per Minute (RPM).
+Bentley Continental variant GTC Mulliner W12 has a max torque of 900 Newton meters at 1500 to 6000 Revolutions Per Minute (RPM).
+All Bentley Continental variants have 4.0 valves per cylinder.
+All Bentley Continental variants have a Automatic transmission.
+Bentley Continental variants - GT V8, GTC V8, GT S V8, GT Azure V8, GTC S V8, GTC Azure V8, GT Mulliner V8, GTC Speed, GTC Speed Edition 12 & GTC Mulliner V8 have 8.0 cylinders.
+Bentley Continental variants - GT Speed, GT Speed Edition 12, GT Mulliner W12 & GTC Mulliner W12 have 12.0 cylinders.
+All Bentley Continental variants come with a 8-Speed gearbox.
+All Bentley Continental variants have a All-Wheel Drive (AWD) drive type.
+All Bentley Continental variants run on Petrol.
+All Bentley Continental variants comply with BS VI 2.0 emission norms.
+All Bentley Continental variants come with Power steering.
+All Bentley Continental variants have a turning radius of 5.9m.
+All Bentley Continental variants have Ventilated Disc front brakes.
+All Bentley Continental variants have Ventilated Disc rear brakes.
+All Bentley Continental variants have a length of 4807 mm.
+All Bentley Continental variants have a width of 2226 mm.
+All Bentley Continental variants have a height of 1401 mm.
+All Bentley Continental variants offer 358 Litres of boot space.
+All Bentley Continental variants have a seating capacity of 4.0.
+All Bentley Continental variants have an unladen ground clearance of 152 mm.
+Bentley Continental variant GT V8 has a wheelbase of 2746 mm.
+Bentley Continental variants - GTC V8, GT S V8, GT Azure V8, GT Speed, GTC S V8, GT Speed Edition 12, GTC Azure V8, GT Mulliner V8, GTC Speed, GTC Speed Edition 12, GTC Mulliner V8, GT Mulliner W12 & GTC Mulliner W12 share a wheelbase of 2600 mm.
+All Bentley Continental variants have a kerb weight of 2295 kg.
+All Bentley Continental variants have a gross weight of 2750 kg.
+All Bentley Continental variants have 2.0 doors.
+All Bentley Continental variants have tyres of size 275/40 R20.
+All Bentley Continental variants come with Tubeless Radial tyres.
+All Bentley Continental variants come equipped with 4.0 airbags.
+Bentley Continental variant GT V8 has a top speed of 318.65 kmph.
+Bentley Continental variants - GTC V8, GT S V8, GT Azure V8, GTC S V8, GTC Azure V8 & GTC Mulliner V8 have a top speed of 318 kmph.
+Bentley Continental variants - GT Speed, GT Speed Edition 12, GTC Speed, GTC Speed Edition 12 & GTC Mulliner W12 have a top speed of 335 kmph.
+Bentley Continental variants - GT Mulliner V8 & GT Mulliner W12 have a top speed of 336 kmph.
+Bentley Continental variant GT V8 features a front tread of 1485 mm.
+All Bentley Continental variants accelerate from 0-100 kmph in 4.8 s.
+All Bentley Continental variants accelerate from 0-100 kmph in 4.8 s.
+All Bentley Continental variants come with a DOHC valve configuration.
+All Bentley Continental variants use a Rack & Pinion steering gear type.
+All Bentley Continental variants use a Direct Injection (Di) fuel supply system.
+All Bentley Continental variants feature a Smart trunk opener.
+All Bentley Continental variants come with Air Springs With Continuous Damping shock absorbers.
+All Bentley Continental variants offer a mileage of 12.9 kmpl.
+All Bentley Continental variants have a fuel tank capacity of 90 Litres.
+All Bentley Continental variants come with Tilt Steering steering adjustment.
+All variants of Bentley Continental have Adjustable Steering.
+All variants of Bentley Continental have Parking Sensors.
+All Bentley Continental variants come with Front USB charging ports.
+All variants of Bentley Continental do not have Pretensioners & Force Limiter Seatbelts.
+All Bentley Continental variants include Front & Rear speakers.
+All Bentley Continental variants have Front electric adjustable seats.
+All variants of Bentley Continental do not have Foldable Rear Seat.
+All variants of Bentley Continental do not have Central Console Armrest.
+All variants of Bentley Continental have Turbo Charger.
+All variants of Bentley Continental do not have Knee Airbags.
+Bentley Continental variant without Autonomous Parking - GT V8.
+All variants of Bentley Continental have Rear Seat Headrest.
+All variants of Bentley Continental do not have Sunroof.
+All Bentley Continental variants come with 0 drive modes.

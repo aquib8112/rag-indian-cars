@@ -1,0 +1,229 @@
+﻿Hyundai Creta has 14 variants: E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+All variants of Hyundai Creta have Power Steering.
+All variants of Hyundai Creta have Air Conditioner.
+All variants of Hyundai Creta have Heater.
+Hyundai Creta variants with Automatic Climate Control - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Automatic Climate Control - E, EX, E Diesel, S, EX Diesel & S Diesel.
+All variants of Hyundai Creta have Accessory Power Outlet.
+Hyundai Creta variants with Trunk Light - S, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Trunk Light - E, EX, E Diesel & EX Diesel.
+All variants of Hyundai Creta have Vanity Mirror.
+All variants of Hyundai Creta have Rear Reading Lamp.
+All variants of Hyundai Creta have Adjustable Headrest.
+All variants of Hyundai Creta have Rear Seat Centre Arm Rest.
+All variants of Hyundai Creta have Rear AC Vents.
+Hyundai Creta variants with Cruise Control - S, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Cruise Control - E, EX, E Diesel & EX Diesel.
+Hyundai Creta variants with Engine Start/Stop Button - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Engine Start/Stop Button - E, EX, E Diesel, S, EX Diesel & S Diesel.
+Hyundai Creta variants with Voice Commands - EX, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Voice Commands - E & E Diesel.
+All variants of Hyundai Creta do not have Hands-Free Tailgate.
+All variants of Hyundai Creta have KeyLess Entry.
+All variants of Hyundai Creta have Idle Start-Stop System.
+All variants of Hyundai Creta have Follow Me Home Headlamps.
+All variants of Hyundai Creta have Tachometer.
+Hyundai Creta variants with Wheel Covers - E, EX, E Diesel, S, EX Diesel & S Diesel.
+Hyundai Creta variants without Wheel Covers - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants with Alloy Wheels - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Alloy Wheels - E, EX, E Diesel, S, EX Diesel & S Diesel.
+All variants of Hyundai Creta have Integrated Antenna.
+Hyundai Creta variants with Projector Headlamps - E, EX, E Diesel & EX Diesel.
+Hyundai Creta variants without Projector Headlamps - S, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants with Automatic Headlamps - S, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Automatic Headlamps - E, EX, E Diesel & EX Diesel.
+Hyundai Creta variants with LED DRLs - S, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without LED DRLs - E, EX, E Diesel & EX Diesel.
+All variants of Hyundai Creta have LED Headlamps.
+All variants of Hyundai Creta have Anti-lock Braking System (ABS).
+All variants of Hyundai Creta have Central Locking.
+All variants of Hyundai Creta have Driver Airbag.
+All variants of Hyundai Creta have Side Airbag.
+All variants of Hyundai Creta have Seat Belt Warning.
+All variants of Hyundai Creta have Engine Immobilizer.
+All variants of Hyundai Creta do not have E-Call & I-Call.
+All variants of Hyundai Creta do not have Side Airbag-Rear.
+All variants of Hyundai Creta have Electronic Stability Control (ESC).
+All variants of Hyundai Creta have Anti-Theft Device.
+All variants of Hyundai Creta have Speed Alert.
+All variants of Hyundai Creta have Speed Sensing Auto Door Lock.
+All variants of Hyundai Creta have ISOFIX Child Seat Mounts.
+All variants of Hyundai Creta have Hill Assist.
+All variants of Hyundai Creta have Impact Sensing Auto Door Unlock.
+All variants of Hyundai Creta do not have 360 View Camera.
+Hyundai Creta variants with Radio - EX, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Radio - E & E Diesel.
+Hyundai Creta variants with Wireless Phone Charging - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Wireless Phone Charging - E, EX, E Diesel, S, EX Diesel & S Diesel.
+Hyundai Creta variants with Bluetooth Connectivity - EX, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Bluetooth Connectivity - E & E Diesel.
+Hyundai Creta variants with Android Auto - EX, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Android Auto - E & E Diesel.
+Hyundai Creta variants with Apple CarPlay - EX, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Apple CarPlay - E & E Diesel.
+Hyundai Creta variants with Driver Attention Warning - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Driver Attention Warning - E, EX, E Diesel, S, EX Diesel, S Diesel, SX & SX DT.
+Hyundai Creta variants with Live Location - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Live Location - E, EX, E Diesel, S, EX Diesel & S Diesel.
+Hyundai Creta variants with Over the Air (OTA) Updates - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Over the Air (OTA) Updates - E, EX, E Diesel, S, EX Diesel & S Diesel.
+Hyundai Creta variants with Google / Alexa Connectivity - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Google / Alexa Connectivity - E, EX, E Diesel, S, EX Diesel & S Diesel.
+All variants of Hyundai Creta have Height Adjustable Front Seat Belts.
+Hyundai Creta variants with Paddle Shifters - SX Tech iVT & SX Tech iVT DT.
+Hyundai Creta variants without Paddle Shifters - E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech Diesel & SX Tech Diesel DT.
+All variants of Hyundai Creta have Dual Tone Dashboard.
+All variants of Hyundai Creta have LED Taillights.
+All variants of Hyundai Creta have Electronic Brakeforce Distribution (EBD).
+All variants of Hyundai Creta have Anti-Theft Alarm.
+All variants of Hyundai Creta have Door Ajar Warning.
+All variants of Hyundai Creta have Digital Odometer.
+Hyundai Creta variants with Forward Collision Warning - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Forward Collision Warning - E, EX, E Diesel, S, EX Diesel, S Diesel, SX & SX DT.
+Hyundai Creta variants with Blind Spot Collision Avoidance Assist - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Blind Spot Collision Avoidance Assist - E, EX, E Diesel, S, EX Diesel, S Diesel, SX & SX DT.
+Hyundai Creta variants with Lane Departure Warning - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Lane Departure Warning - E, EX, E Diesel, S, EX Diesel, S Diesel, SX & SX DT.
+Hyundai Creta variants with Lane Keep Assist - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Lane Keep Assist - E, EX, E Diesel, S, EX Diesel, S Diesel, SX & SX DT.
+Hyundai Creta variants with Adaptive Cruise Control - SX Tech iVT & SX Tech iVT DT.
+Hyundai Creta variants without Adaptive Cruise Control - E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants with Leading Vehicle Departure Alert - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Leading Vehicle Departure Alert - E, EX, E Diesel, S, EX Diesel, S Diesel, SX & SX DT.
+Hyundai Creta variants with Adaptive High Beam Assist - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Adaptive High Beam Assist - E, EX, E Diesel, S, EX Diesel, S Diesel, SX & SX DT.
+Hyundai Creta variants with Rear Cross Traffic Alert - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Rear Cross Traffic Alert - E, EX, E Diesel, S, EX Diesel, S Diesel, SX & SX DT.
+Hyundai Creta variants with Rear Cross Traffic Collision-Avoidance Assist - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Rear Cross Traffic Collision-Avoidance Assist - E, EX, E Diesel, S, EX Diesel, S Diesel, SX & SX DT.
+Hyundai Creta variants with Cooled Glovebox - S, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Cooled Glovebox - E, EX, E Diesel & EX Diesel.
+All variants of Hyundai Creta do not have Ventilated Seats.
+Hyundai Creta variants with Puddle Lamps - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Puddle Lamps - E, EX, E Diesel, S, EX Diesel & S Diesel.
+Hyundai Creta variants with Rear Window Sunblind - S, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Rear Window Sunblind - E, EX, E Diesel & EX Diesel.
+Hyundai Creta variants with Blind Spot Monitor - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Blind Spot Monitor - E, EX, E Diesel, S, EX Diesel, S Diesel, SX & SX DT.
+Hyundai Creta variants with SOS Button - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without SOS Button - E, EX, E Diesel, S, EX Diesel & S Diesel.
+Hyundai Creta variants with Voice assisted sunroof - SX, SX Tech, SX Tech iVT & SX Tech Diesel.
+Hyundai Creta variants without Voice assisted sunroof - E, EX, E Diesel, EX Diesel & S Diesel.
+Hyundai Creta variants with Traction Control - SX Tech iVT & SX Tech iVT DT.
+Hyundai Creta variants without Traction Control - E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants with RSA - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without RSA - E, EX, E Diesel, S, EX Diesel & S Diesel.
+All variants of Hyundai Creta have Height Adjustable Driver Seat.
+Hyundai Creta variants with Rear Window Defogger - E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+All variants of Hyundai Creta have Glove Box.
+Hyundai Creta variants with Outside Rear View Mirror Turn Indicators - E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+All variants of Hyundai Creta have Passenger Airbag.
+All variants of Hyundai Creta have Day & Night Rear View Mirror.
+All variants of Hyundai Creta have Tyre Pressure Monitoring System (TPMS).
+Hyundai Creta variants with Touchscreen - E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants with Rear Window Wiper - E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants with Rear Window Washer - E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+All variants of Hyundai Creta have Child Safety Locks.
+All variants of Hyundai Creta have Rear Spoiler.
+Hyundai Creta variants with Roof Rails - E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+All variants of Hyundai Creta have Curtain Airbag.
+Hyundai Creta variants with Usb Ports - EX, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Usb Ports - E & E Diesel.
+Hyundai Creta variants without Gear Shift Indicator - SX Tech DT & SX Tech Diesel DT.
+Hyundai Creta variants without Luggage Hook & Net - SX Tech DT & SX Tech Diesel DT.
+Hyundai Creta variants with Integrated 2DIN Audio - EX, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Integrated 2DIN Audio - E & E Diesel.
+Hyundai Creta variants without Rear Curtain - SX Tech DT & SX Tech Diesel DT.
+Hyundai Creta variants - E, EX, S, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT & SX Tech iVT DT share the 1.5L MPi engine.
+Hyundai Creta variants - E Diesel, EX Diesel, S Diesel, SX Tech Diesel & SX Tech Diesel DT share the 1.5L U2 CRDi engine.
+Hyundai Creta variants - E, EX, S, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT & SX Tech iVT DT share a displacement of 1497  cubic centimeters.
+Hyundai Creta variants - E Diesel, EX Diesel, S Diesel, SX Tech Diesel & SX Tech Diesel DT share a displacement of 1493  cubic centimeters.
+Hyundai Creta variants - E, EX, S, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT & SX Tech iVT DT have a max power of 113.18 Brake Horsepower (BHP) at 6300 Revolutions Per Minute (RPM).
+Hyundai Creta variants - E Diesel, EX Diesel, S Diesel, SX Tech Diesel & SX Tech Diesel DT have a max power of 114 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Hyundai Creta variants - E, EX, S, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT & SX Tech iVT DT share a max torque of 143.8 Newton meters at 4500 Revolutions Per Minute (RPM).
+Hyundai Creta variants - E Diesel, EX Diesel, S Diesel, SX Tech Diesel & SX Tech Diesel DT share a max torque of 250 Newton meters at 1500 to 2750 Revolutions Per Minute (RPM).
+All Hyundai Creta variants have 4.0 valves per cylinder.
+Hyundai Creta variants - E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech Diesel & SX Tech Diesel DT share a Manual transmission.
+Hyundai Creta variants - SX Tech iVT & SX Tech iVT DT share a Automatic transmission.
+All Hyundai Creta variants have 4.0 cylinders.
+Hyundai Creta variants - E, EX, E Diesel, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech Diesel & SX Tech Diesel DT share a 6-Speed gearbox.
+Hyundai Creta variants - SX Tech iVT & SX Tech iVT DT share a 6-Speed iVT gearbox.
+All Hyundai Creta variants have a Front-Wheel Drive (FWD) drive type.
+Hyundai Creta variants - E, EX, S, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT & SX Tech iVT DT use Petrol as fuel.
+Hyundai Creta variants - E Diesel, EX Diesel, S Diesel, SX Tech Diesel & SX Tech Diesel DT use Diesel as fuel.
+All Hyundai Creta variants comply with BS VI 2.0 emission norms.
+All Hyundai Creta variants come with Electric steering.
+All Hyundai Creta variants have a turning radius of 5.3m.
+All Hyundai Creta variants have Disc front brakes.
+All Hyundai Creta variants have Disc rear brakes.
+All Hyundai Creta variants have a length of 4330 mm.
+All Hyundai Creta variants have a width of 1790 mm.
+All Hyundai Creta variants have a height of 1635 mm.
+All Hyundai Creta variants offer 433 Litres of boot space.
+All Hyundai Creta variants have a seating capacity of 5.0.
+All Hyundai Creta variants have an unladen ground clearance of 190 mm.
+All Hyundai Creta variants have a wheelbase of 2610 mm.
+All Hyundai Creta variants have 5.0 doors.
+All Hyundai Creta variants come with a Electronic boot opening mechanism.
+Hyundai Creta variants - E, EX, E Diesel, S, EX Diesel & S Diesel feature tyres of size 205/65 R16.
+Hyundai Creta variants - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT feature tyres of size 215/60 R17.
+All Hyundai Creta variants come with Tyre Type tyres.
+Hyundai Creta variants - E, EX, E Diesel, S, EX Diesel & S Diesel feature 16 Inch wheels.
+All Hyundai Creta variants come equipped with 6.0 airbags.
+Hyundai Creta variant E has a Global NCAP rating of 4 Star.
+Hyundai Creta variant E has a Global NCAP child safety rating of 3 Star.
+Hyundai Creta variants - EX, S, EX Diesel & S Diesel come with a 8 inch touchscreen display.
+Hyundai Creta variants - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT come with a 10.25 inch touchscreen display.
+Hyundai Creta variants - EX, S, EX Diesel, S Diesel, SX & SX DT come with 4.0 speakers.
+Hyundai Creta variants - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT come with 5.0 speakers.
+Hyundai Creta variants - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT have 17 Inch front alloy wheels.
+Hyundai Creta variants - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT have 17 Inch rear alloy wheels.
+Hyundai Creta variants - EX, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT have 2.0 tweeters.
+Hyundai Creta variants - EX, S, EX Diesel & S Diesel have Android Auto, Apple CarPlay connectivity options.
+Hyundai Creta variants - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT have Android Auto, Apple CarPlay connectivity options.
+All Hyundai Creta variants feature a Full Digital digital cluster.
+Hyundai Creta variants - E, EX, E Diesel, S, EX Diesel & S Diesel feature Fabric upholstery options.
+Hyundai Creta variants - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT feature Leatherette upholstery options.
+All Hyundai Creta variants offer a boot space of 433 Litres.
+Hyundai Creta variant E features a front tread of 1536 mm.
+All Hyundai Creta variants come with a DOHC valve configuration.
+Hyundai Creta variants - E, EX, S, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT & SX Tech iVT DT have the same fuel supply system of Multi-Point Fuel Injection (MPFi).
+Hyundai Creta variants - E Diesel, EX Diesel, S Diesel, SX Tech Diesel & SX Tech Diesel DT have the same fuel supply system of Common Rail Direct Injection (CRDi).
+Hyundai Creta variants - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT have the same subwoofer setup with 1.0.
+Hyundai Creta variants - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT come with Driver's Window anti-pinch power windows.
+Hyundai Creta variants - E, EX, S, SX, SX DT, SX Tech & SX Tech DT have mileage figures of 17.4 kmpl.
+Hyundai Creta variants - E Diesel, EX Diesel, S Diesel, SX Tech Diesel & SX Tech Diesel DT have mileage figures of 21.8 kmpl.
+Hyundai Creta variants - SX Tech iVT & SX Tech iVT DT have mileage figures of 17.7 kmpl.
+All Hyundai Creta variants have a fuel tank capacity of 50 Litres.
+All Hyundai Creta variants have the MacPherson Strut suspension front suspension.
+All Hyundai Creta variants have the Rear twist beam rear suspension.
+All Hyundai Creta variants come with Tilt & Telescopic steering adjustment.
+All variants of Hyundai Creta have Adjustable Steering.
+All Hyundai Creta variants are equipped with Rear parking sensors.
+All Hyundai Creta variants come with Front & Rear USB charging ports.
+Hyundai Creta variants - E, EX, E Diesel, S & EX Diesel share the Front & Rear power window configuration.
+Hyundai Creta variants - E & E Diesel share the Micro Roof antenna type.
+Hyundai Creta variants - EX, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT share the Shark Fin antenna type.
+Hyundai Creta variants without Rear Camera - E, EX, E Diesel & EX Diesel.
+Hyundai Creta variants - S, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT share the With Guidedlines rear camera type.
+All Hyundai Creta variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Hyundai Creta variants without Speakers - E & E Diesel.
+Hyundai Creta variants - EX, S, EX Diesel, S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT share the Front & Rear speaker configuration.
+All variants of Hyundai Creta do not have Electric Adjustable Seats.
+All Hyundai Creta variants have a 60:40 Split foldable rear seat.
+All Hyundai Creta variants have a With Storage central console armrest.
+Hyundai Creta variants without Turbo Charger - E, EX, S, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT & SX Tech iVT DT.
+Hyundai Creta variants with Turbo Charger - E Diesel, EX Diesel, S Diesel, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Inbuilt_Apps - E, EX, E Diesel, S, EX Diesel & S Diesel.
+Hyundai Creta variants - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT share the JioSaavn inbuilt apps.
+All variants of Hyundai Creta do not have Knee Airbags.
+Hyundai Creta variants with Rear Seat Headrest - S Diesel, SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT.
+Hyundai Creta variants without Sunroof - E, EX, E Diesel, S, EX Diesel & S Diesel.
+Hyundai Creta variants - SX, SX DT, SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT share a Panoramic sunroof.
+Hyundai Creta variants - S Diesel, SX, SX Tech, SX Tech DT, SX Tech Diesel & SX Tech Diesel DT share the 0 drive mode configuration.
+Hyundai Creta variants - SX Tech iVT & SX Tech iVT DT share the 3 drive mode configuration.
+Hyundai Creta variant SX Tech iVT includes Eco, Normal & Sport drive modes.
+Hyundai Creta variants without Additional Features - E & E Diesel.
+Hyundai Creta variants - EX, S, EX Diesel & S Diesel share 8 inch touchscreen infotainment system as additional features.
+Hyundai Creta variants - SX & SX DT share 10.25 inch HD audio video navigation system, JioSaavan music streaming, Hyundai Bluelink as additional features.
+Hyundai Creta variants - SX Tech, SX Tech DT, SX Tech iVT, SX Tech iVT DT, SX Tech Diesel & SX Tech Diesel DT share 10.25 inch HD audio video navigation system, JioSaavan music streaming, Hyundai Bluelink, Bose premium sound 8 speaker system with front central speaker & sub-woofer as additional features.

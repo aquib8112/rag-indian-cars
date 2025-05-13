@@ -1,0 +1,64 @@
+Isuzu S Cab has 1 variants: Hi-Ride AC.
+Isuzu S Cab has Power Steering.
+Isuzu S Cab has Air Conditioner.
+Isuzu S Cab has Heater.
+Isuzu S Cab has Accessory Power Outlet.
+Isuzu S Cab has Adjustable Headrest.
+Isuzu S Cab has Rear AC Vents.
+Isuzu S Cab has Tachometer.
+Isuzu S Cab has Central Locking.
+Isuzu S Cab has Driver Airbag.
+Isuzu S Cab does not have Side Airbag.
+Isuzu S Cab does not have Side Airbag-Rear.
+Isuzu S Cab has Height Adjustable Front Seat Belts.
+Isuzu S Cab has Electronic Multi-Tripmeter.
+Isuzu S Cab has Digital Clock.
+Isuzu S Cab has Power Antenna.
+Isuzu S Cab has Halogen Headlamps.
+Isuzu S Cab has Height Adjustable Driver Seat.
+Isuzu S Cab has Glove Box.
+Isuzu S Cab has Adjustable Headlamps.
+Isuzu S Cab has Day & Night Rear View Mirror.
+Isuzu S Cab has Child Safety Locks.
+Isuzu S Cab has Fabric Upholstery.
+Isuzu S Cab has Gear Shift Indicator.
+The Isuzu S Cab has the VGT Intercooled Diesel engine.
+The Isuzu S Cab has a displacement of 2499  cubic centimeters.
+The Isuzu S Cab generates 77.77 Brake Horsepower (BHP) at 3800 Revolutions Per Minute (RPM).
+The Isuzu S Cab generates 176 Newton meters at 1500 to 2400 Revolutions Per Minute (RPM).
+The Isuzu S Cab has 4.0 valves per cylinder.
+The Isuzu S Cab has a Manual transmission.
+The Isuzu S Cab has 4.0 cylinders.
+The Isuzu S Cab has a 5-Speed gearbox.
+The Isuzu S Cab has a Rear-Wheel Drive (RWD) drive type.
+The Isuzu S Cab runs on Diesel.
+The Isuzu S Cab complies with BS VI 2.0 emission norms.
+The Isuzu S Cab has Power steering.
+The Isuzu S Cab has a turning radius of 6.3m.
+The Isuzu S Cab has Ventilated Disc front brakes.
+The Isuzu S Cab has Drum rear brakes.
+The Isuzu S Cab has a length of 5190 mm.
+The Isuzu S Cab has a width of 1860 mm.
+The Isuzu S Cab has a height of 1780 mm.
+The Isuzu S Cab offers 1700 Litres of boot space.
+The Isuzu S Cab has a seating capacity of 5.0.
+The Isuzu S Cab has a wheelbase of 2600 mm.
+The Isuzu S Cab has a kerb weight of 1795 kg.
+The Isuzu S Cab has a gross weight of 2850 kg.
+The Isuzu S Cab has 4.0 doors.
+The Isuzu S Cab is fitted with tyres of size 205/R16C.
+The Isuzu S Cab is equipped with Tubeless tyres.
+The Isuzu S Cab comes with 16 Inch wheels.
+The Isuzu S Cab is equipped with 2.0 airbags.
+The Isuzu S Cab is equipped with 4.0 speakers.
+The Isuzu S Cab has a front tread of 1596 mm.
+The Isuzu S Cab delivers a highway mileage of 16.56 kmpl.
+The Isuzu S Cab comes with a fuel tank capacity of 55 Litres.
+The Isuzu S Cab comes with the Double wishbone suspension front suspension.
+The Isuzu S Cab comes with the Leaf spring suspension rear suspension.
+The Isuzu S Cab features Tilt Steering steering adjustment.
+Isuzu S Cab has Adjustable Steering.
+The Isuzu S Cab features Rear parking sensors.
+The Isuzu S Cab has a 60:40 Split foldable rear seat.
+Isuzu S Cab has Rear Seat Headrest.
+The Isuzu S Cab includes Front Wiper with Intermittent Mode, Warning Lights and Buzzers as additional features.

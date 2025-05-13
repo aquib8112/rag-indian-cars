@@ -1,0 +1,111 @@
+Mahindra Bolero has 3 variants: B4, B6 & B6 Opt.
+All variants of Mahindra Bolero have Power Steering.
+All variants of Mahindra Bolero have Air Conditioner.
+All variants of Mahindra Bolero have Heater.
+Mahindra Bolero variants with Accessory Power Outlet - B6 & B6 Opt.
+Mahindra Bolero variant without Accessory Power Outlet - B4.
+All variants of Mahindra Bolero have Vanity Mirror.
+All variants of Mahindra Bolero have Rear Reading Lamp.
+Mahindra Bolero variants with Adjustable Headrest - B6 & B6 Opt.
+Mahindra Bolero variant without Adjustable Headrest - B4.
+Mahindra Bolero variants with Chrome Grille - B6 & B6 Opt.
+Mahindra Bolero variant without Chrome Grille - B4.
+Mahindra Bolero variants with KeyLess Entry - B6 & B6 Opt.
+Mahindra Bolero variant without KeyLess Entry - B4.
+All variants of Mahindra Bolero have Idle Start-Stop System.
+All variants of Mahindra Bolero have Tachometer.
+Mahindra Bolero variants with Wheel Covers - B6 & B6 Opt.
+Mahindra Bolero variant without Wheel Covers - B4.
+Mahindra Bolero variants with Integrated Antenna - B6 & B6 Opt.
+Mahindra Bolero variant without Integrated Antenna - B4.
+All variants of Mahindra Bolero have Anti-lock Braking System (ABS).
+Mahindra Bolero variants with Central Locking - B6 & B6 Opt.
+Mahindra Bolero variant without Central Locking - B4.
+All variants of Mahindra Bolero have Driver Airbag.
+All variants of Mahindra Bolero do not have Side Airbag.
+All variants of Mahindra Bolero have Seat Belt Warning.
+All variants of Mahindra Bolero have Engine Immobilizer.
+All variants of Mahindra Bolero do not have Side Airbag-Rear.
+All variants of Mahindra Bolero do not have Electronic Stability Control (ESC).
+All variants of Mahindra Bolero have Speed Alert.
+All variants of Mahindra Bolero do not have 360 View Camera.
+Mahindra Bolero variants with Radio - B6 & B6 Opt.
+Mahindra Bolero variant without Radio - B4.
+Mahindra Bolero variants with Bluetooth Connectivity - B6 & B6 Opt.
+Mahindra Bolero variant without Bluetooth Connectivity - B4.
+All variants of Mahindra Bolero do not have Android Auto.
+All variants of Mahindra Bolero do not have Apple CarPlay.
+All variants of Mahindra Bolero have Dual Tone Dashboard.
+All variants of Mahindra Bolero have Halogen Headlamps.
+All variants of Mahindra Bolero have Electronic Brakeforce Distribution (EBD).
+Mahindra Bolero variant with Door Ajar Warning - B6 Opt.
+Mahindra Bolero variants without Door Ajar Warning - B4 & B6.
+All variants of Mahindra Bolero have Remote Fuel Lid Opener.
+All variants of Mahindra Bolero have Rear Window Defogger.
+All variants of Mahindra Bolero have Glove Box.
+All variants of Mahindra Bolero have Adjustable Headlamps.
+All variants of Mahindra Bolero have Outside Rear View Mirror Turn Indicators.
+All variants of Mahindra Bolero have Passenger Airbag.
+All variants of Mahindra Bolero have Day & Night Rear View Mirror.
+All variants of Mahindra Bolero have Touchscreen.
+Mahindra Bolero variants with Rear Window Wiper - B4, B6 & B6 Opt.
+Mahindra Bolero variants with Rear Window Washer - B4, B6 & B6 Opt.
+All variants of Mahindra Bolero have Child Safety Locks.
+All variants of Mahindra Bolero have Rear Spoiler.
+All variants of Mahindra Bolero have Side Stepper.
+All variants of Mahindra Bolero do not have Curtain Airbag.
+Mahindra Bolero variants with Usb Ports - B6 & B6 Opt.
+Mahindra Bolero variant without Usb Ports - B4.
+Mahindra Bolero variant with Gear Shift Indicator - B6 Opt.
+Mahindra Bolero variants without Gear Shift Indicator - B4 & B6.
+Mahindra Bolero variants with Integrated 2DIN Audio - B6 & B6 Opt.
+Mahindra Bolero variant without Integrated 2DIN Audio - B4.
+All Mahindra Bolero variants use the mHAWK75 engine.
+All Mahindra Bolero variants have a displacement of 1493  cubic centimeters.
+All Mahindra Bolero variants produce a maximum power of 74.96 Brake Horsepower (BHP) at 3600 Revolutions Per Minute (RPM).
+All Mahindra Bolero variants produce a maximum torque of 210 Newton meters at 1600 to 2200 Revolutions Per Minute (RPM).
+All Mahindra Bolero variants have 4.0 valves per cylinder.
+All Mahindra Bolero variants have a Manual transmission.
+All Mahindra Bolero variants have 3.0 cylinders.
+All Mahindra Bolero variants come with a 5-Speed gearbox.
+All Mahindra Bolero variants have a Rear-Wheel Drive (RWD) drive type.
+All Mahindra Bolero variants run on Diesel.
+All Mahindra Bolero variants comply with BS VI 2.0 emission norms.
+All Mahindra Bolero variants come with Electric steering.
+All Mahindra Bolero variants have a turning radius of 5.8m.
+All Mahindra Bolero variants have Disc front brakes.
+All Mahindra Bolero variants have Drum rear brakes.
+All Mahindra Bolero variants have a length of 3995 mm.
+All Mahindra Bolero variants have a width of 1745 mm.
+All Mahindra Bolero variants have a height of 1880 mm.
+All Mahindra Bolero variants offer 370 Litres of boot space.
+All Mahindra Bolero variants have a seating capacity of 7.0.
+All Mahindra Bolero variants have an unladen ground clearance of 180 mm.
+All Mahindra Bolero variants have a wheelbase of 2680 mm.
+All Mahindra Bolero variants have 5.0 doors.
+All Mahindra Bolero variants come with a Manual boot opening mechanism.
+All Mahindra Bolero variants have tyres of size 215/75 R15.
+All Mahindra Bolero variants come with Tubeless Radial tyres.
+All Mahindra Bolero variants have 15 Inch wheels.
+All Mahindra Bolero variants come equipped with 2.0 airbags.
+Mahindra Bolero variant B6 has a Global NCAP rating of 1 Star.
+Mahindra Bolero variants - B6 & B6 Opt come with 4.0 speakers.
+All Mahindra Bolero variants feature a Semi Digital digital cluster.
+Mahindra Bolero variants - B6 & B6 Opt feature Fabric upholstery options.
+All Mahindra Bolero variants have a top speed of 125.67 kmph.
+All Mahindra Bolero variants come with a SOHC valve configuration.
+All Mahindra Bolero variants offer a mileage of 16 kmpl.
+All Mahindra Bolero variants have a fuel tank capacity of 60 Litres.
+All Mahindra Bolero variants have the MacPherson Strut suspension front suspension.
+All Mahindra Bolero variants have the Leaf spring suspension rear suspension.
+All Mahindra Bolero variants come with Power Steering steering adjustment.
+All variants of Mahindra Bolero do not have Adjustable Steering.
+All Mahindra Bolero variants are equipped with Rear parking sensors.
+All variants of Mahindra Bolero do not have Rear Camera.
+Mahindra Bolero variant without Speakers - B4.
+Mahindra Bolero variants - B6 & B6 Opt share the Front & Rear speaker configuration.
+All variants of Mahindra Bolero have Turbo Charger.
+All variants of Mahindra Bolero have Rear Seat Headrest.
+Mahindra Bolero variant B4 offers Side Cladding, Black Body ORVM as additional features.
+Mahindra Bolero variant B6 offers Decals, Wood Finish with Center Bezel, Side Cladding, Coloured ORVM as additional features.
+Mahindra Bolero variant B6 Opt offers Static Bending Headlamps, Decals, Wood Finish with Center Bezel, Side Cladding, Body Coloured ORVM as additional features.

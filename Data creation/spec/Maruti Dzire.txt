@@ -1,0 +1,193 @@
+Maruti Dzire has 9 variants: LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+All variants of Maruti Dzire have Power Steering.
+All variants of Maruti Dzire have Air Conditioner.
+All variants of Maruti Dzire have Heater.
+Maruti Dzire variants with Automatic Climate Control - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Automatic Climate Control - LXI, VXI, VXI AMT & VXI CNG.
+All variants of Maruti Dzire have Accessory Power Outlet.
+Maruti Dzire variants with Trunk Light - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variant without Trunk Light - LXI.
+Maruti Dzire variants with Vanity Mirror - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variant without Vanity Mirror - LXI.
+All variants of Maruti Dzire have Rear Reading Lamp.
+All variants of Maruti Dzire have Adjustable Headrest.
+Maruti Dzire variants with Rear Seat Centre Arm Rest - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variant without Rear Seat Centre Arm Rest - LXI.
+Maruti Dzire variants with Rear AC Vents - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variant without Rear AC Vents - LXI.
+Maruti Dzire variants with Cruise Control - ZXI Plus & ZXI Plus AMT.
+Maruti Dzire variants without Cruise Control - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT & ZXI CNG.
+Maruti Dzire variants with Real-Time Vehicle Tracking - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Real-Time Vehicle Tracking - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with Engine Start/Stop Button - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Engine Start/Stop Button - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with Voice Commands - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variant without Voice Commands - LXI.
+All variants of Maruti Dzire do not have Hands-Free Tailgate.
+All variants of Maruti Dzire have KeyLess Entry.
+All variants of Maruti Dzire have Idle Start-Stop System.
+Maruti Dzire variants with Follow Me Home Headlamps - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Follow Me Home Headlamps - LXI, VXI, VXI AMT & VXI CNG.
+All variants of Maruti Dzire have Tachometer.
+Maruti Dzire variants with Wheel Covers - VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants without Wheel Covers - LXI, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants with Alloy Wheels - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Alloy Wheels - LXI, VXI, VXI AMT & VXI CNG.
+All variants of Maruti Dzire have Integrated Antenna.
+Maruti Dzire variants with Projector Headlamps - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants without Projector Headlamps - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants with Automatic Headlamps - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Automatic Headlamps - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with LED DRLs - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without LED DRLs - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with LED Headlamps - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without LED Headlamps - LXI, VXI, VXI AMT & VXI CNG.
+All variants of Maruti Dzire have Anti-lock Braking System (ABS).
+All variants of Maruti Dzire have Central Locking.
+All variants of Maruti Dzire have Driver Airbag.
+All variants of Maruti Dzire have Side Airbag.
+All variants of Maruti Dzire have Seat Belt Warning.
+All variants of Maruti Dzire have Engine Immobilizer.
+All variants of Maruti Dzire do not have Side Airbag-Rear.
+All variants of Maruti Dzire have Electronic Stability Control (ESC).
+Maruti Dzire variants with Anti-Theft Device - ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Anti-Theft Device - LXI, VXI, VXI AMT, VXI CNG, ZXI & ZXI AMT.
+All variants of Maruti Dzire have Speed Alert.
+All variants of Maruti Dzire have Speed Sensing Auto Door Lock.
+All variants of Maruti Dzire have ISOFIX Child Seat Mounts.
+All variants of Maruti Dzire have Hill Assist.
+All variants of Maruti Dzire have Impact Sensing Auto Door Unlock.
+Maruti Dzire variants with 360 View Camera - ZXI Plus & ZXI Plus AMT.
+Maruti Dzire variants without 360 View Camera - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT & ZXI CNG.
+Maruti Dzire variants with Radio - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variant without Radio - LXI.
+Maruti Dzire variants with Wireless Phone Charging - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Wireless Phone Charging - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with Bluetooth Connectivity - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variant without Bluetooth Connectivity - LXI.
+Maruti Dzire variants with Android Auto - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variant without Android Auto - LXI.
+Maruti Dzire variants with Apple CarPlay - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variant without Apple CarPlay - LXI.
+Maruti Dzire variants with Driver Attention Warning - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Driver Attention Warning - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with Live Location - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Live Location - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with Over the Air (OTA) Updates - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variant without Over the Air (OTA) Updates - LXI.
+Maruti Dzire variants with Google / Alexa Connectivity - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Google / Alexa Connectivity - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with Over Speeding Alert - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Over Speeding Alert - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with Smartwatch App - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Smartwatch App - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with Valet Mode - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Valet Mode - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with Remote Door Lock/Unlock - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Remote Door Lock/Unlock - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with Geo-fence Alert - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Geo-fence Alert - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants with Tow Away Alert - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants without Tow Away Alert - LXI, VXI, VXI AMT & VXI CNG.
+All variants of Maruti Dzire have Electronic Brakeforce Distribution (EBD).
+Maruti Dzire variants with Height Adjustable Driver Seat - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+All variants of Maruti Dzire have Rear Window Defogger.
+Maruti Dzire variants with Leather Wrapped Steering Wheel - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+All variants of Maruti Dzire have Glove Box.
+All variants of Maruti Dzire have Adjustable Headlamps.
+Maruti Dzire variants with Outside Rear View Mirror Turn Indicators - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+All variants of Maruti Dzire have Passenger Airbag.
+Maruti Dzire variants with Day & Night Rear View Mirror - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants with Tyre Pressure Monitoring System (TPMS) - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variants with Touchscreen - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+All variants of Maruti Dzire have Curtain Airbag.
+Maruti Dzire variants with Usb Ports - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT.
+Maruti Dzire variant without Usb Ports - LXI.
+Maruti Dzire variants with Gear Shift Indicator - LXI, VXI, VXI CNG, ZXI, ZXI Plus & ZXI CNG.
+Maruti Dzire variants without Gear Shift Indicator - VXI AMT, ZXI AMT & ZXI Plus AMT.
+All variants of Maruti Dzire have Luggage Hook & Net.
+Maruti Dzire variants with LED Fog Lamps - ZXI Plus & ZXI Plus AMT.
+Maruti Dzire variants without LED Fog Lamps - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT & ZXI CNG.
+All Maruti Dzire variants use the Z12E engine.
+All Maruti Dzire variants have a displacement of 1197  cubic centimeters.
+Maruti Dzire variants - LXI, VXI, VXI AMT, ZXI, ZXI AMT, ZXI Plus & ZXI Plus AMT have a max power of 80 Brake Horsepower (BHP) at 5700 Revolutions Per Minute (RPM).
+Maruti Dzire variants - VXI CNG & ZXI CNG have a max power of 69 Brake Horsepower (BHP) at 5700 Revolutions Per Minute (RPM).
+Maruti Dzire variants - LXI, VXI, VXI AMT, ZXI, ZXI AMT, ZXI Plus & ZXI Plus AMT share a max torque of 111.7 Newton meters at 4300 Revolutions Per Minute (RPM).
+Maruti Dzire variants - VXI CNG & ZXI CNG share a max torque of 101.8 Newton meters at 2900 Revolutions Per Minute (RPM).
+All Maruti Dzire variants have 4.0 valves per cylinder.
+Maruti Dzire variants - LXI, VXI, VXI CNG, ZXI, ZXI Plus & ZXI CNG share a Manual transmission.
+Maruti Dzire variants - VXI AMT, ZXI AMT & ZXI Plus AMT share a Automatic transmission.
+All Maruti Dzire variants have 3.0 cylinders.
+Maruti Dzire variants - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI Plus & ZXI CNG share a 5-Speed gearbox.
+Maruti Dzire variants - ZXI AMT & ZXI Plus AMT share a 5-Speed-AMT gearbox.
+All Maruti Dzire variants have a Front-Wheel Drive (FWD) drive type.
+Maruti Dzire variants - LXI, VXI, VXI AMT, ZXI, ZXI AMT, ZXI Plus & ZXI Plus AMT use Petrol as fuel.
+Maruti Dzire variants - VXI CNG & ZXI CNG use CNG as fuel.
+All Maruti Dzire variants comply with BS VI 2.0 emission norms.
+All Maruti Dzire variants come with Electric steering.
+All Maruti Dzire variants have a turning radius of 4.8m.
+All Maruti Dzire variants have Disc front brakes.
+All Maruti Dzire variants have Drum rear brakes.
+All Maruti Dzire variants have a length of 3995 mm.
+All Maruti Dzire variants have a width of 1735 mm.
+All Maruti Dzire variants have a height of 1525 mm.
+Maruti Dzire variants - LXI, VXI, VXI AMT, ZXI, ZXI AMT, ZXI Plus & ZXI Plus AMT share a boot space of 382 Litres.
+All Maruti Dzire variants have a seating capacity of 5.0.
+All Maruti Dzire variants have an unladen ground clearance of 163 mm.
+All Maruti Dzire variants have a wheelbase of 2450 mm.
+Maruti Dzire variants - LXI, VXI, VXI AMT, ZXI, ZXI AMT, ZXI Plus & ZXI Plus AMT share a kerb weight of 920-960 kg.
+Maruti Dzire variants - VXI CNG & ZXI CNG share a kerb weight of 1020-1025 kg.
+Maruti Dzire variants - LXI, VXI, VXI AMT, ZXI, ZXI AMT, ZXI Plus & ZXI Plus AMT share a gross weight of 1375 kg.
+Maruti Dzire variants - VXI CNG & ZXI CNG share a gross weight of 1435 kg.
+All Maruti Dzire variants have 4.0 doors.
+All Maruti Dzire variants come with a Electronic boot opening mechanism.
+Maruti Dzire variant LXI has Manual Outside Rear View Mirror (ORVM).
+Maruti Dzire variants - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT & ZXI CNG feature Powered Outside Rear View Mirror (ORVM).
+Maruti Dzire variants - ZXI Plus & ZXI Plus AMT feature Powered & Folding Outside Rear View Mirror (ORVM).
+Maruti Dzire variants - LXI, VXI, VXI AMT & VXI CNG feature tyres of size 165/80 R14.
+Maruti Dzire variants - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT feature tyres of size 185/65 R15.
+All Maruti Dzire variants come with Tyre Type tyres.
+Maruti Dzire variants - LXI, VXI, VXI AMT & VXI CNG feature 14 Inch wheels.
+All Maruti Dzire variants come equipped with 6.0 airbags.
+All Maruti Dzire variants have received a 5 Star Global NCAP safety rating.
+All Maruti Dzire variants have a 4 Star Global NCAP child safety rating.
+Maruti Dzire variant LXI features a unknown touchscreen.
+Maruti Dzire variants - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT & ZXI CNG come with a 7 inch touchscreen display.
+Maruti Dzire variants - ZXI Plus & ZXI Plus AMT come with a 9 inch touchscreen display.
+Maruti Dzire variants - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT come with 4.0 speakers.
+Maruti Dzire variants - VXI CNG & ZXI CNG use Petrol as a secondary fuel type.
+Maruti Dzire variants - VXI CNG & ZXI CNG have a secondary fuel tank capacity of 37.0 liters.
+Maruti Dzire variants - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT have 15 Inch front alloy wheels.
+Maruti Dzire variants - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT have 15 Inch rear alloy wheels.
+Maruti Dzire variants - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT have 2.0 tweeters.
+Maruti Dzire variants - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI CNG & ZXI Plus AMT come with Driver's Window anti-pinch power windows.
+Maruti Dzire variants - LXI, VXI, ZXI & ZXI Plus have mileage figures of 24.79 kmpl.
+Maruti Dzire variants - VXI AMT, ZXI AMT & ZXI Plus AMT have mileage figures of 25.71 kmpl.
+Maruti Dzire variants - VXI CNG & ZXI CNG have mileage figures of 33.73 km/kg.
+Maruti Dzire variants - LXI, VXI, VXI AMT, ZXI, ZXI AMT, ZXI Plus & ZXI Plus AMT have fuel tank capacities of 37 Litres.
+Maruti Dzire variants - VXI CNG & ZXI CNG have fuel tank capacities of 55 Litres.
+All Maruti Dzire variants have the MacPherson Strut suspension front suspension.
+All Maruti Dzire variants have the Rear twist beam rear suspension.
+All Maruti Dzire variants come with Tilt Steering steering adjustment.
+All Maruti Dzire variants have Height only steering adjustability.
+All Maruti Dzire variants are equipped with Rear parking sensors.
+Maruti Dzire variant without USB Charger - LXI.
+Maruti Dzire variants - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT share the Front & Rear USB charging configuration.
+All Maruti Dzire variants have Front & Rear power windows.
+Maruti Dzire variant LXI has Front Only cup holders.
+Maruti Dzire variants - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT share the Front & Rear cup holder configuration.
+Maruti Dzire variants without Fog Lights - LXI, VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT & ZXI CNG.
+Maruti Dzire variants - ZXI Plus & ZXI Plus AMT share the Front fog light configuration.
+All Maruti Dzire variants come with a Shark Fin antenna.
+Maruti Dzire variants without Rear Camera - LXI, VXI, VXI AMT & VXI CNG.
+Maruti Dzire variants - ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT share the With Guidedlines rear camera type.
+All Maruti Dzire variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Maruti Dzire variant without Speakers - LXI.
+Maruti Dzire variants - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT share the Front & Rear speaker configuration.
+Maruti Dzire variant LXI offers Integrated rear seat headrests.
+Maruti Dzire variants - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT, ZXI Plus, ZXI CNG & ZXI Plus AMT share Adjustable rear seat headrests.
+Maruti Dzire variants without Sunroof - LXI, VXI, VXI AMT, VXI CNG, ZXI & ZXI AMT.
+Maruti Dzire variants - ZXI Plus & ZXI Plus AMT share a Single Pane sunroof.
+Maruti Dzire variant LXI offers LED High Mount Stop Lamp,3D Trinity LED Rear Lamps Signature,Aero Boot Lip Spoiler,Belt Line Garnish Black as additional features.
+Maruti Dzire variants - VXI, VXI AMT, VXI CNG, ZXI, ZXI AMT & ZXI CNG share Remote Control App for Infotainment as additional features.
+Maruti Dzire variants - ZXI Plus & ZXI Plus AMT share Surround Sense Powered by Arkamys,Remote Control App for Infotainment as additional features.

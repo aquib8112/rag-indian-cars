@@ -1,0 +1,161 @@
+Honda Amaze has 6 variants: V, VX, V CVT, ZX, VX CVT & ZX CVT.
+All variants of Honda Amaze have Power Steering.
+All variants of Honda Amaze have Air Conditioner.
+All variants of Honda Amaze have Heater.
+Honda Amaze variants with Automatic Climate Control - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants without Automatic Climate Control - V & V CVT.
+All variants of Honda Amaze have Accessory Power Outlet.
+Honda Amaze variants with Trunk Light - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants without Trunk Light - V & V CVT.
+All variants of Honda Amaze have Vanity Mirror.
+All variants of Honda Amaze have Rear Reading Lamp.
+All variants of Honda Amaze have Adjustable Headrest.
+All variants of Honda Amaze have Rear Seat Centre Arm Rest.
+Honda Amaze variants with Rear AC Vents - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants without Rear AC Vents - V & V CVT.
+Honda Amaze variants with Engine Start/Stop Button - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants without Engine Start/Stop Button - V & V CVT.
+All variants of Honda Amaze have Voice Commands.
+All variants of Honda Amaze do not have Hands-Free Tailgate.
+All variants of Honda Amaze have KeyLess Entry.
+All variants of Honda Amaze have Idle Start-Stop System.
+All variants of Honda Amaze have Follow Me Home Headlamps.
+Honda Amaze variants with Wheel Covers - V & V CVT.
+Honda Amaze variants without Wheel Covers - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants with Alloy Wheels - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants without Alloy Wheels - V & V CVT.
+All variants of Honda Amaze have Integrated Antenna.
+All variants of Honda Amaze have Projector Headlamps.
+Honda Amaze variants with Automatic Headlamps - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants without Automatic Headlamps - V & V CVT.
+All variants of Honda Amaze have LED DRLs.
+All variants of Honda Amaze have LED Headlamps.
+All variants of Honda Amaze have Anti-lock Braking System (ABS).
+All variants of Honda Amaze have Central Locking.
+All variants of Honda Amaze have Driver Airbag.
+All variants of Honda Amaze have Side Airbag.
+All variants of Honda Amaze have Seat Belt Warning.
+All variants of Honda Amaze have Engine Immobilizer.
+All variants of Honda Amaze do not have Side Airbag-Rear.
+All variants of Honda Amaze have Electronic Stability Control (ESC).
+All variants of Honda Amaze have Speed Alert.
+All variants of Honda Amaze have ISOFIX Child Seat Mounts.
+All variants of Honda Amaze have Hill Assist.
+All variants of Honda Amaze have Radio.
+Honda Amaze variants with Wireless Phone Charging - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants without Wireless Phone Charging - V & V CVT.
+All variants of Honda Amaze have Bluetooth Connectivity.
+All variants of Honda Amaze have Android Auto.
+All variants of Honda Amaze have Apple CarPlay.
+Honda Amaze variants with Google / Alexa Connectivity - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants without Google / Alexa Connectivity - V & V CVT.
+Honda Amaze variants with Smartwatch App - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants without Smartwatch App - V & V CVT.
+Honda Amaze variants with Paddle Shifters - V CVT, VX CVT & ZX CVT.
+Honda Amaze variants without Paddle Shifters - V, VX & ZX.
+All variants of Honda Amaze have LED Taillights.
+All variants of Honda Amaze have Electronic Brakeforce Distribution (EBD).
+All variants of Honda Amaze have Brake Assist.
+Honda Amaze variants with Anti-Theft Alarm - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants without Anti-Theft Alarm - V & V CVT.
+All variants of Honda Amaze have Door Ajar Warning.
+Honda Amaze variants with Lane Keep Assist - ZX & ZX CVT.
+Honda Amaze variants without Lane Keep Assist - V, VX, V CVT & VX CVT.
+Honda Amaze variants with Road Departure Mitigation System - ZX & ZX CVT.
+Honda Amaze variants without Road Departure Mitigation System - V, VX, V CVT & VX CVT.
+Honda Amaze variants with Adaptive Cruise Control - ZX & ZX CVT.
+Honda Amaze variants without Adaptive Cruise Control - V, VX, V CVT & VX CVT.
+Honda Amaze variants with Leading Vehicle Departure Alert - ZX & ZX CVT.
+Honda Amaze variants without Leading Vehicle Departure Alert - V, VX, V CVT & VX CVT.
+Honda Amaze variants with Adaptive High Beam Assist - ZX & ZX CVT.
+Honda Amaze variants without Adaptive High Beam Assist - V, VX, V CVT & VX CVT.
+Honda Amaze variants with Remote Vehicle Ignition Start/Stop - VX CVT & ZX CVT.
+Honda Amaze variants without Remote Vehicle Ignition Start/Stop - V, VX, V CVT & ZX.
+All variants of Honda Amaze have Traction Control.
+All variants of Honda Amaze have Height Adjustable Driver Seat.
+Honda Amaze variants with Rear Window Defogger - V, VX, V CVT, ZX, VX CVT & ZX CVT.
+All variants of Honda Amaze have Glove Box.
+All variants of Honda Amaze have Adjustable Headlamps.
+All variants of Honda Amaze have Outside Rear View Mirror Turn Indicators.
+All variants of Honda Amaze have Passenger Airbag.
+All variants of Honda Amaze have Day & Night Rear View Mirror.
+All variants of Honda Amaze have Touchscreen.
+All variants of Honda Amaze have Air Quality Control.
+All variants of Honda Amaze have Curtain Airbag.
+All variants of Honda Amaze have Usb Ports.
+Honda Amaze variants with Gear Shift Indicator - V, VX & ZX.
+Honda Amaze variants without Gear Shift Indicator - V CVT, VX CVT & ZX CVT.
+Honda Amaze variants with LED Fog Lamps - VX, ZX, VX CVT & ZX CVT.
+Honda Amaze variants without LED Fog Lamps - V & V CVT.
+All Honda Amaze variants use the 1.2L i-VTEC engine.
+All Honda Amaze variants have a displacement of 1199  cubic centimeters.
+All Honda Amaze variants produce a maximum power of 89 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Honda Amaze variants produce a maximum torque of 110 Newton meters at 4800 Revolutions Per Minute (RPM).
+All Honda Amaze variants have 4.0 valves per cylinder.
+Honda Amaze variants - V, VX & ZX share a Manual transmission.
+Honda Amaze variants - V CVT, VX CVT & ZX CVT share a Automatic transmission.
+All Honda Amaze variants have 4.0 cylinders.
+Honda Amaze variants - V, VX & ZX share a 5-Speed gearbox.
+Honda Amaze variants - V CVT, VX CVT & ZX CVT share a 7-Speed CVT gearbox.
+All Honda Amaze variants have a Front-Wheel Drive (FWD) drive type.
+All Honda Amaze variants run on Petrol.
+All Honda Amaze variants comply with BS VI 2.0 emission norms.
+All Honda Amaze variants come with Electric steering.
+Honda Amaze variants - V & V CVT share a turning radius of 4.7m.
+Honda Amaze variants - VX, ZX, VX CVT & ZX CVT share a turning radius of 4.9m.
+All Honda Amaze variants have Ventilated Disc front brakes.
+All Honda Amaze variants have Drum rear brakes.
+All Honda Amaze variants have a length of 3995 mm.
+All Honda Amaze variants have a width of 1733 mm.
+All Honda Amaze variants have a height of 1500 mm.
+All Honda Amaze variants offer 416 Litres of boot space.
+All Honda Amaze variants have a seating capacity of 5.0.
+All Honda Amaze variants have an unladen ground clearance of 172 mm.
+All Honda Amaze variants have a wheelbase of 2470 mm.
+All Honda Amaze variants have a kerb weight of 952-986 kg.
+Honda Amaze variants - V, VX & ZX share a gross weight of 1360 kg.
+Honda Amaze variants - V CVT, VX CVT & ZX CVT share a gross weight of 1380 kg.
+All Honda Amaze variants have 4.0 doors.
+All Honda Amaze variants come with a Electronic boot opening mechanism.
+Honda Amaze variants - V & V CVT feature Powered Outside Rear View Mirror (ORVM).
+Honda Amaze variants - VX, ZX, VX CVT & ZX CVT feature Powered & Folding Outside Rear View Mirror (ORVM).
+Honda Amaze variants - V & V CVT feature tyres of size 175/65 R14.
+Honda Amaze variants - VX, ZX, VX CVT & ZX CVT feature tyres of size 185/60 R15.
+All Honda Amaze variants come with Tyre Type tyres.
+Honda Amaze variants - V & V CVT feature 14 Inch wheels.
+All Honda Amaze variants come equipped with 6.0 airbags.
+All Honda Amaze variants come with a 8 inch touchscreen display.
+All Honda Amaze variants come with 4.0 speakers.
+Honda Amaze variants - VX, ZX, VX CVT & ZX CVT have 15 Inch front alloy wheels.
+Honda Amaze variants - VX, ZX, VX CVT & ZX CVT have 15 Inch rear alloy wheels.
+Honda Amaze variants - VX, ZX, VX CVT & ZX CVT have 2.0 tweeters.
+All Honda Amaze variants feature a Full Digital digital cluster.
+All Honda Amaze variants come with Fabric upholstery.
+Honda Amaze variants - V & V CVT have a front tread of 1490 mm.
+Honda Amaze variants - VX, ZX, VX CVT & ZX CVT have a front tread of 1493 mm.
+Honda Amaze variants - V & V CVT have a rear tread of 1487 mm.
+Honda Amaze variants - VX, ZX, VX CVT & ZX CVT have a rear tread of 1488 mm.
+All Honda Amaze variants come with Telescopic Hydraulic Nitrogen Gas-filled shock absorbers.
+All Honda Amaze variants have Driver's Window anti-pinch power windows.
+Honda Amaze variants - V, VX & ZX have mileage figures of 18.65 kmpl.
+Honda Amaze variants - V CVT, VX CVT & ZX CVT have mileage figures of 19.46 kmpl.
+All Honda Amaze variants have a fuel tank capacity of 35 Litres.
+All Honda Amaze variants have the MacPherson Strut suspension front suspension.
+All Honda Amaze variants have the Rear twist beam rear suspension.
+All Honda Amaze variants come with Tilt Steering steering adjustment.
+All Honda Amaze variants have Height only steering adjustability.
+All Honda Amaze variants are equipped with Rear parking sensors.
+Honda Amaze variants - V & V CVT share the Front USB charging configuration.
+Honda Amaze variants - VX, ZX, VX CVT & ZX CVT share the Front & Rear USB charging configuration.
+All Honda Amaze variants have Front & Rear power windows.
+All Honda Amaze variants come with Front & Rear cup holders.
+Honda Amaze variants without Fog Lights - V & V CVT.
+Honda Amaze variants - VX, ZX, VX CVT & ZX CVT share the Front fog light configuration.
+All Honda Amaze variants come with a Shark Fin antenna.
+All Honda Amaze variants feature a 7 inch digital cluster.
+Honda Amaze variants without Rear Camera - V & V CVT.
+Honda Amaze variants - VX, ZX, VX CVT & ZX CVT share the With Guidedlines rear camera type.
+All Honda Amaze variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Honda Amaze variants include Front & Rear speakers.
+All Honda Amaze variants come with Adjustable rear seat headrests.
+All Honda Amaze variants come with IPS Display,Remote Control by Smartphone Application via Bluetooth as additional features.

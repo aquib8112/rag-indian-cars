@@ -1,0 +1,67 @@
+Maruti Wagon R Tour has 2 variants: H3 PETROL & H3 CNG.
+All variants of Maruti Wagon R Tour have Power Steering.
+All variants of Maruti Wagon R Tour have Air Conditioner.
+All variants of Maruti Wagon R Tour have Heater.
+All variants of Maruti Wagon R Tour have Accessory Power Outlet.
+All variants of Maruti Wagon R Tour have Anti-lock Braking System (ABS).
+All variants of Maruti Wagon R Tour have Central Locking.
+All variants of Maruti Wagon R Tour have Driver Airbag.
+All variants of Maruti Wagon R Tour do not have Side Airbag.
+All variants of Maruti Wagon R Tour have Seat Belt Warning.
+All variants of Maruti Wagon R Tour do not have Side Airbag-Rear.
+All variants of Maruti Wagon R Tour have Speed Alert.
+All variants of Maruti Wagon R Tour have Digital Clock.
+All variants of Maruti Wagon R Tour have Dual Tone Dashboard.
+All variants of Maruti Wagon R Tour have Power Antenna.
+All variants of Maruti Wagon R Tour have Halogen Headlamps.
+All variants of Maruti Wagon R Tour have Door Ajar Warning.
+All variants of Maruti Wagon R Tour have Glove Box.
+All variants of Maruti Wagon R Tour have Adjustable Headlamps.
+All variants of Maruti Wagon R Tour have Passenger Airbag.
+All variants of Maruti Wagon R Tour have Gear Shift Indicator.
+All variants of Maruti Wagon R Tour have Low Fuel Warning Light.
+All Maruti Wagon R Tour variants use the K10C engine.
+All Maruti Wagon R Tour variants have a displacement of 998  cubic centimeters.
+Maruti Wagon R Tour variant H3 PETROL delivers a max power of 65.71 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Maruti Wagon R Tour variant H3 CNG delivers a max power of 55.92 Brake Horsepower (BHP) at 5300 Revolutions Per Minute (RPM).
+Maruti Wagon R Tour variant H3 PETROL has a max torque of 89 Newton meters at 3500 Revolutions Per Minute (RPM).
+Maruti Wagon R Tour variant H3 CNG has a max torque of 82.1 Newton meters at 3400 Revolutions Per Minute (RPM).
+All Maruti Wagon R Tour variants have 4.0 valves per cylinder.
+All Maruti Wagon R Tour variants have a Manual transmission.
+All Maruti Wagon R Tour variants have 3.0 cylinders.
+All Maruti Wagon R Tour variants come with a 5-Speed gearbox.
+All Maruti Wagon R Tour variants have a Front-Wheel Drive (FWD) drive type.
+Maruti Wagon R Tour variant H3 PETROL runs on Petrol.
+Maruti Wagon R Tour variant H3 CNG runs on CNG.
+All Maruti Wagon R Tour variants comply with BS VI 2.0 emission norms.
+All Maruti Wagon R Tour variants come with Power steering.
+All Maruti Wagon R Tour variants have a turning radius of 4.7m.
+All Maruti Wagon R Tour variants have Disc front brakes.
+All Maruti Wagon R Tour variants have Drum rear brakes.
+All Maruti Wagon R Tour variants have a length of 3655 mm.
+All Maruti Wagon R Tour variants have a width of 1620 mm.
+All Maruti Wagon R Tour variants have a height of 1675 mm.
+All Maruti Wagon R Tour variants offer 341 Litres of boot space.
+All Maruti Wagon R Tour variants have a seating capacity of 5.0.
+All Maruti Wagon R Tour variants have a wheelbase of 2750 mm.
+Maruti Wagon R Tour variant H3 PETROL has a kerb weight of 810 kg.
+Maruti Wagon R Tour variant H3 CNG has a kerb weight of 910 kg.
+All Maruti Wagon R Tour variants have a gross weight of 1340 kg.
+All Maruti Wagon R Tour variants have 5.0 doors.
+All Maruti Wagon R Tour variants have tyres of size 155/80 R13.
+All Maruti Wagon R Tour variants come with Tubeless Radial tyres.
+All Maruti Wagon R Tour variants have 13 Inch wheels.
+All Maruti Wagon R Tour variants come equipped with 2.0 airbags.
+All Maruti Wagon R Tour variants have received a 1 Star Global NCAP safety rating.
+Maruti Wagon R Tour variant H3 CNG features Petrol as a secondary fuel type.
+All Maruti Wagon R Tour variants have a top speed of 152 kmph.
+All Maruti Wagon R Tour variants have a front tread of 1520 mm.
+Maruti Wagon R Tour variant H3 PETROL provides a mileage of 25.4 kmpl.
+Maruti Wagon R Tour variant H3 CNG provides a mileage of 34.73 km/kg.
+Maruti Wagon R Tour variant H3 PETROL features a fuel tank capacity of 32 Litres.
+Maruti Wagon R Tour variant H3 CNG features a fuel tank capacity of 60 Litres.
+All Maruti Wagon R Tour variants have the MacPherson Strut suspension front suspension.
+All Maruti Wagon R Tour variants have the Rear twist beam rear suspension.
+All Maruti Wagon R Tour variants are equipped with Rear parking sensors.
+All variants of Maruti Wagon R Tour have Rear Seat Headrest.
+All Maruti Wagon R Tour variants come with Body Colour Bumpers,Wheel Centre Cap,Black ORVM,Black Outside Door Handles,Black Grill,Pivot Outside Mirror Type as additional features.

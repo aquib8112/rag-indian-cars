@@ -1,0 +1,155 @@
+Lexus Nx has 4 variants: 350h Exquisite, 350h Overtrail, 350h Luxury & 350h F-sport.
+All variants of Lexus Nx have Power Steering.
+All variants of Lexus Nx have Air Conditioner.
+All variants of Lexus Nx have Heater.
+All variants of Lexus Nx have Automatic Climate Control.
+All variants of Lexus Nx have Accessory Power Outlet.
+All variants of Lexus Nx have Trunk Light.
+All variants of Lexus Nx have Vanity Mirror.
+Lexus Nx variant with Rear Reading Lamp - 350h Exquisite.
+All variants of Lexus Nx have Adjustable Headrest.
+Lexus Nx variant with Rear Seat Centre Arm Rest - 350h Exquisite.
+Lexus Nx variant with Rear AC Vents - 350h Exquisite.
+All variants of Lexus Nx have Cruise Control.
+All variants of Lexus Nx have Engine Start/Stop Button.
+All variants of Lexus Nx have Voice Commands.
+Lexus Nx variants with Hands-Free Tailgate - 350h Overtrail, 350h Luxury & 350h F-sport.
+All variants of Lexus Nx have KeyLess Entry.
+Lexus Nx variant with Idle Start-Stop System - 350h Exquisite.
+All variants of Lexus Nx have Tachometer.
+All variants of Lexus Nx have Alloy Wheels.
+All variants of Lexus Nx have Integrated Antenna.
+All variants of Lexus Nx have Automatic Headlamps.
+All variants of Lexus Nx have LED DRLs.
+All variants of Lexus Nx have LED Headlamps.
+All variants of Lexus Nx have Anti-lock Braking System (ABS).
+All variants of Lexus Nx have Central Locking.
+All variants of Lexus Nx have Driver Airbag.
+All variants of Lexus Nx have Side Airbag.
+All variants of Lexus Nx have Seat Belt Warning.
+All variants of Lexus Nx have Engine Immobilizer.
+All variants of Lexus Nx have Side Airbag-Rear.
+All variants of Lexus Nx have Anti-Theft Device.
+All variants of Lexus Nx have Speed Alert.
+All variants of Lexus Nx have Speed Sensing Auto Door Lock.
+All variants of Lexus Nx have ISOFIX Child Seat Mounts.
+All variants of Lexus Nx have Hill Assist.
+All variants of Lexus Nx have Impact Sensing Auto Door Unlock.
+All variants of Lexus Nx have Radio.
+Lexus Nx variants with Wireless Phone Charging - 350h Luxury & 350h F-sport.
+Lexus Nx variants without Wireless Phone Charging - 350h Exquisite & 350h Overtrail.
+All variants of Lexus Nx have Bluetooth Connectivity.
+All variants of Lexus Nx have Android Auto.
+All variants of Lexus Nx have Apple CarPlay.
+All variants of Lexus Nx have Height Adjustable Front Seat Belts.
+All variants of Lexus Nx have Lumbar Support.
+All variants of Lexus Nx have Paddle Shifters.
+All variants of Lexus Nx have Dual Tone Dashboard.
+All variants of Lexus Nx have LED Taillights.
+All variants of Lexus Nx have Brake Assist.
+All variants of Lexus Nx have Anti-Theft Alarm.
+All variants of Lexus Nx have Door Ajar Warning.
+All variants of Lexus Nx have Digital Odometer.
+All variants of Lexus Nx have Heads-Up Display (HUD).
+Lexus Nx variant with Glove Box light - 350h Exquisite.
+All variants of Lexus Nx have Ventilated Seats.
+All variants of Lexus Nx have Active noise cancellation.
+All variants of Lexus Nx have Battery Saver.
+All variants of Lexus Nx have Cornering Foglamps.
+All variants of Lexus Nx have Leather wrap gear-shift selector.
+All variants of Lexus Nx have Blind Spot Monitor.
+All variants of Lexus Nx have Tailgate Ajar Warning.
+All variants of Lexus Nx have Lane Change Indicator.
+All variants of Lexus Nx have Cornering Headlamps.
+All variants of Lexus Nx have Traction Control.
+All variants of Lexus Nx have Fog Lights - Rear.
+All variants of Lexus Nx have Height Adjustable Driver Seat.
+All variants of Lexus Nx have Rear Window Defogger.
+All variants of Lexus Nx have Leather Wrapped Steering Wheel.
+All variants of Lexus Nx have Glove Box.
+All variants of Lexus Nx have Adjustable Headlamps.
+All variants of Lexus Nx have Outside Rear View Mirror Turn Indicators.
+All variants of Lexus Nx have Passenger Airbag.
+All variants of Lexus Nx have Day & Night Rear View Mirror.
+All variants of Lexus Nx have Tyre Pressure Monitoring System (TPMS).
+All variants of Lexus Nx have Touchscreen.
+All variants of Lexus Nx have Rear Window Wiper.
+All variants of Lexus Nx have Child Safety Locks.
+All variants of Lexus Nx have Rear Spoiler.
+All variants of Lexus Nx have Rain Sensing Wiper.
+All variants of Lexus Nx have Air Quality Control.
+All variants of Lexus Nx have Smart Access Card Entry.
+All variants of Lexus Nx have Roof Rails.
+All variants of Lexus Nx have Dual Tone Body Colour.
+All variants of Lexus Nx have Usb Ports.
+All variants of Lexus Nx have Gear Shift Indicator.
+All variants of Lexus Nx have Luggage Hook & Net.
+All variants of Lexus Nx have LED Fog Lamps.
+All variants of Lexus Nx have Heated Wing Mirror.
+All variants of Lexus Nx have Fog Lights - Front.
+All Lexus Nx variants use the A25B-FXS engine.
+All Lexus Nx variants have a displacement of 2487  cubic centimeters.
+All Lexus Nx variants produce a maximum power of 187.74 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Lexus Nx variants produce a maximum torque of 239 Newton meters at 4300 to 4500 Revolutions Per Minute (RPM).
+All Lexus Nx variants have 4.0 valves per cylinder.
+All Lexus Nx variants have a Automatic transmission.
+All Lexus Nx variants have 4.0 cylinders.
+All Lexus Nx variants come with a E-CVT gearbox.
+All Lexus Nx variants have a All-Wheel Drive (AWD) drive type.
+All Lexus Nx variants run on Petrol.
+All Lexus Nx variants comply with BS VI 2.0 emission norms.
+All Lexus Nx variants have a turning radius of 5.8m.
+All Lexus Nx variants have Ventilated Disc front brakes.
+All Lexus Nx variants have Ventilated Disc rear brakes.
+All Lexus Nx variants have a length of 4660 mm.
+All Lexus Nx variants have a width of 1865 mm.
+All Lexus Nx variants have a height of 1670 mm.
+All Lexus Nx variants offer 520 Litres of boot space.
+All Lexus Nx variants have a seating capacity of 5.0.
+All Lexus Nx variants have an unladen ground clearance of 195 mm.
+All Lexus Nx variants have a wheelbase of 2690 mm.
+All Lexus Nx variants have a kerb weight of 1790-1870 kg.
+All Lexus Nx variants have a gross weight of 2380 kg.
+All Lexus Nx variants have 5.0 doors.
+All Lexus Nx variants have tyres of size 235/50R20.
+All Lexus Nx variants come with Tubeless Radial tyres.
+All Lexus Nx variants come equipped with 8.0 airbags.
+All Lexus Nx variants come with a 14 inch touchscreen display.
+Lexus Nx variant 350h Exquisite features 10.0 speakers.
+Lexus Nx variants - 350h Overtrail, 350h Luxury & 350h F-sport come with 17.0 speakers.
+Lexus Nx variants - 350h Exquisite, 350h Luxury & 350h F-sport use Electric as a secondary fuel type.
+All Lexus Nx variants come with 20 Inch front alloy wheels.
+All Lexus Nx variants come with 20 Inch rear alloy wheels.
+All Lexus Nx variants come with Android Auto, Apple CarPlay connectivity options.
+Lexus Nx variants - 350h Exquisite, 350h Luxury & 350h F-sport feature Leather upholstery options.
+Lexus Nx variant 350h Overtrail is equipped with Leatherette upholstery.
+All Lexus Nx variants have a top speed of 200 kmph.
+All Lexus Nx variants have a front tread of 1605 mm.
+All Lexus Nx variants accelerate from 0-100 kmph in 7.7 s.
+All Lexus Nx variants accelerate from 0-100 kmph in 7.7 s.
+All Lexus Nx variants have a rear tread of 1625 mm.
+All Lexus Nx variants use a sequential fuel injection fuel supply system.
+All Lexus Nx variants are equipped with a Permanent Magnet Synchronous Motor motor type.
+All Lexus Nx variants are powered by a Lithium-Ion Battery battery.
+All Lexus Nx variants are equipped with 1.0 subwoofer(s).
+All Lexus Nx variants feature a Smart trunk opener.
+Lexus Nx variant 350h Exquisite provides a mileage of 9.5 kmpl.
+Lexus Nx variants - 350h Overtrail, 350h Luxury & 350h F-sport have highway mileage figures of 17.8 kmpl.
+All Lexus Nx variants have a fuel tank capacity of 55 Litres.
+All Lexus Nx variants have the MacPherson Strut suspension front suspension.
+All Lexus Nx variants have the Air suspension rear suspension.
+All Lexus Nx variants come with Tilt & Telescopic steering adjustment.
+All variants of Lexus Nx have Adjustable Steering.
+All Lexus Nx variants are equipped with Front & Rear parking sensors.
+All Lexus Nx variants come with Front & Rear USB charging ports.
+All Lexus Nx variants include Front & Rear speakers.
+All Lexus Nx variants have a 60:40 Split foldable rear seat.
+All variants of Lexus Nx have Central Console Armrest.
+All variants of Lexus Nx have Turbo Charger.
+All variants of Lexus Nx have Rear Seat Headrest.
+All variants of Lexus Nx have Sunroof.
+Lexus Nx variants - 350h Exquisite, 350h Overtrail & 350h Luxury share the 3 drive mode configuration.
+Lexus Nx variant 350h F-sport has 4 drive modes.
+Lexus Nx variant 350h Exquisite offers Lexus Navigation system,Lexus Premium Audio, Interior Illumination with 14 colours, as additional features.
+Lexus Nx variant 350h Overtrail offers Lexus Navigation system,Mark Levinson, Interior Illumination with 14 colours as additional features.
+Lexus Nx variants - 350h Luxury & 350h F-sport share Lexus Navigation system,Mark Levinson,Interior Illumination with 14 colours as additional features.

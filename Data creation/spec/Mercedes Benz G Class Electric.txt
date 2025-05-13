@@ -1,0 +1,121 @@
+Mercedes Benz G Class Electric has 1 variants: G 580.
+Mercedes Benz G Class Electric has Power Steering.
+Mercedes Benz G Class Electric has Air Conditioner.
+Mercedes Benz G Class Electric has Heater.
+Mercedes Benz G Class Electric has Automatic Climate Control.
+Mercedes Benz G Class Electric has Accessory Power Outlet.
+Mercedes Benz G Class Electric has Vanity Mirror.
+Mercedes Benz G Class Electric has Rear Reading Lamp.
+Mercedes Benz G Class Electric has Adjustable Headrest.
+Mercedes Benz G Class Electric has Cruise Control.
+Mercedes Benz G Class Electric has Real-Time Vehicle Tracking.
+Mercedes Benz G Class Electric has Engine Start/Stop Button.
+Mercedes Benz G Class Electric has Voice Commands.
+Mercedes Benz G Class Electric does not have Hands-Free Tailgate.
+Mercedes Benz G Class Electric has KeyLess Entry.
+Mercedes Benz G Class Electric has Follow Me Home Headlamps.
+Mercedes Benz G Class Electric has Tachometer.
+Mercedes Benz G Class Electric does not have Wheel Covers.
+Mercedes Benz G Class Electric has Alloy Wheels.
+Mercedes Benz G Class Electric has Integrated Antenna.
+Mercedes Benz G Class Electric has Automatic Headlamps.
+Mercedes Benz G Class Electric has LED DRLs.
+Mercedes Benz G Class Electric has LED Headlamps.
+Mercedes Benz G Class Electric has Anti-lock Braking System (ABS).
+Mercedes Benz G Class Electric has Central Locking.
+Mercedes Benz G Class Electric has Driver Airbag.
+Mercedes Benz G Class Electric has Seat Belt Warning.
+Mercedes Benz G Class Electric has Engine Immobilizer.
+Mercedes Benz G Class Electric has Electronic Stability Control (ESC).
+Mercedes Benz G Class Electric has Anti-Theft Device.
+Mercedes Benz G Class Electric has Speed Alert.
+Mercedes Benz G Class Electric has Speed Sensing Auto Door Lock.
+Mercedes Benz G Class Electric has ISOFIX Child Seat Mounts.
+Mercedes Benz G Class Electric has Hill Assist.
+Mercedes Benz G Class Electric has Impact Sensing Auto Door Unlock.
+Mercedes Benz G Class Electric has 360 View Camera.
+Mercedes Benz G Class Electric has Radio.
+Mercedes Benz G Class Electric has Wireless Phone Charging.
+Mercedes Benz G Class Electric has Bluetooth Connectivity.
+Mercedes Benz G Class Electric has Android Auto.
+Mercedes Benz G Class Electric has Apple CarPlay.
+Mercedes Benz G Class Electric has Height Adjustable Front Seat Belts.
+Mercedes Benz G Class Electric has LED Taillights.
+Mercedes Benz G Class Electric has Electronic Brakeforce Distribution (EBD).
+Mercedes Benz G Class Electric has Brake Assist.
+Mercedes Benz G Class Electric has Anti-Theft Alarm.
+Mercedes Benz G Class Electric has Door Ajar Warning.
+Mercedes Benz G Class Electric has Cooled Glovebox.
+Mercedes Benz G Class Electric has Hill Descent Control.
+Mercedes Benz G Class Electric has Tailgate Ajar Warning.
+Mercedes Benz G Class Electric has Wi-Fi Connectivity.
+Mercedes Benz G Class Electric has Regenerative Braking.
+Mercedes Benz G Class Electric has Fast Charging.
+Mercedes Benz G Class Electric has Traction Control.
+Mercedes Benz G Class Electric has Height Adjustable Driver Seat.
+Mercedes Benz G Class Electric has Rear Window Defogger.
+Mercedes Benz G Class Electric has Leather Wrapped Steering Wheel.
+Mercedes Benz G Class Electric has Glove Box.
+Mercedes Benz G Class Electric has Adjustable Headlamps.
+Mercedes Benz G Class Electric has Outside Rear View Mirror Turn Indicators.
+Mercedes Benz G Class Electric has Passenger Airbag.
+Mercedes Benz G Class Electric has Day & Night Rear View Mirror.
+Mercedes Benz G Class Electric has Tyre Pressure Monitoring System (TPMS).
+Mercedes Benz G Class Electric has Touchscreen.
+Mercedes Benz G Class Electric has Rear Window Wiper.
+Mercedes Benz G Class Electric has Rear Window Washer.
+Mercedes Benz G Class Electric has Child Safety Locks.
+Mercedes Benz G Class Electric has Rain Sensing Wiper.
+Mercedes Benz G Class Electric has Air Quality Control.
+Mercedes Benz G Class Electric has Usb Ports.
+Mercedes Benz G Class Electric has LED Fog Lamps.
+The Mercedes Benz G Class Electric generates 579 Brake Horsepower (BHP).
+The Mercedes Benz G Class Electric generates 1164 Newton meters.
+The Mercedes Benz G Class Electric has a Automatic transmission.
+The Mercedes Benz G Class Electric has a Four-Wheel Drive (4WD) drive type.
+The Mercedes Benz G Class Electric runs on Electric.
+The Mercedes Benz G Class Electric complies with ZEV emission norms.
+The Mercedes Benz G Class Electric has Electric steering.
+The Mercedes Benz G Class Electric has Disc front brakes.
+The Mercedes Benz G Class Electric has Disc rear brakes.
+The Mercedes Benz G Class Electric has a length of 4863 mm.
+The Mercedes Benz G Class Electric has a width of 2187 mm.
+The Mercedes Benz G Class Electric has a height of 1983 mm.
+The Mercedes Benz G Class Electric offers 620 Litres of boot space.
+The Mercedes Benz G Class Electric has a seating capacity of 5.0.
+The Mercedes Benz G Class Electric has a wheelbase of 2890 mm.
+The Mercedes Benz G Class Electric has a kerb weight of 3085 kg.
+The Mercedes Benz G Class Electric has 5.0 doors.
+The Mercedes Benz G Class Electric is equipped with Powered & Folding Outside Rear View Mirror (ORVM).
+The Mercedes Benz G Class Electric is equipped with Tyre Type tyres.
+The Mercedes Benz G Class Electric is equipped with a unknown touchscreen.
+The Mercedes Benz G Class Electric comes with a Full Digital digital cluster.
+The Mercedes Benz G Class Electric features Leather upholstery.
+The Mercedes Benz G Class Electric achieves a top speed of 180 kmph.
+The Mercedes Benz G Class Electric has a front tread of 1637 mm.
+The Mercedes Benz G Class Electric features a rear tread of 1659 mm.
+The Mercedes Benz G Class Electric features a Permanent Magnet Synchronous Motor motor type.
+The Mercedes Benz G Class Electric comes with a Lithium-Ion Battery battery.
+The Mercedes Benz G Class Electric has a battery capacity of 116 kWh.
+The Mercedes Benz G Class Electric features a motor with 432 kW power.
+The Mercedes Benz G Class Electric provides a range of 473 km.
+The Mercedes Benz G Class Electric charges in 11.7 Hours at 11kW (0-100%) using an A.C charger.
+The Mercedes Benz G Class Electric charges in 32 Min at 200kW (10-80%) using a D.C charger.
+The Mercedes Benz G Class Electric is equipped with a CCS-II charging port.
+The Mercedes Benz G Class Electric supports 11 kW AC Wall Box, DC Fast Charger as charging options.
+The Mercedes Benz G Class Electric includes a 11 kW AC Wall Box Charger charger type.
+The Mercedes Benz G Class Electric requires 32 Min at 200kW (10-80%) for a full charge.
+The Mercedes Benz G Class Electric features Driver's Window anti-pinch power windows.
+The Mercedes Benz G Class Electric comes with the Double wishbone suspension front suspension.
+The Mercedes Benz G Class Electric comes with the Multi-link, Solid Axle rear suspension.
+The Mercedes Benz G Class Electric features Tilt & Telescopic steering adjustment.
+The Mercedes Benz G Class Electric features Powered Adjustment steering adjustability.
+The Mercedes Benz G Class Electric features Front & Rear parking sensors.
+The Mercedes Benz G Class Electric features Front & Rear USB charging ports.
+The Mercedes Benz G Class Electric features Front & Rear power windows.
+The Mercedes Benz G Class Electric features Front & Rear cup holders.
+The Mercedes Benz G Class Electric has a With Guidedlines rear camera.
+The Mercedes Benz G Class Electric has Driver and Passenger seatbelt pretensioners and force limiters.
+The Mercedes Benz G Class Electric has Front & Rear speakers.
+Mercedes Benz G Class Electric has Central Console Armrest.
+The Mercedes Benz G Class Electric includes Adjustable rear seat headrests.

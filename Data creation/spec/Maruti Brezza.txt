@@ -1,0 +1,232 @@
+Maruti Brezza has 15 variants: Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+All variants of Maruti Brezza have Power Steering.
+All variants of Maruti Brezza have Air Conditioner.
+All variants of Maruti Brezza have Heater.
+Maruti Brezza variants with Automatic Climate Control - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Automatic Climate Control - Lxi & Lxi CNG.
+All variants of Maruti Brezza have Accessory Power Outlet.
+Maruti Brezza variants with Trunk Light - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Trunk Light - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+Maruti Brezza variants with Vanity Mirror - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Vanity Mirror - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+All variants of Maruti Brezza have Rear Reading Lamp.
+Maruti Brezza variants with Adjustable Headrest - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Adjustable Headrest - Lxi & Lxi CNG.
+Maruti Brezza variants with Rear Seat Centre Arm Rest - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Rear Seat Centre Arm Rest - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+All variants of Maruti Brezza have Rear AC Vents.
+Maruti Brezza variants with Cruise Control - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Cruise Control - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+Maruti Brezza variants with Engine Start/Stop Button - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Engine Start/Stop Button - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+All variants of Maruti Brezza have Chrome Grille.
+All variants of Maruti Brezza have KeyLess Entry.
+Maruti Brezza variants with Idle Start-Stop System - Vxi AT, Zxi AT, Zxi AT DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Idle Start-Stop System - Lxi, Lxi CNG, Vxi, Vxi CNG, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi Plus & Zxi Plus DT.
+Maruti Brezza variants with Follow Me Home Headlamps - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Follow Me Home Headlamps - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+All variants of Maruti Brezza have Tachometer.
+Maruti Brezza variants with Wheel Covers - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+Maruti Brezza variants without Wheel Covers - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants with Alloy Wheels - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Alloy Wheels - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+All variants of Maruti Brezza have Integrated Antenna.
+All variants of Maruti Brezza have Projector Headlamps.
+Maruti Brezza variants with Automatic Headlamps - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Automatic Headlamps - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with LED DRLs - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without LED DRLs - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+Maruti Brezza variants with LED Headlamps - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without LED Headlamps - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+All variants of Maruti Brezza have Anti-lock Braking System (ABS).
+All variants of Maruti Brezza have Central Locking.
+All variants of Maruti Brezza have Driver Airbag.
+Maruti Brezza variants with Side Airbag - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Side Airbag - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+All variants of Maruti Brezza have Seat Belt Warning.
+All variants of Maruti Brezza have Engine Immobilizer.
+All variants of Maruti Brezza do not have E-Call & I-Call.
+Maruti Brezza variants with Remote AC On/Off - Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Remote AC On/Off - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT & Zxi Plus DT.
+All variants of Maruti Brezza do not have Side Airbag-Rear.
+Maruti Brezza variants with Electronic Stability Control (ESC) - Lxi, Vxi, Vxi AT, Zxi, Zxi DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Electronic Stability Control (ESC) - Lxi CNG, Vxi CNG, Zxi CNG & Zxi CNG DT.
+All variants of Maruti Brezza have Anti-Theft Device.
+All variants of Maruti Brezza have Speed Alert.
+All variants of Maruti Brezza have Speed Sensing Auto Door Lock.
+All variants of Maruti Brezza have ISOFIX Child Seat Mounts.
+Maruti Brezza variants with Hill Assist - Lxi, Vxi, Vxi AT, Zxi, Zxi DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Hill Assist - Lxi CNG, Vxi CNG, Zxi CNG & Zxi CNG DT.
+All variants of Maruti Brezza have Impact Sensing Auto Door Unlock.
+Maruti Brezza variants with 360 View Camera - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without 360 View Camera - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Radio - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Radio - Lxi & Lxi CNG.
+Maruti Brezza variants with Wireless Phone Charging - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Wireless Phone Charging - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Bluetooth Connectivity - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Bluetooth Connectivity - Lxi & Lxi CNG.
+Maruti Brezza variants with Android Auto - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Android Auto - Lxi & Lxi CNG.
+Maruti Brezza variants with Apple CarPlay - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Apple CarPlay - Lxi & Lxi CNG.
+Maruti Brezza variants with Over the Air (OTA) Updates - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Over the Air (OTA) Updates - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+Maruti Brezza variants with Google / Alexa Connectivity - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Google / Alexa Connectivity - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Over Speeding Alert - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Over Speeding Alert - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Smartwatch App - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Smartwatch App - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Valet Mode - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Valet Mode - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Remote Door Lock/Unlock - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Remote Door Lock/Unlock - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Geo-fence Alert - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Geo-fence Alert - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Height Adjustable Front Seat Belts - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Height Adjustable Front Seat Belts - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Tow Away Alert - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Tow Away Alert - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Halogen Headlamps - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+Maruti Brezza variants without Halogen Headlamps - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+All variants of Maruti Brezza have LED Taillights.
+All variants of Maruti Brezza have Electronic Brakeforce Distribution (EBD).
+All variants of Maruti Brezza have Anti-Theft Alarm.
+All variants of Maruti Brezza have Door Ajar Warning.
+All variants of Maruti Brezza have Digital Odometer.
+Maruti Brezza variants with Remote Immobiliser - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Remote Immobiliser - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with SOS / Emergency Assistance - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without SOS / Emergency Assistance - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Heads-Up Display (HUD) - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Heads-Up Display (HUD) - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Cooled Glovebox - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Cooled Glovebox - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Glove Box light - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Glove Box light - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Inbuilt Assistant - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Inbuilt Assistant - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Navigation with Live Traffic - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Navigation with Live Traffic - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Send POI to Vehicle From App - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Send POI to Vehicle From App - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with In Car Remote Control App - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without In Car Remote Control App - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Height Adjustable Driver Seat - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants with Rear Window Defogger - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants with Leather Wrapped Steering Wheel - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+All variants of Maruti Brezza have Glove Box.
+All variants of Maruti Brezza have Passenger Airbag.
+All variants of Maruti Brezza have Day & Night Rear View Mirror.
+Maruti Brezza variants with Touchscreen - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants with Rear Window Wiper - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants with Rear Window Washer - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+All variants of Maruti Brezza have Rear Spoiler.
+Maruti Brezza variants with Roof Rails - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants with Curtain Airbag - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Curtain Airbag - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Usb Ports - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Usb Ports - Lxi & Lxi CNG.
+Maruti Brezza variants with Gear Shift Indicator - Lxi, Lxi CNG, Vxi, Vxi CNG, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi Plus & Zxi Plus DT.
+Maruti Brezza variants without Gear Shift Indicator - Vxi AT, Zxi AT, Zxi AT DT, Zxi Plus AT & Zxi Plus AT DT.
+All variants of Maruti Brezza have Luggage Hook & Net.
+Maruti Brezza variants with LED Fog Lamps - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without LED Fog Lamps - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants with Integrated 2DIN Audio - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT.
+Maruti Brezza variants without Integrated 2DIN Audio - Lxi & Lxi CNG.
+All Maruti Brezza variants use the K15C engine.
+All Maruti Brezza variants have a displacement of 1462  cubic centimeters.
+Maruti Brezza variants - Lxi, Vxi, Vxi AT, Zxi, Zxi DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT have a max power of 101.64 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Brezza variants - Lxi CNG, Vxi CNG, Zxi CNG & Zxi CNG DT have a max power of 86.63 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Maruti Brezza variants - Lxi, Vxi, Vxi AT, Zxi, Zxi DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT share a max torque of 136.8 Newton meters at 4400 Revolutions Per Minute (RPM).
+Maruti Brezza variants - Lxi CNG, Vxi CNG, Zxi CNG & Zxi CNG DT share a max torque of 121.5 Newton meters at 4200 Revolutions Per Minute (RPM).
+All Maruti Brezza variants have 4.0 valves per cylinder.
+Maruti Brezza variants - Lxi, Lxi CNG, Vxi, Vxi CNG, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi Plus & Zxi Plus DT share a Manual transmission.
+Maruti Brezza variants - Vxi AT, Zxi AT, Zxi AT DT, Zxi Plus AT & Zxi Plus AT DT share a Automatic transmission.
+All Maruti Brezza variants have 4.0 cylinders.
+Maruti Brezza variants - Lxi, Lxi CNG, Vxi, Vxi CNG, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi Plus & Zxi Plus DT share a 5-Speed gearbox.
+Maruti Brezza variants - Vxi AT, Zxi AT, Zxi AT DT, Zxi Plus AT & Zxi Plus AT DT share a 6-Speed gearbox.
+All Maruti Brezza variants have a Front-Wheel Drive (FWD) drive type.
+Maruti Brezza variants - Lxi, Vxi, Vxi AT, Zxi, Zxi DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT use Petrol as fuel.
+Maruti Brezza variants - Lxi CNG, Vxi CNG, Zxi CNG & Zxi CNG DT use CNG as fuel.
+All Maruti Brezza variants comply with BS VI 2.0 emission norms.
+All Maruti Brezza variants come with Electric steering.
+All Maruti Brezza variants have Ventilated Disc front brakes.
+All Maruti Brezza variants have Drum rear brakes.
+All Maruti Brezza variants have a length of 3995 mm.
+All Maruti Brezza variants have a width of 1790 mm.
+All Maruti Brezza variants have a height of 1685 mm.
+All Maruti Brezza variants offer 328 Litres of boot space.
+All Maruti Brezza variants have a seating capacity of 5.0.
+All Maruti Brezza variants have an unladen ground clearance of 198 mm.
+All Maruti Brezza variants have a wheelbase of 2500 mm.
+All Maruti Brezza variants have 5.0 doors.
+All Maruti Brezza variants come with a Manual boot opening mechanism.
+Maruti Brezza variants - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT feature Powered Outside Rear View Mirror (ORVM).
+Maruti Brezza variants - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT feature Powered & Folding Outside Rear View Mirror (ORVM).
+All Maruti Brezza variants have tyres of size 215/60 R16.
+All Maruti Brezza variants come with Tubeless Radial tyres.
+Maruti Brezza variants - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT feature 16 Inch wheels.
+Maruti Brezza variants - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT offer 2.0 airbags.
+Maruti Brezza variants - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT offer 6.0 airbags.
+Maruti Brezza variant Vxi has a Global NCAP rating of 4 Star.
+Maruti Brezza variants - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT come with a 7 inch touchscreen display.
+Maruti Brezza variants - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT come with a 9 Inch touchscreen display.
+Maruti Brezza variants - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT come with 4.0 speakers.
+Maruti Brezza variants - Lxi CNG, Vxi CNG, Zxi CNG & Zxi CNG DT use Petrol as a secondary fuel type.
+Maruti Brezza variants - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT have 16 Inch front alloy wheels.
+Maruti Brezza variants - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT have 16 Inch rear alloy wheels.
+Maruti Brezza variants - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT have 2.0 tweeters.
+Maruti Brezza variant Lxi takes 40.58 s seconds to brake from 100-0 kmph.
+Maruti Brezza variants - Vxi AT, Zxi AT, Zxi AT DT, Zxi Plus AT & Zxi Plus AT DT have a 100-0 kmph braking time of 43.87 s seconds.
+Maruti Brezza variant Lxi achieves 0-100 kmph in 11.55 s seconds.
+Maruti Brezza variants - Vxi AT, Zxi AT, Zxi AT DT, Zxi Plus AT & Zxi Plus AT DT have a 0-100 kmph acceleration time of 15.24 s seconds.
+Maruti Brezza variants - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT have Android Auto, Apple CarPlay connectivity options.
+All Maruti Brezza variants feature a Semi Digital digital cluster.
+All Maruti Brezza variants come with Fabric upholstery.
+Maruti Brezza variants - Lxi CNG, Vxi CNG, Zxi CNG & Zxi CNG DT come with boot space of 328 Litres.
+Maruti Brezza variants - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT have a top speed of 159 kmph.
+Maruti Brezza variant Zxi CNG DT has a top speed of 165 kmph.
+All Maruti Brezza variants come with a DOHC valve configuration.
+Maruti Brezza variant Lxi achieves city driveability (20-80 kmph) in 8.55 s.
+Maruti Brezza variants - Vxi AT, Zxi AT, Zxi AT DT, Zxi Plus AT & Zxi Plus AT DT have a city driveability (20-80 kmph) time of 8.58 s.
+Maruti Brezza variants - Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT come with Driver's Window anti-pinch power windows.
+Maruti Brezza variants - Lxi & Vxi have mileage figures of 17.38 kmpl.
+Maruti Brezza variants - Lxi CNG, Vxi CNG, Zxi CNG & Zxi CNG DT have mileage figures of 25.51 km/kg.
+Maruti Brezza variants - Vxi AT, Zxi AT, Zxi AT DT, Zxi Plus AT & Zxi Plus AT DT have mileage figures of 19.8 kmpl.
+Maruti Brezza variants - Zxi, Zxi DT, Zxi Plus & Zxi Plus DT have mileage figures of 19.89 kmpl.
+Maruti Brezza variants - Lxi, Vxi, Zxi, Zxi DT, Zxi Plus & Zxi Plus DT have highway mileage figures of 21.97 kmpl.
+Maruti Brezza variants - Vxi AT, Zxi AT, Zxi Plus AT & Zxi Plus AT DT have highway mileage figures of 20.5 kmpl.
+Maruti Brezza variants - Lxi, Vxi, Vxi AT, Zxi, Zxi DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT have fuel tank capacities of 48 Litres.
+Maruti Brezza variants - Lxi CNG, Vxi CNG, Zxi CNG & Zxi CNG DT have fuel tank capacities of 55 Litres.
+All Maruti Brezza variants have the MacPherson Strut suspension front suspension.
+All Maruti Brezza variants have the Rear twist beam rear suspension.
+Maruti Brezza variants - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT share the Tilt Steering steering adjustment type.
+Maruti Brezza variants - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT share the Tilt & Telescopic steering adjustment type.
+All variants of Maruti Brezza have Adjustable Steering.
+All Maruti Brezza variants are equipped with Rear parking sensors.
+Maruti Brezza variants without USB Charger - Lxi & Lxi CNG.
+Maruti Brezza variants - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT share the Front USB charging configuration.
+Maruti Brezza variants - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT share the Front & Rear USB charging configuration.
+All Maruti Brezza variants have Front & Rear power windows.
+Maruti Brezza variants - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT share the Front Only cup holder configuration.
+Maruti Brezza variants - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT share the Front & Rear cup holder configuration.
+Maruti Brezza variants without Fog Lights - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT share the Front fog light configuration.
+All Maruti Brezza variants come with a Shark Fin antenna.
+Maruti Brezza variants without Rear Camera - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+Maruti Brezza variants - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT share the With Guidedlines rear camera type.
+All Maruti Brezza variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Maruti Brezza variants without Speakers - Lxi & Lxi CNG.
+Maruti Brezza variants - Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT share the Front & Rear speaker configuration.
+Maruti Brezza variants - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT share the Bench Folding foldable rear seat type.
+Maruti Brezza variants - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT share the 60:40 Split foldable rear seat type.
+Maruti Brezza variants without Central Console Armrest - Lxi, Lxi CNG, Vxi, Vxi CNG, Vxi AT, Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT.
+Maruti Brezza variants - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT share the With Storage central console armrest type.
+Maruti Brezza variants without Sunroof - Lxi, Lxi CNG, Vxi, Vxi CNG & Vxi AT.
+Maruti Brezza variants - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT, Zxi Plus, Zxi AT DT, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT share a Single Pane sunroof.
+Maruti Brezza variants - Lxi & Lxi CNG share Chrome Accentuated Front Grille, Wheel Arch Cladding, Side Under Body Cladding, Side Door Cladding, Front and Rear Black Skid Plate as additional features.
+Maruti Brezza variants - Vxi, Vxi CNG & Vxi AT share SmartPlay Studio, Remote Control App for Infotainment as additional features.
+Maruti Brezza variants - Zxi, Zxi DT, Zxi CNG, Zxi CNG DT, Zxi AT & Zxi AT DT share SmartPlay Pro, Premium Sound System ARKAMYS, Wireless Apple and android auto, Onboard Voice Assistant, Remote Control App for Infotainment as additional features.
+Maruti Brezza variants - Zxi Plus, Zxi Plus DT, Zxi Plus AT & Zxi Plus AT DT share SmartPlay Pro+, Premium Sound System ARKAMYS Surround Sense, Wireless Apple and android auto, Onboard Voice Assistant, Remote Control App for Infotainment as additional features.

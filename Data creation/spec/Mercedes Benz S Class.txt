@@ -1,0 +1,175 @@
+﻿Mercedes Benz S Class has 2 variants: S 350d & S450 4Matic.
+All variants of Mercedes Benz S Class have Power Steering.
+All variants of Mercedes Benz S Class have Air Conditioner.
+All variants of Mercedes Benz S Class have Heater.
+All variants of Mercedes Benz S Class have Automatic Climate Control.
+All variants of Mercedes Benz S Class have Accessory Power Outlet.
+All variants of Mercedes Benz S Class have Trunk Light.
+All variants of Mercedes Benz S Class have Vanity Mirror.
+All variants of Mercedes Benz S Class have Rear Reading Lamp.
+All variants of Mercedes Benz S Class have Adjustable Headrest.
+All variants of Mercedes Benz S Class have Rear Seat Centre Arm Rest.
+All variants of Mercedes Benz S Class have Rear AC Vents.
+All variants of Mercedes Benz S Class have Cruise Control.
+All variants of Mercedes Benz S Class have Real-Time Vehicle Tracking.
+All variants of Mercedes Benz S Class have Engine Start/Stop Button.
+All variants of Mercedes Benz S Class have Voice Commands.
+All variants of Mercedes Benz S Class have Hands-Free Tailgate.
+All variants of Mercedes Benz S Class have Chrome Grille.
+All variants of Mercedes Benz S Class have KeyLess Entry.
+All variants of Mercedes Benz S Class have Follow Me Home Headlamps.
+All variants of Mercedes Benz S Class have Tachometer.
+All variants of Mercedes Benz S Class do not have Wheel Covers.
+All variants of Mercedes Benz S Class have Alloy Wheels.
+All variants of Mercedes Benz S Class have Integrated Antenna.
+All variants of Mercedes Benz S Class have Automatic Headlamps.
+All variants of Mercedes Benz S Class have LED DRLs.
+All variants of Mercedes Benz S Class have LED Headlamps.
+All variants of Mercedes Benz S Class have Anti-lock Braking System (ABS).
+All variants of Mercedes Benz S Class have Central Locking.
+All variants of Mercedes Benz S Class have Driver Airbag.
+All variants of Mercedes Benz S Class have Side Airbag.
+All variants of Mercedes Benz S Class have Seat Belt Warning.
+All variants of Mercedes Benz S Class have Engine Immobilizer.
+All variants of Mercedes Benz S Class have Side Airbag-Rear.
+All variants of Mercedes Benz S Class have Electronic Stability Control (ESC).
+All variants of Mercedes Benz S Class have Anti-Theft Device.
+All variants of Mercedes Benz S Class have Speed Alert.
+All variants of Mercedes Benz S Class have Speed Sensing Auto Door Lock.
+All variants of Mercedes Benz S Class have ISOFIX Child Seat Mounts.
+All variants of Mercedes Benz S Class have Hill Assist.
+All variants of Mercedes Benz S Class have Impact Sensing Auto Door Unlock.
+All variants of Mercedes Benz S Class have 360 View Camera.
+All variants of Mercedes Benz S Class have Radio.
+All variants of Mercedes Benz S Class have Wireless Phone Charging.
+All variants of Mercedes Benz S Class have Bluetooth Connectivity.
+All variants of Mercedes Benz S Class have Android Auto.
+All variants of Mercedes Benz S Class have Apple CarPlay.
+All variants of Mercedes Benz S Class have Height Adjustable Front Seat Belts.
+All variants of Mercedes Benz S Class have Lumbar Support.
+All variants of Mercedes Benz S Class have Paddle Shifters.
+All variants of Mercedes Benz S Class have Electronic Multi-Tripmeter.
+All variants of Mercedes Benz S Class have Digital Clock.
+All variants of Mercedes Benz S Class have Outside Temperature Display.
+All variants of Mercedes Benz S Class have Dual Tone Dashboard.
+All variants of Mercedes Benz S Class do not have Power Antenna.
+All variants of Mercedes Benz S Class have LED Taillights.
+All variants of Mercedes Benz S Class have Brake Assist.
+All variants of Mercedes Benz S Class have Anti-Theft Alarm.
+All variants of Mercedes Benz S Class have Door Ajar Warning.
+All variants of Mercedes Benz S Class have Digital Odometer.
+All variants of Mercedes Benz S Class have Blind Spot Camera.
+All variants of Mercedes Benz S Class have Heads-Up Display (HUD).
+All variants of Mercedes Benz S Class have Cooled Glovebox.
+All variants of Mercedes Benz S Class have Ventilated Seats.
+All variants of Mercedes Benz S Class have Hill Descent Control.
+All variants of Mercedes Benz S Class have Active noise cancellation.
+All variants of Mercedes Benz S Class have Cornering Foglamps.
+All variants of Mercedes Benz S Class have Leather wrap gear-shift selector.
+All variants of Mercedes Benz S Class have Blind Spot Monitor.
+All variants of Mercedes Benz S Class have Tailgate Ajar Warning.
+All variants of Mercedes Benz S Class have Remote Trunk Opener.
+All variants of Mercedes Benz S Class have Compass.
+All variants of Mercedes Benz S Class have Lane Change Indicator.
+All variants of Mercedes Benz S Class have Wi-Fi Connectivity.
+All variants of Mercedes Benz S Class have Cornering Headlamps.
+All variants of Mercedes Benz S Class do not have Xenon Headlamps.
+All variants of Mercedes Benz S Class have Traction Control.
+All variants of Mercedes Benz S Class have Rear Entertainment System.
+All variants of Mercedes Benz S Class have Leather Seats.
+All variants of Mercedes Benz S Class have Driving Experience Control Eco.
+All variants of Mercedes Benz S Class have MirrorLink.
+All variants of Mercedes Benz S Class have Fog Lights - Rear.
+All variants of Mercedes Benz S Class have Internal Storage.
+All variants of Mercedes Benz S Class have Find My Car location.
+All variants of Mercedes Benz S Class have Height Adjustable Driver Seat.
+All variants of Mercedes Benz S Class have Rear Window Defogger.
+All variants of Mercedes Benz S Class have Leather Wrapped Steering Wheel.
+All variants of Mercedes Benz S Class have Glove Box.
+All variants of Mercedes Benz S Class have Adjustable Headlamps.
+All variants of Mercedes Benz S Class have Outside Rear View Mirror Turn Indicators.
+All variants of Mercedes Benz S Class have Passenger Airbag.
+All variants of Mercedes Benz S Class have Day & Night Rear View Mirror.
+All variants of Mercedes Benz S Class have Tyre Pressure Monitoring System (TPMS).
+All variants of Mercedes Benz S Class have Touchscreen.
+All variants of Mercedes Benz S Class have Rear Window Wiper.
+All variants of Mercedes Benz S Class have Rear Window Washer.
+All variants of Mercedes Benz S Class have Chrome Garnish.
+All variants of Mercedes Benz S Class have Child Safety Locks.
+All variants of Mercedes Benz S Class have Rain Sensing Wiper.
+All variants of Mercedes Benz S Class have Air Quality Control.
+All variants of Mercedes Benz S Class have Folding Table in The Rear.
+All variants of Mercedes Benz S Class have Navigation System.
+All variants of Mercedes Benz S Class have Smart Access Card Entry.
+All variants of Mercedes Benz S Class have Fabric Upholstery.
+All variants of Mercedes Benz S Class have Cigarette Lighter.
+All variants of Mercedes Benz S Class have Dual Tone Body Colour.
+All variants of Mercedes Benz S Class have Usb Ports.
+All variants of Mercedes Benz S Class do not have Gear Shift Indicator.
+All variants of Mercedes Benz S Class do not have Luggage Hook & Net.
+All variants of Mercedes Benz S Class have LED Fog Lamps.
+All variants of Mercedes Benz S Class have Low Fuel Warning Light.
+All variants of Mercedes Benz S Class have Heated Wing Mirror.
+All variants of Mercedes Benz S Class have Power Boot.
+All variants of Mercedes Benz S Class have Fog Lights - Front.
+All variants of Mercedes Benz S Class have Integrated 2DIN Audio.
+All variants of Mercedes Benz S Class have USB & Auxiliary input.
+All variants of Mercedes Benz S Class do not have Rear Curtain.
+All variants of Mercedes Benz S Class have Audio System Remote Control.
+Mercedes Benz S Class variant S 350d has the OM 656 Engine engine.
+Mercedes Benz S Class variant S450 4Matic has the M256 engine engine.
+Mercedes Benz S Class variant S 350d has a displacement of 2925  cubic centimeters.
+Mercedes Benz S Class variant S450 4Matic has a displacement of 2999  cubic centimeters.
+Mercedes Benz S Class variant S 350d delivers a max power of 281.61 Brake Horsepower (BHP) at 3400 to 4600 Revolutions Per Minute (RPM).
+Mercedes Benz S Class variant S450 4Matic delivers a max power of 362.07 Brake Horsepower (BHP) at 5500 to 6100 Revolutions Per Minute (RPM).
+Mercedes Benz S Class variant S 350d has a max torque of 600 Newton meters at 1200 to 3200 Revolutions Per Minute (RPM).
+Mercedes Benz S Class variant S450 4Matic has a max torque of 500 Newton meters at 1600 to 4500 Revolutions Per Minute (RPM).
+All Mercedes Benz S Class variants have 4.0 valves per cylinder.
+All Mercedes Benz S Class variants have a Automatic transmission.
+All Mercedes Benz S Class variants have 6.0 cylinders.
+All Mercedes Benz S Class variants come with a 9-speed 9G-Tronic AT gearbox.
+All Mercedes Benz S Class variants have a All-Wheel Drive (AWD) drive type.
+Mercedes Benz S Class variant S 350d runs on Diesel.
+Mercedes Benz S Class variant S450 4Matic runs on Petrol.
+All Mercedes Benz S Class variants comply with BS VI 2.0 emission norms.
+All Mercedes Benz S Class variants come with Electric steering.
+All Mercedes Benz S Class variants have a length of 5289 mm.
+All Mercedes Benz S Class variants have a width of 2109 mm.
+All Mercedes Benz S Class variants have a height of 1503 mm.
+All Mercedes Benz S Class variants offer 550 Litres of boot space.
+All Mercedes Benz S Class variants have a seating capacity of 5.0.
+All Mercedes Benz S Class variants have a wheelbase of 2850 mm.
+Mercedes Benz S Class variant S 350d has a kerb weight of 1995 kg.
+Mercedes Benz S Class variant S450 4Matic has a kerb weight of 1980 kg.
+All Mercedes Benz S Class variants have 4.0 doors.
+All Mercedes Benz S Class variants come with Tubeless Radial tyres.
+All Mercedes Benz S Class variants come equipped with 10.0 airbags.
+All Mercedes Benz S Class variants have received a 5 Star Global NCAP safety rating.
+All Mercedes Benz S Class variants come with a 12.8 inch touchscreen display.
+All Mercedes Benz S Class variants come with 31.0 speakers.
+All Mercedes Benz S Class variants come with Android Auto, Apple CarPlay, Mirror Link connectivity options.
+All Mercedes Benz S Class variants have a top speed of 250 kmph.
+Mercedes Benz S Class variant S 350d accelerates from 0-100 kmph in 6.4 s.
+Mercedes Benz S Class variant S450 4Matic accelerates from 0-100 kmph in 5.1 s.
+Mercedes Benz S Class variant S 350d accelerates from 0-100 kmph in 6.4 s.
+Mercedes Benz S Class variant S450 4Matic accelerates from 0-100 kmph in 5.1 s.
+All Mercedes Benz S Class variants use a Rack & Pinion steering gear type.
+All Mercedes Benz S Class variants feature a Smart trunk opener.
+Mercedes Benz S Class variant S450 4Matic features a 48 v kWh battery capacity.
+Mercedes Benz S Class variant S 350d has a highway mileage of 18 kmpl.
+Mercedes Benz S Class variant S450 4Matic has a highway mileage of 12 kmpl.
+All Mercedes Benz S Class variants have a fuel tank capacity of 76 Litres.
+All Mercedes Benz S Class variants have the Air suspension front suspension.
+All Mercedes Benz S Class variants have the Air suspension rear suspension.
+All Mercedes Benz S Class variants come with Tilt & Telescopic steering adjustment.
+All variants of Mercedes Benz S Class have Adjustable Steering.
+All Mercedes Benz S Class variants are equipped with Front & Rear parking sensors.
+All Mercedes Benz S Class variants come with Front & Rear USB charging ports.
+All Mercedes Benz S Class variants include Front & Rear speakers.
+All Mercedes Benz S Class variants have Front & Rear electric adjustable seats.
+All variants of Mercedes Benz S Class have Central Console Armrest.
+Mercedes Benz S Class variant S450 4Matic has Driver knee airbags.
+All variants of Mercedes Benz S Class have Rear Seat Headrest.
+All variants of Mercedes Benz S Class have Sunroof.
+All Mercedes Benz S Class variants come with 4 drive modes.
+All Mercedes Benz S Class variants come with USB package Plus, OLED central display (12.8 inch), Natural voice control, Touch control concept, Wireless charging system in the front, Wireless charging system for mobile devices in the rear, Burmester® 3D surround sound system, Sound personalization, Wireless Smartphone Integration, Fingerprint scanner, MBUX Entertainment MBUX Navigation MBUX High-End Rear Seat Entertainment System ( 2-high-resolution 11.6-inch displays) MBUX rear tablet use Like a remote control, can access MBUX multimedia system for example and control comfort equipment. With the full-fledged 7-inch tablet you can also use the internet or Android apps. The features of the tablet: 1. WiFi-enabled tablet with 7-inch high-resolution display (1280 x 800 pixels) Headphone connection via Bluetooth or 3.5 mm audio jack. Docking station with charging function in the centre armrest 2. MBUX remote control of the central display. 3. Direct access to available equipment: MBUX multimedia system with media Display of the distance to the set destination incl. arrival time Rear compartment air conditioning system, in conj. with THERMOTRONIC automatic climate control in the rear or seat climate control in the rear Seat massage, in conj. with Rear Seat Comfort Package 4. Ambient lighting. Change from MBUX to Android mode with: Web browser Android apps 5. Mirroring of the rear displays incl. depiction of navigation, in conj. with MBUX High-End Rear Seat Entertainment System The tablet can also be used as a standalone android tablet as well. Additional Mercedes me connect features (Alexa Home and Google Home Integration with Mercedes me connect) Parking location POIs (Points of Interest) Mercedes me Geo-fencing, Windows/sunroof open close from App, Vehicle Finder (enables horn and light flashing), Mercedes me Service app: Your digital assistant , Vehicle Monitoring, Vehicle Set-Up, Navigation Connectivity package, Mercedes-Benz emergency call system as additional features.

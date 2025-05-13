@@ -1,0 +1,155 @@
+Lexus Lx has 1 variants: 500d.
+Lexus Lx has Power Steering.
+Lexus Lx has Air Conditioner.
+Lexus Lx has Heater.
+Lexus Lx has Automatic Climate Control.
+Lexus Lx has Accessory Power Outlet.
+Lexus Lx has Trunk Light.
+Lexus Lx has Vanity Mirror.
+Lexus Lx has Rear Reading Lamp.
+Lexus Lx has Adjustable Headrest.
+Lexus Lx has Rear Seat Centre Arm Rest.
+Lexus Lx has Rear AC Vents.
+Lexus Lx has Cruise Control.
+Lexus Lx has Engine Start/Stop Button.
+Lexus Lx has Voice Commands.
+Lexus Lx has Chrome Grille.
+Lexus Lx has KeyLess Entry.
+Lexus Lx has Follow Me Home Headlamps.
+Lexus Lx has Tachometer.
+Lexus Lx has Alloy Wheels.
+Lexus Lx has Integrated Antenna.
+Lexus Lx has Projector Headlamps.
+Lexus Lx has Automatic Headlamps.
+Lexus Lx has LED DRLs.
+Lexus Lx has LED Headlamps.
+Lexus Lx has Anti-lock Braking System (ABS).
+Lexus Lx has Central Locking.
+Lexus Lx has Driver Airbag.
+Lexus Lx has Side Airbag.
+Lexus Lx has Seat Belt Warning.
+Lexus Lx has Engine Immobilizer.
+Lexus Lx has Side Airbag-Rear.
+Lexus Lx has Electronic Stability Control (ESC).
+Lexus Lx has Anti-Theft Device.
+Lexus Lx has Speed Alert.
+Lexus Lx has Speed Sensing Auto Door Lock.
+Lexus Lx has ISOFIX Child Seat Mounts.
+Lexus Lx has Hill Assist.
+Lexus Lx has Impact Sensing Auto Door Unlock.
+Lexus Lx has 360 View Camera.
+Lexus Lx has Radio.
+Lexus Lx has Wireless Phone Charging.
+Lexus Lx has Bluetooth Connectivity.
+Lexus Lx has Android Auto.
+Lexus Lx has Apple CarPlay.
+Lexus Lx has Height Adjustable Front Seat Belts.
+Lexus Lx has Lumbar Support.
+Lexus Lx has Paddle Shifters.
+Lexus Lx has Electronic Multi-Tripmeter.
+Lexus Lx has Digital Clock.
+Lexus Lx has LED Taillights.
+Lexus Lx has Brake Assist.
+Lexus Lx has Anti-Theft Alarm.
+Lexus Lx has Door Ajar Warning.
+Lexus Lx has Digital Odometer.
+Lexus Lx has Blind Spot Camera.
+Lexus Lx has Heads-Up Display (HUD).
+Lexus Lx has Ventilated Seats.
+Lexus Lx has Hill Descent Control.
+Lexus Lx has Battery Saver.
+Lexus Lx has Leather wrap gear-shift selector.
+Lexus Lx has Blind Spot Monitor.
+Lexus Lx has Tailgate Ajar Warning.
+Lexus Lx has Remote Trunk Opener.
+Lexus Lx has Compass.
+Lexus Lx has Lane Change Indicator.
+Lexus Lx has Wi-Fi Connectivity.
+Lexus Lx has Cornering Headlamps.
+Lexus Lx has Traction Control.
+Lexus Lx has Rear Entertainment System.
+Lexus Lx has Leather Seats.
+Lexus Lx has Fog Lights - Rear.
+Lexus Lx has Height Adjustable Driver Seat.
+Lexus Lx has Rear Window Defogger.
+Lexus Lx has Leather Wrapped Steering Wheel.
+Lexus Lx has Glove Box.
+Lexus Lx has Adjustable Headlamps.
+Lexus Lx has Outside Rear View Mirror Turn Indicators.
+Lexus Lx has Passenger Airbag.
+Lexus Lx has Day & Night Rear View Mirror.
+Lexus Lx has Tyre Pressure Monitoring System (TPMS).
+Lexus Lx has Touchscreen.
+Lexus Lx has Rear Window Wiper.
+Lexus Lx has Rear Window Washer.
+Lexus Lx has Child Safety Locks.
+Lexus Lx has Rear Spoiler.
+Lexus Lx has Rain Sensing Wiper.
+Lexus Lx has Air Quality Control.
+Lexus Lx has Tinted Glass.
+Lexus Lx has Navigation System.
+Lexus Lx has Roof Rails.
+Lexus Lx has Side Stepper.
+Lexus Lx has Usb Ports.
+Lexus Lx has Gear Shift Indicator.
+Lexus Lx has Luggage Hook & Net.
+Lexus Lx has LED Fog Lamps.
+Lexus Lx has Low Fuel Warning Light.
+Lexus Lx has Power Boot.
+Lexus Lx has Fog Lights - Front.
+Lexus Lx has Integrated 2DIN Audio.
+Lexus Lx has USB & Auxiliary input.
+Lexus Lx has Audio System Remote Control.
+The Lexus Lx has the 3.5-liter V6 twin-turbo engine.
+The Lexus Lx has a displacement of 3346  cubic centimeters.
+The Lexus Lx generates 304.41 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+The Lexus Lx generates 700 Newton meters at 1600 to 2600 Revolutions Per Minute (RPM).
+The Lexus Lx has 4.0 valves per cylinder.
+The Lexus Lx has a Automatic transmission.
+The Lexus Lx has 6.0 cylinders.
+The Lexus Lx has a 10-Speed gearbox.
+The Lexus Lx has a All-Wheel Drive (AWD) drive type.
+The Lexus Lx runs on Diesel.
+The Lexus Lx complies with BS VI emission norms.
+The Lexus Lx has Electric steering.
+The Lexus Lx has a turning radius of 6m.
+The Lexus Lx has Disc front brakes.
+The Lexus Lx has Disc rear brakes.
+The Lexus Lx has a length of 5100 mm.
+The Lexus Lx has a width of 1990 mm.
+The Lexus Lx has a height of 1895 mm.
+The Lexus Lx offers 174 Litres of boot space.
+The Lexus Lx has a seating capacity of 5.0.
+The Lexus Lx has an unladen ground clearance of 205 mm.
+The Lexus Lx has a wheelbase of 3264 mm.
+The Lexus Lx has a kerb weight of 2750 kg.
+The Lexus Lx has a gross weight of 3280 kg.
+The Lexus Lx has 5.0 doors.
+The Lexus Lx is fitted with tyres of size 265/50R22.
+The Lexus Lx is equipped with Tyre Type tyres.
+The Lexus Lx is equipped with 10.0 airbags.
+The Lexus Lx is equipped with a 12.29 inch touchscreen.
+The Lexus Lx is equipped with 25.0 speakers.
+The Lexus Lx features Android Auto, Apple CarPlay connectivity options.
+The Lexus Lx achieves a top speed of 210 kmph.
+The Lexus Lx has a front tread of 1536 mm.
+The Lexus Lx achieves 0-100 kmph acceleration in 8.0 s.
+The Lexus Lx achieves 0-100 kmph in 8.0 s.
+The Lexus Lx features a rear tread of 1675 mm.
+The Lexus Lx is equipped with a Remote trunk opener.
+The Lexus Lx delivers a highway mileage of 6.9 kmpl.
+The Lexus Lx comes with a fuel tank capacity of 80 Litres.
+The Lexus Lx comes with the Multi-link suspension front suspension.
+The Lexus Lx comes with the Multi-link suspension rear suspension.
+The Lexus Lx features Tilt & Telescopic steering adjustment.
+Lexus Lx has Adjustable Steering.
+The Lexus Lx features Rear parking sensors.
+The Lexus Lx features Front USB charging ports.
+The Lexus Lx has Front & Rear speakers.
+The Lexus Lx has Front electric adjustable seats.
+The Lexus Lx has a With Storage central console armrest.
+The Lexus Lx has a Twin turbocharger.
+Lexus Lx has Rear Seat Headrest.
+Lexus Lx has Sunroof.
+The Lexus Lx has 5 drive modes.
+The Lexus Lx includes 31.24 cm (12.3-inch) Electro Multi-Vision (EMV) Multimedia infotainment Touch display, Audio Mark Levinson 25 Speakers 3D Surround Sound System, Rear Seat Entertainment (Dual RSE Monitors) 11.6-inch touch displays, HDMI jack, 2 headphone jacks, wireless remote control, Wireless Apple CarPlay, Wired Android Auto, 17.78 cm (7-inch) Electro Multi-Vision (EMV) Drive dynamics control touch displays as additional features.

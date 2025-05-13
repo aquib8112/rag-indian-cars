@@ -1,0 +1,61 @@
+Mahindra Bolero Camper has 3 variants: 2WD Power Steering, 4WD Power Steering & GOLD ZX 2WD.
+All variants of Mahindra Bolero Camper have Power Steering.
+All variants of Mahindra Bolero Camper have Air Conditioner.
+All variants of Mahindra Bolero Camper have Heater.
+All variants of Mahindra Bolero Camper have Accessory Power Outlet.
+All variants of Mahindra Bolero Camper have Adjustable Headrest.
+All variants of Mahindra Bolero Camper have Tachometer.
+Mahindra Bolero Camper variant with Central Locking - GOLD ZX 2WD.
+Mahindra Bolero Camper variants without Central Locking - 2WD Power Steering & 4WD Power Steering.
+All variants of Mahindra Bolero Camper do not have Side Airbag.
+All variants of Mahindra Bolero Camper have Engine Immobilizer.
+All variants of Mahindra Bolero Camper do not have Side Airbag-Rear.
+All variants of Mahindra Bolero Camper have Halogen Headlamps.
+All variants of Mahindra Bolero Camper have Glove Box.
+All variants of Mahindra Bolero Camper have Adjustable Headlamps.
+All variants of Mahindra Bolero Camper have Passenger Airbag.
+All variants of Mahindra Bolero Camper have Low Fuel Warning Light.
+All Mahindra Bolero Camper variants use the m2DiCR 4 Cyl 2.5L TB engine.
+All Mahindra Bolero Camper variants have a displacement of 2523  cubic centimeters.
+All Mahindra Bolero Camper variants produce a maximum power of 75.09 Brake Horsepower (BHP) at 3200 Revolutions Per Minute (RPM).
+All Mahindra Bolero Camper variants produce a maximum torque of 200 Newton meters at 1400 to 2200 Revolutions Per Minute (RPM).
+All Mahindra Bolero Camper variants have 4.0 valves per cylinder.
+All Mahindra Bolero Camper variants have a Manual transmission.
+All Mahindra Bolero Camper variants have 4.0 cylinders.
+All Mahindra Bolero Camper variants come with a 5-Speed gearbox.
+Mahindra Bolero Camper variants - 2WD Power Steering & GOLD ZX 2WD share a Rear-Wheel Drive (RWD) drive type.
+Mahindra Bolero Camper variant 4WD Power Steering has a Four-Wheel Drive (4WD) drive type.
+All Mahindra Bolero Camper variants run on Diesel.
+All Mahindra Bolero Camper variants comply with BS VI 2.0 emission norms.
+All Mahindra Bolero Camper variants come with Power steering.
+All Mahindra Bolero Camper variants have Disc front brakes.
+All Mahindra Bolero Camper variants have Drum rear brakes.
+All Mahindra Bolero Camper variants have a length of 4859 mm.
+All Mahindra Bolero Camper variants have a width of 1670 mm.
+All Mahindra Bolero Camper variants have a height of 1855 mm.
+All Mahindra Bolero Camper variants offer 370 Litres of boot space.
+All Mahindra Bolero Camper variants have a seating capacity of 5.0.
+All Mahindra Bolero Camper variants have an unladen ground clearance of 185 mm.
+Mahindra Bolero Camper variants - 2WD Power Steering & 4WD Power Steering share a wheelbase of 2587 mm.
+Mahindra Bolero Camper variant GOLD ZX 2WD has a wheelbase of 3022 mm.
+Mahindra Bolero Camper variant 2WD Power Steering has a kerb weight of 1700 kg.
+Mahindra Bolero Camper variant 4WD Power Steering has a kerb weight of 1770 kg.
+Mahindra Bolero Camper variant GOLD ZX 2WD has a kerb weight of 1735 kg.
+All Mahindra Bolero Camper variants have a gross weight of 2735 kg.
+All Mahindra Bolero Camper variants have 4.0 doors.
+All Mahindra Bolero Camper variants have tyres of size P235/75 R15.
+All Mahindra Bolero Camper variants come with Radial with Tube tyres.
+All Mahindra Bolero Camper variants come equipped with 1.0 airbags.
+All Mahindra Bolero Camper variants come with Fabric upholstery.
+All Mahindra Bolero Camper variants have a front tread of 1430 mm.
+All Mahindra Bolero Camper variants have a rear tread of 1335 mm.
+All Mahindra Bolero Camper variants come with Hydraulic Double Acting, Telescopic Type shock absorbers.
+Mahindra Bolero Camper variants - 2WD Power Steering & 4WD Power Steering have mileage figures of 16 kmpl.
+Mahindra Bolero Camper variant GOLD ZX 2WD has a highway mileage of 13.86 kmpl.
+All Mahindra Bolero Camper variants have a fuel tank capacity of 57 Litres.
+Mahindra Bolero Camper variants - 2WD Power Steering & 4WD Power Steering share the Leaf spring suspension front suspension type.
+Mahindra Bolero Camper variant GOLD ZX 2WD has the MacPherson Strut suspension front suspension.
+All Mahindra Bolero Camper variants have the Leaf spring suspension rear suspension.
+All variants of Mahindra Bolero Camper have Turbo Charger.
+Mahindra Bolero Camper variants - 2WD Power Steering & 4WD Power Steering share IP (Beige) as additional features.
+Mahindra Bolero Camper variant GOLD ZX 2WD offers IP (Beige & Tan) as additional features.

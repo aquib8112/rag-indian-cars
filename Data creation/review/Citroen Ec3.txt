@@ -1,0 +1,142 @@
+Citroen eC3 Review
+
+Citroen eC3 Pros
+Funky looking electric hatchback. Crossover styling cues will appeal to the masses
+Real world range of ~200 km is good enough for city driving and urban commutes
+Zero emissions, cheap “fuel” costs, no gears, light controls & compact size make it an ideal city car
+Sorted handling characteristics, due to the lower center of gravity
+Good-looking cabin that is practical too
+315-litre boot is very usable and fits a 15-inch spare wheel underneath
+10-inch touchscreen with wireless Android Auto and Apple CarPlay. Now gets connected car tech as well
+Lots of customization options and accessories to make your car truly unique
+
+Citroen eC3 Cons
+Missing plenty of features – adjustable regeneration, electric ORVM adjustment, climate control, rear wiper & defogger, reversing camera, alloy wheels, etc.
+56 BHP motor isn't very fun-to-drive. Top speed is limited to just 107 km/h
+200 km range makes the eC3 strictly a city car. Not ideal for long-distance traveling
+No fast AC home charging even as an option. Either wait 10 hours or find a DC fast charger nearby
+The usual EV challenges (charging infrastructure, brand new tech could mean niggles, range anxiety)
+Quality of cabin materials doesn’t feel great; cost-cutting is pretty evident in certain areas
+Cabin width makes the interiors suitable for 4 adults, not 5
+Long-term reliability & after-sales service quality are big unknowns; dealer network is tiny
+
+Introduction
+You might be familiar with the Citroen C3 by now. It was launched in July 2022 and has sold ~ 900 units per month since then. Not the kind of blockbuster entry that the French manufacturer would’ve hoped for in an entry-level hatchback. However, that was just part 1; what you see here is the
+deuxième partie
+or part 2 - The electric version of the hatchback called the eC3.
+It’s based on the same made-in-India platform as the IC engine C3. The interesting part is that while the platform was being developed, future electrification was already taken into account. This means that the entire battery pack fits perfectly within the 2,540 mm wheelbase of the car. In essence, the battery pack is better integrated into the floor than, say, the Tata Tiago EV because it doesn’t eat into the boot space.
+The eC3 is powered by a 29.2 kWh battery pack and has an ARAI claimed range of 320 km. The electric motor makes 56 BHP & 143 Nm torque and the claimed 0-60 km/h time is 6.8 seconds. Just like the IC engine C3, there are 2 variants on offer – Live and Feel. The features list is identical for both cars which is a big letdown. Citroen should’ve taken this opportunity to offer one fully loaded variant right from the factory. Yes, you get a lot of customization options, and the accessories brochure is quite extensive. But getting people excited with a long list of features at first glance is a very tried and tested strategy. Something that the French manufacturer should have definitely implemented.
+
+Citroen eC3 Price & Brochure
+The direct competitor for the eC3 is the Tata Tiago EV which has a sub-10 lakh-rupee starting price. It will be interesting to see how Citroen prices the eC3. Bookings will open tomorrow onwards.
+You can download the eC3 brochure here – Citroen eC3 brochure.pdf
+
+Incentives
+Central government incentives for electric vehicles are accounted for by the manufacturer when quoting the price at the time of purchase. These FAME II subsidies will be valid until March 31, 2024. State-wise incentives have encouraged a lot of people to buy EVs. However, given the growing popularity of EVs, some states have stopped giving out subsidies. Make sure that you check the official government notifications regarding
+electric vehicle incentives as well as the dealer for more details. Income tax benefits are still available under section 80EEB (only applicable for vehicles registered by individuals) -click here to read a detailed article on the same.
+
+Running Costs
+Given the high prices of fossil fuels, the cost of running a vehicle has been a pain point for many. Let’s run down simple math for the Citroen eC3. The battery capacity is 29.2 kWh, which means it will need ~29 units of electricity for a 100% charge. The per-unit cost of electricity depends on the slab that you are in & your location, but on average, it’s about Rs. 8 per unit. In this case, you’ll be paying Rs. 232 for a full charge. While the claimed range is 320 km, you can expect a real-life driving range of ~200 km under normal driving conditions. Translated, you’ll be paying just Rs. 1.16 per km which is a sweet figure.
+
+Exterior
+Design & Styling
+There’s nothing much that has changed in the eC3 from the regular C3 in terms of design. It has a cool looking funky design that will be appreciated by a majority of people. The dimensions are also identical and the car measures 3,981 mm in length, 1,733 mm in width, and 1,604 mm in height. It has a wheelbase of 2,540 mm which is longer than some IC engine cars from a segment above like the Tata Punch, Nissan Magnite, and Renault Kiger. This long wheelbase has allowed Citroen to integrate the entire battery into the floor.
+Like the C3, you get loads of customization options right from the factory. You still have the 4 monotone body colour options and 6 dual tone options with grey and orange roofs. With the eC3, you get 3 more dual-tone options with a polar white roof. You also get 3 customization packs – polar white, zesty orange, and platinum grey which are accents that you can choose for the exterior of the car. There’s also a chrome pack that can be installed at a dealer level. You don't get alloy wheels as standard, but they are available as an optional add-on.
+
+Build Quality, Fit & Finish
+The eC3 uses the same Common Modular Platform as the C3. The car has a kerb weight range of 1,302 kg to 1,316 kg which is ~260 kg heavier than the IC engine C3. Compared to the Tiago EV, the eC3 is ~150 kg heavier. Overall, the car feels well-built and there’s a good amount of heft to the doors and the bonnet too.
+
+Wheels & Tyres
+The Citroen eC3 is offered with 15-inch steel wheels as standard with 'Tessera' wheel covers. Alloy wheels are optional and Citroen has a couple of cool designs as well. Wonder why they just didn't offer the alloys as standard on the top-end Feel variant.
+The standard tyre size is 195/65 R15 and these work well for the power on offer. The spare tyre is a 185/65 R15 on a steel wheel with a recommended speed limit of 80 km/h.
+
+Ground Clearance
+The eC3 has an unladen ground clearance of 170 mm which should be good enough for most Indian road conditions. Compared to the regular C3, the ground clearance is less by 10 mm due to the battery pack at the bottom.
+
+Maintenance
+Citroen is working on providing good service for this car that's going to be targeting the mass market. This means that the spare parts will need to be affordable and easily available too. Citroen's plans for providing better service to its customers look good on paper with facilities like virtual remote diagnosis, periodic service, and maintenance with pickup and drop facilities, 180-minute RSA with emergency battery charging facility, remote service job card opening, service cost estimator on the website, genuine spare parts availability in 24 hours and service on wheels to name a few. We will wait for the ownership reports of BHPians for the final verdict.
+
+Standard & Extended Warranty
+Along with the private customers, Citroen is also looking at the fleet market for the eC3. Hence, there are two separate warranty options for the type of customers. The private customers will have a 7-year / 1,40,000 km warranty on the battery and a 5-year / 1,00,000 km warranty on the motor. The standard warranty of the vehicle is 3 years / 1,25,000 for both private customers and fleet customers (B2B). The B2B vehicles won’t get the battery and motor warranty though. Citroen claims that the eC3 can be charged with DC fast chargers multiple times without causing any harm to the battery. This has been specially done keeping the fleet market in mind to reduce the downtime between charging. So, some kind of motor and battery warranty should've been offered for the fleet customers as well. Extended warranty options will be revealed at the launch.
+
+Safety
+The Citroen eC3’s list of safety features is very basic. It has dual airbags, ABS, reverse parking sensors, speed-sensitive auto door locks, and seatbelt reminders for driver and passenger. What you miss out on are adjustable headrests in the front and rear, ISOFIX child seat anchors, a reverse parking camera, and a rear defogger. The battery is LFP type (Lithium Iron Phosphate) and gets an underbody protection cover. Citroen claims that it is nail penetration test compliant.
+
+Interior
+Cabin Design & Quality
+The interiors of the eC3 are identical to the regular C3, barring a few EV-specific changes. For starters, you don’t get the manual gear lever, but instead, there’s the transmission mode selector. The design is the same as the C5 Aircross facelift and it’s very convenient to use. Next up, you have two pedals instead of three. The MID now displays EV-related information and apart from that there are no changes to the cabin.
+
+Unique & Noteworthy Features
+We’d pointed out in the C3 review that the car is devoid of features and the same holds true for the eC3 as well. The only feature additions from the C3 to the eC3 are the manual dimming IRVM and the integration of connected car features. The only noteworthy feature of the eC3 is the 10-inch touchscreen infotainment unit with wireless Android Auto and Apple CarPlay connectivity. No matter the segment, people have come to expect some basic features from a car, especially in its top-end variant. Here are some of the basic features that should've been included in the eC3 - alloy wheels, projector headlamps, auto headlamps, auto wipers, rear window wiper, rear defogger, request sensor on front doors, engine start/stop button, cruise control, electric adjustment for ORVMs, automatic climate control, reversing camera, adjustable front and rear headrests, better digital instrument cluster, grab handle for the front passenger side, and a boot lamp.
+
+Boot Space
+The Citroen eC3 has a boot space of 315 liters which is the same as the regular C3. What’s appreciated is that the car gets a spare wheel underneath the boot floor. You see, the eC3’s battery is accommodated within the floor and it doesn’t eat into the boot space like the Tiago EV which is provided with just a puncture repair kit.
+
+Driving the Citroen eC3
+Powering the Citroen eC3 is a permanent magnet synchronous motor that puts out 56 BHP and 143 Nm. Citroen claims that the electric vehicle can accelerate from 0-60 km/h in 6.8 seconds.
+We got to drive the Citroen eC3 at the Wabco India Proving Ground in Chennai.The drive was around an oval test track with a chicane in the middle. But before we get to the driving part, let's get some of the basics right. There are 3 main components in an EV - the battery, the motor, and the controller/charger. The battery is what stores the energy and the motor is what uses that energy to move the car. The controller/charger converts the energy from the battery into a usable form to power the motor. In more technical terms, the power grid from your house or a charging station is usually an AC current. The lithium-ion battery can store electric energy in DC form. So while charging, there’s an AC/DC converter that will convert the power grid's AC into DC and store it in your car’s battery. The DC fast chargers that you see usually have the AC/DC converter built in, which is how they can charge your car’s battery faster. The controller typically sits on top of the motor. In the case of the Citroen eC3, the controller and motor are placed under the bonnet.
+Get into the eC3, insert the key in the keyhole and crank like you would a normal IC engine car. Yes, the eC3 doesn’t get a push-button start and it does feel a bit odd to crank an electric car. Upon cranking, you get a ‘Ready’ signal on the MID indicating that you can drive now. There are 3 transmission modes to choose from – R, N, and D. With a foot on the brake pedal, switch to D mode, and off you go. The car crawls forward smoothly without making any noise. For driving in the city’s bumper-to-bumper traffic, this crawl speed of 7 km/h feels adequate. The build-up of speed is very smooth and linear without any jerks.
+Driving around in the city should be a convenient and smooth affair. There are no gear shifts, no turbo lag, and noise as well. With a linear pedal response, even a newbie driver would seem a smooth driver. For someone who’s going to be driving in a sedate manner in the city, the 56 BHP on offer seems adequate. However, it doesn’t feel very quick on its feet and at times might just feel a little sluggish in terms of power delivery. You won't have issues with quick overtakes and closing the gaps in the city, but don't expect an electrifying pace here. The only frame of reference we have in this category is the Tiago electric which was more eager to get off the line. The eC3 feels as if it’s missing the urgency that you would expect in an electric car.
+The eC3’s mere 56 BHP is more evident at highway speeds. Remember that the kerb weight is ~ 1,300 kg which means that the power-to-weight ratio is just 43 BHP / ton. The torque to weight ratio is 109 Nm / ton which helps in the initial acceleration. But at high speeds (i.e. high RPMs), you can feel the power deficit a lot more. Remember that single-gear EVs lack the punch in the top end. The progress from 60-100 km/h isn’t quick and you can describe it as just adequate. You also have to remember that the eC3’s top speed is limited to 107 km/h. So, high-speed overtakes aren’t something you should be looking forward to. Best to just stick to driving at 80-90 km/h on the expressway in the middle lane. All in all, the eC3 is purely focused on sedate driving in the city. Given the high kerb weight, low power, and the tuning of the motor, the eC3 is a car that’s not meant to be driven hard.
+The eC3 gets an Eco driving mode for extracting more range. However, the difference between Normal and Eco driving modes is close to none. The car felt exactly the same in both modes and there was no indication on the MID that the car was in Eco mode. You do get an 'Eco' readout while driving on part throttle, but it disappears as soon as you bury the accelerator. The transmission mode selector from the C5 Aircross facelift is fairly convenient and you get used to it pretty quickly. One major irritant however was the Reverse mode. The pedal response in Reverse was either On or Off and nothing in between. This made reversing smoothly almost impossible.
+Samurai found this jerky nature to be highly irritating.
+The eC3's 29.2 kWh LFP battery pack is naturally air-cooled and not liquid-cooled as we've seen on the Tiago EV and other Tata electric cars. Citroen claims to have tested the car at temperatures from -10 degrees Celsius to 55 degrees Celsius. It will be interesting to see how the battery copes with different temperatures across India. Team-BHP ownership reviews of this car are something to look forward to.
+
+Regenerative Braking
+The Citroen eC3 doesn’t get adjustable regenerative braking. There’s only one level of regenerative braking and it’s pretty mild. This is good if your focus is on driving smoothly. However, someone focused on getting more kilometers would prefer a higher level of regeneration.
+Noise, Vibration & Harshness (NVH)
+At low speeds, there’s not much that you can hear inside the cabin. There’s no engine, no gearshifts, and very minimal mechanical parts, so no jerks or vibrations either. Tyre and wind noise started to creep in at 80 km/h.
+
+Range
+We didn’t get a lot of time to calculate the drop in battery percentage for a guesstimate range figure. However, as is the case with all EVs, push the car hard and you will notice the range and battery percentage falling at a rapid pace. ARAI claimed range figure is 320 km and hence under real-world driving conditions you can safely assume a 200 km range.
+
+Charging
+The Citroen eC3 supports DC fast charging and the battery can be charged from 10-80% in 57 minutes. Since the eC3 is also targeted towards the B2B fleet market, Citroen claims that charging at a DC fast charger multiple times won’t affect the life of the battery. While this may be true, there’s not enough real-world data to corroborate the fact. Going by some of the stories on international EVs, charging multiple times on a level 3 DC fast charger (60 kW and above) does have an effect on the long-term longevity of the battery. So, if this is something that bothers you, there’s always the option of charging at home with your simple 15 amp AC wall socket. It will take about 10 hours and 30 minutes to charge from 10% to 100%, but it is the cheapest option. Sadly, Citroen isn't offering a fast AC wall-box charger (higher wattage) even as an option. This would have brought down the charging time to ~5 hours. There would be additional costs, but since a lot of features / accessories are anyway available as an option on the eC3, a fast AC wall-box charger would've been appreciated by some owners.
+
+Suspension & Ride Comfort
+The eC3 rides on McPherson strut suspension at the front and a twist-beam suspension with coil springs at the rear. You get 15-inch wheels as standard shod with 195/65 R15 tyres. As mentioned earlier, our test drive was limited only to the track which had well-paved roads. Hence we cannot comment on ride quality. This will be updated post our longer test drive in our familiar driving conditions in the city and on the highways. The first impression is that the suspension tune does feel a tad bit stiff, however, we would like to reserve our opinions for the moment.
+
+Handling & Dynamics
+Just like the C3, the eC3 feels stable at high speeds. Given that the top speed is limited to 107 km/h, you will immediately notice that the chassis is capable of handling much more. The car doesn’t feel nervous and straight-line stability is good. Carry some speed into the corners and the car holds its line well. The front end feels tight and you can turn in sharply into a corner. There’s little understeer and the only thing holding you back from having fun with this chassis is the powertrain.
+
+Steering
+The electric power steering unit in the eC3 is very user-friendly. It’s light at city speeds and most owners will appreciate that. A turning circle of 4.98 metres is also tight and the eC3 should be an easy car to drive in the city. It weighs up nicely when you gain speed and feels good to use while driving at 100 km/h.
+
+Braking
+On the eC3, you have disc brakes up front and drum brakes at the rear. Overall performance is as expected and the car comes to a halt in a predictable manner. We couldn’t try out emergency braking as we were asked not to by the track officials. The pedal has a spongy feel to it, but with time, you will get accustomed to it.
+
+Citroen eC3 Exterior Images
+There’s nothing that differentiates the eC3 from the regular C3 from the front except for the green number plate.
+The rear is also identical except for the eC3 badge on the tailgate.
+The lithium-ion battery pack has been integrated neatly into the 2,540 mm wheelbase of the eC3.
+This Zesty orange body colour with a polar white roof combination that you see here has been introduced with the eC3. The white roof option is now also available with platinum grey and steel grey paint options.
+The eC3 has a kerb weight of 1,302 kg for the Live variant and 1,316 kg for the Feel variant. The overall build quality is satisfactory.
+A look at the LED DRLs and halogen headlamp setup. We’d have appreciated it if Citroen offered projector headlamps here.
+Citroen's polar white customization pack includes white accents like this fog lamp bezel.
+The charging port has been mounted on the right fender.
+A look at the ë badge on the door and the roof-coloured ORVM cover.
+The front wheels get disc brakes.
+The rear wheels get drum brakes. The 15-inch alloy wheels that you see here are not standard but are available as an option. The standard tyre size is 195/65 R15.
+Fake air vent-like insert’s colour is a part of the customization pack. Also, you can see that the battery pack at the bottom reduces the eC3's ground clearance to 170 mm (10 mm less than regular C3).
+The fuel filler flap on the left quarter panel from the IC engine C3 has been left as is on the eC3.
+A look at the new white roof option: The ëC3 badge on the tailgate is a good differentiator from the IC engine variant.
+You only get reverse parking sensors and no reversing camera.
+Good to see that the eC3 is offered with underbody protection up front.
+The underbody protection extends all the way to the back.
+
+Citroen eC3 Interior Images
+The eC3’s cabin is very much similar to the regular C3. The overall design is unique and refreshing.
+MID gets a few changes in the eC3. You get a transmission mode display on the top right and a speedometer reading in the middle. There’s a bar below the speedometer which is a power meter and indicates if power is being used or regenerated.
+A battery charge graphic is placed at the bottom left corner and shows the remaining battery. You can toggle through the different information by pressing the stick on the right. It displays the percentage battery charge left, range in km, and odometer.
+You don’t get a push start button even on the top-end variant.
+The brake pedal and accelerator pedal are well-spaced and easy to operate. The dead pedal is small and not very usable.
+Two pull-type levers are placed above the pedals. The big lever is for opening the charging port on the fender. You get a new bonnet release lever here instead of the knob on the IC engine variant (reference image).
+Another addition to the eC3 is a manual dimming IRVM.
+The 10-inch infotainment touchscreen gets wireless Android Auto and Apple CarPlay connectivity.
+You also get 35 connected car features like geo-fencing & car locator, intrusion & SOS alert, one-click SOS alert, and charging station locator. You can also check the driving statistics through the app and it even has a valet mode.
+Here’s a look at the new transmission mode selector. This is identical to the one that we’ve seen on the C5 Aircross facelift and it’s pretty easy to use. It doesn’t get a ‘P’ button on the eC3, but overall it looks clean and doesn’t occupy a lot of space. The transmission modes aren’t easily visible under direct sunlight.
+The front seats are super comfy and offer very good lateral as well as under-thigh support. Sadly, no adjustable headrests here.
+The floor height seems to have increased slightly due to the battery underneath. This might be of a little discomfort to tall passengers as they'd have a knees-up seating position. Side occupants get three-point seatbelts and fixed headrests, while the middle passenger has to make do with a lap belt and no headrest. The fixed rear headrests are irritating as they touch the nape area of tall passengers.
+Boot space of 315 liters is identical to the regular C3. In comparison, the Tata Tiago electric has a 240-liter boot and it doesn’t get a spare wheel.
+The portable charging cable can be placed in the boot.
+The spare is a 15-inch steel wheel with a 185/65 R15 tyre with a speed limit of 80 km/h. The tyres on the car are 195/65 R15 tyres and Citroen could’ve just provided the same wheel and tyre combo as a spare.

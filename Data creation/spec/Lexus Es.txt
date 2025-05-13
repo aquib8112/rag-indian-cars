@@ -1,0 +1,187 @@
+Lexus Es has 2 variants: 300h Exquisite & 300h Luxury.
+All variants of Lexus Es have Power Steering.
+All variants of Lexus Es have Air Conditioner.
+All variants of Lexus Es have Heater.
+All variants of Lexus Es have Automatic Climate Control.
+All variants of Lexus Es have Accessory Power Outlet.
+All variants of Lexus Es have Trunk Light.
+All variants of Lexus Es have Vanity Mirror.
+All variants of Lexus Es have Rear Reading Lamp.
+All variants of Lexus Es have Adjustable Headrest.
+All variants of Lexus Es have Rear Seat Centre Arm Rest.
+All variants of Lexus Es have Rear AC Vents.
+All variants of Lexus Es have Cruise Control.
+All variants of Lexus Es have Real-Time Vehicle Tracking.
+All variants of Lexus Es have Engine Start/Stop Button.
+All variants of Lexus Es have Voice Commands.
+All variants of Lexus Es have Hands-Free Tailgate.
+All variants of Lexus Es have Chrome Grille.
+All variants of Lexus Es have KeyLess Entry.
+All variants of Lexus Es have Follow Me Home Headlamps.
+All variants of Lexus Es have Tachometer.
+All variants of Lexus Es do not have Wheel Covers.
+All variants of Lexus Es have Alloy Wheels.
+All variants of Lexus Es have Integrated Antenna.
+All variants of Lexus Es have Projector Headlamps.
+All variants of Lexus Es have Automatic Headlamps.
+All variants of Lexus Es have LED DRLs.
+All variants of Lexus Es have LED Headlamps.
+All variants of Lexus Es have Anti-lock Braking System (ABS).
+All variants of Lexus Es have Central Locking.
+All variants of Lexus Es have Driver Airbag.
+All variants of Lexus Es have Side Airbag.
+All variants of Lexus Es have Seat Belt Warning.
+All variants of Lexus Es have Engine Immobilizer.
+All variants of Lexus Es do not have E-Call & I-Call.
+All variants of Lexus Es have Side Airbag-Rear.
+All variants of Lexus Es have Electronic Stability Control (ESC).
+All variants of Lexus Es have Anti-Theft Device.
+All variants of Lexus Es have Speed Alert.
+All variants of Lexus Es have Speed Sensing Auto Door Lock.
+All variants of Lexus Es have ISOFIX Child Seat Mounts.
+All variants of Lexus Es have Hill Assist.
+All variants of Lexus Es have Impact Sensing Auto Door Unlock.
+Lexus Es variant without 360 View Camera - 300h Exquisite.
+All variants of Lexus Es have Radio.
+Lexus Es variant with Wireless Phone Charging - 300h Luxury.
+All variants of Lexus Es have Bluetooth Connectivity.
+All variants of Lexus Es have Android Auto.
+All variants of Lexus Es have Apple CarPlay.
+All variants of Lexus Es have Height Adjustable Front Seat Belts.
+All variants of Lexus Es have Lumbar Support.
+All variants of Lexus Es have Paddle Shifters.
+All variants of Lexus Es have Dual Tone Dashboard.
+All variants of Lexus Es have LED Taillights.
+All variants of Lexus Es have Electronic Brakeforce Distribution (EBD).
+All variants of Lexus Es have Brake Assist.
+All variants of Lexus Es have Anti-Theft Alarm.
+All variants of Lexus Es have Door Ajar Warning.
+All variants of Lexus Es have Digital Odometer.
+All variants of Lexus Es have SOS / Emergency Assistance.
+Lexus Es variant with Heads-Up Display (HUD) - 300h Luxury.
+Lexus Es variant without Heads-Up Display (HUD) - 300h Exquisite.
+Lexus Es variant with Automatic Emergency Braking - 300h Exquisite.
+Lexus Es variant with Speed Assist System - 300h Exquisite.
+All variants of Lexus Es have Glove Box light.
+All variants of Lexus Es have Ventilated Seats.
+Lexus Es variant with Hill Descent Control - 300h Exquisite.
+All variants of Lexus Es have Active noise cancellation.
+All variants of Lexus Es do not have Battery Saver.
+All variants of Lexus Es have Rear Window Sunblind.
+All variants of Lexus Es have Rear Windscreen Sunblind.
+Lexus Es variant with Leather wrap gear-shift selector - 300h Exquisite.
+Lexus Es variant without Leather wrap gear-shift selector - 300h Luxury.
+All variants of Lexus Es do not have Blind Spot Monitor.
+All variants of Lexus Es have Remote Boot Open.
+All variants of Lexus Es have Tailgate Ajar Warning.
+All variants of Lexus Es have Remote Fuel Lid Opener.
+All variants of Lexus Es have Lane Change Indicator.
+All variants of Lexus Es have Cornering Headlamps.
+All variants of Lexus Es do not have Xenon Headlamps.
+All variants of Lexus Es have Acoustic Vehicle Alert System.
+All variants of Lexus Es do not have Super Charge.
+All variants of Lexus Es have Height Adjustable Driver Seat.
+All variants of Lexus Es have Rear Window Defogger.
+All variants of Lexus Es have Leather Wrapped Steering Wheel.
+All variants of Lexus Es have Glove Box.
+All variants of Lexus Es have Adjustable Headlamps.
+All variants of Lexus Es have Outside Rear View Mirror Turn Indicators.
+All variants of Lexus Es have Passenger Airbag.
+All variants of Lexus Es have Day & Night Rear View Mirror.
+All variants of Lexus Es have Tyre Pressure Monitoring System (TPMS).
+All variants of Lexus Es have Touchscreen.
+Lexus Es variant with Rear Window Wiper - 300h Luxury.
+Lexus Es variant with Rear Window Washer - 300h Luxury.
+All variants of Lexus Es have Chrome Garnish.
+All variants of Lexus Es have Child Safety Locks.
+All variants of Lexus Es have Rear Spoiler.
+All variants of Lexus Es have Rain Sensing Wiper.
+All variants of Lexus Es have Air Quality Control.
+Lexus Es variant with Tinted Glass - 300h Luxury.
+All variants of Lexus Es have Folding Table in The Rear.
+All variants of Lexus Es have Smart Access Card Entry.
+All variants of Lexus Es have Roof Rails.
+All variants of Lexus Es have Cigarette Lighter.
+All variants of Lexus Es have Roof Carrier.
+All variants of Lexus Es have Side Stepper.
+All variants of Lexus Es have Curtain Airbag.
+All variants of Lexus Es have Usb Ports.
+All variants of Lexus Es have Gear Shift Indicator.
+All variants of Lexus Es have Luggage Hook & Net.
+All variants of Lexus Es have Integrated 2DIN Audio.
+Lexus Es variant with Rear Curtain - 300h Luxury.
+Lexus Es variant 300h Exquisite has the A25B-FXS engine.
+Lexus Es variant 300h Luxury has the 2AR-FXE engine.
+All Lexus Es variants have a displacement of 2487  cubic centimeters.
+All Lexus Es variants produce a maximum power of 175.67 Brake Horsepower (BHP) at 5700 Revolutions Per Minute (RPM).
+All Lexus Es variants produce a maximum torque of 221 Newton meters at 3600 to 5200 Revolutions Per Minute (RPM).
+All Lexus Es variants have 4.0 valves per cylinder.
+All Lexus Es variants have a Automatic transmission.
+All Lexus Es variants have 4.0 cylinders.
+All Lexus Es variants come with a E-CVT gearbox.
+All Lexus Es variants have a Rear-Wheel Drive (RWD) drive type.
+All Lexus Es variants run on Petrol.
+All Lexus Es variants comply with BS VI emission norms.
+All Lexus Es variants come with Electric steering.
+All Lexus Es variants have a turning radius of 5.9m.
+Lexus Es variant 300h Exquisite has Disc front brakes.
+Lexus Es variant 300h Luxury has Ventilated Disc front brakes.
+Lexus Es variant 300h Exquisite has Disc rear brakes.
+Lexus Es variant 300h Luxury has Ventilated Disc rear brakes.
+All Lexus Es variants have a length of 4975 mm.
+All Lexus Es variants have a width of 1865 mm.
+All Lexus Es variants have a height of 1445 mm.
+All Lexus Es variants offer 454 Litres of boot space.
+All Lexus Es variants have a seating capacity of 5.0.
+Lexus Es variant 300h Exquisite has a wheelbase of 2587 mm.
+Lexus Es variant 300h Luxury has a wheelbase of 3022 mm.
+All Lexus Es variants have 4.0 doors.
+All Lexus Es variants come with a Electronic boot opening mechanism.
+All Lexus Es variants have tyres of size 235/45 R18.
+All Lexus Es variants come with Tubeless Radial tyres.
+All Lexus Es variants come equipped with 10.0 airbags.
+All Lexus Es variants come with a 12.3 inch touchscreen display.
+Lexus Es variant 300h Exquisite features 10.0 speakers.
+Lexus Es variant 300h Luxury features 17.0 speakers.
+All Lexus Es variants use Electric as a secondary fuel type.
+All Lexus Es variants come with 18 Inch front alloy wheels.
+All Lexus Es variants come with 18 Inch rear alloy wheels.
+All Lexus Es variants come with Android Auto, Apple CarPlay connectivity options.
+All Lexus Es variants feature a Multi-Information Display (MID) digital cluster.
+All Lexus Es variants come with Leather upholstery.
+All Lexus Es variants have a front tread of 1531 mm.
+All Lexus Es variants come with a DOHC valve configuration.
+All Lexus Es variants use a Rack & Pinion steering gear type.
+All Lexus Es variants use a VVT-iE fuel supply system.
+Lexus Es variant 300h Luxury includes 1.0 subwoofer(s).
+All Lexus Es variants come with gas-pressurized shock absorbers and stabilizer bar shock absorbers.
+Lexus Es variant 300h Exquisite has Driver's Window anti-pinch power windows.
+Lexus Es variant 300h Luxury has All Windows anti-pinch power windows.
+All Lexus Es variants provide a highway mileage of 22.5 kmpl.
+All Lexus Es variants have a fuel tank capacity of 50 Litres.
+All Lexus Es variants have the MacPherson Strut suspension front suspension.
+All Lexus Es variants have the Double wishbone suspension rear suspension.
+All Lexus Es variants come with Tilt & Telescopic steering adjustment.
+All variants of Lexus Es have Adjustable Steering.
+All Lexus Es variants are equipped with Front & Rear parking sensors.
+All Lexus Es variants come with Front & Rear USB charging ports.
+All Lexus Es variants have Front & Rear power windows.
+All Lexus Es variants come with Front & Rear cup holders.
+All Lexus Es variants are equipped with Front fog lights.
+All Lexus Es variants come with a Shark Fin antenna.
+All Lexus Es variants feature a 7 inch digital cluster.
+All Lexus Es variants have a With Guidedlines rear camera.
+All Lexus Es variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Lexus Es variants include Front & Rear speakers.
+All Lexus Es variants have Front electric adjustable seats.
+All variants of Lexus Es do not have Foldable Rear Seat.
+All variants of Lexus Es have Central Console Armrest.
+All variants of Lexus Es have Turbo Charger.
+All Lexus Es variants come with Driver knee airbags.
+All variants of Lexus Es do not have Autonomous Parking.
+All Lexus Es variants come with Adjustable rear seat headrests.
+Lexus Es variant 300h Exquisite offers a Single Pane sunroof.
+Lexus Es variant 300h Luxury offers a Dual Pane sunroof.
+All Lexus Es variants come with 3 drive modes.
+Lexus Es variant 300h Exquisite offers 2 Audio Jack USB(Type-A) + 1 AUX-in 12 V DC Connector and USB(Type-A) Port for Charging (2) , Electro Multi Vision Touch Display , Multimedia Audio System(Lexus Premium Audio), Smartphone connectivity (Wireless Apple Car Play / Wired Android Auto as additional features.
+Lexus Es variant 300h Luxury offers 2 Audio Jack , AUX-in 12 V DC Connector , Electro Multi Vision Touch Display , Multimedia Audio System((Mark Levinson, Mark levinson 17 speakers (front 3 speakers,4 door speakers, 2 front door woofers, 1 rear subwoofers, 1 amplifier))), Smartphone connectivity (Wireless Apple Car Play / Wired Android Auto, as additional features.

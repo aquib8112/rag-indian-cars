@@ -1,0 +1,108 @@
+﻿Bmw M8 Coupe Competition has 1 variants: 50 Jahre M Edition.
+Bmw M8 Coupe Competition has Power Steering.
+Bmw M8 Coupe Competition has Air Conditioner.
+Bmw M8 Coupe Competition has Heater.
+Bmw M8 Coupe Competition has Automatic Climate Control.
+Bmw M8 Coupe Competition has Accessory Power Outlet.
+Bmw M8 Coupe Competition has Vanity Mirror.
+Bmw M8 Coupe Competition has Rear Reading Lamp.
+Bmw M8 Coupe Competition has Adjustable Headrest.
+Bmw M8 Coupe Competition has Rear Seat Centre Arm Rest.
+Bmw M8 Coupe Competition has Rear AC Vents.
+Bmw M8 Coupe Competition has Cruise Control.
+Bmw M8 Coupe Competition has Engine Start/Stop Button.
+Bmw M8 Coupe Competition has Voice Commands.
+Bmw M8 Coupe Competition does not have Hands-Free Tailgate.
+Bmw M8 Coupe Competition has KeyLess Entry.
+Bmw M8 Coupe Competition has Idle Start-Stop System.
+Bmw M8 Coupe Competition has Follow Me Home Headlamps.
+Bmw M8 Coupe Competition has Tachometer.
+Bmw M8 Coupe Competition has Alloy Wheels.
+Bmw M8 Coupe Competition has Integrated Antenna.
+Bmw M8 Coupe Competition has Projector Headlamps.
+Bmw M8 Coupe Competition has Automatic Headlamps.
+Bmw M8 Coupe Competition has LED DRLs.
+Bmw M8 Coupe Competition has LED Headlamps.
+Bmw M8 Coupe Competition has Anti-lock Braking System (ABS).
+Bmw M8 Coupe Competition has Central Locking.
+Bmw M8 Coupe Competition has Driver Airbag.
+Bmw M8 Coupe Competition has Side Airbag.
+Bmw M8 Coupe Competition has Seat Belt Warning.
+Bmw M8 Coupe Competition has Engine Immobilizer.
+Bmw M8 Coupe Competition does not have Side Airbag-Rear.
+Bmw M8 Coupe Competition has Electronic Stability Control (ESC).
+Bmw M8 Coupe Competition has Anti-Theft Device.
+Bmw M8 Coupe Competition has Speed Alert.
+Bmw M8 Coupe Competition has Speed Sensing Auto Door Lock.
+Bmw M8 Coupe Competition has ISOFIX Child Seat Mounts.
+Bmw M8 Coupe Competition has 360 View Camera.
+Bmw M8 Coupe Competition has Radio.
+Bmw M8 Coupe Competition has Bluetooth Connectivity.
+Bmw M8 Coupe Competition has Android Auto.
+Bmw M8 Coupe Competition has Apple CarPlay.
+Bmw M8 Coupe Competition has Height Adjustable Front Seat Belts.
+Bmw M8 Coupe Competition has Lumbar Support.
+Bmw M8 Coupe Competition has Paddle Shifters.
+Bmw M8 Coupe Competition has LED Taillights.
+Bmw M8 Coupe Competition has Brake Assist.
+Bmw M8 Coupe Competition has Anti-Theft Alarm.
+Bmw M8 Coupe Competition has Door Ajar Warning.
+Bmw M8 Coupe Competition has Battery Saver.
+Bmw M8 Coupe Competition has Remote Trunk Opener.
+Bmw M8 Coupe Competition has Traction Control.
+Bmw M8 Coupe Competition does not have Internal Storage.
+Bmw M8 Coupe Competition has Height Adjustable Driver Seat.
+Bmw M8 Coupe Competition has Glove Box.
+Bmw M8 Coupe Competition has Adjustable Headlamps.
+Bmw M8 Coupe Competition has Outside Rear View Mirror Turn Indicators.
+Bmw M8 Coupe Competition has Passenger Airbag.
+Bmw M8 Coupe Competition has Day & Night Rear View Mirror.
+Bmw M8 Coupe Competition has Tyre Pressure Monitoring System (TPMS).
+Bmw M8 Coupe Competition has Touchscreen.
+Bmw M8 Coupe Competition has Child Safety Locks.
+Bmw M8 Coupe Competition has Air Quality Control.
+Bmw M8 Coupe Competition has Usb Ports.
+Bmw M8 Coupe Competition has Integrated 2DIN Audio.
+The Bmw M8 Coupe Competition has the petrol engine engine.
+The Bmw M8 Coupe Competition has a displacement of 4395  cubic centimeters.
+The Bmw M8 Coupe Competition generates 616.87 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+The Bmw M8 Coupe Competition generates 750 Newton meters at 1800 to 5600 Revolutions Per Minute (RPM).
+The Bmw M8 Coupe Competition has 4.0 valves per cylinder.
+The Bmw M8 Coupe Competition has a Automatic transmission.
+The Bmw M8 Coupe Competition has 8.0 cylinders.
+The Bmw M8 Coupe Competition has a 8-Speed Steptronic Sport gearbox.
+The Bmw M8 Coupe Competition has a All-Wheel Drive (AWD) drive type.
+The Bmw M8 Coupe Competition runs on Petrol.
+The Bmw M8 Coupe Competition complies with BS VI 2.0 emission norms.
+The Bmw M8 Coupe Competition has a length of 4867 mm.
+The Bmw M8 Coupe Competition has a width of 2137 mm.
+The Bmw M8 Coupe Competition has a height of 1362 mm.
+The Bmw M8 Coupe Competition offers 420 Litres of boot space.
+The Bmw M8 Coupe Competition has a seating capacity of 5.0.
+The Bmw M8 Coupe Competition has a wheelbase of 3003 mm.
+The Bmw M8 Coupe Competition has a kerb weight of 1945 kg.
+The Bmw M8 Coupe Competition has 5.0 doors.
+The Bmw M8 Coupe Competition features a Powered boot opening mechanism.
+The Bmw M8 Coupe Competition is equipped with Powered & Folding Outside Rear View Mirror (ORVM).
+The Bmw M8 Coupe Competition is fitted with tyres of size F:275/35 R20,R:285/35R20.
+The Bmw M8 Coupe Competition is equipped with Tubeless Radial tyres.
+The Bmw M8 Coupe Competition is equipped with 6.0 airbags.
+The Bmw M8 Coupe Competition is equipped with a 12.3 inch touchscreen.
+The Bmw M8 Coupe Competition is equipped with 16.0 speakers.
+The Bmw M8 Coupe Competition features Android Auto connectivity options.
+The Bmw M8 Coupe Competition comes with a Full Digital digital cluster.
+The Bmw M8 Coupe Competition features Leatherette upholstery.
+The Bmw M8 Coupe Competition achieves a top speed of 250 kmph.
+The Bmw M8 Coupe Competition delivers a mileage of 8.7 kmpl.
+The Bmw M8 Coupe Competition comes with a fuel tank capacity of 68 Litres.
+The Bmw M8 Coupe Competition comes with the Multi-link suspension front suspension.
+The Bmw M8 Coupe Competition comes with the Multi-link suspension rear suspension.
+The Bmw M8 Coupe Competition features Front & Rear parking sensors.
+The Bmw M8 Coupe Competition features Front & Rear USB charging ports.
+The Bmw M8 Coupe Competition features Front & Rear power windows.
+The Bmw M8 Coupe Competition features Front Only cup holders.
+The Bmw M8 Coupe Competition has Front & Rear speakers.
+The Bmw M8 Coupe Competition has a 60:40 Split foldable rear seat.
+The Bmw M8 Coupe Competition has a Twin turbocharger.
+The Bmw M8 Coupe Competition includes Adjustable rear seat headrests.
+The Bmw M8 Coupe Competition includes BMW Live Cockpit Professional, Fully digital 12.3” Instrument Display, High-resolution (1920x720 pixels) 12.3” Control Display, BMW Operating System 7 with variable, configurable widgets, Navigation Function with 3D maps, Touch Functionality, iDrive Controller, Voice Control, Full colour BMW Head-up Display, Harman Kardon Surround Sound system (464 W, 16 speakers), Parking Assistant Plus, camera and ultrasound-based Park Distance Control (PDC), system in front and rear with Reversing Assistant, Rear-View Camera, Surround View Cameras with 360 degree view including top view, panorama view and 3D view, Telephony with wireless charging with extended functionality,Bluetooth with audio streaming, hands-free and USB connectivity, BMW Gesture Control, Smartphone Integration,BMW Display Key, with LCD colour display and touch control panel, as additional features.

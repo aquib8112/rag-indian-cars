@@ -1,0 +1,208 @@
+Jeep Compass has 12 variants: 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+All variants of Jeep Compass have Power Steering.
+All variants of Jeep Compass have Air Conditioner.
+All variants of Jeep Compass have Heater.
+Jeep Compass variants with Automatic Climate Control - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Automatic Climate Control - 2.0 Sport.
+All variants of Jeep Compass have Accessory Power Outlet.
+Jeep Compass variants with Trunk Light - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+All variants of Jeep Compass have Vanity Mirror.
+All variants of Jeep Compass have Rear Reading Lamp.
+All variants of Jeep Compass have Adjustable Headrest.
+All variants of Jeep Compass have Rear Seat Centre Arm Rest.
+All variants of Jeep Compass have Rear AC Vents.
+Jeep Compass variants with Cruise Control - 2.0 Longitude Opt AT, 2.0 Night Eagle AT, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Cruise Control - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Black Shark Opt & 2.0 Model S Opt.
+Jeep Compass variants with Real-Time Vehicle Tracking - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Real-Time Vehicle Tracking - 2.0 Sport.
+All variants of Jeep Compass have Engine Start/Stop Button.
+Jeep Compass variants with Voice Commands - 2.0 Night Eagle, 2.0 Model S Opt, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Voice Commands - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Limited Opt FWD AT & 2.0 Black Shark Opt FWD AT.
+All variants of Jeep Compass have KeyLess Entry.
+All variants of Jeep Compass have Idle Start-Stop System.
+All variants of Jeep Compass have Tachometer.
+All variants of Jeep Compass do not have Wheel Covers.
+All variants of Jeep Compass have Alloy Wheels.
+Jeep Compass variants with Projector Headlamps - 2.0 Model S Opt, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Projector Headlamps - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Limited Opt FWD AT & 2.0 Black Shark Opt FWD AT.
+Jeep Compass variants with Automatic Headlamps - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Automatic Headlamps - 2.0 Sport.
+All variants of Jeep Compass have LED DRLs.
+All variants of Jeep Compass have LED Headlamps.
+All variants of Jeep Compass have Anti-lock Braking System (ABS).
+All variants of Jeep Compass have Central Locking.
+All variants of Jeep Compass have Driver Airbag.
+Jeep Compass variants with Side Airbag - 2.0 Limited Opt, 2.0 Black Shark Opt, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Side Airbag - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Longitude Opt AT & 2.0 Night Eagle AT.
+All variants of Jeep Compass have Seat Belt Warning.
+All variants of Jeep Compass have Engine Immobilizer.
+All variants of Jeep Compass do not have Side Airbag-Rear.
+All variants of Jeep Compass have Electronic Stability Control (ESC).
+Jeep Compass variants with Anti-Theft Device - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT & 2.0 Model S Opt FWD AT.
+All variants of Jeep Compass have Speed Alert.
+All variants of Jeep Compass have Speed Sensing Auto Door Lock.
+All variants of Jeep Compass have ISOFIX Child Seat Mounts.
+All variants of Jeep Compass have Hill Assist.
+All variants of Jeep Compass have Impact Sensing Auto Door Unlock.
+Jeep Compass variants with 360 View Camera - 2.0 Model S Opt, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without 360 View Camera - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Limited Opt FWD AT & 2.0 Black Shark Opt FWD AT.
+All variants of Jeep Compass have Radio.
+Jeep Compass variants with Wireless Phone Charging - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Wireless Phone Charging - 2.0 Sport.
+All variants of Jeep Compass have Bluetooth Connectivity.
+All variants of Jeep Compass have Android Auto.
+All variants of Jeep Compass have Apple CarPlay.
+Jeep Compass variants without Driver Attention Warning - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants with Live Location - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Live Location - 2.0 Sport.
+Jeep Compass variants with Over the Air (OTA) Updates - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Over the Air (OTA) Updates - 2.0 Sport.
+Jeep Compass variants with Over Speeding Alert - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Over Speeding Alert - 2.0 Sport.
+Jeep Compass variants with Remote Door Lock/Unlock - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Remote Door Lock/Unlock - 2.0 Sport.
+Jeep Compass variants with Geo-fence Alert - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Geo-fence Alert - 2.0 Sport.
+All variants of Jeep Compass have Height Adjustable Front Seat Belts.
+Jeep Compass variant with Tow Away Alert - 2.0 Limited Opt FWD AT.
+Jeep Compass variants with LED Taillights - 2.0 Limited Opt, 2.0 Black Shark Opt, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without LED Taillights - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Longitude Opt AT & 2.0 Night Eagle AT.
+All variants of Jeep Compass have Electronic Brakeforce Distribution (EBD).
+Jeep Compass variants with Anti-Theft Alarm - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT & 2.0 Model S Opt FWD AT.
+All variants of Jeep Compass have Door Ajar Warning.
+Jeep Compass variants with SOS / Emergency Assistance - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without SOS / Emergency Assistance - 2.0 Sport.
+Jeep Compass variants without Forward Collision Warning - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Automatic Emergency Braking - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Oncoming Lane Mitigation - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Speed Assist System - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Traffic Sign Recognition - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Blind Spot Collision Avoidance Assist - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Lane Departure Warning - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Lane Keep Assist - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Lane Departure Prevention Assist - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Road Departure Mitigation System - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Adaptive Cruise Control - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Leading Vehicle Departure Alert - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Adaptive High Beam Assist - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Rear Cross Traffic Alert - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Rear Cross Traffic Collision-Avoidance Assist - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants with Navigation with Live Traffic - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Navigation with Live Traffic - 2.0 Sport.
+Jeep Compass variants with Ventilated Seats - 2.0 Model S Opt, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Ventilated Seats - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Limited Opt FWD AT & 2.0 Black Shark Opt FWD AT.
+Jeep Compass variants with Hill Descent Control - 2.0 Model S Opt, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Hill Descent Control - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Limited Opt FWD AT & 2.0 Black Shark Opt FWD AT.
+Jeep Compass variants with Cornering Foglamps - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Cornering Foglamps - 2.0 Sport.
+Jeep Compass variant without Blind Spot Monitor - 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants with Remote Boot Open - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without Remote Boot Open - 2.0 Sport.
+All variants of Jeep Compass have Tailgate Ajar Warning.
+Jeep Compass variants with SOS Button - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without SOS Button - 2.0 Sport.
+All variants of Jeep Compass have Traction Control.
+Jeep Compass variants with RSA - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without RSA - 2.0 Sport.
+All variants of Jeep Compass have Height Adjustable Driver Seat.
+All variants of Jeep Compass have Rear Window Defogger.
+Jeep Compass variants with Leather Wrapped Steering Wheel - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+All variants of Jeep Compass have Glove Box.
+All variants of Jeep Compass have Adjustable Headlamps.
+All variants of Jeep Compass have Outside Rear View Mirror Turn Indicators.
+All variants of Jeep Compass have Passenger Airbag.
+All variants of Jeep Compass have Day & Night Rear View Mirror.
+All variants of Jeep Compass have Tyre Pressure Monitoring System (TPMS).
+All variants of Jeep Compass have Touchscreen.
+All variants of Jeep Compass have Rear Window Wiper.
+Jeep Compass variants with Rear Window Washer - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT & 2.0 Black Shark Opt FWD AT.
+All variants of Jeep Compass have Child Safety Locks.
+All variants of Jeep Compass have Rear Spoiler.
+Jeep Compass variants with Rain Sensing Wiper - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+All variants of Jeep Compass have Roof Rails.
+Jeep Compass variants with Curtain Airbag - 2.0 Limited Opt, 2.0 Black Shark Opt, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variants without Curtain Airbag - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Longitude Opt AT & 2.0 Night Eagle AT.
+All variants of Jeep Compass have Usb Ports.
+All variants of Jeep Compass have Luggage Hook & Net.
+Jeep Compass variants with LED Fog Lamps - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT.
+Jeep Compass variant without LED Fog Lamps - 2.0 Sport.
+All Jeep Compass variants use the 2.0 L Multijet II Diesel engine.
+All Jeep Compass variants have a displacement of 1956  cubic centimeters.
+All Jeep Compass variants produce a maximum power of 168 Brake Horsepower (BHP) at 3700 to 3800 Revolutions Per Minute (RPM).
+All Jeep Compass variants produce a maximum torque of 350 Newton meters at 1750 to 2500 Revolutions Per Minute (RPM).
+All Jeep Compass variants have 4.0 valves per cylinder.
+Jeep Compass variants - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Black Shark Opt & 2.0 Model S Opt share a Manual transmission.
+Jeep Compass variants - 2.0 Longitude Opt AT, 2.0 Night Eagle AT, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT share a Automatic transmission.
+All Jeep Compass variants have 4.0 cylinders.
+Jeep Compass variants - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Black Shark Opt & 2.0 Model S Opt share a 6-Speed gearbox.
+Jeep Compass variants - 2.0 Longitude Opt AT, 2.0 Night Eagle AT, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT share a 9-Speed-AT gearbox.
+Jeep Compass variants - 2.0 Sport, 2.0 Longitude Opt, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT & 2.0 Model S Opt FWD AT share a Front-Wheel Drive (FWD) drive type.
+Jeep Compass variant 2.0 Night Eagle has a Four-by-Two-Wheel Drive (4x2) drive type.
+Jeep Compass variant 2.0 Model S Opt 4x4 AT has a Four-Wheel Drive (4WD) drive type.
+All Jeep Compass variants run on Diesel.
+All Jeep Compass variants comply with BS VI 2.0 emission norms.
+All Jeep Compass variants come with Electric steering.
+All Jeep Compass variants have Disc front brakes.
+All Jeep Compass variants have Disc rear brakes.
+All Jeep Compass variants have a length of 4405 mm.
+All Jeep Compass variants have a width of 1818 mm.
+All Jeep Compass variants have a height of 1640 mm.
+All Jeep Compass variants offer 438 Litres of boot space.
+All Jeep Compass variants have a seating capacity of 5.0.
+All Jeep Compass variants have a wheelbase of 2636 mm.
+Jeep Compass variant 2.0 Night Eagle has a kerb weight of 1595 kg.
+All Jeep Compass variants have 5.0 doors.
+Jeep Compass variants - 2.0 Sport, 2.0 Longitude Opt, 2.0 Longitude Opt AT & 2.0 Night Eagle AT feature a Electronic boot opening mechanism.
+Jeep Compass variants - 2.0 Limited Opt, 2.0 Black Shark Opt, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT feature a Automatic boot opening mechanism.
+Jeep Compass variants - 2.0 Sport, 2.0 Longitude Opt, 2.0 Longitude Opt AT & 2.0 Night Eagle AT feature tyres of size 255/55 R17.
+Jeep Compass variants - 2.0 Night Eagle, 2.0 Model S Opt, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT feature tyres of size 255/55 R18.
+Jeep Compass variants - 2.0 Limited Opt, 2.0 Black Shark Opt & 2.0 Black Shark Opt FWD AT feature tyres of size 225/55 R18.
+Jeep Compass variant 2.0 Limited Opt FWD AT comes with tyres of size 225/60 R18.
+All Jeep Compass variants come with Tubeless Radial tyres.
+Jeep Compass variants - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Longitude Opt AT & 2.0 Night Eagle AT offer 2.0 airbags.
+Jeep Compass variants - 2.0 Limited Opt, 2.0 Black Shark Opt, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT offer 6.0 airbags.
+Jeep Compass variants - 2.0 Sport, 2.0 Limited Opt, 2.0 Black Shark Opt, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT have been rated 5 Star by Global NCAP.
+Jeep Compass variant 2.0 Sport features a 8.4 inch touchscreen.
+Jeep Compass variants - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT come with a 10.1 inch touchscreen display.
+Jeep Compass variant 2.0 Sport features 4.0 speakers.
+Jeep Compass variants - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Limited Opt FWD AT & 2.0 Black Shark Opt FWD AT come with 6.0 speakers.
+Jeep Compass variants - 2.0 Model S Opt, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT come with 9.0 speakers.
+Jeep Compass variants - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Longitude Opt AT & 2.0 Night Eagle AT have 17 Inch front alloy wheels.
+Jeep Compass variants - 2.0 Limited Opt, 2.0 Black Shark Opt, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT have 18 Inch front alloy wheels.
+Jeep Compass variants - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Longitude Opt AT & 2.0 Night Eagle AT have 17 Inch rear alloy wheels.
+Jeep Compass variants - 2.0 Limited Opt, 2.0 Black Shark Opt, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT have 18 Inch rear alloy wheels.
+Jeep Compass variants - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT & 2.0 Night Eagle AT have Android Auto, Apple CarPlay connectivity options.
+All Jeep Compass variants feature a Full Digital digital cluster.
+Jeep Compass variant 2.0 Sport is equipped with Leatherette upholstery.
+Jeep Compass variants - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT feature Leather upholstery options.
+All Jeep Compass variants offer a boot space of 438 Litres.
+All Jeep Compass variants use a Rack & Pinion steering gear type.
+Jeep Compass variants - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT & 2.0 Model S Opt FWD AT have mileage figures of 17.1 kmpl.
+Jeep Compass variant 2.0 Model S Opt 4x4 AT provides a mileage of 14.9 kmpl.
+All Jeep Compass variants have a fuel tank capacity of 60 Litres.
+All Jeep Compass variants have the MacPherson Strut suspension front suspension.
+All Jeep Compass variants have the Multi-link suspension rear suspension.
+All Jeep Compass variants come with Tilt & Telescopic steering adjustment.
+All variants of Jeep Compass have Adjustable Steering.
+All Jeep Compass variants are equipped with Rear parking sensors.
+Jeep Compass variant 2.0 Sport has Front USB charging ports.
+Jeep Compass variants - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT share the Front & Rear USB charging configuration.
+Jeep Compass variant without Fog Lights - 2.0 Sport.
+Jeep Compass variants - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT share the Front & Rear fog light configuration.
+All Jeep Compass variants come with a Shark Fin antenna.
+Jeep Compass variant 2.0 Sport has a 3.5 inch digital cluster.
+Jeep Compass variants - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Limited Opt FWD AT & 2.0 Black Shark Opt FWD AT share the 7 inch digital cluster size.
+Jeep Compass variants - 2.0 Model S Opt, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT share the 10.2 inch digital cluster size.
+All Jeep Compass variants have a With Guidedlines rear camera.
+All Jeep Compass variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Jeep Compass variants include Front & Rear speakers.
+Jeep Compass variants without Electric Adjustable Seats - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Longitude Opt AT & 2.0 Night Eagle AT.
+Jeep Compass variants - 2.0 Limited Opt, 2.0 Black Shark Opt, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT share the Front electric seat adjustment type.
+All Jeep Compass variants have a 60:40 Split foldable rear seat.
+All Jeep Compass variants have a With Storage central console armrest.
+All variants of Jeep Compass have Turbo Charger.
+All variants of Jeep Compass have Rear Seat Headrest.
+Jeep Compass variant without Sunroof - 2.0 Sport.
+Jeep Compass variants - 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Model S Opt, 2.0 Limited Opt FWD AT, 2.0 Black Shark Opt FWD AT, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT share a Dual Pane sunroof.
+Jeep Compass variants - 2.0 Sport, 2.0 Longitude Opt, 2.0 Night Eagle, 2.0 Limited Opt, 2.0 Longitude Opt AT, 2.0 Black Shark Opt, 2.0 Night Eagle AT, 2.0 Limited Opt FWD AT & 2.0 Black Shark Opt FWD AT share Wireless Android Auto & Apple Car Play as additional features.
+Jeep Compass variants - 2.0 Model S Opt, 2.0 Model S Opt FWD AT & 2.0 Model S Opt 4x4 AT share Wireless Android Auto & Apple Car Play,Alpine speaker system with Amplifier & Subwoofer,Intergrated Voice Commands & Navigation as additional features.

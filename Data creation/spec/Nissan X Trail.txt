@@ -1,0 +1,143 @@
+Nissan X Trail has 1 variants: STD.
+Nissan X Trail has Power Steering.
+Nissan X Trail has Air Conditioner.
+Nissan X Trail has Heater.
+Nissan X Trail has Automatic Climate Control.
+Nissan X Trail has Accessory Power Outlet.
+Nissan X Trail has Rear Reading Lamp.
+Nissan X Trail has Adjustable Headrest.
+Nissan X Trail has Rear Seat Centre Arm Rest.
+Nissan X Trail has Rear AC Vents.
+Nissan X Trail has Cruise Control.
+Nissan X Trail has Engine Start/Stop Button.
+Nissan X Trail has Chrome Grille.
+Nissan X Trail has KeyLess Entry.
+Nissan X Trail has Idle Start-Stop System.
+Nissan X Trail has Follow Me Home Headlamps.
+Nissan X Trail has Tachometer.
+Nissan X Trail has Alloy Wheels.
+Nissan X Trail has Integrated Antenna.
+Nissan X Trail has Automatic Headlamps.
+Nissan X Trail has LED DRLs.
+Nissan X Trail has LED Headlamps.
+Nissan X Trail has Anti-lock Braking System (ABS).
+Nissan X Trail has Central Locking.
+Nissan X Trail has Driver Airbag.
+Nissan X Trail has Side Airbag.
+Nissan X Trail has Seat Belt Warning.
+Nissan X Trail has Engine Immobilizer.
+Nissan X Trail does not have Side Airbag-Rear.
+Nissan X Trail has Electronic Stability Control (ESC).
+Nissan X Trail has Anti-Theft Device.
+Nissan X Trail has Speed Alert.
+Nissan X Trail has Speed Sensing Auto Door Lock.
+Nissan X Trail has Hill Assist.
+Nissan X Trail has 360 View Camera.
+Nissan X Trail has Radio.
+Nissan X Trail has Wireless Phone Charging.
+Nissan X Trail has Bluetooth Connectivity.
+Nissan X Trail has Android Auto.
+Nissan X Trail has Apple CarPlay.
+Nissan X Trail has Height Adjustable Front Seat Belts.
+Nissan X Trail has Lumbar Support.
+Nissan X Trail has Paddle Shifters.
+Nissan X Trail does not have Halogen Headlamps.
+Nissan X Trail has LED Taillights.
+Nissan X Trail has Electronic Brakeforce Distribution (EBD).
+Nissan X Trail has Brake Assist.
+Nissan X Trail has Anti-Theft Alarm.
+Nissan X Trail has Door Ajar Warning.
+Nissan X Trail has Digital Odometer.
+Nissan X Trail does not have Hill Descent Control.
+Nissan X Trail does not have Rear Window Sunblind.
+Nissan X Trail does not have Rear Windscreen Sunblind.
+Nissan X Trail does not have Smoke Headlamps.
+Nissan X Trail does not have Heated Outside Rear View Mirror.
+Nissan X Trail has Tailgate Ajar Warning.
+Nissan X Trail does not have Remote Fuel Lid Opener.
+Nissan X Trail has Traction Control.
+Nissan X Trail has Height Adjustable Driver Seat.
+Nissan X Trail has Rear Window Defogger.
+Nissan X Trail has Leather Wrapped Steering Wheel.
+Nissan X Trail has Glove Box.
+Nissan X Trail has Adjustable Headlamps.
+Nissan X Trail has Outside Rear View Mirror Turn Indicators.
+Nissan X Trail has Passenger Airbag.
+Nissan X Trail has Day & Night Rear View Mirror.
+Nissan X Trail has Tyre Pressure Monitoring System (TPMS).
+Nissan X Trail has Touchscreen.
+Nissan X Trail has Rear Window Wiper.
+Nissan X Trail has Chrome Garnish.
+Nissan X Trail has Child Safety Locks.
+Nissan X Trail has Rear Spoiler.
+Nissan X Trail has Rain Sensing Wiper.
+Nissan X Trail has Air Quality Control.
+Nissan X Trail has Folding Table in The Rear.
+Nissan X Trail has Rear Touchscreen.
+Nissan X Trail has Roof Rails.
+Nissan X Trail has Side Stepper.
+Nissan X Trail has Curtain Airbag.
+The Nissan X Trail has the KR15 VC-TURBO engine.
+The Nissan X Trail has a displacement of 1498  cubic centimeters.
+The Nissan X Trail generates 161 Brake Horsepower (BHP) at 4800 Revolutions Per Minute (RPM).
+The Nissan X Trail generates 300 Newton meters at 2800 to 3600 Revolutions Per Minute (RPM).
+The Nissan X Trail has 4.0 valves per cylinder.
+The Nissan X Trail has a Automatic transmission.
+The Nissan X Trail has 3.0 cylinders.
+The Nissan X Trail has a CVT gearbox.
+The Nissan X Trail has a Front-Wheel Drive (FWD) drive type.
+The Nissan X Trail runs on Petrol.
+The Nissan X Trail complies with BS VI 2.0 emission norms.
+The Nissan X Trail has Electric steering.
+The Nissan X Trail has a turning radius of 5.5m.
+The Nissan X Trail has Ventilated Disc front brakes.
+The Nissan X Trail has Ventilated Disc rear brakes.
+The Nissan X Trail has a length of 4680 mm.
+The Nissan X Trail has a width of 1840 mm.
+The Nissan X Trail has a height of 1725 mm.
+The Nissan X Trail offers 177 Litres of boot space.
+The Nissan X Trail has a seating capacity of 7.0.
+The Nissan X Trail has an unladen ground clearance of 210 mm.
+The Nissan X Trail has a wheelbase of 2705 mm.
+The Nissan X Trail has a kerb weight of 1676 kg.
+The Nissan X Trail has a gross weight of 2285 kg.
+The Nissan X Trail has 5.0 doors.
+The Nissan X Trail is fitted with tyres of size 255/45 R20.
+The Nissan X Trail is equipped with Tyre Type tyres.
+The Nissan X Trail is equipped with 7.0 airbags.
+The Nissan X Trail is equipped with a 8 inch touchscreen.
+The Nissan X Trail is equipped with 4.0 speakers.
+The Nissan X Trail has Electric as a secondary fuel type.
+The Nissan X Trail features 20 Inch front alloy wheels.
+The Nissan X Trail features 20 Inch rear alloy wheels.
+The Nissan X Trail comes with a Full Digital digital cluster.
+The Nissan X Trail features Fabric upholstery.
+The Nissan X Trail achieves a top speed of 200 kmph.
+The Nissan X Trail achieves 0-100 kmph acceleration in 9.6 s.
+The Nissan X Trail achieves 0-100 kmph in 9.6 s.
+The Nissan X Trail provides 585 Litres of boot space when the rear seats are folded.
+The Nissan X Trail is equipped with Twin Tube shock absorbers.
+The Nissan X Trail features Driver's Window anti-pinch power windows.
+The Nissan X Trail delivers a highway mileage of 13.7 kmpl.
+The Nissan X Trail comes with a fuel tank capacity of 55 Litres.
+The Nissan X Trail features Tilt & Telescopic steering adjustment.
+Nissan X Trail has Adjustable Steering.
+The Nissan X Trail features Front & Rear parking sensors.
+The Nissan X Trail features Front & Rear USB charging ports.
+The Nissan X Trail features Front & Rear power windows.
+The Nissan X Trail features Front & Rear cup holders.
+The Nissan X Trail features a Shark Fin antenna.
+The Nissan X Trail has a 12.28 inch digital cluster.
+The Nissan X Trail has a With Guidedlines rear camera.
+The Nissan X Trail has Driver and Passenger seatbelt pretensioners and force limiters.
+The Nissan X Trail has Front & Rear speakers.
+Nissan X Trail does not have Electric Adjustable Seats.
+The Nissan X Trail has a 40:20:40 Split foldable rear seat.
+The Nissan X Trail has a With Storage central console armrest.
+Nissan X Trail has Turbo Charger.
+Nissan X Trail does not have Knee Airbags.
+Nissan X Trail does not have Autonomous Parking.
+The Nissan X Trail includes a Panoramic sunroof.
+The Nissan X Trail has 3 drive modes.
+The Nissan X Trail features Eco, Normal & Sport drive modes.
+The Nissan X Trail includes Touch Sensor Door Handle, LED Rear Lamp with Rain as additional features.

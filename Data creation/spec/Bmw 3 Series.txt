@@ -1,0 +1,136 @@
+﻿Bmw 3 Series has 1 variants: M340i xDrive.
+Bmw 3 Series has Power Steering.
+Bmw 3 Series has Air Conditioner.
+Bmw 3 Series has Heater.
+Bmw 3 Series has Automatic Climate Control.
+Bmw 3 Series has Accessory Power Outlet.
+Bmw 3 Series has Trunk Light.
+Bmw 3 Series has Vanity Mirror.
+Bmw 3 Series has Rear Reading Lamp.
+Bmw 3 Series has Adjustable Headrest.
+Bmw 3 Series has Rear Seat Centre Arm Rest.
+Bmw 3 Series has Rear AC Vents.
+Bmw 3 Series has Cruise Control.
+Bmw 3 Series has Engine Start/Stop Button.
+Bmw 3 Series has Voice Commands.
+Bmw 3 Series has Chrome Grille.
+Bmw 3 Series has KeyLess Entry.
+Bmw 3 Series has Follow Me Home Headlamps.
+Bmw 3 Series has Tachometer.
+Bmw 3 Series has Alloy Wheels.
+Bmw 3 Series has Integrated Antenna.
+Bmw 3 Series has Projector Headlamps.
+Bmw 3 Series has Automatic Headlamps.
+Bmw 3 Series has LED DRLs.
+Bmw 3 Series has LED Headlamps.
+Bmw 3 Series has Anti-lock Braking System (ABS).
+Bmw 3 Series has Central Locking.
+Bmw 3 Series has Driver Airbag.
+Bmw 3 Series has Side Airbag.
+Bmw 3 Series has Seat Belt Warning.
+Bmw 3 Series has Engine Immobilizer.
+Bmw 3 Series does not have Side Airbag-Rear.
+Bmw 3 Series has Electronic Stability Control (ESC).
+Bmw 3 Series has Anti-Theft Device.
+Bmw 3 Series has Speed Alert.
+Bmw 3 Series has Speed Sensing Auto Door Lock.
+Bmw 3 Series has ISOFIX Child Seat Mounts.
+Bmw 3 Series has Impact Sensing Auto Door Unlock.
+Bmw 3 Series has Radio.
+Bmw 3 Series has Wireless Phone Charging.
+Bmw 3 Series has Bluetooth Connectivity.
+Bmw 3 Series has Android Auto.
+Bmw 3 Series has Apple CarPlay.
+Bmw 3 Series has Height Adjustable Front Seat Belts.
+Bmw 3 Series has Lumbar Support.
+Bmw 3 Series has Paddle Shifters.
+Bmw 3 Series has Electronic Multi-Tripmeter.
+Bmw 3 Series has Digital Clock.
+Bmw 3 Series has Outside Temperature Display.
+Bmw 3 Series has LED Taillights.
+Bmw 3 Series has Brake Assist.
+Bmw 3 Series has Anti-Theft Alarm.
+Bmw 3 Series has Door Ajar Warning.
+Bmw 3 Series has Digital Odometer.
+Bmw 3 Series has Heads-Up Display (HUD).
+Bmw 3 Series has Cooled Glovebox.
+Bmw 3 Series has Tailgate Ajar Warning.
+Bmw 3 Series has Remote Trunk Opener.
+Bmw 3 Series has Compass.
+Bmw 3 Series has Traction Control.
+Bmw 3 Series has Leather Seats.
+Bmw 3 Series has Driving Experience Control Eco.
+Bmw 3 Series has Height Adjustable Driver Seat.
+Bmw 3 Series has Rear Window Defogger.
+Bmw 3 Series has Leather Wrapped Steering Wheel.
+Bmw 3 Series has Glove Box.
+Bmw 3 Series has Adjustable Headlamps.
+Bmw 3 Series has Outside Rear View Mirror Turn Indicators.
+Bmw 3 Series has Passenger Airbag.
+Bmw 3 Series has Day & Night Rear View Mirror.
+Bmw 3 Series has Tyre Pressure Monitoring System (TPMS).
+Bmw 3 Series has Touchscreen.
+Bmw 3 Series has Chrome Garnish.
+Bmw 3 Series has Child Safety Locks.
+Bmw 3 Series has Rear Spoiler.
+Bmw 3 Series has Rain Sensing Wiper.
+Bmw 3 Series has Navigation System.
+Bmw 3 Series has Roof Rails.
+Bmw 3 Series has Usb Ports.
+Bmw 3 Series does not have Gear Shift Indicator.
+Bmw 3 Series does not have Luggage Hook & Net.
+Bmw 3 Series has LED Fog Lamps.
+Bmw 3 Series has Low Fuel Warning Light.
+Bmw 3 Series has Heated Wing Mirror.
+Bmw 3 Series has Power Boot.
+Bmw 3 Series has Fog Lights - Front.
+Bmw 3 Series has Integrated 2DIN Audio.
+Bmw 3 Series has USB & Auxiliary input.
+Bmw 3 Series does not have Rear Curtain.
+Bmw 3 Series has Audio System Remote Control.
+The Bmw 3 Series has the B58 Turbocharged I6 engine.
+The Bmw 3 Series has a displacement of 2998  cubic centimeters.
+The Bmw 3 Series generates 368.78 Brake Horsepower (BHP) at 5500 to 6500 Revolutions Per Minute (RPM).
+The Bmw 3 Series generates 500 Newton meters at 1900 to 5000 Revolutions Per Minute (RPM).
+The Bmw 3 Series has 4.0 valves per cylinder.
+The Bmw 3 Series has a Automatic transmission.
+The Bmw 3 Series has 6.0 cylinders.
+The Bmw 3 Series has a 8-Speed Steptronic gearbox.
+The Bmw 3 Series has a Four-Wheel Drive (4WD) drive type.
+The Bmw 3 Series runs on Petrol.
+The Bmw 3 Series complies with BS VI 2.0 emission norms.
+The Bmw 3 Series has Ventilated Disc front brakes.
+The Bmw 3 Series has Ventilated Disc rear brakes.
+The Bmw 3 Series has a length of 4709 mm.
+The Bmw 3 Series has a width of 1827 mm.
+The Bmw 3 Series has a height of 1442 mm.
+The Bmw 3 Series offers 480 Litres of boot space.
+The Bmw 3 Series has a seating capacity of 5.0.
+The Bmw 3 Series has a wheelbase of 2651 mm.
+The Bmw 3 Series has a kerb weight of 1745 kg.
+The Bmw 3 Series has 4.0 doors.
+The Bmw 3 Series is fitted with tyres of size F225/40R19, R255/35R19.
+The Bmw 3 Series is equipped with Runflat Radial tyres.
+The Bmw 3 Series is equipped with 6.0 airbags.
+The Bmw 3 Series has been rated 5 Star by Global NCAP.
+The Bmw 3 Series is equipped with a 14.9 inch touchscreen.
+The Bmw 3 Series is equipped with 16.0 speakers.
+The Bmw 3 Series features Android Auto, Apple CarPlay connectivity options.
+The Bmw 3 Series achieves a top speed of 253 kmph.
+The Bmw 3 Series achieves 0-100 kmph acceleration in 4.4 s.
+The Bmw 3 Series achieves 0-100 kmph in 4.4 s.
+The Bmw 3 Series delivers a mileage of 13.02 kmpl.
+The Bmw 3 Series comes with a fuel tank capacity of 59 Litres.
+The Bmw 3 Series comes with the Multi-link suspension front suspension.
+The Bmw 3 Series comes with the Multi-link suspension rear suspension.
+Bmw 3 Series has Adjustable Steering.
+The Bmw 3 Series features Front & Rear parking sensors.
+The Bmw 3 Series features Front & Rear USB charging ports.
+The Bmw 3 Series has Front & Rear speakers.
+The Bmw 3 Series has a 40:20:40 Split foldable rear seat.
+Bmw 3 Series has Central Console Armrest.
+The Bmw 3 Series has a Twin turbocharger.
+Bmw 3 Series has Rear Seat Headrest.
+Bmw 3 Series has Sunroof.
+The Bmw 3 Series has 4 drive modes.
+The Bmw 3 Series includes Wireless Smartphone Integration, Harman Kardon Surround Sound, Widescreen Curved Display, Fully Digital 12.3” (31.2 cm) Instrument Display, BMW Operating System 8.0 with variable configurable widgets,Navigation function with RTTI and 3D maps, Touch functionality, iDrive Touch with handwriting recognition and direct access buttons, Teleservices, Intelligent E-call, Remote software upgrade, MyBMW App with Remote Services, Intelligent Personal Assistant as additional features.

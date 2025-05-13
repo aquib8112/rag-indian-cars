@@ -1,0 +1,89 @@
+﻿Force Gurkha has 1 variants: 2.6 Diesel.
+Force Gurkha has Power Steering.
+Force Gurkha has Air Conditioner.
+Force Gurkha has Heater.
+Force Gurkha has Accessory Power Outlet.
+Force Gurkha has Adjustable Headrest.
+Force Gurkha has KeyLess Entry.
+Force Gurkha has Idle Start-Stop System.
+Force Gurkha has Follow Me Home Headlamps.
+Force Gurkha has Tachometer.
+Force Gurkha has Alloy Wheels.
+Force Gurkha has LED DRLs.
+Force Gurkha has LED Headlamps.
+Force Gurkha has Anti-lock Braking System (ABS).
+Force Gurkha has Central Locking.
+Force Gurkha has Driver Airbag.
+Force Gurkha has Seat Belt Warning.
+Force Gurkha has Engine Immobilizer.
+Force Gurkha does not have E-Call & I-Call.
+Force Gurkha has Anti-Theft Device.
+Force Gurkha has Speed Alert.
+Force Gurkha has Speed Sensing Auto Door Lock.
+Force Gurkha has ISOFIX Child Seat Mounts.
+Force Gurkha has Radio.
+Force Gurkha has Bluetooth Connectivity.
+Force Gurkha does not have Android Auto.
+Force Gurkha does not have Apple CarPlay.
+Force Gurkha has Over Speeding Alert.
+Force Gurkha has Electronic Brakeforce Distribution (EBD).
+Force Gurkha has Anti-Theft Alarm.
+Force Gurkha has Lane Change Indicator.
+Force Gurkha has Glove Box.
+Force Gurkha has Adjustable Headlamps.
+Force Gurkha has Passenger Airbag.
+Force Gurkha has Day & Night Rear View Mirror.
+Force Gurkha has Tyre Pressure Monitoring System (TPMS).
+Force Gurkha has Touchscreen.
+Force Gurkha has Usb Ports.
+Force Gurkha has Integrated 2DIN Audio.
+The Force Gurkha has the FM 2.6L CRDi engine.
+The Force Gurkha has a displacement of 2596  cubic centimeters.
+The Force Gurkha generates 138 Brake Horsepower (BHP) at 3200 Revolutions Per Minute (RPM).
+The Force Gurkha generates 320 Newton meters at 1400 to 2600 Revolutions Per Minute (RPM).
+The Force Gurkha has 4.0 valves per cylinder.
+The Force Gurkha has a Manual transmission.
+The Force Gurkha has 4.0 cylinders.
+The Force Gurkha has a 5-Speed gearbox.
+The Force Gurkha has a Four-Wheel Drive (4WD) drive type.
+The Force Gurkha runs on Diesel.
+The Force Gurkha complies with BS VI 2.0 emission norms.
+The Force Gurkha has Hydraulic steering.
+The Force Gurkha has a turning radius of 5.65m.
+The Force Gurkha has Disc front brakes.
+The Force Gurkha has Drum rear brakes.
+The Force Gurkha has a length of 3965 mm.
+The Force Gurkha has a width of 1865 mm.
+The Force Gurkha has a height of 2080 mm.
+The Force Gurkha offers 500 Litres of boot space.
+The Force Gurkha has a seating capacity of 4.0.
+The Force Gurkha has an unladen ground clearance of 233 mm.
+The Force Gurkha has a wheelbase of 2400 mm.
+The Force Gurkha has 3.0 doors.
+The Force Gurkha features a Manual boot opening mechanism.
+The Force Gurkha is fitted with tyres of size 255/65 R18.
+The Force Gurkha is equipped with Tubeless Radial tyres.
+The Force Gurkha comes with 18 Inch wheels.
+The Force Gurkha is equipped with 2.0 airbags.
+The Force Gurkha is equipped with a 9 inch touchscreen.
+The Force Gurkha is equipped with 4.0 speakers.
+The Force Gurkha comes with a Full Digital digital cluster.
+The Force Gurkha features Fabric upholstery.
+The Force Gurkha has a front tread of 1547 mm.
+The Force Gurkha features a rear tread of 1490 mm.
+The Force Gurkha features an approach angle of 39°.
+The Force Gurkha has a break-over angle of 28°.
+The Force Gurkha features a departure angle of 37°.
+The Force Gurkha delivers a highway mileage of 12 kmpl.
+The Force Gurkha comes with a fuel tank capacity of 63.5 Litres.
+The Force Gurkha comes with the Multi-link suspension front suspension.
+The Force Gurkha comes with the Multi-link suspension rear suspension.
+The Force Gurkha features Tilt & Telescopic steering adjustment.
+Force Gurkha has Adjustable Steering.
+The Force Gurkha features Rear parking sensors.
+The Force Gurkha features Front USB charging ports.
+The Force Gurkha features Front fog lights.
+The Force Gurkha has Front & Rear speakers.
+Force Gurkha has Turbo Charger.
+Force Gurkha has Rear Seat Headrest.
+The Force Gurkha includes USB cable mirroring as additional features.

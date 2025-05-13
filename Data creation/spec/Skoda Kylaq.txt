@@ -1,0 +1,191 @@
+Skoda Kylaq has 7 variants: Classic, Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+All variants of Skoda Kylaq have Power Steering.
+All variants of Skoda Kylaq have Air Conditioner.
+All variants of Skoda Kylaq have Heater.
+Skoda Kylaq variants with Automatic Climate Control - Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants without Automatic Climate Control - Classic, Signature & Signature AT.
+All variants of Skoda Kylaq have Accessory Power Outlet.
+Skoda Kylaq variants with Trunk Light - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variant without Trunk Light - Classic.
+All variants of Skoda Kylaq have Vanity Mirror.
+All variants of Skoda Kylaq have Rear Reading Lamp.
+All variants of Skoda Kylaq have Adjustable Headrest.
+Skoda Kylaq variants with Rear Seat Centre Arm Rest - Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants without Rear Seat Centre Arm Rest - Classic, Signature & Signature AT.
+Skoda Kylaq variants with Rear AC Vents - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variant without Rear AC Vents - Classic.
+Skoda Kylaq variants with Cruise Control - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variant without Cruise Control - Classic.
+Skoda Kylaq variants with Engine Start/Stop Button - Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants without Engine Start/Stop Button - Classic, Signature & Signature AT.
+All variants of Skoda Kylaq have KeyLess Entry.
+All variants of Skoda Kylaq have Idle Start-Stop System.
+All variants of Skoda Kylaq have Follow Me Home Headlamps.
+All variants of Skoda Kylaq have Tachometer.
+Skoda Kylaq variant with Wheel Covers - Classic.
+Skoda Kylaq variants without Wheel Covers - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants with Alloy Wheels - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variant without Alloy Wheels - Classic.
+All variants of Skoda Kylaq have Integrated Antenna.
+Skoda Kylaq variants with Projector Headlamps - Prestige & Prestige AT.
+Skoda Kylaq variants without Projector Headlamps - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT.
+Skoda Kylaq variants with Automatic Headlamps - Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants without Automatic Headlamps - Classic, Signature & Signature AT.
+All variants of Skoda Kylaq have LED DRLs.
+All variants of Skoda Kylaq have LED Headlamps.
+All variants of Skoda Kylaq have Anti-lock Braking System (ABS).
+All variants of Skoda Kylaq have Central Locking.
+All variants of Skoda Kylaq have Driver Airbag.
+All variants of Skoda Kylaq have Side Airbag.
+All variants of Skoda Kylaq have Seat Belt Warning.
+All variants of Skoda Kylaq have Engine Immobilizer.
+All variants of Skoda Kylaq do not have Side Airbag-Rear.
+All variants of Skoda Kylaq have Electronic Stability Control (ESC).
+Skoda Kylaq variants with Anti-Theft Device - Prestige & Prestige AT.
+Skoda Kylaq variants without Anti-Theft Device - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT.
+All variants of Skoda Kylaq have Speed Alert.
+All variants of Skoda Kylaq have Speed Sensing Auto Door Lock.
+All variants of Skoda Kylaq have ISOFIX Child Seat Mounts.
+Skoda Kylaq variants with Hill Assist - Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants without Hill Assist - Classic, Signature & Signature AT.
+All variants of Skoda Kylaq have Impact Sensing Auto Door Unlock.
+Skoda Kylaq variants with Radio - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variant without Radio - Classic.
+Skoda Kylaq variants with Wireless Phone Charging - Prestige & Prestige AT.
+Skoda Kylaq variants without Wireless Phone Charging - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT.
+Skoda Kylaq variants with Bluetooth Connectivity - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variant without Bluetooth Connectivity - Classic.
+Skoda Kylaq variants with Android Auto - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variant without Android Auto - Classic.
+Skoda Kylaq variants with Apple CarPlay - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variant without Apple CarPlay - Classic.
+Skoda Kylaq variant with Paddle Shifters - Prestige AT.
+Skoda Kylaq variants without Paddle Shifters - Classic, Signature, Signature AT, Signature Plus, Signature Plus AT & Prestige.
+All variants of Skoda Kylaq have LED Taillights.
+All variants of Skoda Kylaq have Electronic Brakeforce Distribution (EBD).
+Skoda Kylaq variants with Anti-Theft Alarm - Prestige & Prestige AT.
+Skoda Kylaq variants without Anti-Theft Alarm - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT.
+Skoda Kylaq variants with Cooled Glovebox - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variant without Cooled Glovebox - Classic.
+Skoda Kylaq variants with Ventilated Seats - Prestige & Prestige AT.
+Skoda Kylaq variants without Ventilated Seats - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT.
+Skoda Kylaq variants with Cornering Foglamps - Prestige & Prestige AT.
+Skoda Kylaq variants without Cornering Foglamps - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT.
+Skoda Kylaq variants with Leather wrap gear-shift selector - Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants without Leather wrap gear-shift selector - Classic & Signature.
+Skoda Kylaq variants with Tailgate Ajar Warning - Classic, Signature & Signature AT.
+All variants of Skoda Kylaq have Traction Control.
+All variants of Skoda Kylaq have Height Adjustable Driver Seat.
+Skoda Kylaq variants with Rear Window Defogger - Classic, Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants with Leather Wrapped Steering Wheel - Classic, Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+All variants of Skoda Kylaq have Glove Box.
+All variants of Skoda Kylaq have Adjustable Headlamps.
+All variants of Skoda Kylaq have Outside Rear View Mirror Turn Indicators.
+All variants of Skoda Kylaq have Passenger Airbag.
+All variants of Skoda Kylaq have Day & Night Rear View Mirror.
+Skoda Kylaq variants with Tyre Pressure Monitoring System (TPMS) - Classic, Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants with Touchscreen - Classic, Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants with Rear Window Wiper - Classic, Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants with Rear Window Washer - Classic, Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+All variants of Skoda Kylaq have Child Safety Locks.
+All variants of Skoda Kylaq have Rear Spoiler.
+Skoda Kylaq variants with Rain Sensing Wiper - Classic, Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variants with Air Quality Control - Classic, Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+All variants of Skoda Kylaq have Roof Rails.
+All variants of Skoda Kylaq have Curtain Airbag.
+Skoda Kylaq variants with Usb Ports - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variant without Usb Ports - Classic.
+Skoda Kylaq variants with Luggage Hook & Net - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT.
+Skoda Kylaq variant without Luggage Hook & Net - Classic.
+Skoda Kylaq variants with LED Fog Lamps - Prestige & Prestige AT.
+Skoda Kylaq variants without LED Fog Lamps - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT.
+All Skoda Kylaq variants use the 1.0 TSI engine.
+All Skoda Kylaq variants have a displacement of 999  cubic centimeters.
+All Skoda Kylaq variants produce a maximum power of 114 Brake Horsepower (BHP) at 5000 to 5500 Revolutions Per Minute (RPM).
+All Skoda Kylaq variants produce a maximum torque of 178 Newton meters at 1750 to 4000 Revolutions Per Minute (RPM).
+All Skoda Kylaq variants have 4.0 valves per cylinder.
+Skoda Kylaq variants - Classic, Signature, Signature Plus & Prestige share a Manual transmission.
+Skoda Kylaq variants - Signature AT, Signature Plus AT & Prestige AT share a Automatic transmission.
+All Skoda Kylaq variants have 3.0 cylinders.
+Skoda Kylaq variants - Classic, Signature, Signature Plus & Prestige share a 6-Speed gearbox.
+Skoda Kylaq variants - Signature AT, Signature Plus AT & Prestige AT share a 6-Speed-AT gearbox.
+All Skoda Kylaq variants have a Front-Wheel Drive (FWD) drive type.
+All Skoda Kylaq variants run on Petrol.
+All Skoda Kylaq variants comply with BS VI 2.0 emission norms.
+All Skoda Kylaq variants come with Electric steering.
+All Skoda Kylaq variants have Disc front brakes.
+All Skoda Kylaq variants have Drum rear brakes.
+All Skoda Kylaq variants have a length of 3995 mm.
+All Skoda Kylaq variants have a width of 1783 mm.
+All Skoda Kylaq variants have a height of 1619 mm.
+All Skoda Kylaq variants offer 446 Litres of boot space.
+All Skoda Kylaq variants have a seating capacity of 5.0.
+All Skoda Kylaq variants have an unladen ground clearance of 189 mm.
+All Skoda Kylaq variants have a wheelbase of 2566 mm.
+Skoda Kylaq variants - Classic, Signature, Signature Plus & Prestige share a kerb weight of 1169-1219 kg.
+Skoda Kylaq variants - Signature AT, Signature Plus AT & Prestige AT share a kerb weight of 1213-1255 kg.
+Skoda Kylaq variants - Classic, Signature, Signature Plus & Prestige share a gross weight of 1630 kg.
+Skoda Kylaq variants - Signature AT, Signature Plus AT & Prestige AT share a gross weight of 1660 kg.
+All Skoda Kylaq variants have 5.0 doors.
+All Skoda Kylaq variants come with a Manual boot opening mechanism.
+Skoda Kylaq variants - Classic, Signature & Signature AT feature Powered Outside Rear View Mirror (ORVM).
+Skoda Kylaq variants - Signature Plus, Signature Plus AT, Prestige & Prestige AT feature Powered & Folding Outside Rear View Mirror (ORVM).
+Skoda Kylaq variants - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT feature tyres of size 205/60 R16.
+Skoda Kylaq variants - Prestige & Prestige AT feature tyres of size 205/55 R17.
+All Skoda Kylaq variants come with Tyre Type tyres.
+Skoda Kylaq variant Classic is equipped with 16 Inch wheels.
+All Skoda Kylaq variants come equipped with 6.0 airbags.
+Skoda Kylaq variant Classic features a unknown touchscreen.
+Skoda Kylaq variants - Signature & Signature AT come with a 6.96 inch touchscreen display.
+Skoda Kylaq variants - Signature Plus, Signature Plus AT, Prestige & Prestige AT come with a 10 inch touchscreen display.
+Skoda Kylaq variants - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT come with 4.0 speakers.
+Skoda Kylaq variants - Signature, Signature AT, Signature Plus & Signature Plus AT have 16 Inch front alloy wheels.
+Skoda Kylaq variants - Prestige & Prestige AT have 17 Inch front alloy wheels.
+Skoda Kylaq variants - Signature, Signature AT, Signature Plus & Signature Plus AT have 16 Inch rear alloy wheels.
+Skoda Kylaq variants - Prestige & Prestige AT have 17 Inch rear alloy wheels.
+All Skoda Kylaq variants come with 2.0 tweeters.
+All Skoda Kylaq variants feature a Full Digital digital cluster.
+Skoda Kylaq variants - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT feature Fabric upholstery options.
+Skoda Kylaq variants - Prestige & Prestige AT feature Leatherette upholstery options.
+All Skoda Kylaq variants offer 1265 Litres of boot space with rear seats folded.
+Skoda Kylaq variants - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT come with Driver's Window anti-pinch power windows.
+All Skoda Kylaq variants have a Bharat NCAP safety rating of 5 Star.
+All Skoda Kylaq variants have a Bharat NCAP child safety rating of 5 Star.
+Skoda Kylaq variants - Classic, Signature, Signature Plus & Prestige have mileage figures of 19.68 kmpl.
+Skoda Kylaq variants - Signature AT, Signature Plus AT & Prestige AT have mileage figures of 19.05 kmpl.
+All Skoda Kylaq variants have a fuel tank capacity of 45 Litres.
+All Skoda Kylaq variants have the MacPherson Strut suspension front suspension.
+All Skoda Kylaq variants have the Rear twist beam rear suspension.
+All Skoda Kylaq variants come with Tilt & Telescopic steering adjustment.
+All Skoda Kylaq variants have Height & Reach steering adjustability.
+All Skoda Kylaq variants are equipped with Rear parking sensors.
+Skoda Kylaq variant without USB Charger - Classic.
+Skoda Kylaq variants - Signature & Signature AT share the Rear USB charging configuration.
+Skoda Kylaq variants - Signature Plus, Signature Plus AT, Prestige & Prestige AT share the Front & Rear USB charging configuration.
+All Skoda Kylaq variants have Front & Rear power windows.
+Skoda Kylaq variants - Classic, Signature & Signature AT share the Front Only cup holder configuration.
+Skoda Kylaq variants - Signature Plus, Signature Plus AT, Prestige & Prestige AT share the Front & Rear cup holder configuration.
+Skoda Kylaq variants without Fog Lights - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT.
+Skoda Kylaq variants - Prestige & Prestige AT share the Front fog light configuration.
+Skoda Kylaq variants without Antenna - Classic, Signature & Signature AT.
+Skoda Kylaq variants - Signature Plus, Signature Plus AT, Prestige & Prestige AT share the Shark Fin antenna type.
+Skoda Kylaq variants - Classic, Signature & Signature AT share the 3.5 inch digital cluster size.
+Skoda Kylaq variants - Signature Plus, Signature Plus AT, Prestige & Prestige AT share the 8 inch digital cluster size.
+Skoda Kylaq variants without Rear Camera - Classic, Signature & Signature AT.
+Skoda Kylaq variants - Signature Plus, Signature Plus AT, Prestige & Prestige AT share the With Guidedlines rear camera type.
+All Skoda Kylaq variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Skoda Kylaq variant without Speakers - Classic.
+Skoda Kylaq variants - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT share the Front & Rear speaker configuration.
+Skoda Kylaq variants without Electric Adjustable Seats - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT.
+Skoda Kylaq variants - Prestige & Prestige AT share the Front electric seat adjustment type.
+Skoda Kylaq variants - Classic, Signature & Signature AT share the Bench Folding foldable rear seat type.
+Skoda Kylaq variants - Signature Plus, Signature Plus AT, Prestige & Prestige AT share the 60:40 Split foldable rear seat type.
+Skoda Kylaq variant without Central Console Armrest - Classic.
+Skoda Kylaq variants - Signature, Signature AT, Signature Plus, Signature Plus AT, Prestige & Prestige AT share the With Storage central console armrest type.
+All variants of Skoda Kylaq have Turbo Charger.
+All Skoda Kylaq variants come with Adjustable rear seat headrests.
+Skoda Kylaq variants without Sunroof - Classic, Signature, Signature AT, Signature Plus & Signature Plus AT.
+Skoda Kylaq variants - Prestige & Prestige AT share a Single Pane sunroof.
+Skoda Kylaq variant Classic offers Glossy black front grille with 3D ribs,Outer door mirrors in body colour,Door handles in body colour w/o chrome strip,Front and rear (bumper) diffuser black grained,Side door cladding with hexagon pattern,Wheel arch cladding,Rear LED number plate illumniation as additional features.
+Skoda Kylaq variants - Signature & Signature AT share Glossy black front grille with 3D ribs,Outer door mirrors in body colour,Door handles in body colour w/o chrome strip,Front and rear (bumper) diffuser silver matte,Black Strip at tail gate with hexagon pattern,Side door cladding with hexagon pattern,Wheel arch cladding,Rear LED number plate illumniation as additional features.
+Skoda Kylaq variants - Signature Plus, Signature Plus AT, Prestige & Prestige AT share Inbuilt Connectivity as additional features.

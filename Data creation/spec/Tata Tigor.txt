@@ -1,0 +1,217 @@
+Tata Tigor has 9 variants: XM, XT, XZ, XT CNG, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+All variants of Tata Tigor have Power Steering.
+All variants of Tata Tigor have Air Conditioner.
+All variants of Tata Tigor have Heater.
+Tata Tigor variants with Automatic Climate Control - XZ Plus, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without Automatic Climate Control - XM, XT, XZ, XT CNG & XZ CNG.
+All variants of Tata Tigor have Accessory Power Outlet.
+All variants of Tata Tigor do not have Trunk Light.
+Tata Tigor variants with Vanity Mirror - XZ Plus, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without Vanity Mirror - XM, XT, XZ, XT CNG & XZ CNG.
+All variants of Tata Tigor have Rear Reading Lamp.
+All variants of Tata Tigor have Adjustable Headrest.
+Tata Tigor variants with Rear Seat Centre Arm Rest - XZ, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without Rear Seat Centre Arm Rest - XM, XT & XT CNG.
+Tata Tigor variants with Cruise Control - XZ Plus & XZ Plus Lux.
+Tata Tigor variants without Cruise Control - XM, XT, XZ, XT CNG, XZ CNG, XZ Plus CNG & XZ Plus Lux CNG.
+All variants of Tata Tigor do not have Real-Time Vehicle Tracking.
+Tata Tigor variants with Engine Start/Stop Button - XZ Plus, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without Engine Start/Stop Button - XM, XT, XZ, XT CNG & XZ CNG.
+All variants of Tata Tigor do not have Hands-Free Tailgate.
+Tata Tigor variants with KeyLess Entry - XZ Plus, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without KeyLess Entry - XM, XT, XZ, XT CNG & XZ CNG.
+Tata Tigor variants with Follow Me Home Headlamps - XZ, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without Follow Me Home Headlamps - XM, XT & XT CNG.
+All variants of Tata Tigor have Tachometer.
+Tata Tigor variants with Wheel Covers - XM, XT, XZ, XT CNG, XZ CNG, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without Wheel Covers - XZ Plus & XZ Plus Lux.
+Tata Tigor variants with Alloy Wheels - XZ Plus & XZ Plus Lux.
+Tata Tigor variants without Alloy Wheels - XM, XT, XZ, XT CNG, XZ CNG, XZ Plus CNG & XZ Plus Lux CNG.
+All variants of Tata Tigor have Integrated Antenna.
+Tata Tigor variants with Projector Headlamps - XZ Plus, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without Projector Headlamps - XM, XT, XZ, XT CNG & XZ CNG.
+Tata Tigor variants with Automatic Headlamps - XZ Plus, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without Automatic Headlamps - XM, XT, XZ, XT CNG & XZ CNG.
+Tata Tigor variants with LED DRLs - XZ Plus, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without LED DRLs - XM, XT, XZ, XT CNG & XZ CNG.
+All variants of Tata Tigor have Anti-lock Braking System (ABS).
+All variants of Tata Tigor have Central Locking.
+All variants of Tata Tigor have Driver Airbag.
+All variants of Tata Tigor do not have Side Airbag.
+All variants of Tata Tigor have Seat Belt Warning.
+All variants of Tata Tigor have Engine Immobilizer.
+Tata Tigor variants without E-Call & I-Call - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Remote AC On/Off - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+All variants of Tata Tigor do not have Side Airbag-Rear.
+All variants of Tata Tigor have Speed Alert.
+All variants of Tata Tigor have Speed Sensing Auto Door Lock.
+All variants of Tata Tigor have ISOFIX Child Seat Mounts.
+All variants of Tata Tigor do not have Hill Assist.
+All variants of Tata Tigor do not have 360 View Camera.
+All variants of Tata Tigor have Radio.
+All variants of Tata Tigor do not have Wireless Phone Charging.
+All variants of Tata Tigor have Bluetooth Connectivity.
+Tata Tigor variants with Android Auto - XZ, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without Android Auto - XM, XT & XT CNG.
+Tata Tigor variants with Apple CarPlay - XZ, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without Apple CarPlay - XM, XT & XT CNG.
+Tata Tigor variants without Driver Attention Warning - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Live Location - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Over the Air (OTA) Updates - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Google / Alexa Connectivity - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Over Speeding Alert - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Smartwatch App - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Valet Mode - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Remote Door Lock/Unlock - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+All variants of Tata Tigor do not have Paddle Shifters.
+Tata Tigor variants without Tow Away Alert - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+All variants of Tata Tigor have LED Taillights.
+All variants of Tata Tigor have Electronic Brakeforce Distribution (EBD).
+All variants of Tata Tigor have Door Ajar Warning.
+All variants of Tata Tigor have Digital Odometer.
+Tata Tigor variants without Remote Immobiliser - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+All variants of Tata Tigor do not have Heads-Up Display (HUD).
+Tata Tigor variants without Forward Collision Warning - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Automatic Emergency Braking - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Oncoming Lane Mitigation - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Speed Assist System - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Traffic Sign Recognition - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Blind Spot Collision Avoidance Assist - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Lane Departure Warning - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Lane Keep Assist - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Lane Departure Prevention Assist - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Road Departure Mitigation System - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Adaptive Cruise Control - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Leading Vehicle Departure Alert - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Adaptive High Beam Assist - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Rear Cross Traffic Alert - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Rear Cross Traffic Collision-Avoidance Assist - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Unauthorised Vehicle entry - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants with Cooled Glovebox - XZ, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants without Cooled Glovebox - XM, XT & XT CNG.
+All variants of Tata Tigor do not have Glove Box light.
+Tata Tigor variants without Inbuilt Assistant - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Navigation with Live Traffic - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Send POI to Vehicle From App - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without In Car Remote Control App - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+All variants of Tata Tigor do not have Ventilated Seats.
+All variants of Tata Tigor do not have Puddle Lamps.
+All variants of Tata Tigor do not have Active noise cancellation.
+All variants of Tata Tigor do not have Rear Window Sunblind.
+All variants of Tata Tigor do not have Rear Windscreen Sunblind.
+All variants of Tata Tigor do not have Headlamp Washers.
+All variants of Tata Tigor do not have Heated Outside Rear View Mirror.
+All variants of Tata Tigor do not have Blind Spot Monitor.
+Tata Tigor variants without PUC Expiry - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Insurance Expiry - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without E-Manual - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Digital Car Key - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Live Weather - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Remote Vehicle Ignition Start/Stop - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Remote Boot Open - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Remote Vehicle Status Check - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without SOS Button - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+All variants of Tata Tigor do not have Remote Fuel Lid Opener.
+Tata Tigor variants without Engine Start Alarm - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Save Route/Place - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without RSA - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Hinglish Voice Commands - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Crash Notification - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+All variants of Tata Tigor have Height Adjustable Driver Seat.
+Tata Tigor variants with Rear Window Defogger - XM, XT, XZ, XT CNG, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants with Leather Wrapped Steering Wheel - XM, XT, XZ, XT CNG, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+All variants of Tata Tigor have Glove Box.
+Tata Tigor variants with Outside Rear View Mirror Turn Indicators - XM, XT, XZ, XT CNG, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+All variants of Tata Tigor have Passenger Airbag.
+All variants of Tata Tigor have Day & Night Rear View Mirror.
+Tata Tigor variants with Tyre Pressure Monitoring System (TPMS) - XM, XT, XZ, XT CNG, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants with Touchscreen - XM, XT, XZ, XT CNG, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+Tata Tigor variants with Rain Sensing Wiper - XM, XT, XZ, XT CNG, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG.
+All variants of Tata Tigor have Air Quality Control.
+All variants of Tata Tigor have Tinted Glass.
+All variants of Tata Tigor have Roof Rails.
+All variants of Tata Tigor have Cigarette Lighter.
+All variants of Tata Tigor have Side Stepper.
+All variants of Tata Tigor do not have Curtain Airbag.
+All variants of Tata Tigor have Usb Ports.
+Tata Tigor variants with Gear Shift Indicator - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Gear Shift Indicator - XT, XT CNG, XZ Plus Lux & XZ Plus Lux CNG.
+Tata Tigor variants without Luggage Hook & Net - XT, XT CNG, XZ Plus Lux & XZ Plus Lux CNG.
+All variants of Tata Tigor have Integrated 2DIN Audio.
+All variants of Tata Tigor do not have Rear Curtain.
+All Tata Tigor variants use the 1.2L Revotron engine.
+All Tata Tigor variants have a displacement of 1199  cubic centimeters.
+Tata Tigor variants - XM, XT, XZ, XZ Plus & XZ Plus Lux have a max power of 84.48 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Tata Tigor variants - XT CNG, XZ CNG, XZ Plus CNG & XZ Plus Lux CNG have a max power of 72.41 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Tata Tigor variants - XM, XT, XZ, XZ Plus & XZ Plus Lux share a max torque of 113 Newton meters at 3300 Revolutions Per Minute (RPM).
+Tata Tigor variants - XT CNG, XZ CNG, XZ Plus CNG & XZ Plus Lux CNG share a max torque of 95 Newton meters at 3500 Revolutions Per Minute (RPM).
+All Tata Tigor variants have 4.0 valves per cylinder.
+All Tata Tigor variants have a Manual transmission.
+All Tata Tigor variants have 3.0 cylinders.
+All Tata Tigor variants come with a 5-Speed gearbox.
+All Tata Tigor variants have a Front-Wheel Drive (FWD) drive type.
+Tata Tigor variants - XM, XT, XZ, XZ Plus & XZ Plus Lux use Petrol as fuel.
+Tata Tigor variants - XT CNG, XZ CNG, XZ Plus CNG & XZ Plus Lux CNG use CNG as fuel.
+All Tata Tigor variants comply with BS VI 2.0 emission norms.
+All Tata Tigor variants have Disc front brakes.
+All Tata Tigor variants have Drum rear brakes.
+All Tata Tigor variants have a length of 3993 mm.
+All Tata Tigor variants have a width of 1677 mm.
+All Tata Tigor variants have a height of 1532 mm.
+All Tata Tigor variants offer 419 Litres of boot space.
+All Tata Tigor variants have a seating capacity of 5.0.
+All Tata Tigor variants have a wheelbase of 2450 mm.
+All Tata Tigor variants have 4.0 doors.
+Tata Tigor variants - XM, XT & XT CNG feature a Manual boot opening mechanism.
+Tata Tigor variants - XZ, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG feature a Electronic boot opening mechanism.
+Tata Tigor variant XM has Manual Outside Rear View Mirror (ORVM).
+Tata Tigor variants - XZ & XZ CNG feature Powered Outside Rear View Mirror (ORVM).
+Tata Tigor variants - XZ Plus & XZ Plus CNG feature Powered & Folding Outside Rear View Mirror (ORVM).
+Tata Tigor variants - XM, XT, XZ, XT CNG, XZ CNG, XZ Plus CNG & XZ Plus Lux CNG feature tyres of size 175/65 R14.
+Tata Tigor variants - XZ Plus & XZ Plus Lux feature tyres of size 175/60 R15.
+All Tata Tigor variants come with Tyre Type tyres.
+Tata Tigor variants - XM, XT, XZ, XT CNG, XZ CNG, XZ Plus CNG & XZ Plus Lux CNG feature 14 Inch wheels.
+All Tata Tigor variants come equipped with 2.0 airbags.
+Tata Tigor variant XZ Plus has a Global NCAP rating of 3 Star.
+Tata Tigor variant XZ Plus has a Global NCAP child safety rating of 3 Star.
+Tata Tigor variants - XZ, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG come with a 7 inch touchscreen display.
+All Tata Tigor variants come with 4.0 speakers.
+Tata Tigor variants - XZ Plus & XZ Plus Lux have 15 Inch front alloy wheels.
+Tata Tigor variants - XZ Plus & XZ Plus Lux have 15 Inch rear alloy wheels.
+Tata Tigor variants - XZ & XZ CNG have 2.0 tweeters.
+Tata Tigor variants - XZ Plus, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG have 4.0 tweeters.
+Tata Tigor variants - XZ, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG have Android Auto, Apple CarPlay connectivity options.
+All Tata Tigor variants feature a Full Digital digital cluster.
+Tata Tigor variants - XM, XT, XZ, XT CNG & XZ CNG feature Fabric upholstery options.
+Tata Tigor variants - XZ Plus, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG feature Leatherette upholstery options.
+Tata Tigor variants - XT CNG, XZ CNG, XZ Plus CNG & XZ Plus Lux CNG come with boot space of 419 Litres.
+Tata Tigor variants - XM, XT, XZ, XZ Plus & XZ Plus Lux are equipped with the same type of shock absorbers, which are Hydraulic.
+Tata Tigor variants - XM, XT, XZ, XZ Plus & XZ Plus Lux have the same laden ground clearance of 170 mm mm.
+Tata Tigor variants - XT CNG, XZ CNG, XZ Plus CNG & XZ Plus Lux CNG have the same laden ground clearance of 165 mm mm.
+Tata Tigor variants - XM, XT, XZ, XZ Plus & XZ Plus Lux have mileage figures of 19.28 kmpl.
+Tata Tigor variants - XT CNG, XZ CNG, XZ Plus CNG & XZ Plus Lux CNG have mileage figures of 26.49 km/kg.
+Tata Tigor variants - XM, XZ & XZ Plus have fuel tank capacities of 35 Litres.
+Tata Tigor variants - XZ CNG & XZ Plus CNG have fuel tank capacities of 70 Litres.
+All Tata Tigor variants have the MacPherson Strut suspension front suspension.
+All Tata Tigor variants have the Rear twist beam rear suspension.
+All Tata Tigor variants come with Tilt Steering steering adjustment.
+Tata Tigor variants with Adjustable Steering - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG.
+Tata Tigor variants without Adjustable Steering - XT, XT CNG, XZ Plus Lux & XZ Plus Lux CNG.
+All Tata Tigor variants are equipped with Rear parking sensors.
+Tata Tigor variants without USB Charger - XM, XT & XT CNG.
+Tata Tigor variants - XZ, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG share the Front USB charging configuration.
+Tata Tigor variants - XM, XZ, XZ Plus, XZ CNG & XZ Plus CNG share the Front & Rear power window configuration.
+Tata Tigor variants - XZ, XZ Plus, XZ CNG & XZ Plus CNG share the Front & Rear cup holder configuration.
+Tata Tigor variants without Fog Lights - XM, XT & XT CNG.
+Tata Tigor variants - XZ, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG share the Front fog light configuration.
+Tata Tigor variants without Rear Camera - XM, XT & XT CNG.
+Tata Tigor variants - XZ, XZ Plus, XZ CNG, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG share the With Guidedlines rear camera type.
+All Tata Tigor variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Tata Tigor variants include Front & Rear speakers.
+All variants of Tata Tigor do not have Electric Adjustable Seats.
+All variants of Tata Tigor do not have Turbo Charger.
+All variants of Tata Tigor do not have Knee Airbags.
+All variants of Tata Tigor do not have Sunroof.
+Tata Tigor variants - XM, XT & XT CNG share 8.89 cm Infotaiment System by Harman, Phone Book Access as additional features.
+Tata Tigor variants - XZ & XZ CNG share 17.78 cm Touchscreen Infotaiment System by Harman, Call Reject with SMS Feature, ConnectNext App Suite, Image & Video Playback, Incoming SMS Notifications & Read Outs, Phone Book Access as additional features.
+Tata Tigor variants - XZ Plus, XZ Plus Lux, XZ Plus CNG & XZ Plus Lux CNG share 17.78 cm Touchscreen Infotaiment System by Harman, Call Reject with SMS Feature, ConnectNext App Suite, Image & Video Playback, Incoming SMS Notifications & Read Outs, Phone Book Access, Digital Controls for Automatic Climate Control as additional features.

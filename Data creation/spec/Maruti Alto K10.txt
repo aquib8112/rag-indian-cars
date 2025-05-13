@@ -1,0 +1,106 @@
+Maruti Alto K10 has 8 variants: STD, LXI, VXI, VXI Plus, VXI AT, LXI S-CNG, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variants with Power Steering - LXI, VXI, VXI Plus, VXI AT, LXI S-CNG, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variant without Power Steering - STD.
+Maruti Alto K10 variants with Air Conditioner - LXI, VXI, VXI Plus, VXI AT, LXI S-CNG, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variant without Air Conditioner - STD.
+Maruti Alto K10 variants with Heater - LXI, VXI, VXI Plus, VXI AT, LXI S-CNG, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variant without Heater - STD.
+Maruti Alto K10 variants with Accessory Power Outlet - VXI, VXI Plus, VXI AT, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variants without Accessory Power Outlet - STD, LXI & LXI S-CNG.
+Maruti Alto K10 variants with KeyLess Entry - VXI Plus & VXI Plus AT.
+Maruti Alto K10 variants without KeyLess Entry - STD, LXI, VXI, VXI AT, LXI S-CNG & VXI S-CNG.
+Maruti Alto K10 variants with Integrated Antenna - LXI, VXI, VXI Plus, VXI AT, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variants without Integrated Antenna - STD & LXI S-CNG.
+All variants of Maruti Alto K10 have Anti-lock Braking System (ABS).
+Maruti Alto K10 variants with Central Locking - VXI, VXI Plus, VXI AT, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variants without Central Locking - STD, LXI & LXI S-CNG.
+All variants of Maruti Alto K10 have Driver Airbag.
+All variants of Maruti Alto K10 have Seat Belt Warning.
+All variants of Maruti Alto K10 have Engine Immobilizer.
+All variants of Maruti Alto K10 do not have E-Call & I-Call.
+All variants of Maruti Alto K10 have Speed Alert.
+Maruti Alto K10 variants with Speed Sensing Auto Door Lock - VXI, VXI Plus, VXI AT, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variants without Speed Sensing Auto Door Lock - STD, LXI & LXI S-CNG.
+Maruti Alto K10 variants with Impact Sensing Auto Door Unlock - VXI, VXI Plus, VXI AT, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variants without Impact Sensing Auto Door Unlock - STD, LXI & LXI S-CNG.
+Maruti Alto K10 variants with Radio - VXI, VXI Plus, VXI AT, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variants without Radio - STD, LXI & LXI S-CNG.
+Maruti Alto K10 variants with Bluetooth Connectivity - VXI, VXI Plus, VXI AT, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variants without Bluetooth Connectivity - STD, LXI & LXI S-CNG.
+Maruti Alto K10 variants with Android Auto - VXI Plus & VXI Plus AT.
+Maruti Alto K10 variants without Android Auto - STD, LXI, VXI, VXI AT, LXI S-CNG & VXI S-CNG.
+Maruti Alto K10 variants with Apple CarPlay - VXI Plus & VXI Plus AT.
+Maruti Alto K10 variants without Apple CarPlay - STD, LXI, VXI, VXI AT, LXI S-CNG & VXI S-CNG.
+All variants of Maruti Alto K10 have Halogen Headlamps.
+All variants of Maruti Alto K10 have Electronic Brakeforce Distribution (EBD).
+Maruti Alto K10 variants with Door Ajar Warning - VXI, VXI Plus, VXI AT, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variants without Door Ajar Warning - STD, LXI & LXI S-CNG.
+All variants of Maruti Alto K10 have Glove Box.
+All variants of Maruti Alto K10 have Adjustable Headlamps.
+All variants of Maruti Alto K10 have Passenger Airbag.
+Maruti Alto K10 variants with Touchscreen - STD, LXI, VXI, VXI Plus, VXI AT, LXI S-CNG, VXI Plus AT & VXI S-CNG.
+All variants of Maruti Alto K10 have Child Safety Locks.
+Maruti Alto K10 variants with Usb Ports - VXI, VXI Plus, VXI AT, VXI Plus AT & VXI S-CNG.
+Maruti Alto K10 variants without Usb Ports - STD, LXI & LXI S-CNG.
+Maruti Alto K10 variants with Gear Shift Indicator - VXI & VXI Plus.
+Maruti Alto K10 variants without Gear Shift Indicator - STD, LXI, VXI AT, LXI S-CNG, VXI Plus AT & VXI S-CNG.
+All variants of Maruti Alto K10 have Luggage Hook & Net.
+Maruti Alto K10 variants with Integrated 2DIN Audio - VXI, VXI AT & VXI S-CNG.
+Maruti Alto K10 variants without Integrated 2DIN Audio - STD, LXI, VXI Plus, LXI S-CNG & VXI Plus AT.
+All Maruti Alto K10 variants use the K10C engine.
+All Maruti Alto K10 variants have a displacement of 998  cubic centimeters.
+Maruti Alto K10 variants - STD, LXI, VXI, VXI Plus, VXI AT & VXI Plus AT have a max power of 65.71 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Maruti Alto K10 variants - LXI S-CNG & VXI S-CNG have a max power of 55.92 Brake Horsepower (BHP) at 5300 Revolutions Per Minute (RPM).
+Maruti Alto K10 variants - STD, LXI, VXI, VXI Plus, VXI AT & VXI Plus AT share a max torque of 89 Newton meters at 3500 Revolutions Per Minute (RPM).
+Maruti Alto K10 variants - LXI S-CNG & VXI S-CNG share a max torque of 82.1 Newton meters at 3400 Revolutions Per Minute (RPM).
+All Maruti Alto K10 variants have 4.0 valves per cylinder.
+Maruti Alto K10 variants - STD, LXI, VXI, VXI Plus, LXI S-CNG & VXI S-CNG share a Manual transmission.
+Maruti Alto K10 variants - VXI AT & VXI Plus AT share a Automatic transmission.
+All Maruti Alto K10 variants have 3.0 cylinders.
+All Maruti Alto K10 variants come with a 5-Speed gearbox.
+All Maruti Alto K10 variants have a Front-Wheel Drive (FWD) drive type.
+Maruti Alto K10 variants - STD, LXI, VXI, VXI Plus, VXI AT & VXI Plus AT use Petrol as fuel.
+Maruti Alto K10 variants - LXI S-CNG & VXI S-CNG use CNG as fuel.
+All Maruti Alto K10 variants comply with BS VI 2.0 emission norms.
+All Maruti Alto K10 variants have a turning radius of 4.5m.
+All Maruti Alto K10 variants have Disc front brakes.
+All Maruti Alto K10 variants have Drum rear brakes.
+All Maruti Alto K10 variants have a length of 3530 mm.
+All Maruti Alto K10 variants have a width of 1490 mm.
+All Maruti Alto K10 variants have a height of 1520 mm.
+All Maruti Alto K10 variants offer 214 Litres of boot space.
+Maruti Alto K10 variants - STD, LXI, VXI, VXI Plus, VXI AT & VXI Plus AT share a seating capacity of 5.0.
+Maruti Alto K10 variants - LXI S-CNG & VXI S-CNG share a seating capacity of 4.0.
+All Maruti Alto K10 variants have a wheelbase of 2380 mm.
+All Maruti Alto K10 variants have 5.0 doors.
+All Maruti Alto K10 variants have tyres of size 145/80 R13.
+All Maruti Alto K10 variants come with Tubeless Radial tyres.
+All Maruti Alto K10 variants have 13 Inch wheels.
+All Maruti Alto K10 variants come equipped with 2.0 airbags.
+Maruti Alto K10 variant VXI has a Global NCAP rating of 2 Star.
+Maruti Alto K10 variants - VXI Plus & VXI Plus AT come with a 7 inch touchscreen display.
+Maruti Alto K10 variants - VXI, VXI AT & VXI S-CNG come with 2.0 speakers.
+Maruti Alto K10 variants - VXI Plus & VXI Plus AT come with 4.0 speakers.
+Maruti Alto K10 variants - STD, LXI, VXI & VXI Plus have a 100-0 kmph braking time of 37.51 s seconds.
+Maruti Alto K10 variants - STD, LXI, VXI & VXI Plus have a 0-100 kmph acceleration time of 12.77 s seconds.
+Maruti Alto K10 variants - VXI Plus & VXI Plus AT have Android Auto, Apple CarPlay connectivity options.
+Maruti Alto K10 variants - LXI S-CNG & VXI S-CNG come with boot space of 214 Litres.
+Maruti Alto K10 variants - STD, LXI, VXI & VXI Plus have mileage figures of 24.39 kmpl.
+Maruti Alto K10 variants - VXI AT & VXI Plus AT have mileage figures of 24.9 kmpl.
+Maruti Alto K10 variants - LXI S-CNG & VXI S-CNG have mileage figures of 33.85 km/kg.
+Maruti Alto K10 variants - STD, LXI, VXI & VXI Plus have highway mileage figures of 22.97 kmpl.
+Maruti Alto K10 variants - STD, LXI, VXI, VXI Plus, VXI AT & VXI Plus AT have fuel tank capacities of 27 Litres.
+Maruti Alto K10 variants - LXI S-CNG & VXI S-CNG have fuel tank capacities of 55 Litres.
+All Maruti Alto K10 variants have the MacPherson Strut suspension front suspension.
+All Maruti Alto K10 variants have the Rear twist beam rear suspension.
+All Maruti Alto K10 variants come with Collapsible Steering steering adjustment.
+All Maruti Alto K10 variants are equipped with Rear parking sensors.
+Maruti Alto K10 variants - VXI, VXI Plus, VXI AT, VXI Plus AT & VXI S-CNG share the Roof Antenna antenna type.
+All Maruti Alto K10 variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Maruti Alto K10 variants without Speakers - STD, LXI & LXI S-CNG.
+Maruti Alto K10 variants - VXI, VXI AT & VXI S-CNG share the Front Only speaker configuration.
+Maruti Alto K10 variants - VXI Plus & VXI Plus AT share the Front & Rear speaker configuration.
+All variants of Maruti Alto K10 do not have Central Console Armrest.
+Maruti Alto K10 variant STD offers Wheel Cover(Center Cap) as additional features.
+Maruti Alto K10 variants - LXI & LXI S-CNG share Body Coloured Bumpers,Wheel Cover(Center Cap) as additional features.
+Maruti Alto K10 variants - VXI, VXI Plus, VXI AT, VXI Plus AT & VXI S-CNG share Body Coloured Bumpers,Body Coloured Outside Door Handles,Wheel Cover(Full) as additional features.

@@ -1,0 +1,63 @@
+Maruti Eeco Cargo has 3 variants: STD, STD CNG & STD AC CNG.
+All variants of Maruti Eeco Cargo do not have Power Steering.
+Maruti Eeco Cargo variant with Air Conditioner - STD AC CNG.
+Maruti Eeco Cargo variants without Air Conditioner - STD & STD CNG.
+All variants of Maruti Eeco Cargo have Heater.
+All variants of Maruti Eeco Cargo have Accessory Power Outlet.
+All variants of Maruti Eeco Cargo have Wheel Covers.
+All variants of Maruti Eeco Cargo do not have Side Airbag.
+All variants of Maruti Eeco Cargo have Seat Belt Warning.
+All variants of Maruti Eeco Cargo have Engine Immobilizer.
+All variants of Maruti Eeco Cargo do not have Side Airbag-Rear.
+All variants of Maruti Eeco Cargo have Electronic Multi-Tripmeter.
+All variants of Maruti Eeco Cargo have Halogen Headlamps.
+All variants of Maruti Eeco Cargo have Glove Box.
+All variants of Maruti Eeco Cargo have Adjustable Headlamps.
+All variants of Maruti Eeco Cargo have Passenger Airbag.
+All variants of Maruti Eeco Cargo have Child Safety Locks.
+All variants of Maruti Eeco Cargo have Fabric Upholstery.
+All Maruti Eeco Cargo variants use the K12N engine.
+All Maruti Eeco Cargo variants have a displacement of 1197  cubic centimeters.
+Maruti Eeco Cargo variant STD delivers a max power of 79.65 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Eeco Cargo variants - STD CNG & STD AC CNG have a max power of 70.67 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Eeco Cargo variant STD has a max torque of 104.4 Newton meters at 3000 Revolutions Per Minute (RPM).
+Maruti Eeco Cargo variants - STD CNG & STD AC CNG share a max torque of 95 Newton meters at 3000 Revolutions Per Minute (RPM).
+All Maruti Eeco Cargo variants have 4.0 valves per cylinder.
+All Maruti Eeco Cargo variants have a Manual transmission.
+All Maruti Eeco Cargo variants have 4.0 cylinders.
+All Maruti Eeco Cargo variants come with a 5-Speed gearbox.
+All Maruti Eeco Cargo variants have a Rear-Wheel Drive (RWD) drive type.
+Maruti Eeco Cargo variant STD runs on Petrol.
+Maruti Eeco Cargo variants - STD CNG & STD AC CNG use CNG as fuel.
+All Maruti Eeco Cargo variants comply with BS VI 2.0 emission norms.
+All Maruti Eeco Cargo variants have a turning radius of 4.5m.
+All Maruti Eeco Cargo variants have Disc front brakes.
+All Maruti Eeco Cargo variants have Drum rear brakes.
+All Maruti Eeco Cargo variants have a length of 3675 mm.
+All Maruti Eeco Cargo variants have a width of 1475 mm.
+All Maruti Eeco Cargo variants have a height of 1825 mm.
+All Maruti Eeco Cargo variants offer 540 Litres of boot space.
+All Maruti Eeco Cargo variants have a seating capacity of 2.0.
+Maruti Eeco Cargo variant STD has a wheelbase of 2750 mm.
+Maruti Eeco Cargo variants - STD CNG & STD AC CNG share a wheelbase of 2740 mm.
+Maruti Eeco Cargo variant STD has a kerb weight of 915 kg.
+Maruti Eeco Cargo variant STD CNG has a kerb weight of 1010 kg.
+Maruti Eeco Cargo variant STD AC CNG has a kerb weight of 1030 kg.
+All Maruti Eeco Cargo variants have a gross weight of 1540 kg.
+All Maruti Eeco Cargo variants have 5.0 doors.
+All Maruti Eeco Cargo variants have tyres of size 155 R13.
+All Maruti Eeco Cargo variants come with Tubeless tyres.
+All Maruti Eeco Cargo variants have 13 Inch wheels.
+All Maruti Eeco Cargo variants come equipped with 1.0 airbags.
+All Maruti Eeco Cargo variants have received a 2 Star Global NCAP safety rating.
+All Maruti Eeco Cargo variants have a top speed of 146 kmph.
+All Maruti Eeco Cargo variants have a front tread of 1520 mm.
+All Maruti Eeco Cargo variants have a rear tread of 1290 mm.
+Maruti Eeco Cargo variant STD provides a mileage of 20.2 kmpl.
+Maruti Eeco Cargo variants - STD CNG & STD AC CNG have mileage figures of 27.05 km/kg.
+Maruti Eeco Cargo variant STD features a fuel tank capacity of 32 Litres.
+Maruti Eeco Cargo variants - STD CNG & STD AC CNG have fuel tank capacities of 65 Litres.
+All Maruti Eeco Cargo variants have the MacPherson Strut suspension front suspension.
+All Maruti Eeco Cargo variants are equipped with Rear parking sensors.
+Maruti Eeco Cargo variants - STD & STD CNG share Wheel Centre Cap, Front Mud Flaps, Decal Badging, Covered Cargo Cabin, Door Lock(Driver and Back Door), Lockable Fuel Cap(Petrol) as additional features.
+Maruti Eeco Cargo variant STD AC CNG offers Wheel Centre Cap, Front Mud Flaps, Decal Badging, Covered Cargo Cabin, Door Lock(Driver and Back Door), Lockable Fuel Cap(Petrol), as additional features.

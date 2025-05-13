@@ -1,0 +1,128 @@
+﻿Mini Cooper Se has 1 variants: Electric.
+Mini Cooper Se has Power Steering.
+Mini Cooper Se has Air Conditioner.
+Mini Cooper Se has Heater.
+Mini Cooper Se has Automatic Climate Control.
+Mini Cooper Se has Accessory Power Outlet.
+Mini Cooper Se has Trunk Light.
+Mini Cooper Se has Vanity Mirror.
+Mini Cooper Se has Rear Reading Lamp.
+Mini Cooper Se has Rear Seat Centre Arm Rest.
+Mini Cooper Se has Rear AC Vents.
+Mini Cooper Se has Cruise Control.
+Mini Cooper Se has Engine Start/Stop Button.
+Mini Cooper Se has Voice Commands.
+Mini Cooper Se has Chrome Grille.
+Mini Cooper Se has KeyLess Entry.
+Mini Cooper Se has Follow Me Home Headlamps.
+Mini Cooper Se has Tachometer.
+Mini Cooper Se has Alloy Wheels.
+Mini Cooper Se has Integrated Antenna.
+Mini Cooper Se has Automatic Headlamps.
+Mini Cooper Se has LED DRLs.
+Mini Cooper Se has LED Headlamps.
+Mini Cooper Se has Anti-lock Braking System (ABS).
+Mini Cooper Se has Central Locking.
+Mini Cooper Se has Driver Airbag.
+Mini Cooper Se has Side Airbag.
+Mini Cooper Se has Seat Belt Warning.
+Mini Cooper Se does not have Side Airbag-Rear.
+Mini Cooper Se has Anti-Theft Device.
+Mini Cooper Se has Speed Sensing Auto Door Lock.
+Mini Cooper Se has Radio.
+Mini Cooper Se has Wireless Phone Charging.
+Mini Cooper Se has Bluetooth Connectivity.
+Mini Cooper Se has Apple CarPlay.
+Mini Cooper Se has Height Adjustable Front Seat Belts.
+Mini Cooper Se has Lumbar Support.
+Mini Cooper Se has Electronic Multi-Tripmeter.
+Mini Cooper Se has Digital Clock.
+Mini Cooper Se has Dual Tone Dashboard.
+Mini Cooper Se has LED Taillights.
+Mini Cooper Se has Brake Assist.
+Mini Cooper Se has Anti-Theft Alarm.
+Mini Cooper Se has Door Ajar Warning.
+Mini Cooper Se has Digital Odometer.
+Mini Cooper Se has Cooled Glovebox.
+Mini Cooper Se has Leather wrap gear-shift selector.
+Mini Cooper Se has Tailgate Ajar Warning.
+Mini Cooper Se has Compass.
+Mini Cooper Se has Wi-Fi Connectivity.
+Mini Cooper Se has Regenerative Braking.
+Mini Cooper Se has Fast Charging.
+Mini Cooper Se has Leather Seats.
+Mini Cooper Se has Driving Experience Control Eco.
+Mini Cooper Se has Fog Lights - Rear.
+Mini Cooper Se has Height Adjustable Driver Seat.
+Mini Cooper Se has Leather Wrapped Steering Wheel.
+Mini Cooper Se has Glove Box.
+Mini Cooper Se has Adjustable Headlamps.
+Mini Cooper Se has Passenger Airbag.
+Mini Cooper Se has Day & Night Rear View Mirror.
+Mini Cooper Se has Tyre Pressure Monitoring System (TPMS).
+Mini Cooper Se has Touchscreen.
+Mini Cooper Se has Rear Window Wiper.
+Mini Cooper Se has Rear Window Washer.
+Mini Cooper Se has Chrome Garnish.
+Mini Cooper Se has Child Safety Locks.
+Mini Cooper Se has Rear Spoiler.
+Mini Cooper Se has Rain Sensing Wiper.
+Mini Cooper Se has Air Quality Control.
+Mini Cooper Se has Folding Table in The Rear.
+Mini Cooper Se has Navigation System.
+Mini Cooper Se has Cigarette Lighter.
+Mini Cooper Se has Dual Tone Body Colour.
+Mini Cooper Se has Usb Ports.
+Mini Cooper Se has Gear Shift Indicator.
+Mini Cooper Se has LED Fog Lamps.
+Mini Cooper Se has Low Fuel Warning Light.
+Mini Cooper Se has Heated Wing Mirror.
+Mini Cooper Se has Fog Lights - Front.
+Mini Cooper Se has Integrated 2DIN Audio.
+Mini Cooper Se has USB & Auxiliary input.
+Mini Cooper Se has Audio System Remote Control.
+The Mini Cooper Se generates 181.03 Brake Horsepower (BHP).
+The Mini Cooper Se generates 270 Newton meters at 1000 Revolutions Per Minute (RPM).
+The Mini Cooper Se has a Automatic transmission.
+The Mini Cooper Se has a 1-Speed gearbox.
+The Mini Cooper Se has a Front-Wheel Drive (FWD) drive type.
+The Mini Cooper Se runs on Electric.
+The Mini Cooper Se complies with ZEV emission norms.
+The Mini Cooper Se has a length of 3996 mm.
+The Mini Cooper Se has a width of 1727 mm.
+The Mini Cooper Se has a height of 1432 mm.
+The Mini Cooper Se offers 211 Litres of boot space.
+The Mini Cooper Se has a seating capacity of 4.0.
+The Mini Cooper Se has a wheelbase of 3150 mm.
+The Mini Cooper Se has a kerb weight of 1365 kg.
+The Mini Cooper Se has 5.0 doors.
+The Mini Cooper Se is equipped with Unknown tyres.
+The Mini Cooper Se is equipped with 4.0 airbags.
+The Mini Cooper Se achieves 100-0 kmph braking in 40.2 s seconds.
+The Mini Cooper Se features Apple CarPlay connectivity options.
+The Mini Cooper Se achieves a top speed of 150 kmph.
+The Mini Cooper Se has a front tread of 1536 mm.
+The Mini Cooper Se takes 4.06 s for city driveability (20-80 kmph).
+The Mini Cooper Se features a Electric motor motor type.
+The Mini Cooper Se comes with a Lithium-Ion Battery battery.
+The Mini Cooper Se has a battery capacity of 32.6 kWh.
+The Mini Cooper Se features a motor with 135 kW power.
+The Mini Cooper Se provides a range of 270 km.
+The Mini Cooper Se charges in 2 Hours 30Min at 11kW (0-80%) using an A.C charger.
+The Mini Cooper Se charges in 36 Min at 50kW (0-80%) using a D.C charger.
+The Mini Cooper Se is equipped with a CCS-II charging port.
+The Mini Cooper Se supports 2.3 kW AC | 11 kW AC | 50 kW DC as charging options.
+The Mini Cooper Se includes a 11 kW AC Wall Box Charger charger type.
+The Mini Cooper Se reaches 0-100 km/h in 7.3 s.
+The Mini Cooper Se requires 2 Hours 30 Min at 11kW (0-80%) for a full charge.
+The Mini Cooper Se charges in 36Min (0-80%) using a 50 kW DC fast charger.
+The Mini Cooper Se offers a battery warranty of 8 Years or 160000 km.
+Mini Cooper Se has Adjustable Steering.
+The Mini Cooper Se features Rear parking sensors.
+The Mini Cooper Se features Front USB charging ports.
+The Mini Cooper Se has Front & Rear speakers.
+The Mini Cooper Se has a 60:40 Split foldable rear seat.
+The Mini Cooper Se has a With Storage central console armrest.
+Mini Cooper Se has Rear Seat Headrest.
+Mini Cooper Se has Sunroof.
+The Mini Cooper Se includes Telephony with Wireless Charging, Enhanced Bluetooth Mobile Preparation with USB Interface, MINI Navigation System, Radio MINI Visual Boost, Smartphone Integration (Apple CarPlay®), Wired Package (8.8 inch Touch Display Including MINI Navigation System and Radio MINI Visual Boost), Harman Kardon Hifi System, Multifunctional Instrument Display as additional features.

@@ -1,0 +1,125 @@
+﻿Porsche Macan Ev has 3 variants: Standard, 4S & Turbo.
+All variants of Porsche Macan Ev have Power Steering.
+All variants of Porsche Macan Ev have Air Conditioner.
+All variants of Porsche Macan Ev have Heater.
+All variants of Porsche Macan Ev have Accessory Power Outlet.
+All variants of Porsche Macan Ev have Trunk Light.
+All variants of Porsche Macan Ev have Vanity Mirror.
+All variants of Porsche Macan Ev have Rear Reading Lamp.
+All variants of Porsche Macan Ev have Adjustable Headrest.
+All variants of Porsche Macan Ev have Rear Seat Centre Arm Rest.
+All variants of Porsche Macan Ev have Rear AC Vents.
+All variants of Porsche Macan Ev have Cruise Control.
+All variants of Porsche Macan Ev have Voice Commands.
+All variants of Porsche Macan Ev do not have Hands-Free Tailgate.
+All variants of Porsche Macan Ev have KeyLess Entry.
+All variants of Porsche Macan Ev have Follow Me Home Headlamps.
+All variants of Porsche Macan Ev have Tachometer.
+All variants of Porsche Macan Ev have Alloy Wheels.
+All variants of Porsche Macan Ev have Integrated Antenna.
+All variants of Porsche Macan Ev have Automatic Headlamps.
+All variants of Porsche Macan Ev have LED DRLs.
+All variants of Porsche Macan Ev have LED Headlamps.
+All variants of Porsche Macan Ev have Anti-lock Braking System (ABS).
+All variants of Porsche Macan Ev have Central Locking.
+All variants of Porsche Macan Ev have Driver Airbag.
+All variants of Porsche Macan Ev have Side Airbag.
+All variants of Porsche Macan Ev have Seat Belt Warning.
+All variants of Porsche Macan Ev have Engine Immobilizer.
+Porsche Macan Ev variant without E-Call & I-Call - Turbo.
+All variants of Porsche Macan Ev have Side Airbag-Rear.
+All variants of Porsche Macan Ev have Electronic Stability Control (ESC).
+All variants of Porsche Macan Ev have Anti-Theft Device.
+All variants of Porsche Macan Ev have Speed Alert.
+All variants of Porsche Macan Ev have Speed Sensing Auto Door Lock.
+All variants of Porsche Macan Ev have ISOFIX Child Seat Mounts.
+All variants of Porsche Macan Ev have Hill Assist.
+All variants of Porsche Macan Ev have Impact Sensing Auto Door Unlock.
+All variants of Porsche Macan Ev have 360 View Camera.
+All variants of Porsche Macan Ev have Radio.
+All variants of Porsche Macan Ev have Bluetooth Connectivity.
+All variants of Porsche Macan Ev have Android Auto.
+All variants of Porsche Macan Ev have Apple CarPlay.
+Porsche Macan Ev variants with Geo-fence Alert - Standard & Turbo.
+All variants of Porsche Macan Ev have Height Adjustable Front Seat Belts.
+All variants of Porsche Macan Ev have Lumbar Support.
+All variants of Porsche Macan Ev have Dual Tone Dashboard.
+All variants of Porsche Macan Ev have LED Taillights.
+All variants of Porsche Macan Ev have Electronic Brakeforce Distribution (EBD).
+All variants of Porsche Macan Ev have Brake Assist.
+All variants of Porsche Macan Ev have Anti-Theft Alarm.
+All variants of Porsche Macan Ev have Door Ajar Warning.
+All variants of Porsche Macan Ev have Digital Odometer.
+Porsche Macan Ev variants with SOS / Emergency Assistance - Standard & Turbo.
+All variants of Porsche Macan Ev have Cooled Glovebox.
+All variants of Porsche Macan Ev have Glove Box light.
+All variants of Porsche Macan Ev have Heated Outside Rear View Mirror.
+All variants of Porsche Macan Ev have Tailgate Ajar Warning.
+All variants of Porsche Macan Ev have Regenerative Braking.
+All variants of Porsche Macan Ev have Fast Charging.
+All variants of Porsche Macan Ev have Traction Control.
+All variants of Porsche Macan Ev have Acoustic Vehicle Alert System.
+All variants of Porsche Macan Ev have Height Adjustable Driver Seat.
+All variants of Porsche Macan Ev have Rear Window Defogger.
+All variants of Porsche Macan Ev have Leather Wrapped Steering Wheel.
+All variants of Porsche Macan Ev have Glove Box.
+All variants of Porsche Macan Ev have Adjustable Headlamps.
+All variants of Porsche Macan Ev have Outside Rear View Mirror Turn Indicators.
+All variants of Porsche Macan Ev have Passenger Airbag.
+All variants of Porsche Macan Ev have Day & Night Rear View Mirror.
+All variants of Porsche Macan Ev have Tyre Pressure Monitoring System (TPMS).
+All variants of Porsche Macan Ev have Touchscreen.
+All variants of Porsche Macan Ev have Rear Window Wiper.
+All variants of Porsche Macan Ev have Rear Window Washer.
+All variants of Porsche Macan Ev have Child Safety Locks.
+All variants of Porsche Macan Ev have Rear Spoiler.
+All variants of Porsche Macan Ev have Rain Sensing Wiper.
+All variants of Porsche Macan Ev have Air Quality Control.
+All variants of Porsche Macan Ev have Roof Rails.
+All variants of Porsche Macan Ev have Curtain Airbag.
+All variants of Porsche Macan Ev have Usb Ports.
+Porsche Macan Ev variants without Gear Shift Indicator - Standard & 4S.
+Porsche Macan Ev variant with Luggage Hook & Net - Turbo.
+Porsche Macan Ev variants without Luggage Hook & Net - Standard & 4S.
+All variants of Porsche Macan Ev have LED Fog Lamps.
+Porsche Macan Ev variants without Rear Curtain - Standard & 4S.
+Porsche Macan Ev variant Standard delivers a max power of 402 Brake Horsepower (BHP).
+Porsche Macan Ev variant 4S delivers a max power of 509 Brake Horsepower (BHP).
+Porsche Macan Ev variant Turbo delivers a max power of 608 Brake Horsepower (BHP).
+Porsche Macan Ev variant Standard has a max torque of 650 Newton meters.
+Porsche Macan Ev variant 4S has a max torque of 820 Newton meters.
+Porsche Macan Ev variant Turbo has a max torque of 1130 Newton meters.
+All Porsche Macan Ev variants have a Automatic transmission.
+All Porsche Macan Ev variants come with a 1-Speed gearbox.
+All Porsche Macan Ev variants have a All-Wheel Drive (AWD) drive type.
+All Porsche Macan Ev variants run on Electric.
+All Porsche Macan Ev variants comply with ZEV emission norms.
+All Porsche Macan Ev variants have a length of 4784 mm.
+All Porsche Macan Ev variants have a width of 1938 mm.
+All Porsche Macan Ev variants have a height of 1622 mm.
+All Porsche Macan Ev variants offer 540 Litres of boot space.
+All Porsche Macan Ev variants have a seating capacity of 5.0.
+All Porsche Macan Ev variants have 5.0 doors.
+All Porsche Macan Ev variants come with a Automatic boot opening mechanism.
+All Porsche Macan Ev variants come with Unknown tyres.
+All Porsche Macan Ev variants come equipped with 8.0 airbags.
+All Porsche Macan Ev variants come with Android Auto, Apple CarPlay connectivity options.
+All Porsche Macan Ev variants are powered by a Lithium-Ion Battery battery.
+All Porsche Macan Ev variants come with a 100 kWh battery capacity.
+Porsche Macan Ev variants - Standard & Turbo offer the same range of 624 km.
+Porsche Macan Ev variant 4S has a driving range of 619 km.
+All Porsche Macan Ev variants take 10 Hours at 11kW (0-100%) to charge using an A.C charger.
+All Porsche Macan Ev variants take 21 Min at 270kW (10-80%) to charge using a D.C charger.
+All Porsche Macan Ev variants come with a CCS-II charging port.
+All Porsche Macan Ev variants accelerate from 0-100 km/h in 5.2 s.
+All Porsche Macan Ev variants take 21 Min at 270kW (10-80%) to charge.
+All Porsche Macan Ev variants have All Windows anti-pinch power windows.
+All variants of Porsche Macan Ev have Adjustable Steering.
+All Porsche Macan Ev variants are equipped with Front & Rear parking sensors.
+All Porsche Macan Ev variants come with Front & Rear USB charging ports.
+All Porsche Macan Ev variants have a With Guidedlines rear camera.
+All Porsche Macan Ev variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Porsche Macan Ev variants include Front & Rear speakers.
+All Porsche Macan Ev variants have a 60:40 Split foldable rear seat.
+All variants of Porsche Macan Ev have Central Console Armrest.
+All variants of Porsche Macan Ev have Rear Seat Headrest.

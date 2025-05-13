@@ -1,0 +1,283 @@
+Tata Harrier has 23 variants: Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+All variants of Tata Harrier have Power Steering.
+All variants of Tata Harrier have Air Conditioner.
+All variants of Tata Harrier have Heater.
+All variants of Tata Harrier have Automatic Climate Control.
+All variants of Tata Harrier have Accessory Power Outlet.
+All variants of Tata Harrier have Rear Reading Lamp.
+All variants of Tata Harrier have Adjustable Headrest.
+Tata Harrier variants with Rear Seat Centre Arm Rest - Adventure, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Rear Seat Centre Arm Rest - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Pure Plus S AT & Pure Plus S Dark AT.
+All variants of Tata Harrier have Rear AC Vents.
+Tata Harrier variants with Cruise Control - Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Cruise Control - Smart & Pure.
+Tata Harrier variants with Real-Time Vehicle Tracking - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Real-Time Vehicle Tracking - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Engine Start/Stop Button - Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Engine Start/Stop Button - Smart & Pure.
+Tata Harrier variants with Voice Commands - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variant without Voice Commands - Smart.
+Tata Harrier variants with Hands-Free Tailgate - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Hands-Free Tailgate - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with KeyLess Entry - Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without KeyLess Entry - Smart & Pure.
+Tata Harrier variants with Follow Me Home Headlamps - Adventure, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Follow Me Home Headlamps - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Pure Plus S AT & Pure Plus S Dark AT.
+All variants of Tata Harrier have Tachometer.
+All variants of Tata Harrier do not have Wheel Covers.
+All variants of Tata Harrier have Alloy Wheels.
+Tata Harrier variants with Integrated Antenna - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variant without Integrated Antenna - Smart.
+All variants of Tata Harrier have Projector Headlamps.
+Tata Harrier variants with Automatic Headlamps - Pure Plus S, Pure Plus S Dark, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Automatic Headlamps - Smart, Pure, Pure Plus, Pure Plus AT & Adventure.
+All variants of Tata Harrier have LED DRLs.
+All variants of Tata Harrier have LED Headlamps.
+All variants of Tata Harrier have Anti-lock Braking System (ABS).
+All variants of Tata Harrier have Central Locking.
+All variants of Tata Harrier have Driver Airbag.
+All variants of Tata Harrier have Side Airbag.
+All variants of Tata Harrier have Seat Belt Warning.
+All variants of Tata Harrier have Engine Immobilizer.
+Tata Harrier variants with E-Call & I-Call - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without E-Call & I-Call - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Remote AC On/Off - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Remote AC On/Off - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+All variants of Tata Harrier do not have Side Airbag-Rear.
+All variants of Tata Harrier have Electronic Stability Control (ESC).
+All variants of Tata Harrier have Anti-Theft Device.
+All variants of Tata Harrier have Speed Alert.
+All variants of Tata Harrier have Speed Sensing Auto Door Lock.
+All variants of Tata Harrier have ISOFIX Child Seat Mounts.
+All variants of Tata Harrier have Hill Assist.
+All variants of Tata Harrier have Impact Sensing Auto Door Unlock.
+Tata Harrier variants with 360 View Camera - Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without 360 View Camera - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT & Pure Plus S Dark AT.
+Tata Harrier variants with Radio - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variant without Radio - Smart.
+Tata Harrier variants with Wireless Phone Charging - Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Wireless Phone Charging - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT & Pure Plus S Dark AT.
+Tata Harrier variants with Bluetooth Connectivity - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variant without Bluetooth Connectivity - Smart.
+Tata Harrier variants with Android Auto - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variant without Android Auto - Smart.
+Tata Harrier variants with Apple CarPlay - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variant without Apple CarPlay - Smart.
+Tata Harrier variants with Driver Attention Warning - Adventure Plus A, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Driver Attention Warning - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus AT & Adventure Plus Dark AT.
+Tata Harrier variants with Live Location - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Live Location - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Over the Air (OTA) Updates - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variant without Over the Air (OTA) Updates - Smart.
+Tata Harrier variants with Google / Alexa Connectivity - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Google / Alexa Connectivity - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Over Speeding Alert - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Over Speeding Alert - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Smartwatch App - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Smartwatch App - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Valet Mode - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Valet Mode - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Remote Door Lock/Unlock - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Remote Door Lock/Unlock - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Geo-fence Alert - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Geo-fence Alert - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+All variants of Tata Harrier have Height Adjustable Front Seat Belts.
+Tata Harrier variants with Lumbar Support - Adventure, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Lumbar Support - Smart, Pure, Pure Plus, Pure Plus S Dark, Pure Plus AT, Pure Plus S AT & Pure Plus S Dark AT.
+Tata Harrier variants with Paddle Shifters - Pure Plus AT, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus AT, Adventure Plus Dark AT, Adventure Plus A AT, Fearless AT, Fearless Dark AT, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Paddle Shifters - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Adventure, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Fearless, Fearless Dark, Fearless Plus & Fearless Plus Dark.
+All variants of Tata Harrier have LED Taillights.
+All variants of Tata Harrier have Electronic Brakeforce Distribution (EBD).
+All variants of Tata Harrier have Anti-Theft Alarm.
+All variants of Tata Harrier have Door Ajar Warning.
+Tata Harrier variants with Remote Immobiliser - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Remote Immobiliser - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Forward Collision Warning - Adventure Plus A, Adventure Plus A AT, Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Forward Collision Warning - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Automatic Emergency Braking - Adventure Plus A, Adventure Plus A AT, Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Automatic Emergency Braking - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Traffic Sign Recognition - Adventure Plus A, Adventure Plus A AT, Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Traffic Sign Recognition - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Blind Spot Collision Avoidance Assist - Adventure Plus A, Adventure Plus A AT, Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Blind Spot Collision Avoidance Assist - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Lane Departure Warning - Adventure Plus A, Adventure Plus A AT, Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Lane Departure Warning - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Lane Keep Assist - Adventure Plus A, Adventure Plus A AT, Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Lane Keep Assist - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Adaptive Cruise Control - Adventure Plus A AT, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Adaptive Cruise Control - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Fearless AT, Fearless Plus, Fearless Dark AT & Fearless Plus Dark.
+Tata Harrier variants with Leading Vehicle Departure Alert - Adventure Plus A, Adventure Plus A AT, Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Leading Vehicle Departure Alert - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Adaptive High Beam Assist - Adventure Plus A, Adventure Plus A AT, Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Adaptive High Beam Assist - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Rear Cross Traffic Alert - Adventure Plus A, Adventure Plus A AT, Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Rear Cross Traffic Alert - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Rear Cross Traffic Collision-Avoidance Assist - Adventure Plus A, Adventure Plus A AT, Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Rear Cross Traffic Collision-Avoidance Assist - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Unauthorised Vehicle entry - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Unauthorised Vehicle entry - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Navigation with Live Traffic - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Navigation with Live Traffic - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Send POI to Vehicle From App - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Send POI to Vehicle From App - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with In Car Remote Control App - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without In Car Remote Control App - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Ventilated Seats - Fearless, Fearless Dark, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Ventilated Seats - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT & Adventure Plus A AT.
+Tata Harrier variants with Hill Descent Control - Fearless, Fearless Dark, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Hill Descent Control - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT & Adventure Plus A AT.
+Tata Harrier variants with Cornering Foglamps - Fearless, Fearless Dark, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Cornering Foglamps - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT & Adventure Plus A AT.
+Tata Harrier variants with Rear Window Sunblind - Adventure, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Rear Window Sunblind - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Pure Plus S AT & Pure Plus S Dark AT.
+All variants of Tata Harrier do not have Rear Windscreen Sunblind.
+All variants of Tata Harrier do not have Leather wrap gear-shift selector.
+All variants of Tata Harrier do not have Headlamp Washers.
+All variants of Tata Harrier do not have Smoke Headlamps.
+All variants of Tata Harrier do not have Heated Outside Rear View Mirror.
+Tata Harrier variants with Digital Car Key - Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Digital Car Key - Smart & Pure.
+Tata Harrier variants with Live Weather - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Live Weather - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Remote Vehicle Ignition Start/Stop - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Remote Vehicle Ignition Start/Stop - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Remote Boot Open - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Remote Boot Open - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Remote Vehicle Status Check - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Remote Vehicle Status Check - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with SOS Button - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without SOS Button - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Voice assisted sunroof - Pure Plus S, Pure Plus S Dark, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark & Fearless Plus AT.
+Tata Harrier variants without Voice assisted sunroof - Smart, Pure, Pure Plus, Pure Plus AT & Adventure.
+All variants of Tata Harrier do not have Convertible Top.
+Tata Harrier variants with Engine Start Alarm - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Engine Start Alarm - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Save Route/Place - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Save Route/Place - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+All variants of Tata Harrier have Traction Control.
+Tata Harrier variants with RSA - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without RSA - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants with Height Adjustable Driver Seat - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants with Rear Window Defogger - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+All variants of Tata Harrier have Leather Wrapped Steering Wheel.
+All variants of Tata Harrier have Glove Box.
+All variants of Tata Harrier have Outside Rear View Mirror Turn Indicators.
+All variants of Tata Harrier have Passenger Airbag.
+All variants of Tata Harrier have Day & Night Rear View Mirror.
+Tata Harrier variants with Tyre Pressure Monitoring System (TPMS) - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants with Touchscreen - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants with Rear Window Wiper - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants with Rear Window Washer - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+All variants of Tata Harrier have Child Safety Locks.
+All variants of Tata Harrier have Rear Spoiler.
+Tata Harrier variants with Rain Sensing Wiper - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants with Air Quality Control - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+All variants of Tata Harrier have Folding Table in The Rear.
+Tata Harrier variants with Roof Rails - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+All variants of Tata Harrier have Cigarette Lighter.
+All variants of Tata Harrier have Side Stepper.
+All variants of Tata Harrier have Curtain Airbag.
+Tata Harrier variants with Usb Ports - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variant without Usb Ports - Smart.
+Tata Harrier variants with LED Fog Lamps - Adventure, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without LED Fog Lamps - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Pure Plus S AT & Pure Plus S Dark AT.
+Tata Harrier variants with Integrated 2DIN Audio - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variant without Integrated 2DIN Audio - Smart.
+All Tata Harrier variants use the Kryotec 2.0L engine.
+All Tata Harrier variants have a displacement of 1956  cubic centimeters.
+All Tata Harrier variants produce a maximum power of 167.62 Brake Horsepower (BHP) at 3750 Revolutions Per Minute (RPM).
+All Tata Harrier variants produce a maximum torque of 350 Newton meters at 1750 to 2500 Revolutions Per Minute (RPM).
+All Tata Harrier variants have 4.0 valves per cylinder.
+Tata Harrier variants - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Adventure, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Fearless, Fearless Dark, Fearless Plus & Fearless Plus Dark share a Manual transmission.
+Tata Harrier variants - Pure Plus AT, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus AT, Adventure Plus Dark AT, Adventure Plus A AT, Fearless AT, Fearless Dark AT, Fearless Plus AT & Fearless Plus Dark AT share a Automatic transmission.
+All Tata Harrier variants have 4.0 cylinders.
+All Tata Harrier variants come with a 6-Speed gearbox.
+All Tata Harrier variants have a Front-Wheel Drive (FWD) drive type.
+All Tata Harrier variants run on Diesel.
+All Tata Harrier variants comply with BS VI 2.0 emission norms.
+All Tata Harrier variants come with Electric steering.
+All Tata Harrier variants have Disc front brakes.
+Tata Harrier variants - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT & Pure Plus S Dark AT feature Drum rear brakes.
+Tata Harrier variants - Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT feature Disc rear brakes.
+All Tata Harrier variants have a length of 4605 mm.
+All Tata Harrier variants have a width of 1922 mm.
+All Tata Harrier variants have a height of 1718 mm.
+All Tata Harrier variants offer 445 Litres of boot space.
+All Tata Harrier variants have a seating capacity of 5.0.
+Tata Harrier variants - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share a wheelbase of 2741 mm.
+Tata Harrier variant Pure Plus S AT has a wheelbase of 2680 mm.
+All Tata Harrier variants have 5.0 doors.
+Tata Harrier variants - Smart & Pure feature a Manual boot opening mechanism.
+Tata Harrier variants - Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT feature a Electronic boot opening mechanism.
+Tata Harrier variants - Smart & Pure feature Manual Outside Rear View Mirror (ORVM).
+Tata Harrier variants - Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT feature Powered Outside Rear View Mirror (ORVM).
+Tata Harrier variants - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT & Pure Plus S Dark AT feature tyres of size 235/65/R17.
+Tata Harrier variants - Adventure Plus, Adventure Plus A, Adventure Plus AT, Fearless, Adventure Plus A AT, Fearless AT & Fearless Plus AT feature tyres of size 235/60/R18.
+Tata Harrier variants - Adventure Plus Dark, Adventure Plus Dark AT, Fearless Dark, Fearless Dark AT, Fearless Plus Dark & Fearless Plus Dark AT feature tyres of size 245/55/R19.
+Tata Harrier variant Fearless Plus comes with tyres of size 235/60 R18.
+All Tata Harrier variants come with Tyre Type tyres.
+Tata Harrier variants - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT offer 6.0 airbags.
+Tata Harrier variants - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT offer 7.0 airbags.
+Tata Harrier variants - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT have been rated 5 Star by Global NCAP.
+Tata Harrier variants - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT have a child safety rating of 5 Star from Global NCAP.
+Tata Harrier variants - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT & Adventure Plus A AT come with a 10.24 inch touchscreen display.
+Tata Harrier variants - Fearless, Fearless Dark, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT come with a 12.29 inch touchscreen display.
+Tata Harrier variants - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT come with 4.0 speakers.
+Tata Harrier variants - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT come with 5.0 speakers.
+Tata Harrier variants - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT & Pure Plus S Dark AT have 17 Inch front alloy wheels.
+Tata Harrier variants - Adventure Plus, Adventure Plus A, Adventure Plus AT, Fearless, Adventure Plus A AT, Fearless AT, Fearless Plus & Fearless Plus AT have 18 Inch front alloy wheels.
+Tata Harrier variants - Adventure Plus Dark, Adventure Plus Dark AT, Fearless Dark, Fearless Dark AT, Fearless Plus Dark & Fearless Plus Dark AT have 19 Inch front alloy wheels.
+Tata Harrier variants - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT & Pure Plus S Dark AT have 17 Inch rear alloy wheels.
+Tata Harrier variants - Adventure Plus, Adventure Plus A, Adventure Plus AT, Fearless, Adventure Plus A AT, Fearless AT, Fearless Plus & Fearless Plus AT have 18 Inch rear alloy wheels.
+Tata Harrier variants - Adventure Plus Dark, Adventure Plus Dark AT, Fearless Dark, Fearless Dark AT, Fearless Plus Dark & Fearless Plus Dark AT have 19 Inch rear alloy wheels.
+Tata Harrier variants - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT & Adventure Plus A AT have 2.0 tweeters.
+Tata Harrier variants - Fearless, Fearless Dark, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT have 4.0 tweeters.
+Tata Harrier variants - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT have Android Auto, Apple CarPlay connectivity options.
+Tata Harrier variant Smart includes a No Digital Cluster digital cluster.
+Tata Harrier variants - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT feature a Full Digital digital cluster.
+Tata Harrier variants - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Pure Plus S AT & Pure Plus S Dark AT feature Fabric upholstery options.
+Tata Harrier variants - Adventure, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT feature Leatherette upholstery options.
+Tata Harrier variants - Fearless, Fearless Dark, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT have the same subwoofer setup with 1.0.
+Tata Harrier variant Adventure has 815 Litres of boot space with the rear seats down.
+All Tata Harrier variants offer a mileage of 16.8 kmpl.
+All Tata Harrier variants have a fuel tank capacity of 50 Litres.
+All Tata Harrier variants have the MacPherson Strut suspension front suspension.
+All Tata Harrier variants have the Rear twist beam rear suspension.
+All Tata Harrier variants come with Tilt & Telescopic steering adjustment.
+All variants of Tata Harrier have Adjustable Steering.
+Tata Harrier variants - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT & Pure Plus S Dark AT share the Rear parking sensor configuration.
+Tata Harrier variants - Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share the Front & Rear parking sensor configuration.
+Tata Harrier variants - Smart & Pure share the Front USB charging configuration.
+Tata Harrier variants - Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share the Front & Rear USB charging configuration.
+Tata Harrier variants - Adventure, Adventure Plus, Adventure Plus A, Fearless Dark, Adventure Plus A AT & Fearless AT share the Front & Rear power window configuration.
+Tata Harrier variants - Adventure, Adventure Plus, Adventure Plus A, Fearless Dark, Adventure Plus A AT & Fearless AT share the Front & Rear cup holder configuration.
+Tata Harrier variants without Fog Lights - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Pure Plus S AT & Pure Plus S Dark AT.
+Tata Harrier variants - Adventure, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT & Adventure Plus A AT share the Front fog light configuration.
+Tata Harrier variants - Fearless, Fearless Dark, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share the Front & Rear fog light configuration.
+Tata Harrier variants - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share the Shark Fin antenna type.
+Tata Harrier variants - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share the 10.24 inch digital cluster size.
+Tata Harrier variant without Rear Camera - Smart.
+Tata Harrier variants - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share the With Guidedlines rear camera type.
+All Tata Harrier variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Tata Harrier variant without Speakers - Smart.
+Tata Harrier variants - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share the Front & Rear speaker configuration.
+Tata Harrier variants without Electric Adjustable Seats - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT & Adventure Plus A AT.
+Tata Harrier variants - Fearless, Fearless Dark, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share the Front electric seat adjustment type.
+All Tata Harrier variants have a 60:40 Split foldable rear seat.
+Tata Harrier variants without Central Console Armrest - Smart & Pure.
+Tata Harrier variants with Central Console Armrest - Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Pure Plus S AT & Pure Plus S Dark AT.
+Tata Harrier variants - Adventure, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share the With Storage central console armrest type.
+All variants of Tata Harrier have Turbo Charger.
+Tata Harrier variants without Knee Airbags - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT.
+Tata Harrier variants - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share the Driver knee airbag configuration.
+All variants of Tata Harrier do not have Autonomous Parking.
+Tata Harrier variants with Rear Seat Headrest - Smart, Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus Dark, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT.
+Tata Harrier variants without Sunroof - Smart, Pure, Pure Plus, Pure Plus AT & Adventure.
+Tata Harrier variants - Pure Plus S, Pure Plus S Dark, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share a Panoramic sunroof.
+Tata Harrier variants without Drive Modes - Smart & Pure.
+Tata Harrier variants - Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share the 3 drive mode configuration.
+Tata Harrier variants without Drive Mode Types - Smart & Pure.
+Tata Harrier variants - Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT, Fearless Plus, Fearless Dark AT, Fearless Plus Dark & Fearless Plus AT share the Eco, City & Sport drive mode options.
+Tata Harrier variant without Additional Features - Smart.
+Tata Harrier variants - Pure, Pure Plus, Pure Plus S, Pure Plus S Dark, Pure Plus AT, Adventure, Pure Plus S AT, Pure Plus S Dark AT, Adventure Plus, Adventure Plus Dark, Adventure Plus A, Adventure Plus AT, Adventure Plus Dark AT, Fearless, Fearless Dark, Adventure Plus A AT, Fearless AT & Fearless Dark AT share Wireless Android Auto & Apple CarPlay as additional features.
+Tata Harrier variants - Fearless Plus, Fearless Plus Dark, Fearless Plus AT & Fearless Plus Dark AT share Wireless Android Auto & Apple CarPlay, Connected Vehicle Technology with iRA 2.0 as additional features.

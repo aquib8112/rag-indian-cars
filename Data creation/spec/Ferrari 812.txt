@@ -1,0 +1,156 @@
+﻿Ferrari 812 has 1 variants: GTS.
+Ferrari 812 has Power Steering.
+Ferrari 812 has Air Conditioner.
+Ferrari 812 has Heater.
+Ferrari 812 has Automatic Climate Control.
+Ferrari 812 does not have Accessory Power Outlet.
+Ferrari 812 has Trunk Light.
+Ferrari 812 has Vanity Mirror.
+Ferrari 812 does not have Rear Reading Lamp.
+Ferrari 812 has Adjustable Headrest.
+Ferrari 812 does not have Rear Seat Centre Arm Rest.
+Ferrari 812 does not have Rear AC Vents.
+Ferrari 812 has Cruise Control.
+Ferrari 812 has Real-Time Vehicle Tracking.
+Ferrari 812 has Engine Start/Stop Button.
+Ferrari 812 has Voice Commands.
+Ferrari 812 has Hands-Free Tailgate.
+Ferrari 812 does not have Chrome Grille.
+Ferrari 812 has KeyLess Entry.
+Ferrari 812 has Tachometer.
+Ferrari 812 does not have Wheel Covers.
+Ferrari 812 has Alloy Wheels.
+Ferrari 812 has Integrated Antenna.
+Ferrari 812 has LED DRLs.
+Ferrari 812 has LED Headlamps.
+Ferrari 812 has Anti-lock Braking System (ABS).
+Ferrari 812 does not have Central Locking.
+Ferrari 812 has Driver Airbag.
+Ferrari 812 has Side Airbag.
+Ferrari 812 has Seat Belt Warning.
+Ferrari 812 has Engine Immobilizer.
+Ferrari 812 does not have Side Airbag-Rear.
+Ferrari 812 has Electronic Stability Control (ESC).
+Ferrari 812 has Speed Alert.
+Ferrari 812 has Speed Sensing Auto Door Lock.
+Ferrari 812 has Impact Sensing Auto Door Unlock.
+Ferrari 812 has Radio.
+Ferrari 812 does not have Wireless Phone Charging.
+Ferrari 812 has Bluetooth Connectivity.
+Ferrari 812 has Android Auto.
+Ferrari 812 has Apple CarPlay.
+Ferrari 812 does not have Remote Climate Control (A/C).
+Ferrari 812 does not have Height Adjustable Front Seat Belts.
+Ferrari 812 has Lumbar Support.
+Ferrari 812 has Paddle Shifters.
+Ferrari 812 has Electronic Multi-Tripmeter.
+Ferrari 812 has Digital Clock.
+Ferrari 812 has Outside Temperature Display.
+Ferrari 812 has Dual Tone Dashboard.
+Ferrari 812 does not have Power Antenna.
+Ferrari 812 has LED Taillights.
+Ferrari 812 has Door Ajar Warning.
+Ferrari 812 has Digital Odometer.
+Ferrari 812 has Ventilated Seats.
+Ferrari 812 has Active noise cancellation.
+Ferrari 812 does not have Cornering Foglamps.
+Ferrari 812 has Leather wrap gear-shift selector.
+Ferrari 812 does not have Headlamp Washers.
+Ferrari 812 does not have Smoke Headlamps.
+Ferrari 812 has Blind Spot Monitor.
+Ferrari 812 has Tailgate Ajar Warning.
+Ferrari 812 has Remote Trunk Opener.
+Ferrari 812 does not have Remote Fuel Lid Opener.
+Ferrari 812 has Compass.
+Ferrari 812 does not have Wi-Fi Connectivity.
+Ferrari 812 does not have Cornering Headlamps.
+Ferrari 812 has Traction Control.
+Ferrari 812 does not have Rear Entertainment System.
+Ferrari 812 has Leather Seats.
+Ferrari 812 does not have Driving Experience Control Eco.
+Ferrari 812 does not have MirrorLink.
+Ferrari 812 does not have Fog Lights - Rear.
+Ferrari 812 does not have Find My Car location.
+Ferrari 812 has Height Adjustable Driver Seat.
+Ferrari 812 has Rear Window Defogger.
+Ferrari 812 has Leather Wrapped Steering Wheel.
+Ferrari 812 has Adjustable Headlamps.
+Ferrari 812 has Outside Rear View Mirror Turn Indicators.
+Ferrari 812 has Passenger Airbag.
+Ferrari 812 has Day & Night Rear View Mirror.
+Ferrari 812 has Tyre Pressure Monitoring System (TPMS).
+Ferrari 812 has Touchscreen.
+Ferrari 812 has Rear Window Wiper.
+Ferrari 812 has Rear Window Washer.
+Ferrari 812 has Chrome Garnish.
+Ferrari 812 has Child Safety Locks.
+Ferrari 812 has Rear Spoiler.
+Ferrari 812 has Rain Sensing Wiper.
+Ferrari 812 has Air Quality Control.
+Ferrari 812 has Folding Table in The Rear.
+Ferrari 812 has Navigation System.
+Ferrari 812 has Smart Access Card Entry.
+Ferrari 812 has Fabric Upholstery.
+Ferrari 812 has Roof Rails.
+Ferrari 812 has Cigarette Lighter.
+Ferrari 812 has Roof Carrier.
+Ferrari 812 has Side Stepper.
+Ferrari 812 has Dual Tone Body Colour.
+Ferrari 812 has Usb Ports.
+Ferrari 812 has Gear Shift Indicator.
+Ferrari 812 has Luggage Hook & Net.
+Ferrari 812 does not have LED Fog Lamps.
+Ferrari 812 has Low Fuel Warning Light.
+Ferrari 812 has Heated Wing Mirror.
+Ferrari 812 has Power Boot.
+Ferrari 812 does not have Fog Lights - Front.
+Ferrari 812 has Integrated 2DIN Audio.
+Ferrari 812 has USB & Auxiliary input.
+Ferrari 812 does not have Rear Curtain.
+Ferrari 812 does not have Audio System Remote Control.
+Ferrari 812 does not have Smart Key Band.
+The Ferrari 812 has the V12 - 65° engine.
+The Ferrari 812 has a displacement of 6496  cubic centimeters.
+The Ferrari 812 generates 788.52 Brake Horsepower (BHP) at 8500 Revolutions Per Minute (RPM).
+The Ferrari 812 generates 718 Newton meters at 7000 Revolutions Per Minute (RPM).
+The Ferrari 812 has 4.0 valves per cylinder.
+The Ferrari 812 has a Automatic transmission.
+The Ferrari 812 has 12.0 cylinders.
+The Ferrari 812 has a 7-Speed-DCT gearbox.
+The Ferrari 812 has a Rear-Wheel Drive (RWD) drive type.
+The Ferrari 812 runs on Petrol.
+The Ferrari 812 complies with BS VI emission norms.
+The Ferrari 812 has Power steering.
+The Ferrari 812 has Carbon Ceramic front brakes.
+The Ferrari 812 has Carbon Ceramic rear brakes.
+The Ferrari 812 has a length of 4693 mm.
+The Ferrari 812 has a width of 1971 mm.
+The Ferrari 812 has a height of 1276 mm.
+The Ferrari 812 offers 320 Litres of boot space.
+The Ferrari 812 has a seating capacity of 2.0.
+The Ferrari 812 has a wheelbase of 2720 mm.
+The Ferrari 812 has a kerb weight of 1600 kg.
+The Ferrari 812 has 2.0 doors.
+The Ferrari 812 is fitted with tyres of size 275/35 R20",315/35 R20".
+The Ferrari 812 is equipped with Tubeless Radial tyres.
+The Ferrari 812 is equipped with 6.0 airbags.
+The Ferrari 812 features Android Auto, Apple CarPlay connectivity options.
+The Ferrari 812 achieves a top speed of 340 kmph.
+The Ferrari 812 has a front tread of 1598 mm.
+The Ferrari 812 achieves 0-100 kmph acceleration in 3.0 s.
+The Ferrari 812 achieves 0-100 kmph in 3.0 s.
+The Ferrari 812 is equipped with a Rack & Pinion steering gear type.
+The Ferrari 812 features a rear tread of 1645 mm.
+The Ferrari 812 delivers a highway mileage of 6.2 kmpl.
+The Ferrari 812 comes with a fuel tank capacity of 92 Litres.
+The Ferrari 812 comes with the Multi-link suspension front suspension.
+The Ferrari 812 comes with the Multi-link suspension rear suspension.
+The Ferrari 812 features Adjustable Steering steering adjustment.
+Ferrari 812 has Adjustable Steering.
+The Ferrari 812 features Front & Rear parking sensors.
+The Ferrari 812 features Front USB charging ports.
+The Ferrari 812 has Front & Rear speakers.
+The Ferrari 812 has Front electric adjustable seats.
+Ferrari 812 has Central Console Armrest.
+Ferrari 812 does not have Rear Seat Headrest.
+Ferrari 812 does not have Sunroof.

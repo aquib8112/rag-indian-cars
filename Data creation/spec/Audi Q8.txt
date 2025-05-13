@@ -1,0 +1,125 @@
+Audi Q8 has 1 variants: Quattro.
+Audi Q8 has Power Steering.
+Audi Q8 has Air Conditioner.
+Audi Q8 has Heater.
+Audi Q8 has Automatic Climate Control.
+Audi Q8 has Accessory Power Outlet.
+Audi Q8 has Trunk Light.
+Audi Q8 has Vanity Mirror.
+Audi Q8 has Rear Reading Lamp.
+Audi Q8 has Adjustable Headrest.
+Audi Q8 has Rear AC Vents.
+Audi Q8 has Cruise Control.
+Audi Q8 has Real-Time Vehicle Tracking.
+Audi Q8 has Engine Start/Stop Button.
+Audi Q8 has Voice Commands.
+Audi Q8 does not have Hands-Free Tailgate.
+Audi Q8 has KeyLess Entry.
+Audi Q8 has Idle Start-Stop System.
+Audi Q8 has Follow Me Home Headlamps.
+Audi Q8 has Tachometer.
+Audi Q8 has Alloy Wheels.
+Audi Q8 has Integrated Antenna.
+Audi Q8 has LED DRLs.
+Audi Q8 has LED Headlamps.
+Audi Q8 has Anti-lock Braking System (ABS).
+Audi Q8 has Central Locking.
+Audi Q8 has Driver Airbag.
+Audi Q8 has Side Airbag.
+Audi Q8 has Seat Belt Warning.
+Audi Q8 has Engine Immobilizer.
+Audi Q8 has Side Airbag-Rear.
+Audi Q8 has Electronic Stability Control (ESC).
+Audi Q8 has Anti-Theft Device.
+Audi Q8 has Speed Alert.
+Audi Q8 has Speed Sensing Auto Door Lock.
+Audi Q8 has Hill Assist.
+Audi Q8 has Impact Sensing Auto Door Unlock.
+Audi Q8 has 360 View Camera.
+Audi Q8 has Radio.
+Audi Q8 has Wireless Phone Charging.
+Audi Q8 has Bluetooth Connectivity.
+Audi Q8 has Android Auto.
+Audi Q8 has Apple CarPlay.
+Audi Q8 has Height Adjustable Front Seat Belts.
+Audi Q8 has Lumbar Support.
+Audi Q8 has LED Taillights.
+Audi Q8 has Electronic Brakeforce Distribution (EBD).
+Audi Q8 has Brake Assist.
+Audi Q8 has Anti-Theft Alarm.
+Audi Q8 has Door Ajar Warning.
+Audi Q8 has Cooled Glovebox.
+Audi Q8 has Glove Box light.
+Audi Q8 has Tailgate Ajar Warning.
+Audi Q8 has Traction Control.
+Audi Q8 has Height Adjustable Driver Seat.
+Audi Q8 has Rear Window Defogger.
+Audi Q8 has Leather Wrapped Steering Wheel.
+Audi Q8 has Glove Box.
+Audi Q8 has Adjustable Headlamps.
+Audi Q8 has Outside Rear View Mirror Turn Indicators.
+Audi Q8 has Passenger Airbag.
+Audi Q8 has Day & Night Rear View Mirror.
+Audi Q8 has Tyre Pressure Monitoring System (TPMS).
+Audi Q8 has Touchscreen.
+Audi Q8 has Rear Window Wiper.
+Audi Q8 has Rear Window Washer.
+Audi Q8 has Child Safety Locks.
+Audi Q8 has Rain Sensing Wiper.
+Audi Q8 has Air Quality Control.
+Audi Q8 has Curtain Airbag.
+Audi Q8 has Usb Ports.
+Audi Q8 has Luggage Hook & Net.
+The Audi Q8 has the V6 engine.
+The Audi Q8 has a displacement of 2995  cubic centimeters.
+The Audi Q8 generates 335 Brake Horsepower (BHP) at 5200  to  6400 Revolutions Per Minute (RPM).
+The Audi Q8 generates 500 Newton meters at 1370  to  4500 Revolutions Per Minute (RPM).
+The Audi Q8 has 4.0 valves per cylinder.
+The Audi Q8 has a Automatic transmission.
+The Audi Q8 has 6.0 cylinders.
+The Audi Q8 has a 8-Speed gearbox.
+The Audi Q8 has a All-Wheel Drive (AWD) drive type.
+The Audi Q8 runs on Petrol.
+The Audi Q8 complies with BS VI 2.0 emission norms.
+The Audi Q8 has Electric steering.
+The Audi Q8 has Disc front brakes.
+The Audi Q8 has Disc rear brakes.
+The Audi Q8 has a length of 4995 mm.
+The Audi Q8 has a width of 1995 mm.
+The Audi Q8 has a height of 1705 mm.
+The Audi Q8 offers 605 Litres of boot space.
+The Audi Q8 has a seating capacity of 5.0.
+The Audi Q8 has a wheelbase of 2995 mm.
+The Audi Q8 has 5.0 doors.
+The Audi Q8 features a Powered boot opening mechanism.
+The Audi Q8 is equipped with Powered & Folding Outside Rear View Mirror (ORVM).
+The Audi Q8 is equipped with Unknown tyres.
+The Audi Q8 is equipped with 8.0 airbags.
+The Audi Q8 has been rated 5 Star by Global NCAP.
+The Audi Q8 has received a 5 Star child safety rating from Global NCAP.
+The Audi Q8 is equipped with a unknown touchscreen.
+The Audi Q8 is equipped with 17.0 speakers.
+The Audi Q8 features 21 Inch front alloy wheels.
+The Audi Q8 features 21 Inch rear alloy wheels.
+The Audi Q8 comes with a Full Digital digital cluster.
+The Audi Q8 achieves a top speed of 250 kmph.
+The Audi Q8 achieves 0-100 kmph acceleration in 5.6 s.
+The Audi Q8 achieves 0-100 kmph in 5.6 s.
+The Audi Q8 features All Windows anti-pinch power windows.
+The Audi Q8 delivers a highway mileage of 10 kmpl.
+The Audi Q8 features Tilt & Telescopic steering adjustment.
+The Audi Q8 features Powered Adjustment steering adjustability.
+The Audi Q8 features Front & Rear parking sensors.
+The Audi Q8 features Front & Rear USB charging ports.
+The Audi Q8 features Front & Rear power windows.
+The Audi Q8 features Front & Rear cup holders.
+The Audi Q8 features a Shark Fin antenna.
+The Audi Q8 has a 12.29 inch digital cluster.
+The Audi Q8 has a With Guidedlines rear camera.
+The Audi Q8 has Driver and Passenger seatbelt pretensioners and force limiters.
+The Audi Q8 has Front & Rear speakers.
+The Audi Q8 has Front electric adjustable seats.
+The Audi Q8 has a 40:20:40 Split foldable rear seat.
+Audi Q8 has Central Console Armrest.
+The Audi Q8 includes Adjustable rear seat headrests.
+The Audi Q8 includes a Panoramic sunroof.

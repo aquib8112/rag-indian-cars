@@ -1,0 +1,139 @@
+Bmw M5 has 1 variants: xDrive.
+Bmw M5 has Power Steering.
+Bmw M5 has Air Conditioner.
+Bmw M5 has Heater.
+Bmw M5 has Automatic Climate Control.
+Bmw M5 has Accessory Power Outlet.
+Bmw M5 has Trunk Light.
+Bmw M5 has Vanity Mirror.
+Bmw M5 has Rear Reading Lamp.
+Bmw M5 has Adjustable Headrest.
+Bmw M5 has Rear AC Vents.
+Bmw M5 has Cruise Control.
+Bmw M5 has Real-Time Vehicle Tracking.
+Bmw M5 has Engine Start/Stop Button.
+Bmw M5 has Voice Commands.
+Bmw M5 does not have Hands-Free Tailgate.
+Bmw M5 has KeyLess Entry.
+Bmw M5 has Idle Start-Stop System.
+Bmw M5 has Follow Me Home Headlamps.
+Bmw M5 has Tachometer.
+Bmw M5 does not have Wheel Covers.
+Bmw M5 has Alloy Wheels.
+Bmw M5 has Integrated Antenna.
+Bmw M5 has Automatic Headlamps.
+Bmw M5 has LED DRLs.
+Bmw M5 has LED Headlamps.
+Bmw M5 has Anti-lock Braking System (ABS).
+Bmw M5 has Central Locking.
+Bmw M5 has Driver Airbag.
+Bmw M5 has Side Airbag.
+Bmw M5 has Seat Belt Warning.
+Bmw M5 has Engine Immobilizer.
+Bmw M5 has E-Call & I-Call.
+Bmw M5 has Electronic Stability Control (ESC).
+Bmw M5 has Anti-Theft Device.
+Bmw M5 has Speed Alert.
+Bmw M5 has Speed Sensing Auto Door Lock.
+Bmw M5 has ISOFIX Child Seat Mounts.
+Bmw M5 has Hill Assist.
+Bmw M5 has Impact Sensing Auto Door Unlock.
+Bmw M5 has Radio.
+Bmw M5 has Wireless Phone Charging.
+Bmw M5 has Bluetooth Connectivity.
+Bmw M5 has Android Auto.
+Bmw M5 has Apple CarPlay.
+Bmw M5 has Live Location.
+Bmw M5 has Over Speeding Alert.
+Bmw M5 has Smartwatch App.
+Bmw M5 has Valet Mode.
+Bmw M5 has Geo-fence Alert.
+Bmw M5 has Height Adjustable Front Seat Belts.
+Bmw M5 has Lumbar Support.
+Bmw M5 has Tow Away Alert.
+Bmw M5 has LED Taillights.
+Bmw M5 has Electronic Brakeforce Distribution (EBD).
+Bmw M5 has Brake Assist.
+Bmw M5 has Anti-Theft Alarm.
+Bmw M5 has Door Ajar Warning.
+Bmw M5 has Remote Immobiliser.
+Bmw M5 has SOS / Emergency Assistance.
+Bmw M5 has Heads-Up Display (HUD).
+Bmw M5 has Adaptive Cruise Control.
+Bmw M5 has Adaptive High Beam Assist.
+Bmw M5 has Cooled Glovebox.
+Bmw M5 has Glove Box light.
+Bmw M5 has Navigation with Live Traffic.
+Bmw M5 has Send POI to Vehicle From App.
+Bmw M5 has Ventilated Seats.
+Bmw M5 has Hill Descent Control.
+Bmw M5 has Battery Saver.
+Bmw M5 has Digital Car Key.
+Bmw M5 has Live Weather.
+Bmw M5 has Tailgate Ajar Warning.
+Bmw M5 has SOS Button.
+Bmw M5 has Lane Change Indicator.
+Bmw M5 has Regenerative Braking.
+Bmw M5 has Traction Control.
+Bmw M5 has RSA.
+Bmw M5 has Height Adjustable Driver Seat.
+Bmw M5 has Rear Window Defogger.
+Bmw M5 has Leather Wrapped Steering Wheel.
+Bmw M5 has Glove Box.
+Bmw M5 has Adjustable Headlamps.
+Bmw M5 has Outside Rear View Mirror Turn Indicators.
+Bmw M5 has Passenger Airbag.
+Bmw M5 has Day & Night Rear View Mirror.
+Bmw M5 has Tyre Pressure Monitoring System (TPMS).
+Bmw M5 has Touchscreen.
+Bmw M5 has Rear Window Wiper.
+Bmw M5 has Rear Window Washer.
+Bmw M5 has Child Safety Locks.
+Bmw M5 has Rain Sensing Wiper.
+Bmw M5 has Air Quality Control.
+Bmw M5 has Curtain Airbag.
+Bmw M5 has Usb Ports.
+Bmw M5 has LED Fog Lamps.
+The Bmw M5 has the V8 Hybrid engine.
+The Bmw M5 has a displacement of 4395  cubic centimeters.
+The Bmw M5 generates 717 Brake Horsepower (BHP) at 5600 to 6500 Revolutions Per Minute (RPM).
+The Bmw M5 generates 1000 Newton meters at 1800 to 5400 Revolutions Per Minute (RPM).
+The Bmw M5 has 4.0 valves per cylinder.
+The Bmw M5 has a Automatic transmission.
+The Bmw M5 has 8.0 cylinders.
+The Bmw M5 has a All-Wheel Drive (AWD) drive type.
+The Bmw M5 runs on Petrol.
+The Bmw M5 complies with BS VI 2.0 emission norms.
+The Bmw M5 has Electric steering.
+The Bmw M5 has Disc front brakes.
+The Bmw M5 has Disc rear brakes.
+The Bmw M5 has a seating capacity of 5.0.
+The Bmw M5 has 4.0 doors.
+The Bmw M5 is equipped with Powered & Folding Outside Rear View Mirror (ORVM).
+The Bmw M5 is equipped with Tubeless Radial tyres.
+The Bmw M5 is equipped with 7.0 airbags.
+The Bmw M5 is equipped with a 14.9 inch touchscreen.
+The Bmw M5 has Electric as a secondary fuel type.
+The Bmw M5 features 20 Inch front alloy wheels.
+The Bmw M5 features 21 Inch rear alloy wheels.
+The Bmw M5 comes with a Full Digital digital cluster.
+The Bmw M5 features Leather upholstery.
+The Bmw M5 features Driver's Window anti-pinch power windows.
+The Bmw M5 delivers a mileage of 49.75 kmpl.
+The Bmw M5 comes with the Air suspension front suspension.
+The Bmw M5 comes with the Air suspension rear suspension.
+The Bmw M5 features Tilt & Telescopic steering adjustment.
+The Bmw M5 features Height & Reach steering adjustability.
+The Bmw M5 features Front & Rear parking sensors.
+The Bmw M5 features Front & Rear USB charging ports.
+The Bmw M5 features Front & Rear power windows.
+The Bmw M5 features Front Only cup holders.
+The Bmw M5 features a Shark Fin antenna.
+The Bmw M5 has a 12.3 inch digital cluster.
+The Bmw M5 has a With Guidedlines rear camera.
+The Bmw M5 has Driver and Passenger seatbelt pretensioners and force limiters.
+The Bmw M5 has Front & Rear speakers.
+The Bmw M5 has Front electric adjustable seats.
+The Bmw M5 has a With Storage central console armrest.
+The Bmw M5 includes Adjustable rear seat headrests.
+The Bmw M5 includes Interior camera as additional features.

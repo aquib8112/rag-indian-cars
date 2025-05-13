@@ -1,0 +1,209 @@
+Toyota Innova Hycross has 10 variants: GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+All variants of Toyota Innova Hycross have Power Steering.
+All variants of Toyota Innova Hycross have Air Conditioner.
+All variants of Toyota Innova Hycross have Heater.
+Toyota Innova Hycross variants with Automatic Climate Control - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+Toyota Innova Hycross variants without Automatic Climate Control - GX 7STR & GX 8STR.
+All variants of Toyota Innova Hycross have Accessory Power Outlet.
+All variants of Toyota Innova Hycross have Rear Reading Lamp.
+All variants of Toyota Innova Hycross have Adjustable Headrest.
+All variants of Toyota Innova Hycross have Rear Seat Centre Arm Rest.
+All variants of Toyota Innova Hycross have Rear AC Vents.
+Toyota Innova Hycross variants with Cruise Control - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid.
+Toyota Innova Hycross variants without Cruise Control - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR.
+All variants of Toyota Innova Hycross have Engine Start/Stop Button.
+All variants of Toyota Innova Hycross do not have Hands-Free Tailgate.
+All variants of Toyota Innova Hycross have KeyLess Entry.
+Toyota Innova Hycross variants with Tachometer - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR.
+Toyota Innova Hycross variants without Tachometer - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid.
+All variants of Toyota Innova Hycross do not have Wheel Covers.
+All variants of Toyota Innova Hycross have Alloy Wheels.
+All variants of Toyota Innova Hycross have Integrated Antenna.
+All variants of Toyota Innova Hycross have Automatic Headlamps.
+Toyota Innova Hycross variants with LED DRLs - ZX Hybrid & ZX(O) Hybrid.
+Toyota Innova Hycross variants without LED DRLs - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+All variants of Toyota Innova Hycross have LED Headlamps.
+All variants of Toyota Innova Hycross have Anti-lock Braking System (ABS).
+All variants of Toyota Innova Hycross have Central Locking.
+All variants of Toyota Innova Hycross have Driver Airbag.
+All variants of Toyota Innova Hycross have Side Airbag.
+All variants of Toyota Innova Hycross have Seat Belt Warning.
+All variants of Toyota Innova Hycross have Engine Immobilizer.
+All variants of Toyota Innova Hycross have E-Call & I-Call.
+All variants of Toyota Innova Hycross do not have Side Airbag-Rear.
+All variants of Toyota Innova Hycross have Electronic Stability Control (ESC).
+All variants of Toyota Innova Hycross have Anti-Theft Device.
+All variants of Toyota Innova Hycross have Speed Alert.
+All variants of Toyota Innova Hycross have Speed Sensing Auto Door Lock.
+All variants of Toyota Innova Hycross have ISOFIX Child Seat Mounts.
+All variants of Toyota Innova Hycross have Hill Assist.
+All variants of Toyota Innova Hycross have Impact Sensing Auto Door Unlock.
+Toyota Innova Hycross variants with 360 View Camera - GX (O) 7STR & GX (O) 8STR.
+Toyota Innova Hycross variants without 360 View Camera - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid.
+All variants of Toyota Innova Hycross have Radio.
+All variants of Toyota Innova Hycross have Bluetooth Connectivity.
+All variants of Toyota Innova Hycross have Android Auto.
+All variants of Toyota Innova Hycross have Apple CarPlay.
+All variants of Toyota Innova Hycross have Height Adjustable Front Seat Belts.
+Toyota Innova Hycross variants with Paddle Shifters - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid.
+Toyota Innova Hycross variants without Paddle Shifters - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR.
+All variants of Toyota Innova Hycross have LED Taillights.
+All variants of Toyota Innova Hycross have Electronic Brakeforce Distribution (EBD).
+All variants of Toyota Innova Hycross have Anti-Theft Alarm.
+All variants of Toyota Innova Hycross have Door Ajar Warning.
+All variants of Toyota Innova Hycross have SOS / Emergency Assistance.
+All variants of Toyota Innova Hycross do not have Heads-Up Display (HUD).
+Toyota Innova Hycross variant with Forward Collision Warning - ZX(O) Hybrid.
+Toyota Innova Hycross variants without Forward Collision Warning - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+All variants of Toyota Innova Hycross do not have Traffic Sign Recognition.
+Toyota Innova Hycross variant with Lane Keep Assist - ZX(O) Hybrid.
+Toyota Innova Hycross variants without Lane Keep Assist - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+Toyota Innova Hycross variant with Adaptive Cruise Control - ZX(O) Hybrid.
+Toyota Innova Hycross variants without Adaptive Cruise Control - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+Toyota Innova Hycross variant with Adaptive High Beam Assist - ZX(O) Hybrid.
+Toyota Innova Hycross variants without Adaptive High Beam Assist - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+Toyota Innova Hycross variant with Rear Cross Traffic Alert - ZX(O) Hybrid.
+Toyota Innova Hycross variants without Rear Cross Traffic Alert - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+All variants of Toyota Innova Hycross do not have Cooled Glovebox.
+All variants of Toyota Innova Hycross do not have Glove Box light.
+Toyota Innova Hycross variants with Ventilated Seats - ZX Hybrid & ZX(O) Hybrid.
+Toyota Innova Hycross variants without Ventilated Seats - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+All variants of Toyota Innova Hycross do not have Hill Descent Control.
+All variants of Toyota Innova Hycross do not have Active noise cancellation.
+Toyota Innova Hycross variants with Battery Saver - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid.
+Toyota Innova Hycross variants without Battery Saver - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR.
+Toyota Innova Hycross variants with Rear Window Sunblind - GX 7STR & GX (O) 7STR.
+Toyota Innova Hycross variants without Rear Window Sunblind - GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+Toyota Innova Hycross variants with Rear Windscreen Sunblind - GX 7STR & GX (O) 7STR.
+Toyota Innova Hycross variants without Rear Windscreen Sunblind - GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+Toyota Innova Hycross variants with Leather wrap gear-shift selector - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid.
+Toyota Innova Hycross variants without Leather wrap gear-shift selector - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR.
+All variants of Toyota Innova Hycross do not have Headlamp Washers.
+Toyota Innova Hycross variant with Blind Spot Monitor - ZX(O) Hybrid.
+Toyota Innova Hycross variants without Blind Spot Monitor - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+All variants of Toyota Innova Hycross have SOS Button.
+All variants of Toyota Innova Hycross do not have Remote Fuel Lid Opener.
+All variants of Toyota Innova Hycross do not have Convertible Top.
+All variants of Toyota Innova Hycross do not have Xenon Headlamps.
+All variants of Toyota Innova Hycross have Height Adjustable Driver Seat.
+Toyota Innova Hycross variants with Rear Window Defogger - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+Toyota Innova Hycross variants with Leather Wrapped Steering Wheel - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+All variants of Toyota Innova Hycross have Glove Box.
+All variants of Toyota Innova Hycross have Adjustable Headlamps.
+All variants of Toyota Innova Hycross have Outside Rear View Mirror Turn Indicators.
+All variants of Toyota Innova Hycross have Passenger Airbag.
+All variants of Toyota Innova Hycross have Day & Night Rear View Mirror.
+Toyota Innova Hycross variants with Tyre Pressure Monitoring System (TPMS) - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+All variants of Toyota Innova Hycross have Touchscreen.
+All variants of Toyota Innova Hycross have Rear Window Wiper.
+All variants of Toyota Innova Hycross have Rear Window Washer.
+All variants of Toyota Innova Hycross have Child Safety Locks.
+All variants of Toyota Innova Hycross have Rear Spoiler.
+Toyota Innova Hycross variants with Air Quality Control - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+All variants of Toyota Innova Hycross have Folding Table in The Rear.
+All variants of Toyota Innova Hycross have Cigarette Lighter.
+All variants of Toyota Innova Hycross have Curtain Airbag.
+All variants of Toyota Innova Hycross have Usb Ports.
+Toyota Innova Hycross variants with LED Fog Lamps - ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+Toyota Innova Hycross variants without LED Fog Lamps - GX 7STR, GX 8STR, VX 7STR Hybrid & VX 8STR Hybrid.
+All variants of Toyota Innova Hycross do not have Rear Curtain.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR share the 2.0 TNGA in-Line VVTi engine.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, VX(O) 8STR Hybrid & VX(O) 7STR Hybrid share the 2.0 TNGA 5th Generation In-Line VVTi engine.
+Toyota Innova Hycross variants - ZX Hybrid & ZX(O) Hybrid share the 2.0 TNGA 5th Generation in-line VVTi engine.
+All Toyota Innova Hycross variants have a displacement of 1987  cubic centimeters.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR have a max power of 172.99 Brake Horsepower (BHP) at 6600 Revolutions Per Minute (RPM).
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid have a max power of 183.72 Brake Horsepower (BHP) at 6600 Revolutions Per Minute (RPM).
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR share a max torque of 209 Newton meters at 4500 to 4896 Revolutions Per Minute (RPM).
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid share a max torque of 188 Newton meters at 4398 to 5196 Revolutions Per Minute (RPM).
+All Toyota Innova Hycross variants have 4.0 valves per cylinder.
+All Toyota Innova Hycross variants have a Automatic transmission.
+All Toyota Innova Hycross variants have 4.0 cylinders.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR share a CVT with Sequential Shift gearbox.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid share a e-Drive gearbox.
+All Toyota Innova Hycross variants have a Front-Wheel Drive (FWD) drive type.
+All Toyota Innova Hycross variants run on Petrol.
+All Toyota Innova Hycross variants comply with BS VI 2.0 emission norms.
+All Toyota Innova Hycross variants come with Electric steering.
+All Toyota Innova Hycross variants have Disc front brakes.
+All Toyota Innova Hycross variants have Disc rear brakes.
+All Toyota Innova Hycross variants have a length of 4755 mm.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, GX (O) 7STR & GX (O) 8STR share a width of 1845 mm.
+Toyota Innova Hycross variants - ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid share a width of 1850 mm.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR share a height of 1785 mm.
+Toyota Innova Hycross variants - VX 7STR Hybrid & VX 8STR Hybrid share a height of 1795 mm.
+Toyota Innova Hycross variants - ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid share a height of 1790 mm.
+All Toyota Innova Hycross variants offer 300 Litres of boot space.
+Toyota Innova Hycross variants - GX 7STR, VX 7STR Hybrid, ZX Hybrid, GX (O) 7STR, ZX(O) Hybrid & VX(O) 7STR Hybrid share a seating capacity of 7.0.
+Toyota Innova Hycross variants - GX 8STR, VX 8STR Hybrid, VX(O) 8STR Hybrid & GX (O) 8STR share a seating capacity of 8.0.
+All Toyota Innova Hycross variants have a wheelbase of 2850 mm.
+All Toyota Innova Hycross variants have 5.0 doors.
+All Toyota Innova Hycross variants come with a Electronic boot opening mechanism.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR feature tyres of size 205/65 R16.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, VX(O) 8STR Hybrid & VX(O) 7STR Hybrid feature tyres of size 215/60 R17.
+Toyota Innova Hycross variants - ZX Hybrid & ZX(O) Hybrid feature tyres of size 225/50 R18.
+All Toyota Innova Hycross variants come with Tyre Type tyres.
+All Toyota Innova Hycross variants come equipped with 6.0 airbags.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid & GX (O) 7STR come with a 8 inch touchscreen display.
+Toyota Innova Hycross variants - ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR come with a 10.1 inch touchscreen display.
+All Toyota Innova Hycross variants come with 4.0 speakers.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid use Electric as a secondary fuel type.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR have 16 Inch front alloy wheels.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, VX(O) 8STR Hybrid & VX(O) 7STR Hybrid have 17 Inch front alloy wheels.
+Toyota Innova Hycross variants - ZX Hybrid & ZX(O) Hybrid have 18 Inch front alloy wheels.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR have 16 Inch rear alloy wheels.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, VX(O) 8STR Hybrid & VX(O) 7STR Hybrid have 17 Inch rear alloy wheels.
+Toyota Innova Hycross variants - ZX Hybrid & ZX(O) Hybrid have 18 Inch rear alloy wheels.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, VX(O) 8STR Hybrid & VX(O) 7STR Hybrid have 2.0 tweeters.
+Toyota Innova Hycross variants - ZX Hybrid & ZX(O) Hybrid have 4.0 tweeters.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR have a 100-0 kmph braking time of 41.11 s seconds.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid have a 100-0 kmph braking time of 40.30 s seconds.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR have a 0-100 kmph acceleration time of 10.73 s seconds.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid have a 0-100 kmph acceleration time of 10.13 s seconds.
+All Toyota Innova Hycross variants come with Android Auto, Apple CarPlay connectivity options.
+All Toyota Innova Hycross variants feature a Full Digital digital cluster.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR feature Fabric upholstery options.
+Toyota Innova Hycross variants - ZX Hybrid & ZX(O) Hybrid feature Leatherette upholstery options.
+All Toyota Innova Hycross variants offer a boot space of 300 Litres.
+All Toyota Innova Hycross variants have a top speed of 170 kmph.
+All Toyota Innova Hycross variants come with a DOHC valve configuration.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR have a city driveability (20-80 kmph) time of 6.44 s.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid have a city driveability (20-80 kmph) time of 6.43 s.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid come with the same battery type of 168 cell Nickel Metal Hydride Battery.
+Toyota Innova Hycross variants - ZX Hybrid & ZX(O) Hybrid have the same subwoofer setup with 1.0.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR have mileage figures of 16.13 kmpl.
+Toyota Innova Hycross variants - VX 7STR Hybrid, ZX Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid have mileage figures of 23.24 kmpl.
+Toyota Innova Hycross variants - VX 8STR Hybrid & VX(O) 8STR Hybrid have mileage figures of 23.23 kmpl.
+All Toyota Innova Hycross variants have a fuel tank capacity of 52 Litres.
+All Toyota Innova Hycross variants have the MacPherson Strut suspension front suspension.
+All Toyota Innova Hycross variants have the Rear twist beam rear suspension.
+All Toyota Innova Hycross variants come with Tilt & Telescopic steering adjustment.
+All variants of Toyota Innova Hycross have Adjustable Steering.
+Toyota Innova Hycross variants - GX 7STR & GX 8STR share the Rear parking sensor configuration.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR share the Front & Rear parking sensor configuration.
+All Toyota Innova Hycross variants come with Front & Rear USB charging ports.
+Toyota Innova Hycross variants without Fog Lights - GX 7STR, GX 8STR, VX 7STR Hybrid & VX 8STR Hybrid.
+Toyota Innova Hycross variants - ZX Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, ZX(O) Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR share the Front fog light configuration.
+All Toyota Innova Hycross variants come with a Shark Fin antenna.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR share the 4.2 inch digital cluster size.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid share the 7 inch digital cluster size.
+All Toyota Innova Hycross variants have a With Guidedlines rear camera.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR share the Driver seatbelt pretensioner and force limiter type.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid share the Driver and Passenger seatbelt pretensioner and force limiter type.
+All Toyota Innova Hycross variants include Front & Rear speakers.
+Toyota Innova Hycross variants without Electric Adjustable Seats - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, GX (O) 7STR, VX(O) 8STR Hybrid, VX(O) 7STR Hybrid & GX (O) 8STR.
+Toyota Innova Hycross variants - ZX Hybrid & ZX(O) Hybrid share the Front & Rear electric seat adjustment type.
+Toyota Innova Hycross variants - GX 7STR, VX 7STR Hybrid, ZX Hybrid, GX (O) 7STR, ZX(O) Hybrid & VX(O) 7STR Hybrid share the 2nd Row Captain Seats Tumble Fold foldable rear seat type.
+Toyota Innova Hycross variants - GX 8STR, VX 8STR Hybrid, VX(O) 8STR Hybrid & GX (O) 8STR share the 60:40 Split foldable rear seat type.
+All variants of Toyota Innova Hycross do not have Knee Airbags.
+All variants of Toyota Innova Hycross do not have Autonomous Parking.
+All variants of Toyota Innova Hycross have Rear Seat Headrest.
+Toyota Innova Hycross variants without Sunroof - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid, GX (O) 7STR & GX (O) 8STR.
+Toyota Innova Hycross variants - ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid share a Panoramic sunroof.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR share the 1 drive mode configuration.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid share the 3 drive mode configuration.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, GX (O) 7STR & GX (O) 8STR share the Eco drive mode options.
+Toyota Innova Hycross variants - VX 7STR Hybrid, VX 8STR Hybrid, ZX Hybrid, VX(O) 8STR Hybrid, ZX(O) Hybrid & VX(O) 7STR Hybrid share the Eco, Normal & Sport drive mode options.
+Toyota Innova Hycross variants - GX 7STR, GX 8STR, VX 7STR Hybrid, VX 8STR Hybrid & GX (O) 7STR share Display Audio, Capacitive Touch, Flick & Drag Function as additional features.
+Toyota Innova Hycross variants - ZX Hybrid & ZX(O) Hybrid share Display Audio, Capacitive Touch, Flick & Drag Function, Wireless Apple Car Play, JBL Premium Audio System as additional features.
+Toyota Innova Hycross variants - VX(O) 8STR Hybrid & VX(O) 7STR Hybrid share Display Audio, Capacitive Touch, Flick & Drag Function, Wireless Apple Car Play as additional features.
+Toyota Innova Hycross variant GX (O) 8STR offers Display Audio, Capacitive Touch, Flick & Drag Function wireless Apple CarPlay as additional features.

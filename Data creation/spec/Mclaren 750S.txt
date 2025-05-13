@@ -1,0 +1,107 @@
+﻿Mclaren 750S has 1 variants: Coupe.
+Mclaren 750S has Power Steering.
+Mclaren 750S has Air Conditioner.
+Mclaren 750S has Heater.
+Mclaren 750S does not have Hands-Free Tailgate.
+Mclaren 750S has KeyLess Entry.
+Mclaren 750S has Tachometer.
+Mclaren 750S has Alloy Wheels.
+Mclaren 750S has Integrated Antenna.
+Mclaren 750S has Automatic Headlamps.
+Mclaren 750S has LED DRLs.
+Mclaren 750S has LED Headlamps.
+Mclaren 750S has Anti-lock Braking System (ABS).
+Mclaren 750S has Central Locking.
+Mclaren 750S has Driver Airbag.
+Mclaren 750S has Side Airbag.
+Mclaren 750S has Seat Belt Warning.
+Mclaren 750S has Engine Immobilizer.
+Mclaren 750S has Electronic Stability Control (ESC).
+Mclaren 750S has Anti-Theft Device.
+Mclaren 750S has Speed Alert.
+Mclaren 750S has Speed Sensing Auto Door Lock.
+Mclaren 750S has Hill Assist.
+Mclaren 750S has Impact Sensing Auto Door Unlock.
+Mclaren 750S has Radio.
+Mclaren 750S has Wireless Phone Charging.
+Mclaren 750S has Bluetooth Connectivity.
+Mclaren 750S has Android Auto.
+Mclaren 750S has Apple CarPlay.
+Mclaren 750S has Dual Tone Dashboard.
+Mclaren 750S has LED Taillights.
+Mclaren 750S has Brake Assist.
+Mclaren 750S has Anti-Theft Alarm.
+Mclaren 750S has Door Ajar Warning.
+Mclaren 750S has Digital Odometer.
+Mclaren 750S has Remote Immobiliser.
+Mclaren 750S has Speed Assist System.
+Mclaren 750S has Leather wrap gear-shift selector.
+Mclaren 750S has Remote Boot Open.
+Mclaren 750S has Engine Start Alarm.
+Mclaren 750S has Traction Control.
+Mclaren 750S has Height Adjustable Driver Seat.
+Mclaren 750S has Leather Wrapped Steering Wheel.
+Mclaren 750S has Glove Box.
+Mclaren 750S has Adjustable Headlamps.
+Mclaren 750S has Outside Rear View Mirror Turn Indicators.
+Mclaren 750S has Passenger Airbag.
+Mclaren 750S has Day & Night Rear View Mirror.
+Mclaren 750S has Tyre Pressure Monitoring System (TPMS).
+Mclaren 750S has Touchscreen.
+Mclaren 750S has Rear Spoiler.
+Mclaren 750S has Usb Ports.
+Mclaren 750S has LED Fog Lamps.
+Mclaren 750S has Integrated 2DIN Audio.
+The Mclaren 750S has the M840T engine.
+The Mclaren 750S has a displacement of 3994  cubic centimeters.
+The Mclaren 750S generates 740 Brake Horsepower (BHP).
+The Mclaren 750S generates 800 Newton meters.
+The Mclaren 750S has 4.0 valves per cylinder.
+The Mclaren 750S has a Automatic transmission.
+The Mclaren 750S has 8.0 cylinders.
+The Mclaren 750S has a 7-speed + reverse Seamless Shift gearbox.
+The Mclaren 750S has a Rear-Wheel Drive (RWD) drive type.
+The Mclaren 750S runs on Petrol.
+The Mclaren 750S complies with BS VI 2.0 emission norms.
+The Mclaren 750S has Electric steering.
+The Mclaren 750S has a turning radius of 6.2m.
+The Mclaren 750S has Carbon Ceramic front brakes.
+The Mclaren 750S has Carbon Ceramic rear brakes.
+The Mclaren 750S has a length of 4543 mm.
+The Mclaren 750S has a width of 2161 mm.
+The Mclaren 750S has a height of 1196 mm.
+The Mclaren 750S offers 210 Litres of boot space.
+The Mclaren 750S has a seating capacity of 2.0.
+The Mclaren 750S has an unladen ground clearance of 107 mm.
+The Mclaren 750S has a wheelbase of 2450 mm.
+The Mclaren 750S has a kerb weight of 1389 kg.
+The Mclaren 750S has 2.0 doors.
+The Mclaren 750S is fitted with tyres of size F:245/35 R19,R:305/30 R20.
+The Mclaren 750S is equipped with Tyre Type tyres.
+The Mclaren 750S is equipped with 4.0 airbags.
+The Mclaren 750S is equipped with a unknown touchscreen.
+The Mclaren 750S is equipped with 12.0 speakers.
+The Mclaren 750S features 19 Inch front alloy wheels.
+The Mclaren 750S features 20 Inch rear alloy wheels.
+The Mclaren 750S achieves 100-0 kmph braking in 30 s seconds.
+The Mclaren 750S features Leather upholstery.
+The Mclaren 750S achieves a top speed of 332 kmph.
+The Mclaren 750S achieves 0-100 kmph acceleration in 2.8 s.
+The Mclaren 750S achieves 0-100 kmph in 2.8 s.
+The Mclaren 750S is equipped with a Rack & Pinion steering gear type.
+The Mclaren 750S features an approach angle of 8.3°.
+The Mclaren 750S has a break-over angle of 11.5°.
+The Mclaren 750S features a departure angle of 13.3°.
+The Mclaren 750S is equipped with Adaptive Dampers shock absorbers.
+The Mclaren 750S features All Windows anti-pinch power windows.
+The Mclaren 750S delivers a highway mileage of 10.5 kmpl.
+The Mclaren 750S comes with a fuel tank capacity of 72 Litres.
+The Mclaren 750S comes with the Double wishbone suspension front suspension.
+The Mclaren 750S comes with the Double wishbone suspension rear suspension.
+The Mclaren 750S features Tilt & Telescopic steering adjustment.
+The Mclaren 750S has a With Guidedlines rear camera.
+The Mclaren 750S has Driver seatbelt pretensioners and force limiters.
+The Mclaren 750S has Front & Rear speakers.
+The Mclaren 750S has Front electric adjustable seats.
+The Mclaren 750S has a Twin turbocharger.
+The Mclaren 750S includes Bowers & Wilkins sound system , as additional features.

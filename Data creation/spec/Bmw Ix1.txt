@@ -1,0 +1,141 @@
+Bmw Ix1 has 1 variants: LWB.
+Bmw Ix1 has Power Steering.
+Bmw Ix1 has Air Conditioner.
+Bmw Ix1 has Heater.
+Bmw Ix1 has Automatic Climate Control.
+Bmw Ix1 has Accessory Power Outlet.
+Bmw Ix1 has Trunk Light.
+Bmw Ix1 has Vanity Mirror.
+Bmw Ix1 has Rear Reading Lamp.
+Bmw Ix1 has Adjustable Headrest.
+Bmw Ix1 has Rear Seat Centre Arm Rest.
+Bmw Ix1 has Rear AC Vents.
+Bmw Ix1 has Cruise Control.
+Bmw Ix1 has Real-Time Vehicle Tracking.
+Bmw Ix1 has Voice Commands.
+Bmw Ix1 has Hands-Free Tailgate.
+Bmw Ix1 has KeyLess Entry.
+Bmw Ix1 has Idle Start-Stop System.
+Bmw Ix1 has Follow Me Home Headlamps.
+Bmw Ix1 does not have Wheel Covers.
+Bmw Ix1 has Alloy Wheels.
+Bmw Ix1 has Integrated Antenna.
+Bmw Ix1 has Projector Headlamps.
+Bmw Ix1 has Automatic Headlamps.
+Bmw Ix1 has LED DRLs.
+Bmw Ix1 has LED Headlamps.
+Bmw Ix1 has Anti-lock Braking System (ABS).
+Bmw Ix1 has Central Locking.
+Bmw Ix1 has Driver Airbag.
+Bmw Ix1 has Side Airbag.
+Bmw Ix1 has Seat Belt Warning.
+Bmw Ix1 does not have Engine Immobilizer.
+Bmw Ix1 has Side Airbag-Rear.
+Bmw Ix1 has Electronic Stability Control (ESC).
+Bmw Ix1 has Anti-Theft Device.
+Bmw Ix1 has Speed Alert.
+Bmw Ix1 has Speed Sensing Auto Door Lock.
+Bmw Ix1 has ISOFIX Child Seat Mounts.
+Bmw Ix1 has Hill Assist.
+Bmw Ix1 has Impact Sensing Auto Door Unlock.
+Bmw Ix1 has 360 View Camera.
+Bmw Ix1 has Radio.
+Bmw Ix1 has Wireless Phone Charging.
+Bmw Ix1 has Bluetooth Connectivity.
+Bmw Ix1 has Android Auto.
+Bmw Ix1 has Apple CarPlay.
+Bmw Ix1 has Height Adjustable Front Seat Belts.
+Bmw Ix1 has Lumbar Support.
+Bmw Ix1 has Dual Tone Dashboard.
+Bmw Ix1 does not have Halogen Headlamps.
+Bmw Ix1 has LED Taillights.
+Bmw Ix1 has Electronic Brakeforce Distribution (EBD).
+Bmw Ix1 has Brake Assist.
+Bmw Ix1 has Anti-Theft Alarm.
+Bmw Ix1 has Door Ajar Warning.
+Bmw Ix1 has Heads-Up Display (HUD).
+Bmw Ix1 has Glove Box light.
+Bmw Ix1 has Battery Saver.
+Bmw Ix1 does not have Leather wrap gear-shift selector.
+Bmw Ix1 does not have Convertible Top.
+Bmw Ix1 has Cornering Headlamps.
+Bmw Ix1 has Regenerative Braking.
+Bmw Ix1 has Fast Charging.
+Bmw Ix1 has Traction Control.
+Bmw Ix1 has Height Adjustable Driver Seat.
+Bmw Ix1 has Rear Window Defogger.
+Bmw Ix1 has Leather Wrapped Steering Wheel.
+Bmw Ix1 has Glove Box.
+Bmw Ix1 has Outside Rear View Mirror Turn Indicators.
+Bmw Ix1 has Passenger Airbag.
+Bmw Ix1 has Day & Night Rear View Mirror.
+Bmw Ix1 has Tyre Pressure Monitoring System (TPMS).
+Bmw Ix1 has Touchscreen.
+Bmw Ix1 has Rear Window Wiper.
+Bmw Ix1 has Child Safety Locks.
+Bmw Ix1 has Rear Spoiler.
+Bmw Ix1 has Rain Sensing Wiper.
+Bmw Ix1 has Air Quality Control.
+Bmw Ix1 has Roof Rails.
+Bmw Ix1 has Curtain Airbag.
+Bmw Ix1 has Usb Ports.
+Bmw Ix1 does not have Gear Shift Indicator.
+Bmw Ix1 does not have Luggage Hook & Net.
+Bmw Ix1 does not have Rear Curtain.
+The Bmw Ix1 generates 201 Brake Horsepower (BHP).
+The Bmw Ix1 generates 250 Newton meters.
+The Bmw Ix1 has a Automatic transmission.
+The Bmw Ix1 has a 1-Speed gearbox.
+The Bmw Ix1 has a All-Wheel Drive (AWD) drive type.
+The Bmw Ix1 runs on Electric.
+The Bmw Ix1 complies with ZEV emission norms.
+The Bmw Ix1 has Electric steering.
+The Bmw Ix1 has Ventilated Disc front brakes.
+The Bmw Ix1 has Ventilated Disc rear brakes.
+The Bmw Ix1 has a length of 4500 mm.
+The Bmw Ix1 has a width of 1845 mm.
+The Bmw Ix1 has a height of 1612 mm.
+The Bmw Ix1 offers 490 Litres of boot space.
+The Bmw Ix1 has a seating capacity of 5.0.
+The Bmw Ix1 has a wheelbase of 2692 mm.
+The Bmw Ix1 has 5.0 doors.
+The Bmw Ix1 features a Electronic boot opening mechanism.
+The Bmw Ix1 is equipped with Tubeless tyres.
+The Bmw Ix1 is equipped with 8.0 airbags.
+The Bmw Ix1 is equipped with a 10.7 inch touchscreen.
+The Bmw Ix1 is equipped with 12.0 speakers.
+The Bmw Ix1 features Android Auto, Apple CarPlay connectivity options.
+The Bmw Ix1 comes with a Full Digital digital cluster.
+The Bmw Ix1 features Leatherette upholstery.
+The Bmw Ix1 achieves a top speed of 180 kmph.
+The Bmw Ix1 features a 2 Permanent magnet synchronous Placed At One motor motor type.
+The Bmw Ix1 comes with a Lithium-Ion Battery battery.
+The Bmw Ix1 provides 1495 Litres of boot space when the rear seats are folded.
+The Bmw Ix1 has a battery capacity of 64.8 kWh.
+The Bmw Ix1 features a motor with 150 kW power.
+The Bmw Ix1 provides a range of 531 km.
+The Bmw Ix1 charges in 6 Hours 45Min at 11kW (100%) using an A.C charger.
+The Bmw Ix1 charges in 32 Min at 130kW (10-80%) using a D.C charger.
+The Bmw Ix1 is equipped with a CCS-II charging port.
+The Bmw Ix1 reaches 0-100 km/h in 8.2 s.
+The Bmw Ix1 requires 6.3 Hours at 11kW (100%) for a full charge.
+The Bmw Ix1 features All Windows anti-pinch power windows.
+The Bmw Ix1 offers a battery warranty of 8 Years or 160000 km.
+The Bmw Ix1 comes with the Double wishbone suspension front suspension.
+The Bmw Ix1 comes with the Multi-link suspension rear suspension.
+The Bmw Ix1 features Tilt & Telescopic steering adjustment.
+Bmw Ix1 does not have Adjustable Steering.
+The Bmw Ix1 features Front & Rear parking sensors.
+The Bmw Ix1 features Front & Rear USB charging ports.
+The Bmw Ix1 features a Shark Fin antenna.
+The Bmw Ix1 has a 10.25 inch digital cluster.
+The Bmw Ix1 has a With Guidedlines rear camera.
+The Bmw Ix1 has Driver and Passenger seatbelt pretensioners and force limiters.
+The Bmw Ix1 has Front & Rear speakers.
+The Bmw Ix1 has Front electric adjustable seats.
+The Bmw Ix1 has a 40:20:40 Split foldable rear seat.
+The Bmw Ix1 has a With Storage central console armrest.
+Bmw Ix1 does not have Knee Airbags.
+Bmw Ix1 has Rear Seat Headrest.
+The Bmw Ix1 includes a Panoramic sunroof.
+The Bmw Ix1 includes Wireless Apple CarPlay Android Auto as additional features.

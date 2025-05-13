@@ -1,0 +1,192 @@
+Jeep Meridian has 9 variants: Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+All variants of Jeep Meridian have Power Steering.
+All variants of Jeep Meridian have Air Conditioner.
+All variants of Jeep Meridian have Heater.
+All variants of Jeep Meridian have Automatic Climate Control.
+All variants of Jeep Meridian have Accessory Power Outlet.
+All variants of Jeep Meridian have Trunk Light.
+All variants of Jeep Meridian have Vanity Mirror.
+All variants of Jeep Meridian have Rear Reading Lamp.
+All variants of Jeep Meridian have Adjustable Headrest.
+All variants of Jeep Meridian have Rear Seat Centre Arm Rest.
+All variants of Jeep Meridian have Rear AC Vents.
+Jeep Meridian variants with Cruise Control - Longitude 4x2 AT, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Cruise Control - Longitude 4x2, Longitude Plus 4x2 & Limited Opt 4x2.
+Jeep Meridian variants with Real-Time Vehicle Tracking - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Real-Time Vehicle Tracking - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+All variants of Jeep Meridian have Engine Start/Stop Button.
+All variants of Jeep Meridian have Voice Commands.
+All variants of Jeep Meridian have KeyLess Entry.
+All variants of Jeep Meridian have Follow Me Home Headlamps.
+All variants of Jeep Meridian have Tachometer.
+All variants of Jeep Meridian do not have Wheel Covers.
+All variants of Jeep Meridian have Alloy Wheels.
+All variants of Jeep Meridian have Integrated Antenna.
+All variants of Jeep Meridian have Projector Headlamps.
+All variants of Jeep Meridian have Automatic Headlamps.
+All variants of Jeep Meridian have LED DRLs.
+All variants of Jeep Meridian have LED Headlamps.
+All variants of Jeep Meridian have Anti-lock Braking System (ABS).
+All variants of Jeep Meridian have Central Locking.
+All variants of Jeep Meridian have Driver Airbag.
+All variants of Jeep Meridian have Side Airbag.
+All variants of Jeep Meridian have Seat Belt Warning.
+All variants of Jeep Meridian have Engine Immobilizer.
+Jeep Meridian variants with Remote AC On/Off - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Remote AC On/Off - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+All variants of Jeep Meridian do not have Side Airbag-Rear.
+All variants of Jeep Meridian have Electronic Stability Control (ESC).
+All variants of Jeep Meridian have Speed Alert.
+All variants of Jeep Meridian have Speed Sensing Auto Door Lock.
+All variants of Jeep Meridian have ISOFIX Child Seat Mounts.
+All variants of Jeep Meridian have Hill Assist.
+All variants of Jeep Meridian have Impact Sensing Auto Door Unlock.
+Jeep Meridian variants with 360 View Camera - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without 360 View Camera - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+All variants of Jeep Meridian have Radio.
+Jeep Meridian variants with Wireless Phone Charging - Longitude Plus 4x2, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Wireless Phone Charging - Longitude 4x2 & Longitude 4x2 AT.
+All variants of Jeep Meridian have Bluetooth Connectivity.
+All variants of Jeep Meridian have Android Auto.
+All variants of Jeep Meridian have Apple CarPlay.
+Jeep Meridian variants with Driver Attention Warning - Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Driver Attention Warning - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT & Limited Opt 4x4 AT.
+Jeep Meridian variants with Google / Alexa Connectivity - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Google / Alexa Connectivity - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+Jeep Meridian variants with Smartwatch App - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Smartwatch App - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+Jeep Meridian variants with Valet Mode - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Valet Mode - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+Jeep Meridian variants with Remote Door Lock/Unlock - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Remote Door Lock/Unlock - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+Jeep Meridian variants with Geo-fence Alert - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Geo-fence Alert - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+Jeep Meridian variants with Lumbar Support - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Lumbar Support - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+All variants of Jeep Meridian have LED Taillights.
+All variants of Jeep Meridian have Electronic Brakeforce Distribution (EBD).
+Jeep Meridian variants with Anti-Theft Alarm - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Anti-Theft Alarm - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+All variants of Jeep Meridian have Door Ajar Warning.
+Jeep Meridian variants with SOS / Emergency Assistance - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without SOS / Emergency Assistance - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+Jeep Meridian variants with Forward Collision Warning - Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Forward Collision Warning - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT & Limited Opt 4x4 AT.
+Jeep Meridian variants with Traffic Sign Recognition - Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Traffic Sign Recognition - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT & Limited Opt 4x4 AT.
+Jeep Meridian variants with Lane Departure Warning - Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Lane Departure Warning - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT & Limited Opt 4x4 AT.
+Jeep Meridian variants with Lane Keep Assist - Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Lane Keep Assist - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT & Limited Opt 4x4 AT.
+Jeep Meridian variants with Adaptive Cruise Control - Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Adaptive Cruise Control - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT & Limited Opt 4x4 AT.
+All variants of Jeep Meridian have Adaptive High Beam Assist.
+Jeep Meridian variants with Unauthorised Vehicle entry - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Unauthorised Vehicle entry - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+Jeep Meridian variants with Navigation with Live Traffic - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Navigation with Live Traffic - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+Jeep Meridian variants with Send POI to Vehicle From App - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Send POI to Vehicle From App - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+Jeep Meridian variants with Ventilated Seats - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Ventilated Seats - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+Jeep Meridian variant with Hill Descent Control - Overland 4x4 AT.
+Jeep Meridian variants without Hill Descent Control - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT & Overland 4x2 AT.
+Jeep Meridian variants with Cornering Foglamps - Longitude Plus 4x2, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Cornering Foglamps - Longitude 4x2 & Longitude 4x2 AT.
+Jeep Meridian variants with Blind Spot Monitor - Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Blind Spot Monitor - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT & Limited Opt 4x4 AT.
+Jeep Meridian variants with Remote Vehicle Ignition Start/Stop - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without Remote Vehicle Ignition Start/Stop - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+All variants of Jeep Meridian have Tailgate Ajar Warning.
+Jeep Meridian variants with SOS Button - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without SOS Button - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+All variants of Jeep Meridian have Traction Control.
+Jeep Meridian variants with RSA - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without RSA - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+All variants of Jeep Meridian have Height Adjustable Driver Seat.
+All variants of Jeep Meridian have Rear Window Defogger.
+Jeep Meridian variants with Leather Wrapped Steering Wheel - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+All variants of Jeep Meridian have Glove Box.
+All variants of Jeep Meridian have Adjustable Headlamps.
+All variants of Jeep Meridian have Outside Rear View Mirror Turn Indicators.
+All variants of Jeep Meridian have Passenger Airbag.
+All variants of Jeep Meridian have Day & Night Rear View Mirror.
+All variants of Jeep Meridian have Tyre Pressure Monitoring System (TPMS).
+All variants of Jeep Meridian have Touchscreen.
+All variants of Jeep Meridian have Rear Window Wiper.
+All variants of Jeep Meridian have Rear Window Washer.
+All variants of Jeep Meridian have Child Safety Locks.
+All variants of Jeep Meridian have Rear Spoiler.
+All variants of Jeep Meridian have Rain Sensing Wiper.
+All variants of Jeep Meridian have Roof Rails.
+All variants of Jeep Meridian have Curtain Airbag.
+All variants of Jeep Meridian have Usb Ports.
+All variants of Jeep Meridian have Gear Shift Indicator.
+All variants of Jeep Meridian have Luggage Hook & Net.
+Jeep Meridian variants with LED Fog Lamps - Longitude Plus 4x2, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT.
+Jeep Meridian variants without LED Fog Lamps - Longitude 4x2 & Longitude 4x2 AT.
+All Jeep Meridian variants use the 2.0L Multijet engine.
+All Jeep Meridian variants have a displacement of 1956  cubic centimeters.
+All Jeep Meridian variants produce a maximum power of 168 Brake Horsepower (BHP) at 3750 Revolutions Per Minute (RPM).
+All Jeep Meridian variants produce a maximum torque of 350 Newton meters at 1750 to 2500 Revolutions Per Minute (RPM).
+All Jeep Meridian variants have 4.0 valves per cylinder.
+Jeep Meridian variants - Longitude 4x2, Longitude Plus 4x2 & Limited Opt 4x2 share a Manual transmission.
+Jeep Meridian variants - Longitude 4x2 AT, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT share a Automatic transmission.
+All Jeep Meridian variants have 4.0 cylinders.
+Jeep Meridian variants - Longitude 4x2, Longitude Plus 4x2 & Limited Opt 4x2 share a 6-Speed gearbox.
+Jeep Meridian variants - Longitude 4x2 AT, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT share a 9-Speed-AT gearbox.
+Jeep Meridian variants - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT & Overland 4x2 AT share a Front-Wheel Drive (FWD) drive type.
+Jeep Meridian variant Overland 4x4 AT has a Four-Wheel Drive (4WD) drive type.
+All Jeep Meridian variants run on Diesel.
+All Jeep Meridian variants comply with BS VI 2.0 emission norms.
+All Jeep Meridian variants come with Electric steering.
+All Jeep Meridian variants have Disc front brakes.
+All Jeep Meridian variants have Disc rear brakes.
+All Jeep Meridian variants have a length of 4769 mm.
+All Jeep Meridian variants have a width of 1859 mm.
+All Jeep Meridian variants have a height of 1698 mm.
+All Jeep Meridian variants have a seating capacity of 7.0.
+All Jeep Meridian variants have a wheelbase of 2782 mm.
+All Jeep Meridian variants have 5.0 doors.
+Jeep Meridian variants - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT feature a Manual boot opening mechanism.
+Jeep Meridian variants - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT feature a Powered boot opening mechanism.
+All Jeep Meridian variants have Powered & Folding Outside Rear View Mirror (ORVM).
+All Jeep Meridian variants come with Tyre Type tyres.
+All Jeep Meridian variants come equipped with 6.0 airbags.
+Jeep Meridian variants - Longitude 4x2, Longitude Plus 4x2 & Limited Opt 4x2 have been rated 5 Star by Global NCAP.
+All Jeep Meridian variants come with a 10.1 inch touchscreen display.
+Jeep Meridian variants - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT come with 6.0 speakers.
+Jeep Meridian variants - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT come with 9.0 speakers.
+All Jeep Meridian variants come with 18 Inch front alloy wheels.
+All Jeep Meridian variants come with 18 Inch rear alloy wheels.
+All Jeep Meridian variants feature a Full Digital digital cluster.
+Jeep Meridian variants - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT feature Leather upholstery options.
+Jeep Meridian variants - Longitude 4x2, Longitude Plus 4x2 & Limited Opt 4x2 have highway mileage figures of 12 kmpl.
+Jeep Meridian variants - Longitude 4x2 AT, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT & Overland 4x2 AT have highway mileage figures of 11.5 kmpl.
+Jeep Meridian variant Overland 4x4 AT has a highway mileage of 10 kmpl.
+All Jeep Meridian variants have a fuel tank capacity of 60 Litres.
+All Jeep Meridian variants have the Multi-link suspension front suspension.
+All Jeep Meridian variants have the Leaf spring suspension rear suspension.
+All Jeep Meridian variants are equipped with Rear parking sensors.
+All Jeep Meridian variants come with Front & Rear USB charging ports.
+All Jeep Meridian variants have Front & Rear power windows.
+All Jeep Meridian variants come with Front & Rear cup holders.
+Jeep Meridian variants - Longitude 4x2 & Longitude 4x2 AT share the Rear fog light configuration.
+Jeep Meridian variants - Longitude Plus 4x2, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT share the Front & Rear fog light configuration.
+All Jeep Meridian variants come with a Shark Fin antenna.
+Jeep Meridian variants - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT share the 7 inch digital cluster size.
+Jeep Meridian variants - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT share the 10.2 inch digital cluster size.
+All Jeep Meridian variants have a With Guidedlines rear camera.
+All Jeep Meridian variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Jeep Meridian variants include Front & Rear speakers.
+Jeep Meridian variants without Electric Adjustable Seats - Longitude 4x2, Longitude Plus 4x2, Longitude 4x2 AT & Longitude Plus 4x2 AT.
+Jeep Meridian variants - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT share the Front electric seat adjustment type.
+All Jeep Meridian variants have a 60:40 Split foldable rear seat.
+All Jeep Meridian variants have a With Storage central console armrest.
+All variants of Jeep Meridian have Turbo Charger.
+All Jeep Meridian variants come with Adjustable rear seat headrests.
+Jeep Meridian variants without Sunroof - Longitude 4x2 & Longitude 4x2 AT.
+Jeep Meridian variants - Longitude Plus 4x2, Limited Opt 4x2, Longitude Plus 4x2 AT, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT share a Dual Pane sunroof.
+Jeep Meridian variants - Longitude 4x2 & Longitude 4x2 AT share Body Colour Door Handles,All-Round Chrome Day Light Opening,Body Color Door Mirrors with Turn Signal as additional features.
+Jeep Meridian variants - Longitude Plus 4x2 & Longitude Plus 4x2 AT share Body Colour Door Handles,All-Round Chrome Day Light Opening,Black Color Door Mirrors with Turn Signal,Dual-Tone Roof as additional features.
+Jeep Meridian variants - Limited Opt 4x2, Limited Opt 4x2 AT, Limited Opt 4x4 AT, Overland 4x2 AT & Overland 4x4 AT share Uconnect Remote Connected Service,In-Vehicle Messaging (Service, Recall, Subscription),OTA-TBM,Radio, Map, and Applications,Remote Clear Personal Settings as additional features.

@@ -1,0 +1,156 @@
+Renault Triber has 9 variants: RXE, RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+All variants of Renault Triber have Power Steering.
+All variants of Renault Triber have Air Conditioner.
+All variants of Renault Triber have Heater.
+All variants of Renault Triber have Accessory Power Outlet.
+All variants of Renault Triber do not have Trunk Light.
+Renault Triber variants with Vanity Mirror - RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without Vanity Mirror - RXE, RXL & RXL Night And Day Edition.
+Renault Triber variants with Rear Reading Lamp - RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without Rear Reading Lamp - RXE, RXL & RXL Night And Day Edition.
+Renault Triber variants with Rear AC Vents - RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variant without Rear AC Vents - RXE.
+Renault Triber variants with Engine Start/Stop Button - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without Engine Start/Stop Button - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT.
+Renault Triber variants with Hands-Free Tailgate - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without Hands-Free Tailgate - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT.
+Renault Triber variants with Chrome Grille - RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without Chrome Grille - RXE, RXL & RXL Night And Day Edition.
+Renault Triber variants with KeyLess Entry - RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variant without KeyLess Entry - RXE.
+All variants of Renault Triber have Tachometer.
+All variants of Renault Triber have Wheel Covers.
+Renault Triber variants with Integrated Antenna - RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variant without Integrated Antenna - RXE.
+All variants of Renault Triber have Projector Headlamps.
+Renault Triber variants with LED DRLs - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without LED DRLs - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT.
+All variants of Renault Triber have Anti-lock Braking System (ABS).
+Renault Triber variants with Central Locking - RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variant without Central Locking - RXE.
+All variants of Renault Triber have Driver Airbag.
+Renault Triber variants with Side Airbag - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without Side Airbag - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT.
+All variants of Renault Triber have Seat Belt Warning.
+All variants of Renault Triber have Engine Immobilizer.
+All variants of Renault Triber have Electronic Stability Control (ESC).
+All variants of Renault Triber have Speed Alert.
+Renault Triber variants with Speed Sensing Auto Door Lock - RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variant without Speed Sensing Auto Door Lock - RXE.
+All variants of Renault Triber have Hill Assist.
+Renault Triber variants with Impact Sensing Auto Door Unlock - RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variant without Impact Sensing Auto Door Unlock - RXE.
+Renault Triber variants with Radio - RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variant without Radio - RXE.
+Renault Triber variants with Wireless Phone Charging - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without Wireless Phone Charging - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT.
+Renault Triber variants with Bluetooth Connectivity - RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variant without Bluetooth Connectivity - RXE.
+Renault Triber variants with Android Auto - RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without Android Auto - RXE, RXL & RXL Night And Day Edition.
+Renault Triber variants with Apple CarPlay - RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without Apple CarPlay - RXE, RXL & RXL Night And Day Edition.
+Renault Triber variants with Driver Attention Warning - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without Driver Attention Warning - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT.
+All variants of Renault Triber have Lumbar Support.
+All variants of Renault Triber have Dual Tone Dashboard.
+All variants of Renault Triber have Electronic Brakeforce Distribution (EBD).
+All variants of Renault Triber have Brake Assist.
+All variants of Renault Triber have Anti-Theft Alarm.
+All variants of Renault Triber have Door Ajar Warning.
+Renault Triber variants with Cooled Glovebox - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants without Cooled Glovebox - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT.
+All variants of Renault Triber have Traction Control.
+Renault Triber variants with Height Adjustable Driver Seat - RXE, RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants with Rear Window Defogger - RXE, RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+All variants of Renault Triber have Glove Box.
+All variants of Renault Triber have Adjustable Headlamps.
+Renault Triber variants with Outside Rear View Mirror Turn Indicators - RXE, RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+All variants of Renault Triber have Passenger Airbag.
+Renault Triber variants with Day & Night Rear View Mirror - RXE, RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+All variants of Renault Triber have Tyre Pressure Monitoring System (TPMS).
+Renault Triber variants with Touchscreen - RXE, RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants with Rear Window Wiper - RXE, RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants with Chrome Garnish - RXE, RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+All variants of Renault Triber have Child Safety Locks.
+Renault Triber variants with Air Quality Control - RXE, RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants with Smart Access Card Entry - RXE, RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants with Roof Rails - RXE, RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variants with Usb Ports - RXL, RXL Night And Day Edition, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+Renault Triber variant without Usb Ports - RXE.
+All variants of Renault Triber have Luggage Hook & Net.
+All Renault Triber variants use the ENERGY Engine engine.
+All Renault Triber variants have a displacement of 999  cubic centimeters.
+All Renault Triber variants produce a maximum power of 71.01 Brake Horsepower (BHP) at 6250 Revolutions Per Minute (RPM).
+All Renault Triber variants produce a maximum torque of 96 Newton meters at 3500 Revolutions Per Minute (RPM).
+All Renault Triber variants have 4.0 valves per cylinder.
+Renault Triber variants - RXE, RXL, RXL Night And Day Edition, RXT, RXZ & RXZ Dual Tone share a Manual transmission.
+Renault Triber variants - RXT EASY-R AMT, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone share a Automatic transmission.
+All Renault Triber variants have 3.0 cylinders.
+Renault Triber variants - RXE, RXL, RXL Night And Day Edition, RXT, RXZ & RXZ Dual Tone share a 5-Speed gearbox.
+Renault Triber variants - RXT EASY-R AMT, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone share a 5-Speed-AMT gearbox.
+All Renault Triber variants have a Front-Wheel Drive (FWD) drive type.
+All Renault Triber variants run on Petrol.
+All Renault Triber variants comply with BS VI 2.0 emission norms.
+All Renault Triber variants come with Electric steering.
+All Renault Triber variants have Disc front brakes.
+All Renault Triber variants have Drum rear brakes.
+All Renault Triber variants have a length of 3990 mm.
+All Renault Triber variants have a width of 1739 mm.
+All Renault Triber variants have a height of 1643 mm.
+All Renault Triber variants offer 84 Litres of boot space.
+All Renault Triber variants have a seating capacity of 7.0.
+All Renault Triber variants have an unladen ground clearance of 182 mm.
+All Renault Triber variants have a wheelbase of 2755 mm.
+All Renault Triber variants have 5.0 doors.
+Renault Triber variant RXE is equipped with a Electronic boot opening mechanism.
+Renault Triber variants - RXE, RXL & RXL Night And Day Edition feature Manual Outside Rear View Mirror (ORVM).
+Renault Triber variants - RXT & RXT EASY-R AMT feature Powered Outside Rear View Mirror (ORVM).
+Renault Triber variants - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone feature Powered & Folding Outside Rear View Mirror (ORVM).
+Renault Triber variants - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT feature tyres of size 165/80.
+Renault Triber variants - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone feature tyres of size 185/65.
+All Renault Triber variants come with Tubeless Radial tyres.
+Renault Triber variants - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT feature 14 Inch wheels.
+Renault Triber variants - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone feature 15 Inch wheels.
+Renault Triber variants - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT offer 2.0 airbags.
+Renault Triber variants - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone offer 4.0 airbags.
+All Renault Triber variants have received a 4 Star Global NCAP safety rating.
+All Renault Triber variants have a 3 Star Global NCAP child safety rating.
+Renault Triber variant RXL Night And Day Edition features a unknown touchscreen.
+Renault Triber variants - RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone come with a 8 inch touchscreen display.
+Renault Triber variants - RXL & RXL Night And Day Edition come with 2.0 speakers.
+Renault Triber variants - RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone come with 4.0 speakers.
+Renault Triber variants - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone have 2.0 tweeters.
+Renault Triber variants - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT feature a LCD Digital Cluster digital cluster.
+Renault Triber variants - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone feature a Semi Digital digital cluster.
+All Renault Triber variants come with Fabric upholstery.
+All Renault Triber variants have a top speed of 140 kmph.
+All Renault Triber variants use a Rack & Pinion steering gear type.
+All Renault Triber variants use a Multi-Point Fuel Injection (MPFi) fuel supply system.
+All Renault Triber variants offer 625 Litres of boot space with rear seats folded.
+Renault Triber variants - RXE, RXL, RXL Night And Day Edition, RXT, RXZ & RXZ Dual Tone have mileage figures of 20 kmpl.
+Renault Triber variants - RXT EASY-R AMT, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone have mileage figures of 18.2 kmpl.
+Renault Triber variants - RXE, RXL, RXL Night And Day Edition, RXT, RXZ & RXZ Dual Tone have highway mileage figures of 16 kmpl.
+Renault Triber variants - RXT EASY-R AMT, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone have highway mileage figures of 17 kmpl.
+All Renault Triber variants have a fuel tank capacity of 40 Litres.
+All Renault Triber variants have the MacPherson Strut suspension front suspension.
+All Renault Triber variants have the Rear twist beam rear suspension.
+All Renault Triber variants come with Tilt Steering steering adjustment.
+Renault Triber variants with Adjustable Steering - RXE, RXL, RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+All Renault Triber variants are equipped with Rear parking sensors.
+Renault Triber variants - RXE, RXL & RXL Night And Day Edition share the Front USB charging configuration.
+Renault Triber variants - RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone share the Front & Rear USB charging configuration.
+Renault Triber variants - RXE, RXL & RXL Night And Day Edition share the Front Only power window configuration.
+Renault Triber variants - RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone share the Front & Rear power window configuration.
+Renault Triber variants - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT share the 3 inch digital cluster size.
+Renault Triber variants - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone share the 7 inch digital cluster size.
+Renault Triber variants without Rear Camera - RXE, RXL & RXL Night And Day Edition.
+Renault Triber variants - RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone share the With Guidedlines rear camera type.
+All Renault Triber variants have Driver seatbelt pretensioners and force limiters.
+Renault Triber variant without Speakers - RXE.
+Renault Triber variants - RXL & RXL Night And Day Edition share the Front Only speaker configuration.
+Renault Triber variants - RXT, RXT EASY-R AMT, RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone share the Front & Rear speaker configuration.
+All Renault Triber variants have a 60:40 Split foldable rear seat.
+Renault Triber variants without Central Console Armrest - RXE, RXL, RXL Night And Day Edition, RXT & RXT EASY-R AMT.
+Renault Triber variants with Central Console Armrest - RXZ, RXZ Dual Tone, RXZ EASY-R AMT & RXZ EASY-R AMT Dual Tone.
+All Renault Triber variants come with on-board computer, as additional features.

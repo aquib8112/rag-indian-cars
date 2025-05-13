@@ -1,0 +1,164 @@
+Bmw Ix has 1 variants: xDrive50.
+Bmw Ix has Power Steering.
+Bmw Ix has Air Conditioner.
+Bmw Ix has Heater.
+Bmw Ix has Automatic Climate Control.
+Bmw Ix has Accessory Power Outlet.
+Bmw Ix has Trunk Light.
+Bmw Ix has Vanity Mirror.
+Bmw Ix has Rear Reading Lamp.
+Bmw Ix has Adjustable Headrest.
+Bmw Ix has Rear Seat Centre Arm Rest.
+Bmw Ix has Rear AC Vents.
+Bmw Ix has Cruise Control.
+Bmw Ix has Real-Time Vehicle Tracking.
+Bmw Ix has Engine Start/Stop Button.
+Bmw Ix has Voice Commands.
+Bmw Ix has Hands-Free Tailgate.
+Bmw Ix has KeyLess Entry.
+Bmw Ix has Follow Me Home Headlamps.
+Bmw Ix has Alloy Wheels.
+Bmw Ix has Integrated Antenna.
+Bmw Ix has Automatic Headlamps.
+Bmw Ix has LED DRLs.
+Bmw Ix has LED Headlamps.
+Bmw Ix has Anti-lock Braking System (ABS).
+Bmw Ix has Central Locking.
+Bmw Ix has Driver Airbag.
+Bmw Ix has Side Airbag.
+Bmw Ix has Seat Belt Warning.
+Bmw Ix has Engine Immobilizer.
+Bmw Ix does not have E-Call & I-Call.
+Bmw Ix has Side Airbag-Rear.
+Bmw Ix has Electronic Stability Control (ESC).
+Bmw Ix has Anti-Theft Device.
+Bmw Ix has Speed Alert.
+Bmw Ix has Speed Sensing Auto Door Lock.
+Bmw Ix has ISOFIX Child Seat Mounts.
+Bmw Ix has Impact Sensing Auto Door Unlock.
+Bmw Ix has 360 View Camera.
+Bmw Ix has Radio.
+Bmw Ix has Wireless Phone Charging.
+Bmw Ix has Bluetooth Connectivity.
+Bmw Ix has Android Auto.
+Bmw Ix has Apple CarPlay.
+Bmw Ix has Geo-fence Alert.
+Bmw Ix has Height Adjustable Front Seat Belts.
+Bmw Ix has Lumbar Support.
+Bmw Ix has Electronic Multi-Tripmeter.
+Bmw Ix has Digital Clock.
+Bmw Ix has Outside Temperature Display.
+Bmw Ix has Dual Tone Dashboard.
+Bmw Ix does not have Power Antenna.
+Bmw Ix has LED Taillights.
+Bmw Ix has Electronic Brakeforce Distribution (EBD).
+Bmw Ix has Brake Assist.
+Bmw Ix has Anti-Theft Alarm.
+Bmw Ix has Door Ajar Warning.
+Bmw Ix has Digital Odometer.
+Bmw Ix has SOS / Emergency Assistance.
+Bmw Ix has Heads-Up Display (HUD).
+Bmw Ix has Traffic Sign Recognition.
+Bmw Ix has Lane Departure Warning.
+Bmw Ix has Lane Keep Assist.
+Bmw Ix has Lane Departure Prevention Assist.
+Bmw Ix has Cooled Glovebox.
+Bmw Ix has Battery Saver.
+Bmw Ix has Leather wrap gear-shift selector.
+Bmw Ix has Headlamp Washers.
+Bmw Ix has Blind Spot Monitor.
+Bmw Ix has Tailgate Ajar Warning.
+Bmw Ix has Lane Change Indicator.
+Bmw Ix does not have Wi-Fi Connectivity.
+Bmw Ix has Regenerative Braking.
+Bmw Ix has Fast Charging.
+Bmw Ix has Traction Control.
+Bmw Ix has Rear Entertainment System.
+Bmw Ix has Leather Seats.
+Bmw Ix has Driving Experience Control Eco.
+Bmw Ix has Internal Storage.
+Bmw Ix has Height Adjustable Driver Seat.
+Bmw Ix has Rear Window Defogger.
+Bmw Ix has Leather Wrapped Steering Wheel.
+Bmw Ix has Glove Box.
+Bmw Ix has Adjustable Headlamps.
+Bmw Ix has Outside Rear View Mirror Turn Indicators.
+Bmw Ix has Passenger Airbag.
+Bmw Ix has Day & Night Rear View Mirror.
+Bmw Ix has Tyre Pressure Monitoring System (TPMS).
+Bmw Ix has Touchscreen.
+Bmw Ix has Rear Window Wiper.
+Bmw Ix has Rear Window Washer.
+Bmw Ix has Child Safety Locks.
+Bmw Ix has Rear Spoiler.
+Bmw Ix has Rain Sensing Wiper.
+Bmw Ix has Air Quality Control.
+Bmw Ix has Navigation System.
+Bmw Ix has Smart Access Card Entry.
+Bmw Ix has Roof Rails.
+Bmw Ix has Dual Tone Body Colour.
+Bmw Ix has Curtain Airbag.
+Bmw Ix has Usb Ports.
+Bmw Ix does not have Gear Shift Indicator.
+Bmw Ix does not have Luggage Hook & Net.
+Bmw Ix has LED Fog Lamps.
+Bmw Ix has Heated Wing Mirror.
+Bmw Ix has Power Boot.
+Bmw Ix does not have Fog Lights - Front.
+Bmw Ix has Integrated 2DIN Audio.
+Bmw Ix does not have Rear Curtain.
+Bmw Ix has Smart Key Band.
+The Bmw Ix generates 516.29 Brake Horsepower (BHP).
+The Bmw Ix generates 765 Newton meters.
+The Bmw Ix has a Automatic transmission.
+The Bmw Ix has a All-Wheel Drive (AWD) drive type.
+The Bmw Ix runs on Electric.
+The Bmw Ix complies with ZEV emission norms.
+The Bmw Ix has Electric steering.
+The Bmw Ix has Ventilated Disc front brakes.
+The Bmw Ix has Ventilated Disc rear brakes.
+The Bmw Ix has a length of 4953 mm.
+The Bmw Ix has a width of 2230 mm.
+The Bmw Ix has a height of 1695 mm.
+The Bmw Ix offers 500 Litres of boot space.
+The Bmw Ix has a seating capacity of 5.0.
+The Bmw Ix has a wheelbase of 3014 mm.
+The Bmw Ix has a kerb weight of 2285 kg.
+The Bmw Ix has 5.0 doors.
+The Bmw Ix is fitted with tyres of size 255/50 R21(FandR).
+The Bmw Ix is equipped with Tubeless Radial tyres.
+The Bmw Ix is equipped with 8.0 airbags.
+The Bmw Ix has been rated 5 Star by Global NCAP.
+The Bmw Ix is equipped with a 14.9 inch touchscreen.
+The Bmw Ix is equipped with 18.0 speakers.
+The Bmw Ix features Android Auto, Apple CarPlay connectivity options.
+The Bmw Ix achieves a top speed of 200 kmph.
+The Bmw Ix has a front tread of 1395 mm.
+The Bmw Ix is equipped with a Rack & Pinion steering gear type.
+The Bmw Ix features a synchronous motor motor type.
+The Bmw Ix comes with a Lithium-Ion Battery battery.
+The Bmw Ix is equipped with a Smart trunk opener.
+The Bmw Ix has a battery capacity of 111.5 kWh.
+The Bmw Ix features a motor with 240 kW power.
+The Bmw Ix provides a range of 575 km.
+The Bmw Ix charges in 5.5 Hours at 22kW (100%) using an A.C charger.
+The Bmw Ix charges in 35 Min at 195kW (10%-80%) using a D.C charger.
+The Bmw Ix is equipped with a CCS-II charging port.
+The Bmw Ix reaches 0-100 km/h in 6.1 s.
+The Bmw Ix requires 35 Min at 195kW (10%-80%) for a full charge.
+The Bmw Ix comes with the Air suspension front suspension.
+The Bmw Ix comes with the Air suspension rear suspension.
+The Bmw Ix features Adjustable Steering steering adjustment.
+Bmw Ix has Adjustable Steering.
+The Bmw Ix features Front & Rear parking sensors.
+The Bmw Ix features Front & Rear USB charging ports.
+The Bmw Ix has a Without Guidedlines rear camera.
+The Bmw Ix has Front & Rear speakers.
+The Bmw Ix has Front electric adjustable seats.
+The Bmw Ix has a 40:20:40 Split foldable rear seat.
+Bmw Ix has Central Console Armrest.
+The Bmw Ix has Driver and Passenger knee airbags.
+Bmw Ix has Rear Seat Headrest.
+Bmw Ix has Sunroof.
+The Bmw Ix has 3 drive modes.
+The Bmw Ix includes BMW Virtual Assistant,10.9-inch central display, 10.9-inch front passenger display including Cockpit tile,BMW Live Cockpit Professional, as additional features.

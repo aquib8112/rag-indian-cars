@@ -1,0 +1,151 @@
+Tata Tigor Ev has 4 variants: XE, XT, XZ Plus & XZ Plus LUX.
+All variants of Tata Tigor Ev have Power Steering.
+All variants of Tata Tigor Ev have Air Conditioner.
+All variants of Tata Tigor Ev have Heater.
+All variants of Tata Tigor Ev have Automatic Climate Control.
+All variants of Tata Tigor Ev have Accessory Power Outlet.
+All variants of Tata Tigor Ev have Adjustable Headrest.
+Tata Tigor Ev variants with Rear Seat Centre Arm Rest - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Rear Seat Centre Arm Rest - XE & XT.
+Tata Tigor Ev variants with Cruise Control - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Cruise Control - XE & XT.
+All variants of Tata Tigor Ev have Real-Time Vehicle Tracking.
+Tata Tigor Ev variants with Engine Start/Stop Button - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Engine Start/Stop Button - XE & XT.
+Tata Tigor Ev variants with KeyLess Entry - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without KeyLess Entry - XE & XT.
+Tata Tigor Ev variants with Follow Me Home Headlamps - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Follow Me Home Headlamps - XE & XT.
+Tata Tigor Ev variants with Wheel Covers - XT, XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variant without Wheel Covers - XE.
+Tata Tigor Ev variants with Projector Headlamps - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Projector Headlamps - XE & XT.
+Tata Tigor Ev variants with Automatic Headlamps - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Automatic Headlamps - XE & XT.
+Tata Tigor Ev variants with LED DRLs - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without LED DRLs - XE & XT.
+All variants of Tata Tigor Ev have Anti-lock Braking System (ABS).
+Tata Tigor Ev variants with Central Locking - XT, XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variant without Central Locking - XE.
+All variants of Tata Tigor Ev have Driver Airbag.
+All variants of Tata Tigor Ev have Seat Belt Warning.
+All variants of Tata Tigor Ev have Engine Immobilizer.
+All variants of Tata Tigor Ev do not have E-Call & I-Call.
+All variants of Tata Tigor Ev have Remote AC On/Off.
+Tata Tigor Ev variants with Anti-Theft Device - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Anti-Theft Device - XE & XT.
+All variants of Tata Tigor Ev have Speed Alert.
+Tata Tigor Ev variants with Speed Sensing Auto Door Lock - XT, XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variant without Speed Sensing Auto Door Lock - XE.
+Tata Tigor Ev variants with Radio - XT, XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variant without Radio - XE.
+Tata Tigor Ev variants with Bluetooth Connectivity - XT, XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variant without Bluetooth Connectivity - XE.
+Tata Tigor Ev variants with Android Auto - XT, XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants with Apple CarPlay - XT, XZ Plus & XZ Plus LUX.
+All variants of Tata Tigor Ev have Driver Attention Warning.
+All variants of Tata Tigor Ev have Live Location.
+Tata Tigor Ev variants with Over the Air (OTA) Updates - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Over the Air (OTA) Updates - XE & XT.
+All variants of Tata Tigor Ev have Over Speeding Alert.
+All variants of Tata Tigor Ev have Valet Mode.
+All variants of Tata Tigor Ev have Remote Door Lock/Unlock.
+All variants of Tata Tigor Ev have Geo-fence Alert.
+All variants of Tata Tigor Ev have LED Taillights.
+All variants of Tata Tigor Ev have Electronic Brakeforce Distribution (EBD).
+Tata Tigor Ev variants with Anti-Theft Alarm - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Anti-Theft Alarm - XE & XT.
+All variants of Tata Tigor Ev have Door Ajar Warning.
+All variants of Tata Tigor Ev have Digital Odometer.
+Tata Tigor Ev variants with Remote Immobiliser - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Remote Immobiliser - XE & XT.
+All variants of Tata Tigor Ev have SOS / Emergency Assistance.
+Tata Tigor Ev variants with Unauthorised Vehicle entry - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Unauthorised Vehicle entry - XE & XT.
+Tata Tigor Ev variants with Cooled Glovebox - XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants without Cooled Glovebox - XE & XT.
+All variants of Tata Tigor Ev have Remote Vehicle Status Check.
+All variants of Tata Tigor Ev have SOS Button.
+All variants of Tata Tigor Ev have Regenerative Braking.
+All variants of Tata Tigor Ev have Fast Charging.
+All variants of Tata Tigor Ev have Height Adjustable Driver Seat.
+Tata Tigor Ev variants with Rear Window Defogger - XE, XT, XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants with Outside Rear View Mirror Turn Indicators - XE, XT, XZ Plus & XZ Plus LUX.
+All variants of Tata Tigor Ev have Passenger Airbag.
+All variants of Tata Tigor Ev have Tyre Pressure Monitoring System (TPMS).
+Tata Tigor Ev variants with Touchscreen - XE, XT, XZ Plus & XZ Plus LUX.
+All variants of Tata Tigor Ev have Child Safety Locks.
+Tata Tigor Ev variants with Rain Sensing Wiper - XE, XT, XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variants with Usb Ports - XT, XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variant without Usb Ports - XE.
+All variants of Tata Tigor Ev have Luggage Hook & Net.
+Tata Tigor Ev variants with Integrated 2DIN Audio - XT, XZ Plus & XZ Plus LUX.
+Tata Tigor Ev variant without Integrated 2DIN Audio - XE.
+All Tata Tigor Ev variants produce a maximum power of 73.75 Brake Horsepower (BHP).
+All Tata Tigor Ev variants produce a maximum torque of 170 Newton meters.
+All Tata Tigor Ev variants have a Automatic transmission.
+All Tata Tigor Ev variants come with a 1-Speed gearbox.
+All Tata Tigor Ev variants have a Front-Wheel Drive (FWD) drive type.
+All Tata Tigor Ev variants run on Electric.
+All Tata Tigor Ev variants comply with ZEV emission norms.
+All Tata Tigor Ev variants come with Electric steering.
+All Tata Tigor Ev variants have a turning radius of 5.1m.
+All Tata Tigor Ev variants have Disc front brakes.
+All Tata Tigor Ev variants have Drum rear brakes.
+All Tata Tigor Ev variants have a length of 3993 mm.
+All Tata Tigor Ev variants have a width of 1677 mm.
+All Tata Tigor Ev variants have a height of 1532 mm.
+All Tata Tigor Ev variants offer 316 Litres of boot space.
+All Tata Tigor Ev variants have a seating capacity of 5.0.
+All Tata Tigor Ev variants have a wheelbase of 2450 mm.
+All Tata Tigor Ev variants have 4.0 doors.
+Tata Tigor Ev variants - XE & XT feature Manual Outside Rear View Mirror (ORVM).
+Tata Tigor Ev variants - XZ Plus & XZ Plus LUX feature Powered & Folding Outside Rear View Mirror (ORVM).
+All Tata Tigor Ev variants have tyres of size 175/65 R14.
+All Tata Tigor Ev variants come with Tubeless Radial tyres.
+All Tata Tigor Ev variants have 14 Inch wheels.
+All Tata Tigor Ev variants come equipped with 2.0 airbags.
+All Tata Tigor Ev variants have received a 4 Star Global NCAP safety rating.
+Tata Tigor Ev variants - XT, XZ Plus & XZ Plus LUX come with a 7 inch touchscreen display.
+Tata Tigor Ev variants - XT, XZ Plus & XZ Plus LUX come with 4.0 speakers.
+Tata Tigor Ev variants - XZ Plus & XZ Plus LUX have 4.0 tweeters.
+Tata Tigor Ev variants - XT, XZ Plus & XZ Plus LUX have Android Auto, Apple CarPlay connectivity options.
+All Tata Tigor Ev variants feature a Full Digital (EV Accents) digital cluster.
+Tata Tigor Ev variants - XE, XT & XZ Plus feature Fabric upholstery options.
+Tata Tigor Ev variant XZ Plus LUX is equipped with Leatherette upholstery.
+All Tata Tigor Ev variants have a front tread of 1520 mm.
+All Tata Tigor Ev variants are equipped with a Permanent Magnet Synchronous Motor motor type.
+All Tata Tigor Ev variants are powered by a Lithium-Ion Battery battery.
+All Tata Tigor Ev variants come with a 26 kWh battery capacity.
+All Tata Tigor Ev variants are equipped with a 55 kW motor power.
+All Tata Tigor Ev variants offer a driving range of 315 km.
+All Tata Tigor Ev variants take 9 Hours 24Min at 3.3 kW (0-100%) to charge using an A.C charger.
+Tata Tigor Ev variant XE requires 59 Min at 18kW (10-80%) for D.C charging.
+Tata Tigor Ev variants - XT, XZ Plus & XZ Plus LUX have the same D.C charging time of 59 Min at 18kWh (10-80%).
+All Tata Tigor Ev variants come with a CCS-II charging port.
+All Tata Tigor Ev variants offer 3.3 kW AC | 7.2 kW AC | 18 kW DC as charging options.
+All Tata Tigor Ev variants take 9.4H (10% to 100%) to charge using a 15 A plug point.
+All Tata Tigor Ev variants take 59 Min at 18kW (10-80%) to charge.
+All Tata Tigor Ev variants have the MacPherson Strut suspension front suspension.
+All Tata Tigor Ev variants have the Rear twist beam rear suspension.
+All Tata Tigor Ev variants come with Tilt Steering steering adjustment.
+All Tata Tigor Ev variants are equipped with Rear parking sensors.
+Tata Tigor Ev variant without USB Charger - XE.
+Tata Tigor Ev variants - XT, XZ Plus & XZ Plus LUX share the Front USB charging configuration.
+Tata Tigor Ev variant XE has Front Only power windows.
+Tata Tigor Ev variants - XT, XZ Plus & XZ Plus LUX share the Front & Rear power window configuration.
+Tata Tigor Ev variants - XZ Plus & XZ Plus LUX share the Front & Rear cup holder configuration.
+Tata Tigor Ev variants without Fog Lights - XE & XT.
+Tata Tigor Ev variants - XZ Plus & XZ Plus LUX share the Front fog light configuration.
+Tata Tigor Ev variants - XZ Plus & XZ Plus LUX share the Shark Fin antenna type.
+Tata Tigor Ev variants without Rear Camera - XE & XT.
+Tata Tigor Ev variants - XZ Plus & XZ Plus LUX share the With Guidedlines rear camera type.
+All Tata Tigor Ev variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Tata Tigor Ev variant without Speakers - XE.
+Tata Tigor Ev variants - XT, XZ Plus & XZ Plus LUX share the Front & Rear speaker configuration.
+All Tata Tigor Ev variants come with 2 drive modes.
+All Tata Tigor Ev variants offer Multi-drive Modes (Drive | Sport) drive modes.
+All Tata Tigor Ev variants support 4 levels of regenerative braking.
+Tata Tigor Ev variant XE offers Body Coloured Bumper,EV Blue Accents on Humanity Line,Crystal Inspired LED Tail Lamps,High Mounted LED Tail Lamps Hub Wheel Covers as additional features.
+Tata Tigor Ev variants - XT & XZ Plus LUX share ConnectNext Floating Dash - Top Touchscreen Infotainment by HARMAN,HARMAN Sound System,i-pod Connectivity,Phone Book access,Audio Streaming,Incoming SMS Notifications and Read-outs, Call Reject with SMS Feature as additional features.
+Tata Tigor Ev variant XZ Plus offers ConnectNext Floating Dash - Top Touchscreen Infotainment by HARMAN,HARMAN Sound System ,i-pod Connectivity,Phone Book access,Audio Streaming,Incoming SMS Notifications and Read-outs, Call Reject with SMS Feature as additional features.

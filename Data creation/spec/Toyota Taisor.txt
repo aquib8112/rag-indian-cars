@@ -1,0 +1,200 @@
+﻿Toyota Taisor has 12 variants: E, S, E CNG, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+All variants of Toyota Taisor have Power Steering.
+All variants of Toyota Taisor have Air Conditioner.
+All variants of Toyota Taisor have Heater.
+All variants of Toyota Taisor have Automatic Climate Control.
+All variants of Toyota Taisor have Adjustable Headrest.
+Toyota Taisor variants with Rear AC Vents - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Rear AC Vents - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Cruise Control - V Turbo, V Turbo Dual Tone, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Cruise Control - E, S, E CNG, S Plus, S AMT, S Plus AMT, G Turbo & G Turbo AT.
+Toyota Taisor variants with Real-Time Vehicle Tracking - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Real-Time Vehicle Tracking - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Engine Start/Stop Button - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Engine Start/Stop Button - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+All variants of Toyota Taisor do not have Hands-Free Tailgate.
+All variants of Toyota Taisor have KeyLess Entry.
+Toyota Taisor variants with Idle Start-Stop System - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Idle Start-Stop System - E & E CNG.
+Toyota Taisor variants with Follow Me Home Headlamps - S Plus, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Follow Me Home Headlamps - E, S, E CNG & S AMT.
+All variants of Toyota Taisor have Tachometer.
+Toyota Taisor variants with Wheel Covers - E, S, E CNG & S AMT.
+Toyota Taisor variants without Wheel Covers - S Plus, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants with Alloy Wheels - S Plus, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Alloy Wheels - E, S, E CNG & S AMT.
+All variants of Toyota Taisor have Integrated Antenna.
+Toyota Taisor variants with Automatic Headlamps - S Plus, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Automatic Headlamps - E, S, E CNG & S AMT.
+Toyota Taisor variants with LED DRLs - S Plus, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without LED DRLs - E, S, E CNG & S AMT.
+Toyota Taisor variants with LED Headlamps - S Plus, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without LED Headlamps - E, S, E CNG & S AMT.
+All variants of Toyota Taisor have Anti-lock Braking System (ABS).
+All variants of Toyota Taisor have Central Locking.
+All variants of Toyota Taisor have Driver Airbag.
+Toyota Taisor variants with Side Airbag - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Side Airbag - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+All variants of Toyota Taisor have Seat Belt Warning.
+All variants of Toyota Taisor have Engine Immobilizer.
+All variants of Toyota Taisor do not have E-Call & I-Call.
+Toyota Taisor variants with Remote AC On/Off - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Remote AC On/Off - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+All variants of Toyota Taisor have Speed Alert.
+All variants of Toyota Taisor have ISOFIX Child Seat Mounts.
+All variants of Toyota Taisor have Hill Assist.
+Toyota Taisor variants with 360 View Camera - V Turbo, V Turbo Dual Tone, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without 360 View Camera - E, S, E CNG, S Plus, S AMT, S Plus AMT, G Turbo & G Turbo AT.
+Toyota Taisor variants with Radio - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Radio - E & E CNG.
+Toyota Taisor variants with Wireless Phone Charging - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Wireless Phone Charging - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Bluetooth Connectivity - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Bluetooth Connectivity - E & E CNG.
+Toyota Taisor variants with Android Auto - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Android Auto - E & E CNG.
+Toyota Taisor variants with Apple CarPlay - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Apple CarPlay - E & E CNG.
+Toyota Taisor variants with Over the Air (OTA) Updates - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Over the Air (OTA) Updates - E & E CNG.
+Toyota Taisor variants with Google / Alexa Connectivity - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Google / Alexa Connectivity - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Over Speeding Alert - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Over Speeding Alert - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Smartwatch App - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Smartwatch App - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Valet Mode - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Valet Mode - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Remote Door Lock/Unlock - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Remote Door Lock/Unlock - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Paddle Shifters - G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Paddle Shifters - E, S, E CNG, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo & V Turbo Dual Tone.
+Toyota Taisor variants with Tow Away Alert - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Tow Away Alert - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Halogen Headlamps - E, S, E CNG & S AMT.
+Toyota Taisor variants without Halogen Headlamps - S Plus, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+All variants of Toyota Taisor have Electronic Brakeforce Distribution (EBD).
+Toyota Taisor variants with Anti-Theft Alarm - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Anti-Theft Alarm - E & E CNG.
+Toyota Taisor variants with Door Ajar Warning - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Door Ajar Warning - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Heads-Up Display (HUD) - V Turbo, V Turbo Dual Tone, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Heads-Up Display (HUD) - E, S, E CNG, S Plus, S AMT, S Plus AMT, G Turbo & G Turbo AT.
+Toyota Taisor variants with Unauthorised Vehicle entry - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Unauthorised Vehicle entry - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Remote Vehicle Status Check - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Remote Vehicle Status Check - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Regenerative Braking - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants with Height Adjustable Driver Seat - E, S, E CNG, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+All variants of Toyota Taisor have Rear Window Defogger.
+Toyota Taisor variants with Leather Wrapped Steering Wheel - E, S, E CNG, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+All variants of Toyota Taisor have Glove Box.
+All variants of Toyota Taisor have Adjustable Headlamps.
+Toyota Taisor variants with Outside Rear View Mirror Turn Indicators - E, S, E CNG, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+All variants of Toyota Taisor have Passenger Airbag.
+All variants of Toyota Taisor have Day & Night Rear View Mirror.
+Toyota Taisor variants with Touchscreen - E, S, E CNG, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants with Rear Window Wiper - E, S, E CNG, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants with Rear Window Washer - E, S, E CNG, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+All variants of Toyota Taisor have Rear Spoiler.
+All variants of Toyota Taisor have Roof Rails.
+Toyota Taisor variants with Curtain Airbag - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Curtain Airbag - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Usb Ports - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Usb Ports - E & E CNG.
+Toyota Taisor variants with Gear Shift Indicator - E, S, E CNG, S Plus, G Turbo, V Turbo & V Turbo Dual Tone.
+Toyota Taisor variants without Gear Shift Indicator - S AMT, S Plus AMT, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants with Integrated 2DIN Audio - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants without Integrated 2DIN Audio - E & E CNG.
+Toyota Taisor variants - E, S, E CNG, S Plus, S AMT & S Plus AMT share the 1.2L K-Series Dual Jet engine.
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share the 1.0L K-Series Turbo engine.
+Toyota Taisor variants - E, S, E CNG, S Plus, S AMT & S Plus AMT share a displacement of 1197  cubic centimeters.
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share a displacement of 998  cubic centimeters.
+Toyota Taisor variants - E, S, S Plus, S AMT & S Plus AMT have a max power of 88.5 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Toyota Taisor variant E CNG delivers a max power of 76.43 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone have a max power of 98.69 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Toyota Taisor variants - E, S, S Plus, S AMT & S Plus AMT share a max torque of 113 Newton meters at 4400 Revolutions Per Minute (RPM).
+Toyota Taisor variant E CNG has a max torque of 98.5 Newton meters at 4300 Revolutions Per Minute (RPM).
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share a max torque of 147.6 Newton meters at 2000 to 4500 Revolutions Per Minute (RPM).
+All Toyota Taisor variants have 4.0 valves per cylinder.
+Toyota Taisor variants - E, S, E CNG, S Plus, G Turbo, V Turbo & V Turbo Dual Tone share a Manual transmission.
+Toyota Taisor variants - S AMT, S Plus AMT, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share a Automatic transmission.
+Toyota Taisor variants - E, S, E CNG, S Plus, S AMT & S Plus AMT have 4.0 cylinders.
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone have 3.0 cylinders.
+Toyota Taisor variants - E, S, E CNG, S Plus, G Turbo, V Turbo & V Turbo Dual Tone share a 5-Speed gearbox.
+Toyota Taisor variants - S AMT & S Plus AMT share a 5-Speed-AMT gearbox.
+Toyota Taisor variants - G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share a 6-Speed-AT gearbox.
+All Toyota Taisor variants have a Front-Wheel Drive (FWD) drive type.
+Toyota Taisor variants - E, S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone use Petrol as fuel.
+Toyota Taisor variant E CNG runs on CNG.
+All Toyota Taisor variants comply with BS VI 2.0 emission norms.
+All Toyota Taisor variants have a turning radius of 4.9m.
+All Toyota Taisor variants have Disc front brakes.
+All Toyota Taisor variants have Drum rear brakes.
+All Toyota Taisor variants have a length of 3995 mm.
+All Toyota Taisor variants have a width of 1765 mm.
+All Toyota Taisor variants have a height of 1550 mm.
+All Toyota Taisor variants offer 308 Litres of boot space.
+All Toyota Taisor variants have a seating capacity of 5.0.
+All Toyota Taisor variants have a wheelbase of 2520 mm.
+Toyota Taisor variants - E, E CNG, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share a kerb weight of 1055-1060 kg.
+Toyota Taisor variants - S & S Plus share a kerb weight of 965-970 kg.
+Toyota Taisor variants - S AMT & S Plus AMT share a kerb weight of 975 kg.
+Toyota Taisor variants - G Turbo, V Turbo & V Turbo Dual Tone share a kerb weight of 1015-1030 kg.
+Toyota Taisor variants - E, E CNG, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share a gross weight of 1480 kg.
+Toyota Taisor variants - S, S Plus, S AMT & S Plus AMT share a gross weight of 1450 kg.
+All Toyota Taisor variants have 5.0 doors.
+All Toyota Taisor variants come with a Manual boot opening mechanism.
+Toyota Taisor variants - E & E CNG feature Manual Outside Rear View Mirror (ORVM).
+Toyota Taisor variants - S, S Plus, S AMT, S Plus AMT, G Turbo & G Turbo AT feature Powered Outside Rear View Mirror (ORVM).
+Toyota Taisor variants - V Turbo, V Turbo Dual Tone, V Turbo AT & V Turbo AT Dual Tone feature Powered & Folding Outside Rear View Mirror (ORVM).
+All Toyota Taisor variants have tyres of size 195/60 R16.
+All Toyota Taisor variants come with Tubeless Radial tyres.
+Toyota Taisor variants - E, S, E CNG & S AMT feature 16 Inch wheels.
+Toyota Taisor variants - E, S, E CNG, S Plus, S AMT & S Plus AMT offer 2.0 airbags.
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone offer 6.0 airbags.
+Toyota Taisor variants - S, S Plus, S AMT, S Plus AMT, G Turbo & G Turbo AT come with a 7 inch touchscreen display.
+Toyota Taisor variants - V Turbo, V Turbo Dual Tone, V Turbo AT & V Turbo AT Dual Tone come with a 9 Inch touchscreen display.
+Toyota Taisor variants - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone come with 4.0 speakers.
+Toyota Taisor variant E CNG features Petrol as a secondary fuel type.
+Toyota Taisor variant E CNG has a secondary fuel tank capacity of 37.0 liters.
+Toyota Taisor variants - S Plus, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone have 16 Inch front alloy wheels.
+Toyota Taisor variants - S Plus, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone have 16 Inch rear alloy wheels.
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone have 2.0 tweeters.
+Toyota Taisor variants - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone have Android Auto, Apple CarPlay connectivity options.
+Toyota Taisor variants - E, S, E CNG, S Plus, S AMT & S Plus AMT feature a No Digital Cluster digital cluster.
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone feature a Full Digital digital cluster.
+All Toyota Taisor variants come with Fabric upholstery.
+All Toyota Taisor variants have Driver's Window anti-pinch power windows.
+Toyota Taisor variants - E, S & S Plus have mileage figures of 21.7 kmpl.
+Toyota Taisor variant E CNG provides a mileage of 28.5 km/kg.
+Toyota Taisor variants - S AMT & S Plus AMT have mileage figures of 22.8 kmpl.
+Toyota Taisor variants - G Turbo, V Turbo & V Turbo Dual Tone have mileage figures of 21.5 kmpl.
+Toyota Taisor variants - G Turbo AT, V Turbo AT & V Turbo AT Dual Tone have mileage figures of 20 kmpl.
+Toyota Taisor variants - E, S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone have fuel tank capacities of 37 Litres.
+Toyota Taisor variant E CNG features a fuel tank capacity of 55 Litres.
+All Toyota Taisor variants have the MacPherson Strut suspension front suspension.
+All Toyota Taisor variants have the Rear twist beam rear suspension.
+Toyota Taisor variants - E, S, E CNG, S Plus, S AMT & S Plus AMT share the Tilt Steering steering adjustment type.
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share the Tilt & Telescopic steering adjustment type.
+All variants of Toyota Taisor have Adjustable Steering.
+All Toyota Taisor variants are equipped with Rear parking sensors.
+Toyota Taisor variants without USB Charger - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share the Front & Rear USB charging configuration.
+All Toyota Taisor variants have Front & Rear power windows.
+All Toyota Taisor variants come with Front Only cup holders.
+All Toyota Taisor variants come with a Shark Fin antenna.
+Toyota Taisor variants without Digital Cluster Size - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share the 4.2 inch digital cluster size.
+Toyota Taisor variants without Rear Camera - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share the With Guidedlines rear camera type.
+Toyota Taisor variants without Speakers - E & E CNG.
+Toyota Taisor variants - S, S Plus, S AMT, S Plus AMT, G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share the Front & Rear speaker configuration.
+All Toyota Taisor variants have a 60:40 Split foldable rear seat.
+Toyota Taisor variants without Central Console Armrest - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone share the With Storage central console armrest type.
+Toyota Taisor variants without Turbo Charger - E, S, E CNG, S Plus, S AMT & S Plus AMT.
+Toyota Taisor variants with Turbo Charger - G Turbo, V Turbo, V Turbo Dual Tone, G Turbo AT, V Turbo AT & V Turbo AT Dual Tone.
+Toyota Taisor variants - E & E CNG share Toyota signature grille with chrome garnish,Stylish Connected LED Rear Combi lamps(Without centre LIT),Skid Plate (Fr & Rr),Wheel arch, Side Door, Underbody Cladding,Roof Garnish as additional features.
+Toyota Taisor variants - S, S Plus, S AMT, S Plus AMT, G Turbo & G Turbo AT share Android Auto & Apple CarPlay (Wireless) as additional features.
+Toyota Taisor variants - V Turbo, V Turbo Dual Tone, V Turbo AT & V Turbo AT Dual Tone share ARKAMYS Tuning (Surround Sense),Android Auto & Apple CarPlay (Wireless) as additional features.

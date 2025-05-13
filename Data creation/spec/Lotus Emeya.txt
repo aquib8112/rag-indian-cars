@@ -1,0 +1,108 @@
+﻿Lotus Emeya has 1 variants: GT.
+Lotus Emeya has Power Steering.
+Lotus Emeya has Air Conditioner.
+Lotus Emeya has Heater.
+Lotus Emeya has Automatic Climate Control.
+Lotus Emeya has Accessory Power Outlet.
+Lotus Emeya has Trunk Light.
+Lotus Emeya has Adjustable Headrest.
+Lotus Emeya has Rear AC Vents.
+Lotus Emeya has Cruise Control.
+Lotus Emeya has Real-Time Vehicle Tracking.
+Lotus Emeya has Engine Start/Stop Button.
+Lotus Emeya has Voice Commands.
+Lotus Emeya does not have Hands-Free Tailgate.
+Lotus Emeya has Chrome Grille.
+Lotus Emeya has KeyLess Entry.
+Lotus Emeya has Idle Start-Stop System.
+Lotus Emeya has Follow Me Home Headlamps.
+Lotus Emeya has Tachometer.
+Lotus Emeya has Alloy Wheels.
+Lotus Emeya has Integrated Antenna.
+Lotus Emeya has Projector Headlamps.
+Lotus Emeya has Automatic Headlamps.
+Lotus Emeya has LED DRLs.
+Lotus Emeya has LED Headlamps.
+Lotus Emeya has Anti-lock Braking System (ABS).
+Lotus Emeya has Central Locking.
+Lotus Emeya has Driver Airbag.
+Lotus Emeya has Side Airbag.
+Lotus Emeya has Seat Belt Warning.
+Lotus Emeya has Electronic Stability Control (ESC).
+Lotus Emeya has Anti-Theft Device.
+Lotus Emeya has Speed Alert.
+Lotus Emeya has Speed Sensing Auto Door Lock.
+Lotus Emeya has Hill Assist.
+Lotus Emeya has Impact Sensing Auto Door Unlock.
+Lotus Emeya has 360 View Camera.
+Lotus Emeya has Radio.
+Lotus Emeya has Wireless Phone Charging.
+Lotus Emeya has Bluetooth Connectivity.
+Lotus Emeya has Android Auto.
+Lotus Emeya has Apple CarPlay.
+Lotus Emeya has Height Adjustable Front Seat Belts.
+Lotus Emeya has Lumbar Support.
+Lotus Emeya has Paddle Shifters.
+Lotus Emeya has LED Taillights.
+Lotus Emeya has Electronic Brakeforce Distribution (EBD).
+Lotus Emeya has Brake Assist.
+Lotus Emeya has Door Ajar Warning.
+Lotus Emeya has Blind Spot Camera.
+Lotus Emeya has Cooled Glovebox.
+Lotus Emeya has Puddle Lamps.
+Lotus Emeya has Hill Descent Control.
+Lotus Emeya has Battery Saver.
+Lotus Emeya has Blind Spot Monitor.
+Lotus Emeya has Tailgate Ajar Warning.
+Lotus Emeya has Remote Trunk Opener.
+Lotus Emeya has Regenerative Braking.
+Lotus Emeya has Fast Charging.
+Lotus Emeya has Traction Control.
+Lotus Emeya has Wireless Charging.
+Lotus Emeya has Height Adjustable Driver Seat.
+Lotus Emeya has Rear Window Defogger.
+Lotus Emeya has Glove Box.
+Lotus Emeya has Adjustable Headlamps.
+Lotus Emeya has Outside Rear View Mirror Turn Indicators.
+Lotus Emeya has Passenger Airbag.
+Lotus Emeya has Day & Night Rear View Mirror.
+Lotus Emeya has Tyre Pressure Monitoring System (TPMS).
+Lotus Emeya has Touchscreen.
+Lotus Emeya has Rear Window Wiper.
+Lotus Emeya has Rear Spoiler.
+Lotus Emeya has Rain Sensing Wiper.
+Lotus Emeya has Air Quality Control.
+Lotus Emeya has Tinted Glass.
+Lotus Emeya has Usb Ports.
+The Lotus Emeya generates 594.71 Brake Horsepower (BHP).
+The Lotus Emeya has a Automatic transmission.
+The Lotus Emeya has a 1-Speed gearbox.
+The Lotus Emeya has a All-Wheel Drive (AWD) drive type.
+The Lotus Emeya runs on Electric.
+The Lotus Emeya complies with ZEV emission norms.
+The Lotus Emeya has Electric steering.
+The Lotus Emeya has Disc front brakes.
+The Lotus Emeya has Disc rear brakes.
+The Lotus Emeya has a seating capacity of 5.0.
+The Lotus Emeya has 5.0 doors.
+The Lotus Emeya features a Powered boot opening mechanism.
+The Lotus Emeya is equipped with Powered Outside Rear View Mirror (ORVM).
+The Lotus Emeya is equipped with Unknown tyres.
+The Lotus Emeya is equipped with a unknown touchscreen.
+The Lotus Emeya features Android Auto, Apple CarPlay connectivity options.
+The Lotus Emeya comes with a Full Digital digital cluster.
+The Lotus Emeya achieves a top speed of 250 kmph.
+The Lotus Emeya features a Permanent Magnet Synchronous Motor motor type.
+The Lotus Emeya comes with a Lithium-Ion Battery battery.
+The Lotus Emeya provides a range of 610 km.
+The Lotus Emeya comes with the Multi-link suspension front suspension.
+The Lotus Emeya comes with the Multi-link suspension rear suspension.
+The Lotus Emeya features Front & Rear parking sensors.
+The Lotus Emeya features Front & Rear USB charging ports.
+The Lotus Emeya features Front & Rear power windows.
+The Lotus Emeya features Front Only cup holders.
+The Lotus Emeya has a With Guidedlines rear camera.
+The Lotus Emeya has Driver and Passenger seatbelt pretensioners and force limiters.
+The Lotus Emeya has Front & Rear speakers.
+The Lotus Emeya has a 60:40 Split foldable rear seat.
+Lotus Emeya has Central Console Armrest.

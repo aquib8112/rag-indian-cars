@@ -1,0 +1,120 @@
+﻿Mercedes Benz Gla has 3 variants: 200, 220d 4MATIC & 220d 4MATIC AMG Line.
+All variants of Mercedes Benz Gla have Power Steering.
+All variants of Mercedes Benz Gla have Air Conditioner.
+All variants of Mercedes Benz Gla have Heater.
+All variants of Mercedes Benz Gla have Accessory Power Outlet.
+All variants of Mercedes Benz Gla have Rear Reading Lamp.
+All variants of Mercedes Benz Gla have Adjustable Headrest.
+All variants of Mercedes Benz Gla have Rear Seat Centre Arm Rest.
+All variants of Mercedes Benz Gla have Cruise Control.
+All variants of Mercedes Benz Gla have Engine Start/Stop Button.
+All variants of Mercedes Benz Gla do not have Hands-Free Tailgate.
+All variants of Mercedes Benz Gla have KeyLess Entry.
+All variants of Mercedes Benz Gla have Follow Me Home Headlamps.
+All variants of Mercedes Benz Gla have Tachometer.
+All variants of Mercedes Benz Gla have Alloy Wheels.
+All variants of Mercedes Benz Gla have Integrated Antenna.
+All variants of Mercedes Benz Gla have Projector Headlamps.
+All variants of Mercedes Benz Gla have Automatic Headlamps.
+All variants of Mercedes Benz Gla have LED DRLs.
+All variants of Mercedes Benz Gla have LED Headlamps.
+All variants of Mercedes Benz Gla have Anti-lock Braking System (ABS).
+All variants of Mercedes Benz Gla have Central Locking.
+All variants of Mercedes Benz Gla have Driver Airbag.
+All variants of Mercedes Benz Gla have Side Airbag.
+All variants of Mercedes Benz Gla have Seat Belt Warning.
+All variants of Mercedes Benz Gla have Engine Immobilizer.
+All variants of Mercedes Benz Gla have Electronic Stability Control (ESC).
+All variants of Mercedes Benz Gla have Speed Alert.
+All variants of Mercedes Benz Gla have Speed Sensing Auto Door Lock.
+All variants of Mercedes Benz Gla have Hill Assist.
+All variants of Mercedes Benz Gla have Impact Sensing Auto Door Unlock.
+All variants of Mercedes Benz Gla have 360 View Camera.
+All variants of Mercedes Benz Gla have Radio.
+All variants of Mercedes Benz Gla have Bluetooth Connectivity.
+All variants of Mercedes Benz Gla have Android Auto.
+All variants of Mercedes Benz Gla have Apple CarPlay.
+All variants of Mercedes Benz Gla have Height Adjustable Front Seat Belts.
+All variants of Mercedes Benz Gla have Paddle Shifters.
+All variants of Mercedes Benz Gla have LED Taillights.
+All variants of Mercedes Benz Gla have Electronic Brakeforce Distribution (EBD).
+All variants of Mercedes Benz Gla have Brake Assist.
+All variants of Mercedes Benz Gla have Door Ajar Warning.
+All variants of Mercedes Benz Gla have Digital Odometer.
+All variants of Mercedes Benz Gla have Blind Spot Monitor.
+All variants of Mercedes Benz Gla have Height Adjustable Driver Seat.
+All variants of Mercedes Benz Gla have Leather Wrapped Steering Wheel.
+All variants of Mercedes Benz Gla have Glove Box.
+All variants of Mercedes Benz Gla have Passenger Airbag.
+All variants of Mercedes Benz Gla have Day & Night Rear View Mirror.
+All variants of Mercedes Benz Gla have Tyre Pressure Monitoring System (TPMS).
+All variants of Mercedes Benz Gla have Touchscreen.
+All variants of Mercedes Benz Gla have Child Safety Locks.
+All variants of Mercedes Benz Gla have Rear Spoiler.
+All variants of Mercedes Benz Gla have Curtain Airbag.
+All variants of Mercedes Benz Gla have Usb Ports.
+All variants of Mercedes Benz Gla have Integrated 2DIN Audio.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line share the OM 651 DE 22 LA engine.
+Mercedes Benz Gla variant 200 has a displacement of 1332  cubic centimeters.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line share a displacement of 1950  cubic centimeters.
+Mercedes Benz Gla variant 200 delivers a max power of 160.92 Brake Horsepower (BHP).
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line have a max power of 187.74 Brake Horsepower (BHP) at 3800 Revolutions Per Minute (RPM).
+Mercedes Benz Gla variant 200 has a max torque of 270 Newton meters.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line share a max torque of 400 Newton meters at 1600 to 2600 Revolutions Per Minute (RPM).
+All Mercedes Benz Gla variants have 4.0 valves per cylinder.
+All Mercedes Benz Gla variants have a Automatic transmission.
+All Mercedes Benz Gla variants have 4.0 cylinders.
+Mercedes Benz Gla variant 200 comes with a 7-Speed-DCT gearbox.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line share a 8-Speed-DCT gearbox.
+Mercedes Benz Gla variant 200 has a Front-Wheel Drive (FWD) drive type.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line share a All-Wheel Drive (AWD) drive type.
+Mercedes Benz Gla variant 200 runs on Petrol.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line use Diesel as fuel.
+All Mercedes Benz Gla variants comply with BS VI 2.0 emission norms.
+All Mercedes Benz Gla variants come with Electric steering.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line feature Disc front brakes.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line feature Disc rear brakes.
+All Mercedes Benz Gla variants have a length of 4412 mm.
+All Mercedes Benz Gla variants have a width of 2020 mm.
+All Mercedes Benz Gla variants have a height of 1616 mm.
+Mercedes Benz Gla variant 200 offers 425 Litres of boot space.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line share a boot space of 427 Litres.
+All Mercedes Benz Gla variants have a seating capacity of 5.0.
+Mercedes Benz Gla variant 200 has a wheelbase of 2651 mm.
+All Mercedes Benz Gla variants have a kerb weight of 1570 kg.
+Mercedes Benz Gla variant 200 has a gross weight of 2070 kg.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line share a gross weight of 2225 kg.
+All Mercedes Benz Gla variants have 5.0 doors.
+All Mercedes Benz Gla variants come with a Automatic boot opening mechanism.
+All Mercedes Benz Gla variants come with Tyre Type tyres.
+All Mercedes Benz Gla variants come equipped with 7.0 airbags.
+All Mercedes Benz Gla variants come with 18 Inch front alloy wheels.
+All Mercedes Benz Gla variants come with 18 Inch rear alloy wheels.
+All Mercedes Benz Gla variants come with Android Auto, Apple CarPlay connectivity options.
+All Mercedes Benz Gla variants feature a Full Digital digital cluster.
+All Mercedes Benz Gla variants come with Leatherette upholstery.
+Mercedes Benz Gla variant 200 has a top speed of 210 kmph.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line have a top speed of 219 kmph.
+Mercedes Benz Gla variant 200 features a front tread of 1511 mm.
+Mercedes Benz Gla variant 200 accelerates from 0-100 kmph in 8.9 s.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line have a 0-100 kmph acceleration time of 7.5 s.
+Mercedes Benz Gla variant 200 accelerates from 0-100 kmph in 8.9 s.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line have a 0-100 kmph acceleration time of 7.5 s.
+All Mercedes Benz Gla variants have a rear tread of 1606 mm.
+Mercedes Benz Gla variant 200 has 1420 Litres of boot space with the rear seats down.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line offer varying boot space capacities with rear seats folded, including 1422 Litres.
+Mercedes Benz Gla variant 200 provides a mileage of 17.4 kmpl.
+Mercedes Benz Gla variants - 220d 4MATIC & 220d 4MATIC AMG Line have mileage figures of 18.9 kmpl.
+All Mercedes Benz Gla variants have the Air suspension front suspension.
+All Mercedes Benz Gla variants have the Air suspension rear suspension.
+All variants of Mercedes Benz Gla have Adjustable Steering.
+All Mercedes Benz Gla variants are equipped with Rear parking sensors.
+All Mercedes Benz Gla variants come with Front USB charging ports.
+All Mercedes Benz Gla variants have a With Guidedlines rear camera.
+All Mercedes Benz Gla variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Mercedes Benz Gla variants include Front & Rear speakers.
+All variants of Mercedes Benz Gla have Turbo Charger.
+All Mercedes Benz Gla variants come with Driver knee airbags.
+All variants of Mercedes Benz Gla have Rear Seat Headrest.
+All Mercedes Benz Gla variants come with a Panoramic sunroof.
+All Mercedes Benz Gla variants come with Digital Key Handover as additional features.

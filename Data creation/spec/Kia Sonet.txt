@@ -1,0 +1,273 @@
+Kia Sonet has 11 variants: HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+All variants of Kia Sonet have Power Steering.
+All variants of Kia Sonet have Air Conditioner.
+All variants of Kia Sonet have Heater.
+Kia Sonet variants with Automatic Climate Control - HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Automatic Climate Control - HTE, HTK & HTK Turbo iMT.
+All variants of Kia Sonet have Accessory Power Outlet.
+Kia Sonet variants with Trunk Light - HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Trunk Light - HTE, HTK, HTK Turbo iMT & HTK Plus.
+All variants of Kia Sonet have Rear Reading Lamp.
+All variants of Kia Sonet have Adjustable Headrest.
+Kia Sonet variants with Rear Seat Centre Arm Rest - HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+All variants of Kia Sonet have Rear AC Vents.
+Kia Sonet variants with Cruise Control - HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Cruise Control - HTE, HTK, HTK Turbo iMT & HTK Plus.
+Kia Sonet variants with Real-Time Vehicle Tracking - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Real-Time Vehicle Tracking - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Engine Start/Stop Button - HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Engine Start/Stop Button - HTE, HTK & HTK Turbo iMT.
+Kia Sonet variants with Voice Commands - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without Voice Commands - HTE.
+All variants of Kia Sonet do not have Hands-Free Tailgate.
+Kia Sonet variants with KeyLess Entry - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without KeyLess Entry - HTE.
+All variants of Kia Sonet have Idle Start-Stop System.
+Kia Sonet variants with Follow Me Home Headlamps - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without Follow Me Home Headlamps - HTE.
+All variants of Kia Sonet have Tachometer.
+Kia Sonet variants with Wheel Covers - HTK, HTK Turbo iMT & HTK Plus.
+Kia Sonet variants without Wheel Covers - HTE, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants with Alloy Wheels - HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Alloy Wheels - HTE, HTK, HTK Turbo iMT & HTK Plus.
+All variants of Kia Sonet have Integrated Antenna.
+Kia Sonet variants with Automatic Headlamps - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without Automatic Headlamps - HTE.
+Kia Sonet variants with LED DRLs - HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without LED DRLs - HTE & HTK.
+Kia Sonet variants with LED Headlamps - HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without LED Headlamps - HTE & HTK.
+All variants of Kia Sonet have Anti-lock Braking System (ABS).
+All variants of Kia Sonet have Central Locking.
+All variants of Kia Sonet have Driver Airbag.
+All variants of Kia Sonet have Side Airbag.
+All variants of Kia Sonet have Seat Belt Warning.
+All variants of Kia Sonet have Engine Immobilizer.
+Kia Sonet variants with E-Call & I-Call - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without E-Call & I-Call - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Remote AC On/Off - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Remote AC On/Off - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+All variants of Kia Sonet do not have Side Airbag-Rear.
+All variants of Kia Sonet have Electronic Stability Control (ESC).
+Kia Sonet variants with Anti-Theft Device - HTK, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+All variants of Kia Sonet have Speed Alert.
+All variants of Kia Sonet have Speed Sensing Auto Door Lock.
+All variants of Kia Sonet have ISOFIX Child Seat Mounts.
+All variants of Kia Sonet have Hill Assist.
+All variants of Kia Sonet have Impact Sensing Auto Door Unlock.
+Kia Sonet variants with 360 View Camera - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without 360 View Camera - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Radio - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without Radio - HTE.
+Kia Sonet variants with Wireless Phone Charging - HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Wireless Phone Charging - HTE, HTK, HTK Turbo iMT & HTK Plus.
+Kia Sonet variants with Bluetooth Connectivity - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without Bluetooth Connectivity - HTE.
+Kia Sonet variants with Android Auto - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without Android Auto - HTE.
+Kia Sonet variants with Apple CarPlay - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without Apple CarPlay - HTE.
+Kia Sonet variants with Driver Attention Warning - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Driver Attention Warning - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Live Location - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Live Location - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Over the Air (OTA) Updates - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Over the Air (OTA) Updates - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Google / Alexa Connectivity - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Google / Alexa Connectivity - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants without Smartwatch App - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT & HTX Diesel.
+Kia Sonet variants with Remote Door Lock/Unlock - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Remote Door Lock/Unlock - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Paddle Shifters - HTX Turbo DCT, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Paddle Shifters - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT & HTX Diesel.
+Kia Sonet variant with Dual Tone Dashboard - X-line Turbo DCT.
+Kia Sonet variants without Dual Tone Dashboard - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants with Halogen Headlamps - HTE, HTK, HTK Turbo iMT & HTK Plus.
+Kia Sonet variants without Halogen Headlamps - HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants with LED Taillights - HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without LED Taillights - HTE & HTK.
+All variants of Kia Sonet have Electronic Brakeforce Distribution (EBD).
+All variants of Kia Sonet have Brake Assist.
+Kia Sonet variants with Anti-Theft Alarm - HTK, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without Anti-Theft Alarm - HTE.
+All variants of Kia Sonet have Door Ajar Warning.
+All variants of Kia Sonet do not have Heads-Up Display (HUD).
+Kia Sonet variants with Forward Collision Warning - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Forward Collision Warning - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Lane Departure Warning - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Lane Departure Warning - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Lane Keep Assist - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Lane Keep Assist - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Leading Vehicle Departure Alert - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Leading Vehicle Departure Alert - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Adaptive High Beam Assist - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Adaptive High Beam Assist - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Inbuilt Assistant - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Inbuilt Assistant - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Navigation with Live Traffic - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Navigation with Live Traffic - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Send POI to Vehicle From App - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Send POI to Vehicle From App - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Ventilated Seats - HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Ventilated Seats - HTE, HTK, HTK Turbo iMT, HTK Plus & HTX Turbo iMT.
+All variants of Kia Sonet do not have Hill Descent Control.
+All variants of Kia Sonet do not have Active noise cancellation.
+All variants of Kia Sonet have Battery Saver.
+Kia Sonet variants with Rear Window Sunblind - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without Rear Window Sunblind - HTE.
+All variants of Kia Sonet do not have Rear Windscreen Sunblind.
+All variants of Kia Sonet do not have Leather wrap gear-shift selector.
+All variants of Kia Sonet do not have Headlamp Washers.
+All variants of Kia Sonet do not have Smoke Headlamps.
+All variants of Kia Sonet do not have Heated Outside Rear View Mirror.
+Kia Sonet variants with Blind Spot Monitor - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Blind Spot Monitor - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Live Weather - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Live Weather - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Remote Vehicle Status Check - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Remote Vehicle Status Check - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with SOS Button - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without SOS Button - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Save Route/Place - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Save Route/Place - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants without Regenerative Braking - HTX Turbo DCT, HTX Diesel & X-line Turbo DCT.
+Kia Sonet variants with Traction Control - HTX Turbo DCT, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Traction Control - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT & HTX Diesel.
+Kia Sonet variants with RSA - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without RSA - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Hinglish Voice Commands - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without Hinglish Voice Commands - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants with Height Adjustable Driver Seat - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants with Rear Window Defogger - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+All variants of Kia Sonet have Leather Wrapped Steering Wheel.
+All variants of Kia Sonet have Glove Box.
+Kia Sonet variants with Outside Rear View Mirror Turn Indicators - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+All variants of Kia Sonet have Passenger Airbag.
+All variants of Kia Sonet have Day & Night Rear View Mirror.
+All variants of Kia Sonet have Tyre Pressure Monitoring System (TPMS).
+Kia Sonet variants with Touchscreen - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants with Rear Window Wiper - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants with Rear Window Washer - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants with Rear Spoiler - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+All variants of Kia Sonet have Rain Sensing Wiper.
+Kia Sonet variants with Air Quality Control - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+All variants of Kia Sonet have Tinted Glass.
+All variants of Kia Sonet have Folding Table in The Rear.
+Kia Sonet variants with Roof Rails - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+All variants of Kia Sonet have Cigarette Lighter.
+All variants of Kia Sonet have Side Stepper.
+All variants of Kia Sonet have Curtain Airbag.
+Kia Sonet variants with Usb Ports - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without Usb Ports - HTE.
+Kia Sonet variants with Gear Shift Indicator - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT & HTX Diesel.
+Kia Sonet variants without Gear Shift Indicator - HTX Turbo DCT, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+All variants of Kia Sonet have Luggage Hook & Net.
+Kia Sonet variants with LED Fog Lamps - HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variants without LED Fog Lamps - HTE & HTK.
+Kia Sonet variants with Integrated 2DIN Audio - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+Kia Sonet variant without Integrated 2DIN Audio - HTE.
+Kia Sonet variants - HTE, HTK & HTK Plus share the Smartstream G1.2 engine.
+Kia Sonet variants - HTK Turbo iMT, HTX Turbo iMT, HTX Turbo DCT, GTX Plus Turbo DCT & X-line Turbo DCT share the Smartstream G1.0 TGDi engine.
+Kia Sonet variants - HTX Diesel, HTX Diesel AT & GTX Plus Diesel AT share the 1.5L CRDi VGT engine.
+Kia Sonet variants - HTE, HTK & HTK Plus share a displacement of 1197  cubic centimeters.
+Kia Sonet variants - HTK Turbo iMT, HTX Turbo iMT, HTX Turbo DCT, GTX Plus Turbo DCT & X-line Turbo DCT share a displacement of 998  cubic centimeters.
+Kia Sonet variants - HTX Diesel, HTX Diesel AT & GTX Plus Diesel AT share a displacement of 1493  cubic centimeters.
+Kia Sonet variants - HTE, HTK & HTK Plus have a max power of 81.8 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Kia Sonet variants - HTK Turbo iMT, HTX Turbo iMT, HTX Turbo DCT, GTX Plus Turbo DCT & X-line Turbo DCT have a max power of 118 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Kia Sonet variants - HTX Diesel, HTX Diesel AT & GTX Plus Diesel AT have a max power of 114 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Kia Sonet variants - HTE, HTK & HTK Plus share a max torque of 115 Newton meters at 4200 Revolutions Per Minute (RPM).
+Kia Sonet variants - HTK Turbo iMT, HTX Turbo iMT, HTX Turbo DCT, GTX Plus Turbo DCT & X-line Turbo DCT share a max torque of 172 Newton meters at 1500 to 4000 Revolutions Per Minute (RPM).
+Kia Sonet variants - HTX Diesel, HTX Diesel AT & GTX Plus Diesel AT share a max torque of 250 Newton meters at 1500 to 2750 Revolutions Per Minute (RPM).
+All Kia Sonet variants have 4.0 valves per cylinder.
+Kia Sonet variants - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT & HTX Diesel share a Manual transmission.
+Kia Sonet variants - HTX Turbo DCT, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share a Automatic transmission.
+Kia Sonet variants - HTE, HTK, HTK Plus, HTX Diesel, HTX Diesel AT & GTX Plus Diesel AT have 4.0 cylinders.
+Kia Sonet variants - HTK Turbo iMT, HTX Turbo iMT, HTX Turbo DCT, GTX Plus Turbo DCT & X-line Turbo DCT have 3.0 cylinders.
+Kia Sonet variants - HTE, HTK & HTK Plus share a 5-Speed gearbox.
+Kia Sonet variants - HTK Turbo iMT & HTX Turbo iMT share a 6-Speed iMT gearbox.
+Kia Sonet variants - HTX Turbo DCT, GTX Plus Turbo DCT & X-line Turbo DCT share a 7-Speed-DCT gearbox.
+Kia Sonet variant HTX Diesel comes with a 6-Speed gearbox.
+Kia Sonet variants - HTX Diesel AT & GTX Plus Diesel AT share a 6-Speed-AT gearbox.
+All Kia Sonet variants have a Front-Wheel Drive (FWD) drive type.
+Kia Sonet variants - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, GTX Plus Turbo DCT & X-line Turbo DCT use Petrol as fuel.
+Kia Sonet variants - HTX Diesel, HTX Diesel AT & GTX Plus Diesel AT use Diesel as fuel.
+All Kia Sonet variants comply with BS VI 2.0 emission norms.
+All Kia Sonet variants come with Electric steering.
+All Kia Sonet variants have Disc front brakes.
+Kia Sonet variants - HTE, HTK, HTK Turbo iMT & HTK Plus feature Drum rear brakes.
+Kia Sonet variants - HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT feature Disc rear brakes.
+All Kia Sonet variants have a length of 3995 mm.
+All Kia Sonet variants have a width of 1790 mm.
+All Kia Sonet variants have a height of 1642 mm.
+All Kia Sonet variants offer 385 Litres of boot space.
+All Kia Sonet variants have a seating capacity of 5.0.
+All Kia Sonet variants have a wheelbase of 2500 mm.
+All Kia Sonet variants have 5.0 doors.
+Kia Sonet variant HTE is equipped with a Manual boot opening mechanism.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT feature a Electronic boot opening mechanism.
+Kia Sonet variants - HTE, HTK & HTK Turbo iMT feature Powered Outside Rear View Mirror (ORVM).
+Kia Sonet variants - HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT feature Powered & Folding Outside Rear View Mirror (ORVM).
+Kia Sonet variant HTE comes with tyres of size 195/65 R15.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT feature tyres of size 215/60 R16.
+All Kia Sonet variants come with Tyre Type tyres.
+Kia Sonet variant HTE is equipped with 15 Inch wheels.
+Kia Sonet variants - HTK, HTK Turbo iMT & HTK Plus feature 16 Inch wheels.
+All Kia Sonet variants come equipped with 6.0 airbags.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT come with a 8 inch touchscreen display.
+Kia Sonet variants - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT come with a 10.25 inch touchscreen display.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT come with 4.0 speakers.
+Kia Sonet variants - HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT have 16 Inch front alloy wheels.
+Kia Sonet variants - HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT have 16 Inch rear alloy wheels.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT have 2.0 tweeters.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT have Android Auto, Apple CarPlay connectivity options.
+All Kia Sonet variants feature a Full Digital digital cluster.
+All Kia Sonet variants come with Leatherette upholstery.
+Kia Sonet variants - HTE, HTK & HTK Plus have the same fuel supply system of Multi-Point Fuel Injection (MPFi).
+Kia Sonet variants - HTK Turbo iMT, HTX Turbo iMT, HTX Turbo DCT, GTX Plus Turbo DCT & X-line Turbo DCT have the same fuel supply system of Gasoline Direct Injection (GDi).
+Kia Sonet variants - HTX Diesel, HTX Diesel AT & GTX Plus Diesel AT have the same fuel supply system of Common Rail Direct Injection (CRDi).
+Kia Sonet variants - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT have the same subwoofer setup with 1.0.
+Kia Sonet variants - HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT come with Driver's Window anti-pinch power windows.
+Kia Sonet variants - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT come with All Windows anti-pinch power windows.
+Kia Sonet variants - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, GTX Plus Turbo DCT & X-line Turbo DCT have mileage figures of 18.4 kmpl.
+Kia Sonet variant HTX Diesel provides a mileage of 24.1 kmpl.
+Kia Sonet variants - HTX Diesel AT & GTX Plus Diesel AT have mileage figures of 19 kmpl.
+All Kia Sonet variants have a fuel tank capacity of 45 Litres.
+All Kia Sonet variants have the MacPherson Strut suspension front suspension.
+All Kia Sonet variants have the Rear twist beam rear suspension.
+All Kia Sonet variants come with Tilt Steering steering adjustment.
+All variants of Kia Sonet have Adjustable Steering.
+Kia Sonet variant HTE has Rear parking sensors.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share the Front & Rear parking sensor configuration.
+All Kia Sonet variants come with Front & Rear USB charging ports.
+Kia Sonet variant HTE has Front Only power windows.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share the Front & Rear power window configuration.
+Kia Sonet variants without Fog Lights - HTE & HTK.
+Kia Sonet variants - HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share the Front fog light configuration.
+Kia Sonet variant HTE has a Pole Type antenna.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share the Shark Fin antenna type.
+Kia Sonet variants - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT share the 4.2 inch digital cluster size.
+Kia Sonet variants - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share the 10.25 inch digital cluster size.
+Kia Sonet variant without Rear Camera - HTE.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share the With Guidedlines rear camera type.
+All Kia Sonet variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Kia Sonet variant without Speakers - HTE.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share the Front & Rear speaker configuration.
+Kia Sonet variants without Electric Adjustable Seats - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT.
+Kia Sonet variants - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share the Front electric seat adjustment type.
+Kia Sonet variants - HTE, HTK & HTK Plus share the Bench Folding foldable rear seat type.
+Kia Sonet variants - HTK Turbo iMT, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share the 60:40 Split foldable rear seat type.
+All Kia Sonet variants have a With Storage central console armrest.
+Kia Sonet variants without Turbo Charger - HTE, HTK & HTK Plus.
+Kia Sonet variants with Turbo Charger - HTK Turbo iMT, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT.
+All variants of Kia Sonet do not have Knee Airbags.
+All variants of Kia Sonet do not have Autonomous Parking.
+Kia Sonet variants - HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share Adjustable rear seat headrests.
+Kia Sonet variants without Sunroof - HTE, HTK, HTK Turbo iMT & HTK Plus.
+Kia Sonet variants - HTX Turbo iMT, HTX Turbo DCT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share a Single Pane sunroof.
+Kia Sonet variants without Drive Modes - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT & HTX Diesel.
+Kia Sonet variants - HTX Turbo DCT, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share the 3 drive mode configuration.
+Kia Sonet variants without Drive Mode Types - HTE, HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT & HTX Diesel.
+Kia Sonet variants - HTX Turbo DCT, HTX Diesel AT, GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share the Eco, Normal & Sport drive mode options.
+Kia Sonet variant without Additional Features - HTE.
+Kia Sonet variants - HTK, HTK Turbo iMT, HTK Plus, HTX Turbo iMT, HTX Turbo DCT, HTX Diesel & HTX Diesel AT share Wireless Android Auto & Apple CarPlay, Wireless Phone Projection, Bluetooth multi connection as additional features.
+Kia Sonet variants - GTX Plus Turbo DCT, X-line Turbo DCT & GTX Plus Diesel AT share HD Touchscreen Navigation with Wired Android Auto & Apple CarPlay, AI Voice Recognition System, BOSE premium 7 speaker system with dynamic speed compensation, Bluetooth multi connection as additional features.

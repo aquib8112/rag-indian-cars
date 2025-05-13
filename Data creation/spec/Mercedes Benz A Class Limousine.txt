@@ -1,0 +1,154 @@
+﻿Mercedes Benz A Class Limousine has 2 variants: A 200 & A 200d.
+All variants of Mercedes Benz A Class Limousine have Power Steering.
+All variants of Mercedes Benz A Class Limousine have Air Conditioner.
+All variants of Mercedes Benz A Class Limousine have Heater.
+All variants of Mercedes Benz A Class Limousine have Automatic Climate Control.
+All variants of Mercedes Benz A Class Limousine have Accessory Power Outlet.
+All variants of Mercedes Benz A Class Limousine have Trunk Light.
+All variants of Mercedes Benz A Class Limousine have Vanity Mirror.
+All variants of Mercedes Benz A Class Limousine have Rear Reading Lamp.
+All variants of Mercedes Benz A Class Limousine have Rear Seat Centre Arm Rest.
+All variants of Mercedes Benz A Class Limousine have Rear AC Vents.
+All variants of Mercedes Benz A Class Limousine have Cruise Control.
+All variants of Mercedes Benz A Class Limousine have Engine Start/Stop Button.
+All variants of Mercedes Benz A Class Limousine have Voice Commands.
+All variants of Mercedes Benz A Class Limousine have Hands-Free Tailgate.
+All variants of Mercedes Benz A Class Limousine have Chrome Grille.
+All variants of Mercedes Benz A Class Limousine have KeyLess Entry.
+All variants of Mercedes Benz A Class Limousine have Follow Me Home Headlamps.
+All variants of Mercedes Benz A Class Limousine have Tachometer.
+All variants of Mercedes Benz A Class Limousine have Alloy Wheels.
+All variants of Mercedes Benz A Class Limousine have Integrated Antenna.
+All variants of Mercedes Benz A Class Limousine have Automatic Headlamps.
+All variants of Mercedes Benz A Class Limousine have LED DRLs.
+All variants of Mercedes Benz A Class Limousine have LED Headlamps.
+All variants of Mercedes Benz A Class Limousine have Anti-lock Braking System (ABS).
+All variants of Mercedes Benz A Class Limousine have Central Locking.
+All variants of Mercedes Benz A Class Limousine have Driver Airbag.
+All variants of Mercedes Benz A Class Limousine have Side Airbag.
+All variants of Mercedes Benz A Class Limousine have Seat Belt Warning.
+All variants of Mercedes Benz A Class Limousine have Engine Immobilizer.
+Mercedes Benz A Class Limousine variant without Side Airbag-Rear - A 200.
+All variants of Mercedes Benz A Class Limousine have Anti-Theft Device.
+All variants of Mercedes Benz A Class Limousine have Speed Alert.
+All variants of Mercedes Benz A Class Limousine have Speed Sensing Auto Door Lock.
+All variants of Mercedes Benz A Class Limousine have ISOFIX Child Seat Mounts.
+All variants of Mercedes Benz A Class Limousine have Hill Assist.
+All variants of Mercedes Benz A Class Limousine have Impact Sensing Auto Door Unlock.
+All variants of Mercedes Benz A Class Limousine have Radio.
+All variants of Mercedes Benz A Class Limousine do not have Wireless Phone Charging.
+All variants of Mercedes Benz A Class Limousine have Bluetooth Connectivity.
+All variants of Mercedes Benz A Class Limousine have Android Auto.
+All variants of Mercedes Benz A Class Limousine have Apple CarPlay.
+All variants of Mercedes Benz A Class Limousine have Height Adjustable Front Seat Belts.
+All variants of Mercedes Benz A Class Limousine have Lumbar Support.
+All variants of Mercedes Benz A Class Limousine have Paddle Shifters.
+All variants of Mercedes Benz A Class Limousine have Electronic Multi-Tripmeter.
+All variants of Mercedes Benz A Class Limousine have Digital Clock.
+All variants of Mercedes Benz A Class Limousine have Outside Temperature Display.
+All variants of Mercedes Benz A Class Limousine have Dual Tone Dashboard.
+All variants of Mercedes Benz A Class Limousine have LED Taillights.
+All variants of Mercedes Benz A Class Limousine have Brake Assist.
+All variants of Mercedes Benz A Class Limousine have Anti-Theft Alarm.
+All variants of Mercedes Benz A Class Limousine have Door Ajar Warning.
+All variants of Mercedes Benz A Class Limousine have Digital Odometer.
+All variants of Mercedes Benz A Class Limousine have Cooled Glovebox.
+All variants of Mercedes Benz A Class Limousine have Ventilated Seats.
+All variants of Mercedes Benz A Class Limousine have Cornering Foglamps.
+All variants of Mercedes Benz A Class Limousine have Leather wrap gear-shift selector.
+All variants of Mercedes Benz A Class Limousine have Headlamp Washers.
+All variants of Mercedes Benz A Class Limousine have Tailgate Ajar Warning.
+All variants of Mercedes Benz A Class Limousine have Remote Trunk Opener.
+All variants of Mercedes Benz A Class Limousine have Compass.
+All variants of Mercedes Benz A Class Limousine do not have Wi-Fi Connectivity.
+All variants of Mercedes Benz A Class Limousine have Cornering Headlamps.
+All variants of Mercedes Benz A Class Limousine have Traction Control.
+All variants of Mercedes Benz A Class Limousine have Leather Seats.
+All variants of Mercedes Benz A Class Limousine have Driving Experience Control Eco.
+All variants of Mercedes Benz A Class Limousine do not have MirrorLink.
+All variants of Mercedes Benz A Class Limousine have Internal Storage.
+All variants of Mercedes Benz A Class Limousine have Height Adjustable Driver Seat.
+All variants of Mercedes Benz A Class Limousine have Rear Window Defogger.
+All variants of Mercedes Benz A Class Limousine have Leather Wrapped Steering Wheel.
+All variants of Mercedes Benz A Class Limousine have Glove Box.
+All variants of Mercedes Benz A Class Limousine have Adjustable Headlamps.
+All variants of Mercedes Benz A Class Limousine have Outside Rear View Mirror Turn Indicators.
+All variants of Mercedes Benz A Class Limousine have Passenger Airbag.
+All variants of Mercedes Benz A Class Limousine have Day & Night Rear View Mirror.
+All variants of Mercedes Benz A Class Limousine have Tyre Pressure Monitoring System (TPMS).
+All variants of Mercedes Benz A Class Limousine have Touchscreen.
+All variants of Mercedes Benz A Class Limousine have Chrome Garnish.
+All variants of Mercedes Benz A Class Limousine have Child Safety Locks.
+All variants of Mercedes Benz A Class Limousine have Rain Sensing Wiper.
+All variants of Mercedes Benz A Class Limousine have Air Quality Control.
+All variants of Mercedes Benz A Class Limousine have Tinted Glass.
+All variants of Mercedes Benz A Class Limousine have Navigation System.
+All variants of Mercedes Benz A Class Limousine have Smart Access Card Entry.
+All variants of Mercedes Benz A Class Limousine have Dual Tone Body Colour.
+Mercedes Benz A Class Limousine variant with Curtain Airbag - A 200d.
+All variants of Mercedes Benz A Class Limousine have Usb Ports.
+All variants of Mercedes Benz A Class Limousine do not have Gear Shift Indicator.
+All variants of Mercedes Benz A Class Limousine do not have Luggage Hook & Net.
+All variants of Mercedes Benz A Class Limousine have Low Fuel Warning Light.
+All variants of Mercedes Benz A Class Limousine have Heated Wing Mirror.
+All variants of Mercedes Benz A Class Limousine have Power Boot.
+All variants of Mercedes Benz A Class Limousine have Fog Lights - Front.
+All variants of Mercedes Benz A Class Limousine have Integrated 2DIN Audio.
+All variants of Mercedes Benz A Class Limousine have USB & Auxiliary input.
+All variants of Mercedes Benz A Class Limousine do not have Rear Curtain.
+All variants of Mercedes Benz A Class Limousine do not have Smart Key Band.
+All Mercedes Benz A Class Limousine variants use the L4 200 engine.
+Mercedes Benz A Class Limousine variant A 200 has a displacement of 1332  cubic centimeters.
+Mercedes Benz A Class Limousine variant A 200d has a displacement of 1950  cubic centimeters.
+All Mercedes Benz A Class Limousine variants produce a maximum power of 160.92 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+All Mercedes Benz A Class Limousine variants produce a maximum torque of 250 Newton meters at 1620 to 4000 Revolutions Per Minute (RPM).
+All Mercedes Benz A Class Limousine variants have 4.0 valves per cylinder.
+All Mercedes Benz A Class Limousine variants have a Automatic transmission.
+All Mercedes Benz A Class Limousine variants have 4.0 cylinders.
+Mercedes Benz A Class Limousine variant A 200 comes with a 7-Speed-DCT gearbox.
+Mercedes Benz A Class Limousine variant A 200d comes with a 8-Speed-DCT gearbox.
+All Mercedes Benz A Class Limousine variants have a Front-Wheel Drive (FWD) drive type.
+Mercedes Benz A Class Limousine variant A 200 runs on Petrol.
+Mercedes Benz A Class Limousine variant A 200d runs on Diesel.
+All Mercedes Benz A Class Limousine variants comply with BS VI 2.0 emission norms.
+All Mercedes Benz A Class Limousine variants come with Electric steering.
+All Mercedes Benz A Class Limousine variants have Ventilated Disc front brakes.
+All Mercedes Benz A Class Limousine variants have Ventilated Disc rear brakes.
+All Mercedes Benz A Class Limousine variants have a length of 4549 mm.
+All Mercedes Benz A Class Limousine variants have a width of 1992 mm.
+All Mercedes Benz A Class Limousine variants have a height of 1446 mm.
+All Mercedes Benz A Class Limousine variants offer 395 Litres of boot space.
+All Mercedes Benz A Class Limousine variants have a seating capacity of 5.0.
+Mercedes Benz A Class Limousine variant A 200 has a wheelbase of 2964 mm.
+Mercedes Benz A Class Limousine variant A 200d has a wheelbase of 2750 mm.
+All Mercedes Benz A Class Limousine variants have a kerb weight of 1395 kg.
+All Mercedes Benz A Class Limousine variants have a gross weight of 1915 kg.
+All Mercedes Benz A Class Limousine variants have 4.0 doors.
+All Mercedes Benz A Class Limousine variants come with Tubeless Radial tyres.
+All Mercedes Benz A Class Limousine variants come equipped with 7.0 airbags.
+All Mercedes Benz A Class Limousine variants have received a 5 Star Global NCAP safety rating.
+All Mercedes Benz A Class Limousine variants come with a 10.25 inch touchscreen display.
+All Mercedes Benz A Class Limousine variants come with Android Auto, Apple CarPlay connectivity options.
+All Mercedes Benz A Class Limousine variants have a top speed of 230 kmph.
+All Mercedes Benz A Class Limousine variants accelerate from 0-100 kmph in 8.3 s.
+All Mercedes Benz A Class Limousine variants accelerate from 0-100 kmph in 8.3 s.
+All Mercedes Benz A Class Limousine variants use a Rack & Pinion steering gear type.
+All Mercedes Benz A Class Limousine variants feature a Remote trunk opener.
+Mercedes Benz A Class Limousine variant A 200d provides a mileage of 15.5 kmpl.
+Mercedes Benz A Class Limousine variant A 200 has a highway mileage of 17 kmpl.
+Mercedes Benz A Class Limousine variant A 200d has a highway mileage of 20 kmpl.
+All Mercedes Benz A Class Limousine variants have a fuel tank capacity of 66 Litres.
+All Mercedes Benz A Class Limousine variants have the Multi-link suspension front suspension.
+All Mercedes Benz A Class Limousine variants have the Multi-link suspension rear suspension.
+All Mercedes Benz A Class Limousine variants come with Tilt Steering steering adjustment.
+All variants of Mercedes Benz A Class Limousine have Adjustable Steering.
+All variants of Mercedes Benz A Class Limousine have Parking Sensors.
+All Mercedes Benz A Class Limousine variants come with Front & Rear USB charging ports.
+All Mercedes Benz A Class Limousine variants include Front & Rear speakers.
+All variants of Mercedes Benz A Class Limousine have Central Console Armrest.
+All variants of Mercedes Benz A Class Limousine have Turbo Charger.
+Mercedes Benz A Class Limousine variant A 200d has Driver knee airbags.
+All variants of Mercedes Benz A Class Limousine have Rear Seat Headrest.
+All variants of Mercedes Benz A Class Limousine have Sunroof.
+All Mercedes Benz A Class Limousine variants come with 4 drive modes.
+All Mercedes Benz A Class Limousine variants come with Wireless charging system for mobile devices(front), Near Field Communication, Hard-disc navigation (Saves inputs via touch control or voice input.The 3D displays of points of interest, for example, are also a visual delight. The intelligent system guides you reliably to your destination using both local and the most recent online data), Smartphone Integration (Links the mobile phone via Apple CarPlay or Android Auto. Convenient important apps on your smartphone and third-party apps such as Spotify etc.), high-resolution media display 10.25 inch. Highly appealing combination: when the media display is combined with the larger instrument display, the result is a Widescreen cockpit, Mercedes me Service app:( Your digital assistant, Vehicle Finder (enables horn and light flashing), Windows/sunroof open and close from App, Geo-fencing,Vehicle Monitoring(radius of 1.5 km, vehicle's geocoordinates sent by GPS),Vehicle Set-up (traffic information in real time), Touchpad and Touch Control (control feature like the Ambient Light or navigation system etc. The touch-sensitive identify handwriting.), Artificial Intelligence (Automatically adjusts the right radio station or shows the fastest route), Individualisation, LINGUATRONIC voice control system (“Hey Mercedes”), Mercedes-Benz Emergency Call System (SOS), Navigation Connectivity Package, as additional features.

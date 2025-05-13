@@ -1,0 +1,127 @@
+Renault Kwid has 10 variants: 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+All variants of Renault Kwid have Power Steering.
+Renault Kwid variants with Air Conditioner - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Air Conditioner - 1.0 RXE.
+Renault Kwid variants with Heater - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Heater - 1.0 RXE.
+Renault Kwid variants with Accessory Power Outlet - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Accessory Power Outlet - 1.0 RXE.
+Renault Kwid variants with Rear Reading Lamp - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Rear Reading Lamp - 1.0 RXE.
+All variants of Renault Kwid do not have Adjustable Headrest.
+Renault Kwid variants with Chrome Grille - 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variants without Chrome Grille - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt & 1.0 RXL Opt AMT.
+Renault Kwid variants with KeyLess Entry - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without KeyLess Entry - 1.0 RXE.
+All variants of Renault Kwid have Tachometer.
+Renault Kwid variants with Wheel Covers - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Wheel Covers - 1.0 RXE.
+Renault Kwid variants without Alloy Wheels - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT & 1.0 RXT AMT.
+Renault Kwid variants with Integrated Antenna - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Integrated Antenna - 1.0 RXE.
+Renault Kwid variants with Projector Headlamps - CLIMBER, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variants without Projector Headlamps - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT & 1.0 RXT AMT.
+All variants of Renault Kwid have LED DRLs.
+All variants of Renault Kwid have Anti-lock Braking System (ABS).
+Renault Kwid variants with Central Locking - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Central Locking - 1.0 RXE.
+All variants of Renault Kwid have Driver Airbag.
+All variants of Renault Kwid do not have Side Airbag.
+All variants of Renault Kwid have Seat Belt Warning.
+All variants of Renault Kwid have Engine Immobilizer.
+Renault Kwid variants without E-Call & I-Call - 1.0 RXE, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+All variants of Renault Kwid do not have Side Airbag-Rear.
+All variants of Renault Kwid have Electronic Stability Control (ESC).
+All variants of Renault Kwid have Speed Alert.
+Renault Kwid variants with Speed Sensing Auto Door Lock - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variants with Hill Assist - 1.0 RXL Opt AMT, 1.0 RXT AMT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variants without Hill Assist - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXT, CLIMBER & CLIMBER DT.
+All variants of Renault Kwid have Impact Sensing Auto Door Unlock.
+Renault Kwid variants with Radio - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Radio - 1.0 RXE.
+Renault Kwid variants with Bluetooth Connectivity - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Bluetooth Connectivity - 1.0 RXE.
+Renault Kwid variants with Android Auto - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Android Auto - 1.0 RXE.
+Renault Kwid variants with Apple CarPlay - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Apple CarPlay - 1.0 RXE.
+All variants of Renault Kwid have Over Speeding Alert.
+Renault Kwid variants with Remote Door Lock/Unlock - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variants with LED Taillights - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without LED Taillights - 1.0 RXE.
+All variants of Renault Kwid have Electronic Brakeforce Distribution (EBD).
+All variants of Renault Kwid have Brake Assist.
+All variants of Renault Kwid have Lane Change Indicator.
+All variants of Renault Kwid have Traction Control.
+All variants of Renault Kwid have Glove Box.
+Renault Kwid variants with Outside Rear View Mirror Turn Indicators - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+All variants of Renault Kwid have Passenger Airbag.
+Renault Kwid variants with Day & Night Rear View Mirror - 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+All variants of Renault Kwid have Tyre Pressure Monitoring System (TPMS).
+Renault Kwid variants with Touchscreen - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+All variants of Renault Kwid have Child Safety Locks.
+All variants of Renault Kwid have Rear Spoiler.
+All variants of Renault Kwid have Rear Touchscreen.
+Renault Kwid variants with Roof Rails - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variants with Integrated 2DIN Audio - 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT.
+Renault Kwid variant without Integrated 2DIN Audio - 1.0 RXE.
+All Renault Kwid variants use the 1.0 SCe engine.
+All Renault Kwid variants have a displacement of 999  cubic centimeters.
+All Renault Kwid variants produce a maximum power of 67.06 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+All Renault Kwid variants produce a maximum torque of 91 Newton meters at 4250 Revolutions Per Minute (RPM).
+All Renault Kwid variants have 4.0 valves per cylinder.
+Renault Kwid variants - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXT, CLIMBER & CLIMBER DT share a Manual transmission.
+Renault Kwid variants - 1.0 RXL Opt AMT, 1.0 RXT AMT, CLIMBER AMT & CLIMBER DT AMT share a Automatic transmission.
+All Renault Kwid variants have 3.0 cylinders.
+Renault Kwid variants - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXT, CLIMBER & CLIMBER DT share a 5-Speed gearbox.
+Renault Kwid variants - 1.0 RXL Opt AMT, 1.0 RXT AMT, CLIMBER AMT & CLIMBER DT AMT share a 5-Speed-AMT gearbox.
+All Renault Kwid variants have a Front-Wheel Drive (FWD) drive type.
+All Renault Kwid variants run on Petrol.
+All Renault Kwid variants comply with BS VI 2.0 emission norms.
+All Renault Kwid variants come with Electric steering.
+All Renault Kwid variants have Disc front brakes.
+All Renault Kwid variants have Drum rear brakes.
+All Renault Kwid variants have a length of 3731 mm.
+All Renault Kwid variants have a width of 1579 mm.
+Renault Kwid variants - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT & 1.0 RXT AMT share a height of 1474 mm.
+Renault Kwid variants - CLIMBER, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT share a height of 1490 mm.
+All Renault Kwid variants offer 279 Litres of boot space.
+All Renault Kwid variants have a seating capacity of 5.0.
+All Renault Kwid variants have an unladen ground clearance of 184 mm.
+All Renault Kwid variants have a wheelbase of 2500 mm.
+All Renault Kwid variants have 5.0 doors.
+All Renault Kwid variants come with a Manual boot opening mechanism.
+Renault Kwid variants - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt & 1.0 RXL Opt AMT feature Manual Outside Rear View Mirror (ORVM).
+Renault Kwid variants - 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT feature Powered Outside Rear View Mirror (ORVM).
+All Renault Kwid variants have tyres of size 165/70.
+All Renault Kwid variants come with Tubeless Radial tyres.
+All Renault Kwid variants have 14 Inch wheels.
+All Renault Kwid variants come equipped with 2.0 airbags.
+Renault Kwid variant CLIMBER has a Global NCAP rating of 1 Star.
+Renault Kwid variant CLIMBER has a Global NCAP child safety rating of 1 Star.
+Renault Kwid variant 1.0 RXE features a unknown touchscreen.
+Renault Kwid variants - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT come with a 8 inch touchscreen display.
+Renault Kwid variants - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT come with 2.0 speakers.
+All Renault Kwid variants feature a Semi Digital digital cluster.
+All Renault Kwid variants come with Fabric upholstery.
+Renault Kwid variants - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER & CLIMBER DT have mileage figures of 21.46 kmpl.
+Renault Kwid variants - 1.0 RXT AMT, CLIMBER AMT & CLIMBER DT AMT have mileage figures of 22.3 kmpl.
+Renault Kwid variants - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT & CLIMBER DT have highway mileage figures of 21 kmpl.
+Renault Kwid variants - CLIMBER AMT & CLIMBER DT AMT have highway mileage figures of 17 kmpl.
+All Renault Kwid variants have a fuel tank capacity of 28 Litres.
+All Renault Kwid variants have the MacPherson Strut suspension front suspension.
+All Renault Kwid variants have the Rear twist beam rear suspension.
+All Renault Kwid variants are equipped with Rear parking sensors.
+Renault Kwid variants without USB Charger - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt & 1.0 RXL Opt AMT.
+Renault Kwid variants - 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT share the Front USB charging configuration.
+Renault Kwid variant without Power Windows - 1.0 RXE.
+Renault Kwid variants - RXL Opt Night And Day Edition, 1.0 RXL Opt & 1.0 RXL Opt AMT share the Front Only power window configuration.
+Renault Kwid variants - 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT share the Front & Rear power window configuration.
+Renault Kwid variants without Rear Camera - 1.0 RXE, RXL Opt Night And Day Edition, 1.0 RXL Opt & 1.0 RXL Opt AMT.
+Renault Kwid variants - 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT share the With Guidedlines rear camera type.
+All Renault Kwid variants have Driver seatbelt pretensioners and force limiters.
+Renault Kwid variant without Speakers - 1.0 RXE.
+Renault Kwid variants - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT, CLIMBER, 1.0 RXT AMT, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT share the Front Only speaker configuration.
+Renault Kwid variant 1.0 RXE offers stylish graphite grille,body colour bumpers, integrated roof spoiler, wheel arch claddings,silver streak LED DRLs,wheel cover(hub cap) as additional features.
+Renault Kwid variants - RXL Opt Night And Day Edition, 1.0 RXL Opt, 1.0 RXL Opt AMT, 1.0 RXT & 1.0 RXT AMT share push-to-talk, video playback (via USB), roof mic as additional features.
+Renault Kwid variants - CLIMBER, CLIMBER DT, CLIMBER AMT & CLIMBER DT AMT share push-to-talk, video playback (via USB), roof mic, white multimedia surround, dual tone option - mystery black roof with ice cool white body colour as additional features.

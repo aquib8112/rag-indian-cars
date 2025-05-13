@@ -1,0 +1,186 @@
+Hyundai Tucson has 8 variants: Platinum AT, Signature AT, Signature AT DT, Platinum Diesel AT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+All variants of Hyundai Tucson have Power Steering.
+All variants of Hyundai Tucson have Air Conditioner.
+All variants of Hyundai Tucson have Heater.
+All variants of Hyundai Tucson have Automatic Climate Control.
+All variants of Hyundai Tucson have Accessory Power Outlet.
+All variants of Hyundai Tucson have Trunk Light.
+All variants of Hyundai Tucson have Vanity Mirror.
+All variants of Hyundai Tucson have Rear Reading Lamp.
+All variants of Hyundai Tucson have Adjustable Headrest.
+All variants of Hyundai Tucson have Rear Seat Centre Arm Rest.
+All variants of Hyundai Tucson have Rear AC Vents.
+All variants of Hyundai Tucson have Cruise Control.
+All variants of Hyundai Tucson have Engine Start/Stop Button.
+All variants of Hyundai Tucson have Voice Commands.
+Hyundai Tucson variants with Hands-Free Tailgate - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Hands-Free Tailgate - Platinum AT & Platinum Diesel AT.
+All variants of Hyundai Tucson have Tachometer.
+All variants of Hyundai Tucson have Alloy Wheels.
+All variants of Hyundai Tucson have Automatic Headlamps.
+All variants of Hyundai Tucson have LED DRLs.
+All variants of Hyundai Tucson have LED Headlamps.
+All variants of Hyundai Tucson have Anti-lock Braking System (ABS).
+All variants of Hyundai Tucson have Central Locking.
+All variants of Hyundai Tucson have Driver Airbag.
+All variants of Hyundai Tucson have Side Airbag.
+All variants of Hyundai Tucson have Seat Belt Warning.
+All variants of Hyundai Tucson have Engine Immobilizer.
+All variants of Hyundai Tucson do not have E-Call & I-Call.
+All variants of Hyundai Tucson do not have Side Airbag-Rear.
+All variants of Hyundai Tucson have Electronic Stability Control (ESC).
+All variants of Hyundai Tucson have Anti-Theft Device.
+All variants of Hyundai Tucson have Speed Alert.
+All variants of Hyundai Tucson have Speed Sensing Auto Door Lock.
+All variants of Hyundai Tucson have ISOFIX Child Seat Mounts.
+All variants of Hyundai Tucson have Hill Assist.
+All variants of Hyundai Tucson have Impact Sensing Auto Door Unlock.
+All variants of Hyundai Tucson have 360 View Camera.
+All variants of Hyundai Tucson have Radio.
+All variants of Hyundai Tucson have Wireless Phone Charging.
+All variants of Hyundai Tucson have Bluetooth Connectivity.
+All variants of Hyundai Tucson have Android Auto.
+All variants of Hyundai Tucson have Apple CarPlay.
+Hyundai Tucson variants with Driver Attention Warning - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Driver Attention Warning - Platinum AT & Platinum Diesel AT.
+All variants of Hyundai Tucson have Over the Air (OTA) Updates.
+All variants of Hyundai Tucson have Smartwatch App.
+All variants of Hyundai Tucson have Height Adjustable Front Seat Belts.
+All variants of Hyundai Tucson have Lumbar Support.
+All variants of Hyundai Tucson have Dual Tone Dashboard.
+All variants of Hyundai Tucson have LED Taillights.
+All variants of Hyundai Tucson have Electronic Brakeforce Distribution (EBD).
+All variants of Hyundai Tucson have Anti-Theft Alarm.
+All variants of Hyundai Tucson have Door Ajar Warning.
+All variants of Hyundai Tucson have Digital Odometer.
+Hyundai Tucson variants with Forward Collision Warning - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Forward Collision Warning - Platinum AT & Platinum Diesel AT.
+Hyundai Tucson variants with Blind Spot Collision Avoidance Assist - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Blind Spot Collision Avoidance Assist - Platinum AT & Platinum Diesel AT.
+Hyundai Tucson variants with Lane Departure Warning - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Lane Departure Warning - Platinum AT & Platinum Diesel AT.
+Hyundai Tucson variants with Lane Keep Assist - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Lane Keep Assist - Platinum AT & Platinum Diesel AT.
+Hyundai Tucson variants with Adaptive Cruise Control - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Adaptive Cruise Control - Platinum AT & Platinum Diesel AT.
+Hyundai Tucson variants with Leading Vehicle Departure Alert - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Leading Vehicle Departure Alert - Platinum AT & Platinum Diesel AT.
+Hyundai Tucson variants with Adaptive High Beam Assist - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Adaptive High Beam Assist - Platinum AT & Platinum Diesel AT.
+Hyundai Tucson variants with Rear Cross Traffic Alert - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Rear Cross Traffic Alert - Platinum AT & Platinum Diesel AT.
+Hyundai Tucson variants with Rear Cross Traffic Collision-Avoidance Assist - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Rear Cross Traffic Collision-Avoidance Assist - Platinum AT & Platinum Diesel AT.
+All variants of Hyundai Tucson have Glove Box light.
+Hyundai Tucson variants with Ventilated Seats - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Ventilated Seats - Platinum AT & Platinum Diesel AT.
+All variants of Hyundai Tucson have Hill Descent Control.
+All variants of Hyundai Tucson have Active noise cancellation.
+All variants of Hyundai Tucson have Leather wrap gear-shift selector.
+Hyundai Tucson variants with Blind Spot Monitor - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Blind Spot Monitor - Platinum AT & Platinum Diesel AT.
+Hyundai Tucson variants with Remote Boot Open - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Remote Boot Open - Platinum AT & Platinum Diesel AT.
+All variants of Hyundai Tucson have Tailgate Ajar Warning.
+All variants of Hyundai Tucson have Voice assisted sunroof.
+Hyundai Tucson variants with Lane Change Indicator - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+Hyundai Tucson variants without Lane Change Indicator - Platinum AT & Platinum Diesel AT.
+All variants of Hyundai Tucson have Acoustic Vehicle Alert System.
+All variants of Hyundai Tucson have Height Adjustable Driver Seat.
+All variants of Hyundai Tucson have Rear Window Defogger.
+All variants of Hyundai Tucson have Leather Wrapped Steering Wheel.
+All variants of Hyundai Tucson have Glove Box.
+All variants of Hyundai Tucson have Adjustable Headlamps.
+All variants of Hyundai Tucson have Outside Rear View Mirror Turn Indicators.
+All variants of Hyundai Tucson have Passenger Airbag.
+All variants of Hyundai Tucson have Day & Night Rear View Mirror.
+All variants of Hyundai Tucson have Tyre Pressure Monitoring System (TPMS).
+All variants of Hyundai Tucson have Touchscreen.
+All variants of Hyundai Tucson have Rear Window Wiper.
+All variants of Hyundai Tucson have Rear Window Washer.
+All variants of Hyundai Tucson have Child Safety Locks.
+All variants of Hyundai Tucson have Rear Spoiler.
+All variants of Hyundai Tucson have Rain Sensing Wiper.
+All variants of Hyundai Tucson have Roof Rails.
+All variants of Hyundai Tucson have Curtain Airbag.
+All variants of Hyundai Tucson have Usb Ports.
+All variants of Hyundai Tucson have Luggage Hook & Net.
+All variants of Hyundai Tucson have Integrated 2DIN Audio.
+Hyundai Tucson variants - Platinum AT, Signature AT & Signature AT DT share the 2.0 L Beta II I4 engine.
+Hyundai Tucson variants - Platinum Diesel AT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT share the 2.0 L D CRDi I4 engine.
+Hyundai Tucson variants - Platinum AT, Signature AT & Signature AT DT share a displacement of 1999  cubic centimeters.
+Hyundai Tucson variants - Platinum Diesel AT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT share a displacement of 1997  cubic centimeters.
+Hyundai Tucson variants - Platinum AT, Signature AT & Signature AT DT have a max power of 153.81 Brake Horsepower (BHP) at 6200 Revolutions Per Minute (RPM).
+Hyundai Tucson variants - Platinum Diesel AT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT have a max power of 183.72 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Hyundai Tucson variants - Platinum AT, Signature AT & Signature AT DT share a max torque of 192 Newton meters at 4500 Revolutions Per Minute (RPM).
+Hyundai Tucson variants - Platinum Diesel AT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT share a max torque of 416 Newton meters at 2000 to 2750 Revolutions Per Minute (RPM).
+All Hyundai Tucson variants have 4.0 valves per cylinder.
+All Hyundai Tucson variants have a Automatic transmission.
+All Hyundai Tucson variants have 4.0 cylinders.
+Hyundai Tucson variants - Platinum AT, Signature AT & Signature AT DT share a 6-Speed gearbox.
+Hyundai Tucson variants - Platinum Diesel AT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT share a 8-Speed gearbox.
+Hyundai Tucson variants - Platinum AT, Signature AT, Signature AT DT, Platinum Diesel AT, Signature Diesel AT & Signature Diesel AT DT share a Front-Wheel Drive (FWD) drive type.
+Hyundai Tucson variants - Signature Diesel 4WD AT & Signature Diesel 4WD AT DT share a Four-Wheel Drive (4WD) drive type.
+Hyundai Tucson variants - Platinum AT, Signature AT & Signature AT DT use Petrol as fuel.
+Hyundai Tucson variants - Platinum Diesel AT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT use Diesel as fuel.
+All Hyundai Tucson variants comply with BS VI 2.0 emission norms.
+All Hyundai Tucson variants come with Electric steering.
+All Hyundai Tucson variants have Disc front brakes.
+All Hyundai Tucson variants have Disc rear brakes.
+All Hyundai Tucson variants have a length of 4630 mm.
+All Hyundai Tucson variants have a width of 1865 mm.
+All Hyundai Tucson variants have a height of 1665 mm.
+All Hyundai Tucson variants offer 540 Litres of boot space.
+All Hyundai Tucson variants have a seating capacity of 5.0.
+All Hyundai Tucson variants have a wheelbase of 2755 mm.
+All Hyundai Tucson variants have 5.0 doors.
+Hyundai Tucson variants - Platinum AT & Platinum Diesel AT feature a Manual boot opening mechanism.
+Hyundai Tucson variants - Signature AT, Signature AT DT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT feature a Electronic boot opening mechanism.
+All Hyundai Tucson variants have Powered & Folding Outside Rear View Mirror (ORVM).
+All Hyundai Tucson variants have tyres of size 235/60 R18.
+All Hyundai Tucson variants come with Tubeless Radial tyres.
+All Hyundai Tucson variants come equipped with 6.0 airbags.
+Hyundai Tucson variant Signature AT has a Global NCAP rating of 5 Star.
+Hyundai Tucson variant Signature AT has a Global NCAP child safety rating of 5 Star.
+All Hyundai Tucson variants come with a 10.25 inch touchscreen display.
+All Hyundai Tucson variants come with 8.0 speakers.
+All Hyundai Tucson variants come with 18 Inch front alloy wheels.
+All Hyundai Tucson variants come with 18 Inch rear alloy wheels.
+All Hyundai Tucson variants come with 2.0 tweeters.
+All Hyundai Tucson variants come with Android Auto, Apple CarPlay connectivity options.
+All Hyundai Tucson variants feature a Full Digital digital cluster.
+All Hyundai Tucson variants come with Leatherette upholstery.
+All Hyundai Tucson variants have a top speed of 205 kmph.
+Hyundai Tucson variants - Platinum AT, Signature AT & Signature AT DT have the same fuel supply system of Multi point, indirect injection.
+Hyundai Tucson variants - Platinum Diesel AT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT have the same fuel supply system of Common Rail Direct Injection (CRDi).
+All Hyundai Tucson variants are equipped with 1.0 subwoofer(s).
+All Hyundai Tucson variants come with Gas Type shock absorbers.
+All Hyundai Tucson variants have a Bharat NCAP safety rating of 5 Star.
+Hyundai Tucson variants - Platinum AT, Signature AT & Signature AT DT have mileage figures of 13 kmpl.
+Hyundai Tucson variants - Platinum Diesel AT & Signature Diesel AT have mileage figures of 18 kmpl.
+Hyundai Tucson variants - Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT have highway mileage figures of 17.3 kmpl.
+All Hyundai Tucson variants have a fuel tank capacity of 54 Litres.
+All Hyundai Tucson variants have the MacPherson Strut suspension front suspension.
+All Hyundai Tucson variants have the Multi-link suspension rear suspension.
+All Hyundai Tucson variants come with Tilt & Telescopic steering adjustment.
+All variants of Hyundai Tucson have Adjustable Steering.
+All Hyundai Tucson variants are equipped with Front & Rear parking sensors.
+All Hyundai Tucson variants come with Front & Rear USB charging ports.
+All Hyundai Tucson variants have Front & Rear power windows.
+All Hyundai Tucson variants come with Front & Rear cup holders.
+All Hyundai Tucson variants are equipped with Front & Rear fog lights.
+All Hyundai Tucson variants come with a Shark Fin antenna.
+All Hyundai Tucson variants feature a 10.25 inch digital cluster.
+All Hyundai Tucson variants have a With Guidedlines rear camera.
+All Hyundai Tucson variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Hyundai Tucson variants include Front & Rear speakers.
+All Hyundai Tucson variants have Front electric adjustable seats.
+All Hyundai Tucson variants have a 60:40 Split foldable rear seat.
+All Hyundai Tucson variants have a With Storage central console armrest.
+Hyundai Tucson variants without Turbo Charger - Platinum AT, Signature AT & Signature AT DT.
+Hyundai Tucson variants with Turbo Charger - Platinum Diesel AT, Signature Diesel AT, Signature Diesel AT DT, Signature Diesel 4WD AT & Signature Diesel 4WD AT DT.
+All Hyundai Tucson variants come with built-in apps including Hyundai Bluelink.
+All Hyundai Tucson variants feature ambient lighting with 64 color options.
+All Hyundai Tucson variants come with a Panoramic sunroof.
+All Hyundai Tucson variants come with 4 drive modes.
+All Hyundai Tucson variants come with Hyundai Bluelink connected car technology,Bose premium sound 8 speaker system(Front & rear door speakers,Front central speaker,Front tweeters,Sub-woofer,Amplifier), as additional features.

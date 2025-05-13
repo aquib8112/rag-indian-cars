@@ -1,0 +1,150 @@
+Mercedes Benz Glb has 3 variants: 200 Progressive Line, 220d Progressive Line & 220d 4Matic.
+All variants of Mercedes Benz Glb have Power Steering.
+All variants of Mercedes Benz Glb have Air Conditioner.
+All variants of Mercedes Benz Glb have Heater.
+All variants of Mercedes Benz Glb have Automatic Climate Control.
+All variants of Mercedes Benz Glb have Accessory Power Outlet.
+All variants of Mercedes Benz Glb have Trunk Light.
+All variants of Mercedes Benz Glb have Vanity Mirror.
+All variants of Mercedes Benz Glb have Rear Reading Lamp.
+All variants of Mercedes Benz Glb have Adjustable Headrest.
+All variants of Mercedes Benz Glb have Rear Seat Centre Arm Rest.
+All variants of Mercedes Benz Glb have Rear AC Vents.
+All variants of Mercedes Benz Glb have Cruise Control.
+All variants of Mercedes Benz Glb have Engine Start/Stop Button.
+All variants of Mercedes Benz Glb have Voice Commands.
+All variants of Mercedes Benz Glb have Chrome Grille.
+All variants of Mercedes Benz Glb have KeyLess Entry.
+All variants of Mercedes Benz Glb have Follow Me Home Headlamps.
+All variants of Mercedes Benz Glb have Tachometer.
+All variants of Mercedes Benz Glb have Alloy Wheels.
+All variants of Mercedes Benz Glb have Integrated Antenna.
+All variants of Mercedes Benz Glb have Projector Headlamps.
+All variants of Mercedes Benz Glb have Automatic Headlamps.
+All variants of Mercedes Benz Glb have LED DRLs.
+All variants of Mercedes Benz Glb have LED Headlamps.
+All variants of Mercedes Benz Glb have Anti-lock Braking System (ABS).
+All variants of Mercedes Benz Glb have Central Locking.
+All variants of Mercedes Benz Glb have Driver Airbag.
+All variants of Mercedes Benz Glb have Side Airbag.
+All variants of Mercedes Benz Glb have Seat Belt Warning.
+All variants of Mercedes Benz Glb have Engine Immobilizer.
+All variants of Mercedes Benz Glb do not have Side Airbag-Rear.
+All variants of Mercedes Benz Glb have Anti-Theft Device.
+All variants of Mercedes Benz Glb have Speed Alert.
+All variants of Mercedes Benz Glb have Speed Sensing Auto Door Lock.
+All variants of Mercedes Benz Glb have ISOFIX Child Seat Mounts.
+All variants of Mercedes Benz Glb have Hill Assist.
+All variants of Mercedes Benz Glb have Impact Sensing Auto Door Unlock.
+All variants of Mercedes Benz Glb have Wireless Phone Charging.
+All variants of Mercedes Benz Glb have Bluetooth Connectivity.
+All variants of Mercedes Benz Glb have Android Auto.
+All variants of Mercedes Benz Glb have Apple CarPlay.
+All variants of Mercedes Benz Glb have Height Adjustable Front Seat Belts.
+All variants of Mercedes Benz Glb have Lumbar Support.
+All variants of Mercedes Benz Glb have Paddle Shifters.
+All variants of Mercedes Benz Glb have Electronic Multi-Tripmeter.
+All variants of Mercedes Benz Glb have Digital Clock.
+All variants of Mercedes Benz Glb have Dual Tone Dashboard.
+All variants of Mercedes Benz Glb have LED Taillights.
+All variants of Mercedes Benz Glb have Anti-Theft Alarm.
+All variants of Mercedes Benz Glb have Door Ajar Warning.
+All variants of Mercedes Benz Glb have Digital Odometer.
+All variants of Mercedes Benz Glb have Battery Saver.
+All variants of Mercedes Benz Glb have Tailgate Ajar Warning.
+All variants of Mercedes Benz Glb have Remote Trunk Opener.
+All variants of Mercedes Benz Glb have Compass.
+All variants of Mercedes Benz Glb have Leather Seats.
+All variants of Mercedes Benz Glb have Height Adjustable Driver Seat.
+All variants of Mercedes Benz Glb have Rear Window Defogger.
+All variants of Mercedes Benz Glb have Leather Wrapped Steering Wheel.
+All variants of Mercedes Benz Glb have Glove Box.
+All variants of Mercedes Benz Glb have Adjustable Headlamps.
+All variants of Mercedes Benz Glb have Outside Rear View Mirror Turn Indicators.
+All variants of Mercedes Benz Glb have Passenger Airbag.
+All variants of Mercedes Benz Glb have Day & Night Rear View Mirror.
+All variants of Mercedes Benz Glb have Tyre Pressure Monitoring System (TPMS).
+All variants of Mercedes Benz Glb have Touchscreen.
+All variants of Mercedes Benz Glb have Rear Window Wiper.
+All variants of Mercedes Benz Glb have Rear Window Washer.
+All variants of Mercedes Benz Glb have Chrome Garnish.
+All variants of Mercedes Benz Glb have Child Safety Locks.
+All variants of Mercedes Benz Glb have Rear Spoiler.
+All variants of Mercedes Benz Glb have Rain Sensing Wiper.
+All variants of Mercedes Benz Glb have Air Quality Control.
+All variants of Mercedes Benz Glb have Tinted Glass.
+All variants of Mercedes Benz Glb have Navigation System.
+All variants of Mercedes Benz Glb have Smart Access Card Entry.
+All variants of Mercedes Benz Glb have Roof Rails.
+All variants of Mercedes Benz Glb have Usb Ports.
+All variants of Mercedes Benz Glb do not have Gear Shift Indicator.
+All variants of Mercedes Benz Glb do not have Luggage Hook & Net.
+All variants of Mercedes Benz Glb have Low Fuel Warning Light.
+All variants of Mercedes Benz Glb have Power Boot.
+All variants of Mercedes Benz Glb have Integrated 2DIN Audio.
+All variants of Mercedes Benz Glb have USB & Auxiliary input.
+All variants of Mercedes Benz Glb do not have Rear Curtain.
+Mercedes Benz Glb variant 200 Progressive Line has the M282 engine.
+Mercedes Benz Glb variants - 220d Progressive Line & 220d 4Matic share the OM654q engine.
+Mercedes Benz Glb variant 200 Progressive Line has a displacement of 1332  cubic centimeters.
+Mercedes Benz Glb variant 220d Progressive Line has a displacement of 1950  cubic centimeters.
+Mercedes Benz Glb variant 220d 4Matic has a displacement of 1998  cubic centimeters.
+Mercedes Benz Glb variant 200 Progressive Line delivers a max power of 160.92 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Mercedes Benz Glb variants - 220d Progressive Line & 220d 4Matic have a max power of 187.74 Brake Horsepower (BHP) at 3800 Revolutions Per Minute (RPM).
+Mercedes Benz Glb variant 200 Progressive Line has a max torque of 250 Newton meters at 1620 to 4000 Revolutions Per Minute (RPM).
+Mercedes Benz Glb variants - 220d Progressive Line & 220d 4Matic share a max torque of 400 Newton meters at 1600 to 2600 Revolutions Per Minute (RPM).
+All Mercedes Benz Glb variants have 4.0 valves per cylinder.
+All Mercedes Benz Glb variants have a Automatic transmission.
+All Mercedes Benz Glb variants have 4.0 cylinders.
+Mercedes Benz Glb variant 200 Progressive Line comes with a 7-Speed-DCT gearbox.
+Mercedes Benz Glb variants - 220d Progressive Line & 220d 4Matic share a 8-Speed-DCT gearbox.
+Mercedes Benz Glb variants - 200 Progressive Line & 220d Progressive Line share a Front-Wheel Drive (FWD) drive type.
+Mercedes Benz Glb variant 220d 4Matic has a All-Wheel Drive (AWD) drive type.
+Mercedes Benz Glb variant 200 Progressive Line runs on Petrol.
+Mercedes Benz Glb variants - 220d Progressive Line & 220d 4Matic use Diesel as fuel.
+All Mercedes Benz Glb variants comply with BS VI 2.0 emission norms.
+Mercedes Benz Glb variants - 200 Progressive Line & 220d Progressive Line share a length of 4634 mm.
+Mercedes Benz Glb variant 220d 4Matic has a length of 4646 mm.
+All Mercedes Benz Glb variants have a width of 2020 mm.
+Mercedes Benz Glb variants - 200 Progressive Line & 220d Progressive Line share a height of 1697 mm.
+Mercedes Benz Glb variant 220d 4Matic has a height of 1706 mm.
+All Mercedes Benz Glb variants offer 570 Litres of boot space.
+All Mercedes Benz Glb variants have a seating capacity of 7.0.
+Mercedes Benz Glb variants - 200 Progressive Line & 220d Progressive Line share a wheelbase of 2540 mm.
+Mercedes Benz Glb variant 220d 4Matic has a wheelbase of 2730 mm.
+Mercedes Benz Glb variant 200 Progressive Line has a kerb weight of 1550 kg.
+Mercedes Benz Glb variant 220d Progressive Line has a kerb weight of 1660 kg.
+Mercedes Benz Glb variant 220d 4Matic has a kerb weight of 1740 kg.
+All Mercedes Benz Glb variants have 5.0 doors.
+All Mercedes Benz Glb variants come with Tubeless Radial tyres.
+All Mercedes Benz Glb variants come equipped with 7.0 airbags.
+All Mercedes Benz Glb variants have received a 5 Star Global NCAP safety rating.
+All Mercedes Benz Glb variants come with a 10.25 inch touchscreen display.
+All Mercedes Benz Glb variants come with Android Auto, Apple CarPlay connectivity options.
+Mercedes Benz Glb variant 200 Progressive Line has a top speed of 207 kmph.
+Mercedes Benz Glb variant 220d Progressive Line has a top speed of 220 kmph.
+Mercedes Benz Glb variant 220d 4Matic has a top speed of 217 kmph.
+Mercedes Benz Glb variant 200 Progressive Line accelerates from 0-100 kmph in 9.1 s.
+Mercedes Benz Glb variant 220d Progressive Line accelerates from 0-100 kmph in 7.7 s.
+Mercedes Benz Glb variant 220d 4Matic accelerates from 0-100 kmph in 7.6 s.
+Mercedes Benz Glb variant 200 Progressive Line accelerates from 0-100 kmph in 9.1 s.
+Mercedes Benz Glb variant 220d Progressive Line accelerates from 0-100 kmph in 7.7 s.
+Mercedes Benz Glb variant 220d 4Matic accelerates from 0-100 kmph in 7.6 s.
+Mercedes Benz Glb variants - 200 Progressive Line & 220d Progressive Line have a rear tread of 1604 mm.
+Mercedes Benz Glb variant 220d 4Matic has a rear tread of 1586 mm.
+All Mercedes Benz Glb variants use a Direct Injection (Di) fuel supply system.
+Mercedes Benz Glb variants - 200 Progressive Line & 220d Progressive Line have mileage figures of 9.7 kmpl.
+Mercedes Benz Glb variants - 220d Progressive Line & 220d 4Matic have highway mileage figures of 18 kmpl.
+All Mercedes Benz Glb variants have a fuel tank capacity of 52 Litres.
+All variants of Mercedes Benz Glb have Adjustable Steering.
+All Mercedes Benz Glb variants are equipped with Rear parking sensors.
+All Mercedes Benz Glb variants come with Front & Rear USB charging ports.
+All Mercedes Benz Glb variants include Front & Rear speakers.
+All Mercedes Benz Glb variants have Front electric adjustable seats.
+All Mercedes Benz Glb variants have a 40:20:40 Split foldable rear seat.
+All Mercedes Benz Glb variants have a With Storage central console armrest.
+All variants of Mercedes Benz Glb have Turbo Charger.
+All variants of Mercedes Benz Glb have Rear Seat Headrest.
+All variants of Mercedes Benz Glb have Sunroof.
+All Mercedes Benz Glb variants come with 4 drive modes.
+All Mercedes Benz Glb variants come with Touch inputs, Personalisation,Alexa Home Integration with Mercedes me as additional features.

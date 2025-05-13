@@ -1,0 +1,191 @@
+Audi A6 has 2 variants: 45 TFSI Premium Plus & 45 TFSI Technology.
+All variants of Audi A6 have Power Steering.
+All variants of Audi A6 have Air Conditioner.
+All variants of Audi A6 have Heater.
+All variants of Audi A6 have Automatic Climate Control.
+All variants of Audi A6 have Accessory Power Outlet.
+All variants of Audi A6 have Trunk Light.
+All variants of Audi A6 have Vanity Mirror.
+All variants of Audi A6 have Rear Reading Lamp.
+All variants of Audi A6 have Rear Seat Centre Arm Rest.
+All variants of Audi A6 have Rear AC Vents.
+All variants of Audi A6 have Cruise Control.
+All variants of Audi A6 have Engine Start/Stop Button.
+All variants of Audi A6 have Voice Commands.
+All variants of Audi A6 have Chrome Grille.
+All variants of Audi A6 have KeyLess Entry.
+All variants of Audi A6 do not have Follow Me Home Headlamps.
+All variants of Audi A6 have Tachometer.
+All variants of Audi A6 do not have Wheel Covers.
+All variants of Audi A6 have Alloy Wheels.
+All variants of Audi A6 have Integrated Antenna.
+All variants of Audi A6 have Automatic Headlamps.
+All variants of Audi A6 have Anti-lock Braking System (ABS).
+All variants of Audi A6 have Central Locking.
+All variants of Audi A6 have Driver Airbag.
+All variants of Audi A6 have Side Airbag.
+All variants of Audi A6 have Seat Belt Warning.
+All variants of Audi A6 have Engine Immobilizer.
+All variants of Audi A6 do not have Side Airbag-Rear.
+Audi A6 variant with Electronic Stability Control (ESC) - 45 TFSI Premium Plus.
+All variants of Audi A6 have Anti-Theft Device.
+Audi A6 variant with Speed Alert - 45 TFSI Premium Plus.
+All variants of Audi A6 have Speed Sensing Auto Door Lock.
+All variants of Audi A6 have ISOFIX Child Seat Mounts.
+All variants of Audi A6 have Hill Assist.
+All variants of Audi A6 have Impact Sensing Auto Door Unlock.
+All variants of Audi A6 have Radio.
+Audi A6 variant with Wireless Phone Charging - 45 TFSI Technology.
+Audi A6 variant without Wireless Phone Charging - 45 TFSI Premium Plus.
+All variants of Audi A6 have Bluetooth Connectivity.
+All variants of Audi A6 have Android Auto.
+All variants of Audi A6 have Apple CarPlay.
+All variants of Audi A6 have Height Adjustable Front Seat Belts.
+All variants of Audi A6 have Lumbar Support.
+All variants of Audi A6 have Paddle Shifters.
+All variants of Audi A6 have Electronic Multi-Tripmeter.
+All variants of Audi A6 have Digital Clock.
+All variants of Audi A6 have Outside Temperature Display.
+Audi A6 variant with Dual Tone Dashboard - 45 TFSI Premium Plus.
+Audi A6 variant without Dual Tone Dashboard - 45 TFSI Technology.
+All variants of Audi A6 do not have Power Antenna.
+Audi A6 variant without Halogen Headlamps - 45 TFSI Technology.
+All variants of Audi A6 have Brake Assist.
+All variants of Audi A6 have Anti-Theft Alarm.
+All variants of Audi A6 have Door Ajar Warning.
+All variants of Audi A6 have Digital Odometer.
+Audi A6 variant with Heads-Up Display (HUD) - 45 TFSI Premium Plus.
+Audi A6 variant without Heads-Up Display (HUD) - 45 TFSI Technology.
+All variants of Audi A6 have Cooled Glovebox.
+Audi A6 variant with Ventilated Seats - 45 TFSI Premium Plus.
+Audi A6 variant without Ventilated Seats - 45 TFSI Technology.
+All variants of Audi A6 have Hill Descent Control.
+All variants of Audi A6 do not have Battery Saver.
+All variants of Audi A6 do not have Smoke Headlamps.
+All variants of Audi A6 have Blind Spot Monitor.
+All variants of Audi A6 have Tailgate Ajar Warning.
+All variants of Audi A6 have Remote Trunk Opener.
+All variants of Audi A6 have Remote Fuel Lid Opener.
+All variants of Audi A6 have Lane Change Indicator.
+All variants of Audi A6 do not have Xenon Headlamps.
+All variants of Audi A6 have Traction Control.
+Audi A6 variant without Rear Entertainment System - 45 TFSI Technology.
+All variants of Audi A6 have Leather Seats.
+Audi A6 variant with Driving Experience Control Eco - 45 TFSI Premium Plus.
+Audi A6 variant without Driving Experience Control Eco - 45 TFSI Technology.
+All variants of Audi A6 do not have Fog Lights - Rear.
+All variants of Audi A6 have Internal Storage.
+All variants of Audi A6 do not have Super Charge.
+All variants of Audi A6 have Height Adjustable Driver Seat.
+All variants of Audi A6 have Rear Window Defogger.
+All variants of Audi A6 have Leather Wrapped Steering Wheel.
+All variants of Audi A6 have Glove Box.
+All variants of Audi A6 have Adjustable Headlamps.
+All variants of Audi A6 have Outside Rear View Mirror Turn Indicators.
+All variants of Audi A6 have Passenger Airbag.
+All variants of Audi A6 have Day & Night Rear View Mirror.
+All variants of Audi A6 have Tyre Pressure Monitoring System (TPMS).
+All variants of Audi A6 have Touchscreen.
+All variants of Audi A6 have Rear Window Wiper.
+All variants of Audi A6 have Rear Window Washer.
+Audi A6 variants with Chrome Garnish - 45 TFSI Premium Plus & 45 TFSI Technology.
+All variants of Audi A6 have Child Safety Locks.
+All variants of Audi A6 have Rear Spoiler.
+All variants of Audi A6 have Rain Sensing Wiper.
+All variants of Audi A6 have Air Quality Control.
+All variants of Audi A6 have Tinted Glass.
+All variants of Audi A6 have Folding Table in The Rear.
+All variants of Audi A6 have Navigation System.
+Audi A6 variant with Smart Access Card Entry - 45 TFSI Technology.
+All variants of Audi A6 have Fabric Upholstery.
+All variants of Audi A6 have Roof Rails.
+All variants of Audi A6 have Cigarette Lighter.
+All variants of Audi A6 have Roof Carrier.
+All variants of Audi A6 have Side Stepper.
+All variants of Audi A6 have Usb Ports.
+All variants of Audi A6 do not have Gear Shift Indicator.
+All variants of Audi A6 do not have Luggage Hook & Net.
+All variants of Audi A6 have Low Fuel Warning Light.
+Audi A6 variant with Fog Lights - Front - 45 TFSI Technology.
+Audi A6 variant without Fog Lights - Front - 45 TFSI Premium Plus.
+All variants of Audi A6 have Integrated 2DIN Audio.
+All variants of Audi A6 have USB & Auxiliary input.
+All variants of Audi A6 do not have Rear Curtain.
+Audi A6 variant with Audio System Remote Control - 45 TFSI Technology.
+Audi A6 variant without Audio System Remote Control - 45 TFSI Premium Plus.
+Audi A6 variant with Smart Key Band - 45 TFSI Technology.
+Audi A6 variant without Smart Key Band - 45 TFSI Premium Plus.
+All Audi A6 variants use the In Line Petrol Engine engine.
+All Audi A6 variants have a displacement of 1984  cubic centimeters.
+All Audi A6 variants produce a maximum power of 241.3 Brake Horsepower (BHP) at 5000 to 6500 Revolutions Per Minute (RPM).
+All Audi A6 variants produce a maximum torque of 370 Newton meters at 1600 to 4500 Revolutions Per Minute (RPM).
+All Audi A6 variants have 4.0 valves per cylinder.
+All Audi A6 variants have a Automatic transmission.
+All Audi A6 variants have 4.0 cylinders.
+All Audi A6 variants come with a 7-Speed gearbox.
+All Audi A6 variants have a Front-Wheel Drive (FWD) drive type.
+All Audi A6 variants run on Petrol.
+All Audi A6 variants comply with BS VI 2.0 emission norms.
+All Audi A6 variants come with Power steering.
+All Audi A6 variants have a turning radius of 5.95m.
+All Audi A6 variants have Ventilated Disc front brakes.
+All Audi A6 variants have Ventilated Disc rear brakes.
+All Audi A6 variants have a length of 4939 mm.
+All Audi A6 variants have a width of 2110 mm.
+All Audi A6 variants have a height of 1470 mm.
+All Audi A6 variants offer 530 Litres of boot space.
+All Audi A6 variants have a seating capacity of 5.0.
+All Audi A6 variants have an unladen ground clearance of 165 mm.
+All Audi A6 variants have a wheelbase of 2500 mm.
+All Audi A6 variants have a kerb weight of 1740 kg.
+All Audi A6 variants have a gross weight of 2345 kg.
+All Audi A6 variants have 4.0 doors.
+Audi A6 variant 45 TFSI Premium Plus comes with tyres of size 225/55/R18.
+Audi A6 variant 45 TFSI Technology comes with tyres of size 245/45/ R18.
+All Audi A6 variants come with Tubeless Radial tyres.
+All Audi A6 variants come equipped with 6.0 airbags.
+Audi A6 variant 45 TFSI Premium Plus has a Global NCAP rating of 5 Star.
+Audi A6 variant 45 TFSI Premium Plus has a Global NCAP child safety rating of 5 Star.
+Audi A6 variant 45 TFSI Premium Plus features 14.0 speakers.
+Audi A6 variant 45 TFSI Technology features 21.0 speakers.
+All Audi A6 variants accelerate from 0-100 kmph in 7.04 s seconds.
+All Audi A6 variants come with Android Auto, Apple CarPlay, SD Card Reader connectivity options.
+All Audi A6 variants have a top speed of 250 kmph.
+All Audi A6 variants accelerate from 0-100 kmph in 6.8 s.
+All Audi A6 variants accelerate from 0-100 kmph in 6.8 s.
+All Audi A6 variants come with a DOHC valve configuration.
+All Audi A6 variants have a city driveability (20-80 kmph) time of 4.48 s.
+All Audi A6 variants use a Rack & Pinion steering gear type.
+Audi A6 variant 45 TFSI Premium Plus has a rear tread of 1627 mm.
+Audi A6 variant 45 TFSI Technology has a rear tread of 1618 mm.
+All Audi A6 variants use a Direct Injection (Di) fuel supply system.
+Audi A6 variant 45 TFSI Premium Plus has a Smart trunk opener.
+Audi A6 variant 45 TFSI Technology has a Remote trunk opener.
+All Audi A6 variants come with Adaptive shock absorbers.
+All Audi A6 variants offer a mileage of 14.11 kmpl.
+All Audi A6 variants have a fuel tank capacity of 73 Litres.
+All Audi A6 variants come with Height & Reach Adjustment steering adjustment.
+All variants of Audi A6 have Adjustable Steering.
+All Audi A6 variants are equipped with Front & Rear parking sensors.
+Audi A6 variant 45 TFSI Premium Plus has Front & Rear USB charging ports.
+Audi A6 variant 45 TFSI Technology has Front USB charging ports.
+Audi A6 variant without Pretensioners & Force Limiter Seatbelts - 45 TFSI Technology.
+All Audi A6 variants include Front & Rear speakers.
+All Audi A6 variants have Front electric adjustable seats.
+All Audi A6 variants have a 60:40 Split foldable rear seat.
+All Audi A6 variants have a With Storage central console armrest.
+All variants of Audi A6 have Turbo Charger.
+All variants of Audi A6 do not have Knee Airbags.
+All variants of Audi A6 have Rear Seat Headrest.
+All variants of Audi A6 have Sunroof.
+All Audi A6 variants come with 5 drive modes.
+Audi A6 variant 45 TFSI Premium Plus offers Panoramic Glass sunroof,MMI Navigation with MMI Touch Response,2 Zone Air conditioning,Audi Sound System,Audi Music Interface in rear as additional features.
+Audi A6 variant 45 TFSI Technology offers Electrically Extending High-Resolution 20.32cm Colour Display 
+3D Map Representation With Display Of Lots Of Sightseeing Information and City Models 
+Detailed Route Information: Map Preview, Choice of Alternative Routes, Lane Recommendations, Motorway Exits, Detailed Junction Maps 
+Access To Smartphone Voice Control 
+Driver Information System With 17.78cm Colour Display 
+Bose Surround Sound System 
+DVD player 
+Audi sound system 
+Subwoofers as additional features.

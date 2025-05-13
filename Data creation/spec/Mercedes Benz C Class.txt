@@ -1,0 +1,149 @@
+Mercedes Benz C Class has 3 variants: C 200, C 220d & C 300.
+All variants of Mercedes Benz C Class have Power Steering.
+All variants of Mercedes Benz C Class have Air Conditioner.
+All variants of Mercedes Benz C Class have Heater.
+All variants of Mercedes Benz C Class have Automatic Climate Control.
+All variants of Mercedes Benz C Class have Accessory Power Outlet.
+All variants of Mercedes Benz C Class have Vanity Mirror.
+All variants of Mercedes Benz C Class have Adjustable Headrest.
+All variants of Mercedes Benz C Class have Rear AC Vents.
+All variants of Mercedes Benz C Class have Cruise Control.
+All variants of Mercedes Benz C Class have Engine Start/Stop Button.
+All variants of Mercedes Benz C Class have Voice Commands.
+All variants of Mercedes Benz C Class have Hands-Free Tailgate.
+All variants of Mercedes Benz C Class have Chrome Grille.
+All variants of Mercedes Benz C Class have KeyLess Entry.
+All variants of Mercedes Benz C Class have Follow Me Home Headlamps.
+All variants of Mercedes Benz C Class have Tachometer.
+All variants of Mercedes Benz C Class have Alloy Wheels.
+All variants of Mercedes Benz C Class have Integrated Antenna.
+All variants of Mercedes Benz C Class have Automatic Headlamps.
+All variants of Mercedes Benz C Class have LED DRLs.
+All variants of Mercedes Benz C Class have LED Headlamps.
+All variants of Mercedes Benz C Class have Anti-lock Braking System (ABS).
+All variants of Mercedes Benz C Class have Central Locking.
+All variants of Mercedes Benz C Class have Driver Airbag.
+All variants of Mercedes Benz C Class have Side Airbag.
+All variants of Mercedes Benz C Class have Seat Belt Warning.
+All variants of Mercedes Benz C Class have Engine Immobilizer.
+All variants of Mercedes Benz C Class do not have Side Airbag-Rear.
+All variants of Mercedes Benz C Class have Electronic Stability Control (ESC).
+All variants of Mercedes Benz C Class have Anti-Theft Device.
+All variants of Mercedes Benz C Class have Speed Alert.
+All variants of Mercedes Benz C Class have Speed Sensing Auto Door Lock.
+All variants of Mercedes Benz C Class have ISOFIX Child Seat Mounts.
+All variants of Mercedes Benz C Class have Hill Assist.
+All variants of Mercedes Benz C Class have Impact Sensing Auto Door Unlock.
+All variants of Mercedes Benz C Class have Radio.
+All variants of Mercedes Benz C Class have Wireless Phone Charging.
+All variants of Mercedes Benz C Class have Bluetooth Connectivity.
+All variants of Mercedes Benz C Class have Android Auto.
+All variants of Mercedes Benz C Class have Apple CarPlay.
+All variants of Mercedes Benz C Class have Height Adjustable Front Seat Belts.
+All variants of Mercedes Benz C Class have Lumbar Support.
+All variants of Mercedes Benz C Class have Dual Tone Dashboard.
+All variants of Mercedes Benz C Class have LED Taillights.
+All variants of Mercedes Benz C Class have Brake Assist.
+All variants of Mercedes Benz C Class have Anti-Theft Alarm.
+All variants of Mercedes Benz C Class have Door Ajar Warning.
+All variants of Mercedes Benz C Class have Digital Odometer.
+All variants of Mercedes Benz C Class have Cooled Glovebox.
+All variants of Mercedes Benz C Class do not have Ventilated Seats.
+All variants of Mercedes Benz C Class have Active noise cancellation.
+All variants of Mercedes Benz C Class have Cornering Foglamps.
+All variants of Mercedes Benz C Class have Leather wrap gear-shift selector.
+All variants of Mercedes Benz C Class have Tailgate Ajar Warning.
+Mercedes Benz C Class variant with Compass - C 300.
+All variants of Mercedes Benz C Class have Find My Car location.
+All variants of Mercedes Benz C Class have Height Adjustable Driver Seat.
+All variants of Mercedes Benz C Class have Rear Window Defogger.
+All variants of Mercedes Benz C Class have Leather Wrapped Steering Wheel.
+All variants of Mercedes Benz C Class have Glove Box.
+All variants of Mercedes Benz C Class have Adjustable Headlamps.
+All variants of Mercedes Benz C Class have Outside Rear View Mirror Turn Indicators.
+All variants of Mercedes Benz C Class have Passenger Airbag.
+All variants of Mercedes Benz C Class have Day & Night Rear View Mirror.
+All variants of Mercedes Benz C Class have Tyre Pressure Monitoring System (TPMS).
+All variants of Mercedes Benz C Class have Touchscreen.
+All variants of Mercedes Benz C Class have Chrome Garnish.
+All variants of Mercedes Benz C Class have Child Safety Locks.
+All variants of Mercedes Benz C Class have Rain Sensing Wiper.
+All variants of Mercedes Benz C Class have Air Quality Control.
+All variants of Mercedes Benz C Class have Navigation System.
+All variants of Mercedes Benz C Class have Usb Ports.
+All variants of Mercedes Benz C Class do not have Gear Shift Indicator.
+All variants of Mercedes Benz C Class do not have Luggage Hook & Net.
+Mercedes Benz C Class variants with LED Fog Lamps - C 220d & C 300.
+All variants of Mercedes Benz C Class have Low Fuel Warning Light.
+All variants of Mercedes Benz C Class have Power Boot.
+All variants of Mercedes Benz C Class have Fog Lights - Front.
+Mercedes Benz C Class variant with USB & Auxiliary input - C 300.
+All variants of Mercedes Benz C Class do not have Rear Curtain.
+Mercedes Benz C Class variants - C 200 & C 220d share the OM654M engine.
+Mercedes Benz C Class variant C 300 has the Petrol Mild Hybrid engine.
+Mercedes Benz C Class variant C 200 has a displacement of 1496  cubic centimeters.
+Mercedes Benz C Class variant C 220d has a displacement of 1993  cubic centimeters.
+Mercedes Benz C Class variant C 300 has a displacement of 1999  cubic centimeters.
+Mercedes Benz C Class variant C 200 delivers a max power of 201.15 Brake Horsepower (BHP) at 5800 to 6800 Revolutions Per Minute (RPM).
+Mercedes Benz C Class variant C 220d delivers a max power of 197.13 Brake Horsepower (BHP) at 3600 Revolutions Per Minute (RPM).
+Mercedes Benz C Class variant C 300 delivers a max power of 254.79 Brake Horsepower (BHP).
+Mercedes Benz C Class variant C 200 has a max torque of 300 Newton meters at 1800 to 4000 Revolutions Per Minute (RPM).
+Mercedes Benz C Class variant C 220d has a max torque of 440 Newton meters at 1800 to 2800 Revolutions Per Minute (RPM).
+Mercedes Benz C Class variant C 300 has a max torque of 400 Newton meters.
+All Mercedes Benz C Class variants have 4.0 valves per cylinder.
+All Mercedes Benz C Class variants have a Automatic transmission.
+All Mercedes Benz C Class variants have 4.0 cylinders.
+Mercedes Benz C Class variants - C 200 & C 220d share a 9-Speed-TRONIC gearbox.
+Mercedes Benz C Class variant C 300 comes with a 9-Speed gearbox.
+All Mercedes Benz C Class variants have a Rear-Wheel Drive (RWD) drive type.
+Mercedes Benz C Class variants - C 200 & C 300 use Petrol as fuel.
+Mercedes Benz C Class variant C 220d runs on Diesel.
+All Mercedes Benz C Class variants comply with BS VI 2.0 emission norms.
+All Mercedes Benz C Class variants have a length of 4751 mm.
+All Mercedes Benz C Class variants have a width of 1820 mm.
+All Mercedes Benz C Class variants have a height of 1437 mm.
+Mercedes Benz C Class variants - C 200 & C 220d share a boot space of 540 Litres.
+Mercedes Benz C Class variant C 300 offers 455 Litres of boot space.
+All Mercedes Benz C Class variants have a seating capacity of 5.0.
+All Mercedes Benz C Class variants have a wheelbase of 2636 mm.
+Mercedes Benz C Class variants - C 200 & C 220d share a kerb weight of 1615 kg.
+Mercedes Benz C Class variant C 300 has a kerb weight of 1675 kg.
+All Mercedes Benz C Class variants have 4.0 doors.
+All Mercedes Benz C Class variants come with Tubeless Radial tyres.
+All Mercedes Benz C Class variants come equipped with 7.0 airbags.
+Mercedes Benz C Class variants - C 200 & C 220d come with a 11.9 inch touchscreen display.
+Mercedes Benz C Class variants - C 200 & C 220d come with 9.0 speakers.
+Mercedes Benz C Class variant C 300 features 13.0 speakers.
+All Mercedes Benz C Class variants use Electric as a secondary fuel type.
+Mercedes Benz C Class variants - C 200 & C 220d have Android Auto, Apple CarPlay connectivity options.
+Mercedes Benz C Class variant C 200 has a top speed of 246 kmph.
+Mercedes Benz C Class variant C 220d has a top speed of 245 kmph.
+Mercedes Benz C Class variant C 300 has a top speed of 250 kmph.
+Mercedes Benz C Class variants - C 200 & C 220d have a 0-100 kmph acceleration time of 7.3 s.
+Mercedes Benz C Class variant C 300 accelerates from 0-100 kmph in 5.7 s.
+Mercedes Benz C Class variants - C 200 & C 220d have a 0-100 kmph acceleration time of 7.3 s.
+Mercedes Benz C Class variant C 300 accelerates from 0-100 kmph in 5.7 s.
+Mercedes Benz C Class variants - C 200 & C 220d have the same fuel supply system of ISG.
+All Mercedes Benz C Class variants feature a Smart trunk opener.
+Mercedes Benz C Class variant C 220d features a 48 v kWh battery capacity.
+Mercedes Benz C Class variant C 300 features a 48 kWh battery capacity.
+Mercedes Benz C Class variant C 200 provides a mileage of 16.9 kmpl.
+Mercedes Benz C Class variant C 220d provides a mileage of 23 kmpl.
+Mercedes Benz C Class variant C 300 has a highway mileage of 15 kmpl.
+All Mercedes Benz C Class variants have a fuel tank capacity of 66 Litres.
+All Mercedes Benz C Class variants have the Multi-link suspension front suspension.
+All Mercedes Benz C Class variants have the Multi-link suspension rear suspension.
+All variants of Mercedes Benz C Class have Adjustable Steering.
+All Mercedes Benz C Class variants are equipped with Front & Rear parking sensors.
+All Mercedes Benz C Class variants come with Front & Rear USB charging ports.
+All Mercedes Benz C Class variants include Front & Rear speakers.
+All Mercedes Benz C Class variants have Front electric adjustable seats.
+All Mercedes Benz C Class variants have a 40:20:40 Split foldable rear seat.
+All variants of Mercedes Benz C Class have Central Console Armrest.
+Mercedes Benz C Class variants with Turbo Charger - C 200 & C 220d.
+All variants of Mercedes Benz C Class have Rear Seat Headrest.
+All variants of Mercedes Benz C Class have Sunroof.
+All Mercedes Benz C Class variants come with 4 drive modes.
+Mercedes Benz C Class variant C 200 offers Central display :- The high-resolution central display 11.9 inch diagonal screen with touch entry with LCD technology, USB package ( two additional USB-C ports under the front armrest), MBUX Navigation Premium, Hard-disc navigation, Live Traffic Information, Natural Voice Control, Touch Control Concept,Fingerprint Scanner, Vehicle Monitoring, Navigation Connectivity, package, Vehicle Set-Up (Remote Retrieval of Vehicle Status, Remote Door Locking and Unlocking, Speed Alert, Send2Car function, Remote Engine Start/Stop), Navigation Connectivity package, Mercedes-Benz emergency call system, Smartphone Integration (wireless via Apple CarPlay or Android Auto), Extended Functions MBUX,, App connected features:- Vehicle Finder (enables horn and light flashing), Geo-fencing, Mercedes me Service app: Your digital assistant, Windows/sunroof open close from App, Additional Mercedes me connect features (Alexa Home Integration with Mercedes me,Google Home integration with Mercedes me connect, Parking location POIs (Points of Interest)) as additional features.
+Mercedes Benz C Class variant C 220d offers Central display :- The high-resolution central display 11.9 inch diagonal screen with touch entry with LCD technology, USB package ( two additional USB-C ports under the front armrest), MBUX Navigation Premium, Hard-disc navigation, Live Traffic Information, Natural Voice Control, Touch Control Concept, Fingerprint Scanner, Vehicle Monitoring, Navigation Connectivity, package, Vehicle Set-Up (Remote Retrieval of Vehicle Status, Remote Door Locking and Unlocking, Speed Alert, Send2Car function, Remote Engine Start/Stop), Navigation Connectivity package, Mercedes-Benz emergency call system, Smartphone Integration (wireless via Apple CarPlay or Android Auto), Extended Functions MBUX,App connected features:- Vehicle Finder (enables horn and light flashing), Geo-fencing, Mercedes me Service app: Your digital assistant, Windows/sunroof open close from App, Additional Mercedes me connect features (Alexa Home Integration with Mercedes me,Google Home integration with Mercedes me connect, Parking location POIs (Points of Interest)) as additional features.
+Mercedes Benz C Class variant C 300 offers Burmester 3D surround sound system (15 high-quality speakers with 710 watt) as additional features.

@@ -1,0 +1,126 @@
+﻿Maruti Jimny has 6 variants: Zeta, Alpha, Alpha Dual Tone, Zeta AT, Alpha AT & Alpha Dual Tone AT.
+All variants of Maruti Jimny have Power Steering.
+All variants of Maruti Jimny have Air Conditioner.
+All variants of Maruti Jimny have Heater.
+Maruti Jimny variants with Automatic Climate Control - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT.
+Maruti Jimny variants without Automatic Climate Control - Zeta & Zeta AT.
+All variants of Maruti Jimny have Accessory Power Outlet.
+All variants of Maruti Jimny have Rear Reading Lamp.
+All variants of Maruti Jimny have Adjustable Headrest.
+Maruti Jimny variants with Cruise Control - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT.
+Maruti Jimny variants without Cruise Control - Zeta & Zeta AT.
+Maruti Jimny variants with Engine Start/Stop Button - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT.
+Maruti Jimny variants without Engine Start/Stop Button - Zeta & Zeta AT.
+All variants of Maruti Jimny have Idle Start-Stop System.
+All variants of Maruti Jimny have Tachometer.
+All variants of Maruti Jimny do not have Wheel Covers.
+Maruti Jimny variants with Alloy Wheels - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT.
+Maruti Jimny variants without Alloy Wheels - Zeta & Zeta AT.
+All variants of Maruti Jimny have Integrated Antenna.
+Maruti Jimny variants with Automatic Headlamps - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT.
+Maruti Jimny variants without Automatic Headlamps - Zeta & Zeta AT.
+Maruti Jimny variants with LED Headlamps - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT.
+Maruti Jimny variants without LED Headlamps - Zeta & Zeta AT.
+All variants of Maruti Jimny have Anti-lock Braking System (ABS).
+All variants of Maruti Jimny have Central Locking.
+All variants of Maruti Jimny have Driver Airbag.
+All variants of Maruti Jimny have Side Airbag.
+All variants of Maruti Jimny have Seat Belt Warning.
+All variants of Maruti Jimny have Engine Immobilizer.
+All variants of Maruti Jimny have Electronic Stability Control (ESC).
+All variants of Maruti Jimny have Speed Alert.
+All variants of Maruti Jimny have ISOFIX Child Seat Mounts.
+All variants of Maruti Jimny have Hill Assist.
+All variants of Maruti Jimny have Impact Sensing Auto Door Unlock.
+All variants of Maruti Jimny have Radio.
+All variants of Maruti Jimny have Bluetooth Connectivity.
+All variants of Maruti Jimny have Android Auto.
+All variants of Maruti Jimny have Apple CarPlay.
+Maruti Jimny variants with Halogen Headlamps - Zeta & Zeta AT.
+Maruti Jimny variants without Halogen Headlamps - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT.
+All variants of Maruti Jimny have Electronic Brakeforce Distribution (EBD).
+All variants of Maruti Jimny have Brake Assist.
+All variants of Maruti Jimny have Hill Descent Control.
+Maruti Jimny variants with Headlamp Washers - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT.
+Maruti Jimny variants without Headlamp Washers - Zeta & Zeta AT.
+All variants of Maruti Jimny have Rear Window Defogger.
+Maruti Jimny variants with Leather Wrapped Steering Wheel - Zeta, Alpha, Alpha Dual Tone, Zeta AT, Alpha AT & Alpha Dual Tone AT.
+All variants of Maruti Jimny have Glove Box.
+All variants of Maruti Jimny have Adjustable Headlamps.
+All variants of Maruti Jimny have Passenger Airbag.
+All variants of Maruti Jimny have Day & Night Rear View Mirror.
+All variants of Maruti Jimny have Touchscreen.
+All variants of Maruti Jimny have Rear Window Wiper.
+All variants of Maruti Jimny have Rear Window Washer.
+All variants of Maruti Jimny have Curtain Airbag.
+All variants of Maruti Jimny have Usb Ports.
+All variants of Maruti Jimny have Luggage Hook & Net.
+Maruti Jimny variants with LED Fog Lamps - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT.
+Maruti Jimny variants without LED Fog Lamps - Zeta & Zeta AT.
+All Maruti Jimny variants use the K15B engine.
+All Maruti Jimny variants have a displacement of 1462  cubic centimeters.
+All Maruti Jimny variants produce a maximum power of 103 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Maruti Jimny variants produce a maximum torque of 134.2 Newton meters at 4000 Revolutions Per Minute (RPM).
+All Maruti Jimny variants have 4.0 valves per cylinder.
+Maruti Jimny variants - Zeta, Alpha & Alpha Dual Tone share a Manual transmission.
+Maruti Jimny variants - Zeta AT, Alpha AT & Alpha Dual Tone AT share a Automatic transmission.
+All Maruti Jimny variants have 4.0 cylinders.
+Maruti Jimny variants - Zeta, Alpha & Alpha Dual Tone share a 5-Speed gearbox.
+Maruti Jimny variants - Zeta AT, Alpha AT & Alpha Dual Tone AT share a 4-Speed gearbox.
+All Maruti Jimny variants have a Four-Wheel Drive (4WD) drive type.
+All Maruti Jimny variants run on Petrol.
+All Maruti Jimny variants comply with BS VI 2.0 emission norms.
+All Maruti Jimny variants come with Electric steering.
+All Maruti Jimny variants have a turning radius of 5.7m.
+All Maruti Jimny variants have Disc front brakes.
+All Maruti Jimny variants have Drum rear brakes.
+All Maruti Jimny variants have a length of 3985 mm.
+All Maruti Jimny variants have a width of 1645 mm.
+All Maruti Jimny variants have a height of 1720 mm.
+All Maruti Jimny variants offer 211 Litres of boot space.
+All Maruti Jimny variants have a seating capacity of 4.0.
+All Maruti Jimny variants have an unladen ground clearance of 210 mm.
+All Maruti Jimny variants have a wheelbase of 2590 mm.
+Maruti Jimny variant Zeta has a kerb weight of 1200 kg.
+Maruti Jimny variants - Alpha & Alpha Dual Tone share a kerb weight of 1195 kg.
+Maruti Jimny variant Zeta AT has a kerb weight of 1210 kg.
+Maruti Jimny variants - Alpha AT & Alpha Dual Tone AT share a kerb weight of 1205 kg.
+All Maruti Jimny variants have a gross weight of 1545 kg.
+All Maruti Jimny variants have 5.0 doors.
+All Maruti Jimny variants come with a Manual boot opening mechanism.
+Maruti Jimny variants - Zeta & Zeta AT feature Powered Outside Rear View Mirror (ORVM).
+Maruti Jimny variants - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT feature Powered & Folding Outside Rear View Mirror (ORVM).
+All Maruti Jimny variants have tyres of size 195/80 R15.
+All Maruti Jimny variants come with Tyre Type tyres.
+Maruti Jimny variants - Zeta & Zeta AT feature 15 Inch wheels.
+All Maruti Jimny variants come equipped with 6.0 airbags.
+Maruti Jimny variant Alpha Dual Tone has a Global NCAP rating of 3 Star.
+Maruti Jimny variants - Zeta & Zeta AT come with a 7 inch touchscreen display.
+Maruti Jimny variants - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT come with a 9 inch touchscreen display.
+All Maruti Jimny variants come with 4.0 speakers.
+Maruti Jimny variants - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT have 15 Inch front alloy wheels.
+Maruti Jimny variants - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT have 15 Inch rear alloy wheels.
+All Maruti Jimny variants feature a Full Digital digital cluster.
+All Maruti Jimny variants have a top speed of 155 kmph.
+All Maruti Jimny variants have a front tread of 1395 mm.
+All Maruti Jimny variants have a rear tread of 1405 mm.
+All Maruti Jimny variants use a Multi-Point Fuel Injection (MPFi) fuel supply system.
+All Maruti Jimny variants have an approach angle of 36°.
+All Maruti Jimny variants have a break-over angle of 24°.
+All Maruti Jimny variants have a departure angle of 46°.
+All Maruti Jimny variants have Driver's Window anti-pinch power windows.
+Maruti Jimny variants - Zeta, Alpha & Alpha Dual Tone have mileage figures of 16.94 kmpl.
+Maruti Jimny variants - Zeta AT, Alpha AT & Alpha Dual Tone AT have mileage figures of 16.39 kmpl.
+All Maruti Jimny variants have a fuel tank capacity of 40 Litres.
+All Maruti Jimny variants have the Multi-link suspension front suspension.
+All Maruti Jimny variants have the Multi-link suspension rear suspension.
+All Maruti Jimny variants come with Tilt Steering steering adjustment.
+All Maruti Jimny variants have Height only steering adjustability.
+All Maruti Jimny variants are equipped with Rear parking sensors.
+All Maruti Jimny variants have Front & Rear power windows.
+All Maruti Jimny variants have a With Guidedlines rear camera.
+All Maruti Jimny variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Maruti Jimny variants include Front & Rear speakers.
+All Maruti Jimny variants come with Adjustable rear seat headrests.
+Maruti Jimny variants - Zeta & Zeta AT share Hard Top,Gunmetal Grey Grille with Chrome Plating,Drip Rails,Trapezoidal Wheel Arch Extensions,Clamshell Bonnet,Lumber Black Scratch-resistant Bumpers,Tailgate Mounted Spare Wheel as additional features.
+Maruti Jimny variants - Alpha, Alpha Dual Tone, Alpha AT & Alpha Dual Tone AT share Body Coloured Outside Door Handles,Hard Top,Gunmetal Grey Grille with Chrome Plating,Drip Rails,Trapezoidal Wheel Arch Extensions,Clamshell Bonnet,Lumber Black Scratch-resistant Bumpers,Tailgate Mounted Spare Wheel,Dark Green Glass (Window) as additional features.

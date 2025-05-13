@@ -1,0 +1,162 @@
+Volvo S90 has 1 variants: B5 Ultimate.
+Volvo S90 has Power Steering.
+Volvo S90 has Air Conditioner.
+Volvo S90 has Heater.
+Volvo S90 has Automatic Climate Control.
+Volvo S90 has Accessory Power Outlet.
+Volvo S90 has Trunk Light.
+Volvo S90 has Vanity Mirror.
+Volvo S90 has Rear Reading Lamp.
+Volvo S90 has Adjustable Headrest.
+Volvo S90 has Rear Seat Centre Arm Rest.
+Volvo S90 has Rear AC Vents.
+Volvo S90 has Cruise Control.
+Volvo S90 has Engine Start/Stop Button.
+Volvo S90 has Voice Commands.
+Volvo S90 has Hands-Free Tailgate.
+Volvo S90 has Chrome Grille.
+Volvo S90 has KeyLess Entry.
+Volvo S90 has Follow Me Home Headlamps.
+Volvo S90 has Tachometer.
+Volvo S90 does not have Wheel Covers.
+Volvo S90 has Alloy Wheels.
+Volvo S90 has Integrated Antenna.
+Volvo S90 has Automatic Headlamps.
+Volvo S90 has LED DRLs.
+Volvo S90 has LED Headlamps.
+Volvo S90 has Anti-lock Braking System (ABS).
+Volvo S90 has Central Locking.
+Volvo S90 has Driver Airbag.
+Volvo S90 has Side Airbag.
+Volvo S90 has Seat Belt Warning.
+Volvo S90 has Engine Immobilizer.
+Volvo S90 does not have Side Airbag-Rear.
+Volvo S90 has Electronic Stability Control (ESC).
+Volvo S90 has Anti-Theft Device.
+Volvo S90 has Speed Alert.
+Volvo S90 has Speed Sensing Auto Door Lock.
+Volvo S90 has ISOFIX Child Seat Mounts.
+Volvo S90 has Hill Assist.
+Volvo S90 has Impact Sensing Auto Door Unlock.
+Volvo S90 has 360 View Camera.
+Volvo S90 has Radio.
+Volvo S90 has Wireless Phone Charging.
+Volvo S90 has Bluetooth Connectivity.
+Volvo S90 has Android Auto.
+Volvo S90 has Apple CarPlay.
+Volvo S90 has Height Adjustable Front Seat Belts.
+Volvo S90 has Lumbar Support.
+Volvo S90 has Electronic Multi-Tripmeter.
+Volvo S90 has Digital Clock.
+Volvo S90 has Outside Temperature Display.
+Volvo S90 has Dual Tone Dashboard.
+Volvo S90 does not have Power Antenna.
+Volvo S90 has LED Taillights.
+Volvo S90 has Brake Assist.
+Volvo S90 has Anti-Theft Alarm.
+Volvo S90 has Door Ajar Warning.
+Volvo S90 has Digital Odometer.
+Volvo S90 has Blind Spot Camera.
+Volvo S90 has Heads-Up Display (HUD).
+Volvo S90 has Cooled Glovebox.
+Volvo S90 has Ventilated Seats.
+Volvo S90 has Hill Descent Control.
+Volvo S90 has Active noise cancellation.
+Volvo S90 has Battery Saver.
+Volvo S90 has Leather wrap gear-shift selector.
+Volvo S90 has Blind Spot Monitor.
+Volvo S90 has Tailgate Ajar Warning.
+Volvo S90 has Remote Trunk Opener.
+Volvo S90 has Remote Fuel Lid Opener.
+Volvo S90 has Compass.
+Volvo S90 has Lane Change Indicator.
+Volvo S90 has Wi-Fi Connectivity.
+Volvo S90 has Cornering Headlamps.
+Volvo S90 has Traction Control.
+Volvo S90 has Rear Entertainment System.
+Volvo S90 has Leather Seats.
+Volvo S90 has Driving Experience Control Eco.
+Volvo S90 does not have MirrorLink.
+Volvo S90 has Fog Lights - Rear.
+Volvo S90 has Internal Storage.
+Volvo S90 has Find My Car location.
+Volvo S90 has Height Adjustable Driver Seat.
+Volvo S90 has Rear Window Defogger.
+Volvo S90 has Leather Wrapped Steering Wheel.
+Volvo S90 has Glove Box.
+Volvo S90 has Adjustable Headlamps.
+Volvo S90 has Passenger Airbag.
+Volvo S90 has Day & Night Rear View Mirror.
+Volvo S90 has Tyre Pressure Monitoring System (TPMS).
+Volvo S90 has Touchscreen.
+Volvo S90 has Rear Window Wiper.
+Volvo S90 has Rear Window Washer.
+Volvo S90 has Chrome Garnish.
+Volvo S90 has Child Safety Locks.
+Volvo S90 has Rear Spoiler.
+Volvo S90 has Rain Sensing Wiper.
+Volvo S90 has Air Quality Control.
+Volvo S90 has Folding Table in The Rear.
+Volvo S90 has Navigation System.
+Volvo S90 has Smart Access Card Entry.
+Volvo S90 has Fabric Upholstery.
+Volvo S90 has Roof Rails.
+Volvo S90 has Roof Carrier.
+Volvo S90 has Dual Tone Body Colour.
+Volvo S90 has Usb Ports.
+Volvo S90 does not have Gear Shift Indicator.
+Volvo S90 does not have Luggage Hook & Net.
+Volvo S90 has LED Fog Lamps.
+Volvo S90 has Low Fuel Warning Light.
+Volvo S90 has Power Boot.
+Volvo S90 has Fog Lights - Front.
+Volvo S90 has Integrated 2DIN Audio.
+Volvo S90 has USB & Auxiliary input.
+Volvo S90 does not have Rear Curtain.
+Volvo S90 has Audio System Remote Control.
+The Volvo S90 has the 2.0 L 4-cylinder engine.
+The Volvo S90 has a displacement of 1969  cubic centimeters.
+The Volvo S90 generates 246.58 Brake Horsepower (BHP).
+The Volvo S90 generates 350 Newton meters.
+The Volvo S90 has 4.0 valves per cylinder.
+The Volvo S90 has a Automatic transmission.
+The Volvo S90 has 4.0 cylinders.
+The Volvo S90 has a 8-Speed gearbox.
+The Volvo S90 has a Front-Wheel Drive (FWD) drive type.
+The Volvo S90 runs on Petrol.
+The Volvo S90 complies with BS VI 2.0 emission norms.
+The Volvo S90 has a length of 4969 mm.
+The Volvo S90 has a width of 1879 mm.
+The Volvo S90 has a height of 1340 mm.
+The Volvo S90 offers 461 Litres of boot space.
+The Volvo S90 has a seating capacity of 5.0.
+The Volvo S90 has a wheelbase of 2620 mm.
+The Volvo S90 has a kerb weight of 1900 kg.
+The Volvo S90 has 4.0 doors.
+The Volvo S90 is fitted with tyres of size 245/45 R18.
+The Volvo S90 is equipped with Tubeless Radial tyres.
+The Volvo S90 is equipped with 7.0 airbags.
+The Volvo S90 has been rated 5 Star by Global NCAP.
+The Volvo S90 is equipped with a 12.3 inch touchscreen.
+The Volvo S90 is equipped with 19.0 speakers.
+The Volvo S90 has Electric as a secondary fuel type.
+The Volvo S90 achieves 100-0 kmph braking in 41.42 s seconds.
+The Volvo S90 features Android Auto, Apple CarPlay connectivity options.
+The Volvo S90 achieves a top speed of 180 kmph.
+The Volvo S90 achieves 0-100 kmph acceleration in 7.60 s.
+The Volvo S90 achieves 0-100 kmph in 7.60 s.
+The Volvo S90 delivers a highway mileage of 14.7 kmpl.
+The Volvo S90 comes with a fuel tank capacity of 60 Litres.
+The Volvo S90 comes with the Air suspension front suspension.
+The Volvo S90 comes with the Air suspension rear suspension.
+Volvo S90 has Adjustable Steering.
+The Volvo S90 features Front & Rear parking sensors.
+The Volvo S90 features Front & Rear USB charging ports.
+The Volvo S90 has Front & Rear speakers.
+The Volvo S90 has Front electric adjustable seats.
+The Volvo S90 has a 40:20:40 Split foldable rear seat.
+Volvo S90 has Central Console Armrest.
+Volvo S90 has Turbo Charger.
+Volvo S90 has Rear Seat Headrest.
+Volvo S90 has Sunroof.
+The Volvo S90 includes Premium Sound by Bowers and Wilkins, Subwoofer, Volvo cars app, Android powered infotainment system including google services, Apple Carplay (iPhone with wire) as additional features.

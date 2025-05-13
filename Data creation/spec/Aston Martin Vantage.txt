@@ -1,0 +1,98 @@
+﻿Aston Martin Vantage has 1 variants: V8.
+Aston Martin Vantage has Power Steering.
+Aston Martin Vantage has Air Conditioner.
+Aston Martin Vantage has Heater.
+Aston Martin Vantage has Automatic Climate Control.
+Aston Martin Vantage has Accessory Power Outlet.
+Aston Martin Vantage has Adjustable Headrest.
+Aston Martin Vantage has Cruise Control.
+Aston Martin Vantage has Engine Start/Stop Button.
+Aston Martin Vantage does not have Hands-Free Tailgate.
+Aston Martin Vantage has KeyLess Entry.
+Aston Martin Vantage has Idle Start-Stop System.
+Aston Martin Vantage has Tachometer.
+Aston Martin Vantage has Alloy Wheels.
+Aston Martin Vantage has Automatic Headlamps.
+Aston Martin Vantage has Anti-lock Braking System (ABS).
+Aston Martin Vantage has Central Locking.
+Aston Martin Vantage has Driver Airbag.
+Aston Martin Vantage has Seat Belt Warning.
+Aston Martin Vantage has Engine Immobilizer.
+Aston Martin Vantage has Electronic Stability Control (ESC).
+Aston Martin Vantage has Speed Alert.
+Aston Martin Vantage has Speed Sensing Auto Door Lock.
+Aston Martin Vantage has Hill Assist.
+Aston Martin Vantage has Impact Sensing Auto Door Unlock.
+Aston Martin Vantage has Radio.
+Aston Martin Vantage has Bluetooth Connectivity.
+Aston Martin Vantage has Android Auto.
+Aston Martin Vantage has Apple CarPlay.
+Aston Martin Vantage has Lumbar Support.
+Aston Martin Vantage has Electronic Brakeforce Distribution (EBD).
+Aston Martin Vantage has Brake Assist.
+Aston Martin Vantage has Door Ajar Warning.
+Aston Martin Vantage has Forward Collision Warning.
+Aston Martin Vantage has Automatic Emergency Braking.
+Aston Martin Vantage has Oncoming Lane Mitigation.
+Aston Martin Vantage has Speed Assist System.
+Aston Martin Vantage has Blind Spot Collision Avoidance Assist.
+Aston Martin Vantage has Lane Departure Warning.
+Aston Martin Vantage has Lane Keep Assist.
+Aston Martin Vantage has Lane Departure Prevention Assist.
+Aston Martin Vantage has Adaptive High Beam Assist.
+Aston Martin Vantage has Battery Saver.
+Aston Martin Vantage has Traction Control.
+Aston Martin Vantage has Height Adjustable Driver Seat.
+Aston Martin Vantage has Leather Wrapped Steering Wheel.
+Aston Martin Vantage has Glove Box.
+Aston Martin Vantage has Adjustable Headlamps.
+Aston Martin Vantage has Passenger Airbag.
+Aston Martin Vantage has Day & Night Rear View Mirror.
+Aston Martin Vantage has Tyre Pressure Monitoring System (TPMS).
+Aston Martin Vantage has Touchscreen.
+Aston Martin Vantage has Air Quality Control.
+Aston Martin Vantage has Curtain Airbag.
+The Aston Martin Vantage has the M177 AMG engine.
+The Aston Martin Vantage has a displacement of 3998  cubic centimeters.
+The Aston Martin Vantage generates 656 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+The Aston Martin Vantage generates 800 Newton meters at 2750 to 6000 Revolutions Per Minute (RPM).
+The Aston Martin Vantage has 4.0 valves per cylinder.
+The Aston Martin Vantage has a Automatic transmission.
+The Aston Martin Vantage has 8.0 cylinders.
+The Aston Martin Vantage has a 8-Speed-AT gearbox.
+The Aston Martin Vantage has a Rear-Wheel Drive (RWD) drive type.
+The Aston Martin Vantage runs on Petrol.
+The Aston Martin Vantage complies with BS VI 2.0 emission norms.
+The Aston Martin Vantage has a turning radius of 6m.
+The Aston Martin Vantage has a length of 4495 mm.
+The Aston Martin Vantage has a width of 2045 mm.
+The Aston Martin Vantage has a height of 1275 mm.
+The Aston Martin Vantage offers 346 Litres of boot space.
+The Aston Martin Vantage has a seating capacity of 2.0.
+The Aston Martin Vantage has an unladen ground clearance of 94 mm.
+The Aston Martin Vantage has a wheelbase of 2705 mm.
+The Aston Martin Vantage has a kerb weight of 1745 kg.
+The Aston Martin Vantage is equipped with Powered Outside Rear View Mirror (ORVM).
+The Aston Martin Vantage is fitted with tyres of size F:275/35/ZR21,R:325/30/ZR21.
+The Aston Martin Vantage is equipped with Tubeless Radial tyres.
+The Aston Martin Vantage is equipped with 4.0 airbags.
+The Aston Martin Vantage is equipped with a unknown touchscreen.
+The Aston Martin Vantage features 21 Inch front alloy wheels.
+The Aston Martin Vantage features 21 Inch rear alloy wheels.
+The Aston Martin Vantage features Android Auto, Apple CarPlay connectivity options.
+The Aston Martin Vantage comes with a Full Digital digital cluster.
+The Aston Martin Vantage has a reported boot space of 346 Litres.
+The Aston Martin Vantage achieves a top speed of 325 kmph.
+The Aston Martin Vantage achieves 0-100 kmph acceleration in 3.5 s.
+The Aston Martin Vantage achieves 0-100 kmph in 3.5 s.
+The Aston Martin Vantage features All Windows anti-pinch power windows.
+The Aston Martin Vantage delivers a highway mileage of 7 kmpl.
+The Aston Martin Vantage comes with a fuel tank capacity of 73 Litres.
+The Aston Martin Vantage features Front & Rear parking sensors.
+The Aston Martin Vantage features Front USB charging ports.
+The Aston Martin Vantage features Front & Rear power windows.
+The Aston Martin Vantage features Front Only cup holders.
+The Aston Martin Vantage has a With Guidedlines rear camera.
+The Aston Martin Vantage has Driver and Passenger seatbelt pretensioners and force limiters.
+The Aston Martin Vantage has a Twin turbocharger.
+The Aston Martin Vantage includes Adjustable rear seat headrests.

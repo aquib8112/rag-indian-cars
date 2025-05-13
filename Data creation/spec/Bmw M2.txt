@@ -1,0 +1,153 @@
+Bmw M2 has 1 variants: Coupe.
+Bmw M2 has Power Steering.
+Bmw M2 has Air Conditioner.
+Bmw M2 has Heater.
+Bmw M2 has Automatic Climate Control.
+Bmw M2 has Accessory Power Outlet.
+Bmw M2 has Trunk Light.
+Bmw M2 has Vanity Mirror.
+Bmw M2 has Rear Reading Lamp.
+Bmw M2 has Adjustable Headrest.
+Bmw M2 has Cruise Control.
+Bmw M2 has Real-Time Vehicle Tracking.
+Bmw M2 has Engine Start/Stop Button.
+Bmw M2 has Voice Commands.
+Bmw M2 has KeyLess Entry.
+Bmw M2 has Idle Start-Stop System.
+Bmw M2 has Follow Me Home Headlamps.
+Bmw M2 has Tachometer.
+Bmw M2 does not have Wheel Covers.
+Bmw M2 has Alloy Wheels.
+Bmw M2 has Integrated Antenna.
+Bmw M2 has Projector Headlamps.
+Bmw M2 has Automatic Headlamps.
+Bmw M2 has LED DRLs.
+Bmw M2 has LED Headlamps.
+Bmw M2 has Anti-lock Braking System (ABS).
+Bmw M2 has Central Locking.
+Bmw M2 has Driver Airbag.
+Bmw M2 has Side Airbag.
+Bmw M2 has Seat Belt Warning.
+Bmw M2 has Engine Immobilizer.
+Bmw M2 has E-Call & I-Call.
+Bmw M2 has Remote AC On/Off.
+Bmw M2 does not have Side Airbag-Rear.
+Bmw M2 has Electronic Stability Control (ESC).
+Bmw M2 has Anti-Theft Device.
+Bmw M2 has Speed Alert.
+Bmw M2 has Speed Sensing Auto Door Lock.
+Bmw M2 has ISOFIX Child Seat Mounts.
+Bmw M2 has Hill Assist.
+Bmw M2 has Impact Sensing Auto Door Unlock.
+Bmw M2 has 360 View Camera.
+Bmw M2 has Radio.
+Bmw M2 has Wireless Phone Charging.
+Bmw M2 has Bluetooth Connectivity.
+Bmw M2 has Android Auto.
+Bmw M2 has Apple CarPlay.
+Bmw M2 has Driver Attention Warning.
+Bmw M2 has Live Location.
+Bmw M2 has Over the Air (OTA) Updates.
+Bmw M2 has Over Speeding Alert.
+Bmw M2 has Remote Door Lock/Unlock.
+Bmw M2 has Geo-fence Alert.
+Bmw M2 has Height Adjustable Front Seat Belts.
+Bmw M2 has Lumbar Support.
+Bmw M2 has Paddle Shifters.
+Bmw M2 has LED Taillights.
+Bmw M2 has Electronic Brakeforce Distribution (EBD).
+Bmw M2 has Brake Assist.
+Bmw M2 has Anti-Theft Alarm.
+Bmw M2 has Door Ajar Warning.
+Bmw M2 has SOS / Emergency Assistance.
+Bmw M2 has Heads-Up Display (HUD).
+Bmw M2 has Lane Departure Warning.
+Bmw M2 has Lane Keep Assist.
+Bmw M2 has Lane Departure Prevention Assist.
+Bmw M2 has Adaptive Cruise Control.
+Bmw M2 has Adaptive High Beam Assist.
+Bmw M2 has Rear Cross Traffic Alert.
+Bmw M2 has Cooled Glovebox.
+Bmw M2 has Glove Box light.
+Bmw M2 has Navigation with Live Traffic.
+Bmw M2 has Digital Car Key.
+Bmw M2 has Live Weather.
+Bmw M2 has Tailgate Ajar Warning.
+Bmw M2 has SOS Button.
+Bmw M2 has Wi-Fi Connectivity.
+Bmw M2 has Traction Control.
+Bmw M2 has RSA.
+Bmw M2 has Height Adjustable Driver Seat.
+Bmw M2 has Leather Wrapped Steering Wheel.
+Bmw M2 has Glove Box.
+Bmw M2 has Adjustable Headlamps.
+Bmw M2 has Outside Rear View Mirror Turn Indicators.
+Bmw M2 has Passenger Airbag.
+Bmw M2 has Day & Night Rear View Mirror.
+Bmw M2 has Tyre Pressure Monitoring System (TPMS).
+Bmw M2 has Touchscreen.
+Bmw M2 has Rear Window Wiper.
+Bmw M2 has Rear Window Washer.
+Bmw M2 has Child Safety Locks.
+Bmw M2 has Rear Spoiler.
+Bmw M2 has Rain Sensing Wiper.
+Bmw M2 has Air Quality Control.
+Bmw M2 has Smart Access Card Entry.
+Bmw M2 has Usb Ports.
+Bmw M2 has LED Fog Lamps.
+The Bmw M2 has the 3.0 M TwinPower Turbo inline engine.
+The Bmw M2 has a displacement of 2993  cubic centimeters.
+The Bmw M2 generates 473 Brake Horsepower (BHP) at 6250 Revolutions Per Minute (RPM).
+The Bmw M2 generates 600 Newton meters at 2650 to 6130 Revolutions Per Minute (RPM).
+The Bmw M2 has 4.0 valves per cylinder.
+The Bmw M2 has a Automatic transmission.
+The Bmw M2 has 6.0 cylinders.
+The Bmw M2 has a 6-Speed gearbox.
+The Bmw M2 has a Rear-Wheel Drive (RWD) drive type.
+The Bmw M2 runs on Petrol.
+The Bmw M2 complies with BS VI 2.0 emission norms.
+The Bmw M2 has Electric steering.
+The Bmw M2 has Disc front brakes.
+The Bmw M2 has Disc rear brakes.
+The Bmw M2 has a length of 4461 mm.
+The Bmw M2 has a width of 1854 mm.
+The Bmw M2 has a height of 1410 mm.
+The Bmw M2 offers 390 Litres of boot space.
+The Bmw M2 has a seating capacity of 4.0.
+The Bmw M2 has a wheelbase of 2693 mm.
+The Bmw M2 has a kerb weight of 1650 kg.
+The Bmw M2 has a gross weight of 2010 kg.
+The Bmw M2 has 2.0 doors.
+The Bmw M2 features a Electronic boot opening mechanism.
+The Bmw M2 is equipped with Powered & Folding Outside Rear View Mirror (ORVM).
+The Bmw M2 is fitted with tyres of size F-275/35 ZR19 R-285/30 ZR20.
+The Bmw M2 is equipped with Tubeless Radial tyres.
+The Bmw M2 is equipped with 8.0 airbags.
+The Bmw M2 is equipped with a 14.9 inch touchscreen.
+The Bmw M2 is equipped with 14.0 speakers.
+The Bmw M2 features 19 Inch front alloy wheels.
+The Bmw M2 features 20 Inch rear alloy wheels.
+The Bmw M2 comes with a Full Digital digital cluster.
+The Bmw M2 features Leather upholstery.
+The Bmw M2 achieves a top speed of 250 kmph.
+The Bmw M2 achieves 0-100 kmph acceleration in 4.0 s.
+The Bmw M2 achieves 0-100 kmph in 4.0 s.
+The Bmw M2 features a rear tread of 1601 mm.
+The Bmw M2 delivers a mileage of 10.19 kmpl.
+The Bmw M2 comes with a fuel tank capacity of 52 Litres.
+The Bmw M2 features Tilt & Telescopic steering adjustment.
+The Bmw M2 features Height & Reach steering adjustability.
+The Bmw M2 features Front & Rear parking sensors.
+The Bmw M2 features Front & Rear USB charging ports.
+The Bmw M2 features Front Only power windows.
+The Bmw M2 features Front Only cup holders.
+The Bmw M2 features Front fog lights.
+The Bmw M2 has a 12.3 inch digital cluster.
+The Bmw M2 has a With Guidedlines rear camera.
+The Bmw M2 has Driver and Passenger seatbelt pretensioners and force limiters.
+The Bmw M2 has Front & Rear speakers.
+The Bmw M2 has Front electric adjustable seats.
+The Bmw M2 has a With Storage central console armrest.
+The Bmw M2 has a Twin turbocharger.
+The Bmw M2 includes Adjustable rear seat headrests.
+The Bmw M2 includes Harman Kardon Surround Sound System,Navigation Function with 3D maps,BMW Operating System 8.0 with variable configurable widgets as additional features.

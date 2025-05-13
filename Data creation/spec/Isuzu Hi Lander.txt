@@ -1,0 +1,74 @@
+Isuzu Hi Lander has 1 variants: 4x2 MT.
+Isuzu Hi Lander has Power Steering.
+Isuzu Hi Lander has Air Conditioner.
+Isuzu Hi Lander has Heater.
+Isuzu Hi Lander has Automatic Climate Control.
+Isuzu Hi Lander has Accessory Power Outlet.
+Isuzu Hi Lander has Vanity Mirror.
+Isuzu Hi Lander has Rear Reading Lamp.
+Isuzu Hi Lander has Adjustable Headrest.
+Isuzu Hi Lander has KeyLess Entry.
+Isuzu Hi Lander has Idle Start-Stop System.
+Isuzu Hi Lander has Tachometer.
+Isuzu Hi Lander has Wheel Covers.
+Isuzu Hi Lander has Integrated Antenna.
+Isuzu Hi Lander has Anti-lock Braking System (ABS).
+Isuzu Hi Lander has Central Locking.
+Isuzu Hi Lander has Driver Airbag.
+Isuzu Hi Lander has Seat Belt Warning.
+Isuzu Hi Lander has Engine Immobilizer.
+Isuzu Hi Lander has ISOFIX Child Seat Mounts.
+Isuzu Hi Lander has Halogen Headlamps.
+Isuzu Hi Lander has Electronic Brakeforce Distribution (EBD).
+Isuzu Hi Lander has Brake Assist.
+Isuzu Hi Lander has Height Adjustable Driver Seat.
+Isuzu Hi Lander has Rear Window Defogger.
+Isuzu Hi Lander has Glove Box.
+Isuzu Hi Lander has Adjustable Headlamps.
+Isuzu Hi Lander has Passenger Airbag.
+Isuzu Hi Lander has Child Safety Locks.
+Isuzu Hi Lander has Air Quality Control.
+Isuzu Hi Lander has Usb Ports.
+Isuzu Hi Lander has Gear Shift Indicator.
+The Isuzu Hi Lander has the VGS Turbo Intercooled Diesel engine.
+The Isuzu Hi Lander has a displacement of 1898  cubic centimeters.
+The Isuzu Hi Lander generates 160.92 Brake Horsepower (BHP) at 3600 Revolutions Per Minute (RPM).
+The Isuzu Hi Lander generates 360 Newton meters at 2000 to 2500 Revolutions Per Minute (RPM).
+The Isuzu Hi Lander has 4.0 valves per cylinder.
+The Isuzu Hi Lander has a Manual transmission.
+The Isuzu Hi Lander has 4.0 cylinders.
+The Isuzu Hi Lander has a 6-Speed gearbox.
+The Isuzu Hi Lander has a Two-Wheel Drive (2WD) drive type.
+The Isuzu Hi Lander runs on Diesel.
+The Isuzu Hi Lander complies with BS VI 2.0 emission norms.
+The Isuzu Hi Lander has Hydraulic steering.
+The Isuzu Hi Lander has Ventilated Disc front brakes.
+The Isuzu Hi Lander has Drum rear brakes.
+The Isuzu Hi Lander has a length of 5295 mm.
+The Isuzu Hi Lander has a width of 1860 mm.
+The Isuzu Hi Lander has a height of 1785 mm.
+The Isuzu Hi Lander has a seating capacity of 5.0.
+The Isuzu Hi Lander has a wheelbase of 3095 mm.
+The Isuzu Hi Lander has a kerb weight of 1835 kg.
+The Isuzu Hi Lander has 4.0 doors.
+The Isuzu Hi Lander is fitted with tyres of size 245/70 R16.
+The Isuzu Hi Lander is equipped with Tubeless Radial tyres.
+The Isuzu Hi Lander comes with 16 Inch wheels.
+The Isuzu Hi Lander is equipped with 2.0 airbags.
+The Isuzu Hi Lander is equipped with 4.0 speakers.
+The Isuzu Hi Lander comes with a Full Digital digital cluster.
+The Isuzu Hi Lander features Fabric upholstery.
+The Isuzu Hi Lander features a rear tread of 1570 mm.
+The Isuzu Hi Lander delivers a highway mileage of 12.4 kmpl.
+The Isuzu Hi Lander comes with a fuel tank capacity of 55 Litres.
+The Isuzu Hi Lander comes with the Double wishbone suspension front suspension.
+The Isuzu Hi Lander comes with the Leaf spring suspension rear suspension.
+The Isuzu Hi Lander features Tilt Steering steering adjustment.
+Isuzu Hi Lander has Adjustable Steering.
+The Isuzu Hi Lander features Front & Rear USB charging ports.
+The Isuzu Hi Lander has Driver and Passenger seatbelt pretensioners and force limiters.
+The Isuzu Hi Lander has Front & Rear speakers.
+The Isuzu Hi Lander has a 60:40 Split foldable rear seat.
+The Isuzu Hi Lander has a With Storage central console armrest.
+Isuzu Hi Lander has Turbo Charger.
+The Isuzu Hi Lander includes Dark Grey Metallic Finish Grille,Dark Grey Metallic Finish ORVMs,Body Colored Door handles,Chrome Tailgate handles,Centre Mounted Roof Antenna,B-pillar Black-out Film,Rear Bumper as additional features.

@@ -1,0 +1,202 @@
+Land Rover Discovery has 8 variants: 2.0 S, 3.0 S, 2.0 Dynamic HSE, 3.0 Diesel S, 3.0 Dynamic HSE, 3.0 Diesel Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition.
+All variants of Land Rover Discovery have Power Steering.
+All variants of Land Rover Discovery have Air Conditioner.
+All variants of Land Rover Discovery have Heater.
+Land Rover Discovery variants with Automatic Climate Control - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Accessory Power Outlet - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Trunk Light - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Vanity Mirror - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Rear Reading Lamp - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Adjustable Headrest - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Rear Seat Centre Arm Rest - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Rear AC Vents - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Cruise Control - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Real-Time Vehicle Tracking - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Engine Start/Stop Button - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Voice Commands - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Hands-Free Tailgate - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Chrome Grille - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with KeyLess Entry - 3.0 Diesel S.
+Land Rover Discovery variant with Follow Me Home Headlamps - 3.0 Diesel S.
+Land Rover Discovery variants with Tachometer - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants without Wheel Covers - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Alloy Wheels - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Integrated Antenna - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Automatic Headlamps - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with LED DRLs - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with LED Headlamps - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with Anti-lock Braking System (ABS) - 3.0 Diesel S.
+Land Rover Discovery variant with Central Locking - 3.0 Diesel S.
+Land Rover Discovery variant with Driver Airbag - 3.0 Diesel S.
+Land Rover Discovery variants with Side Airbag - 2.0 Dynamic HSE, 3.0 Diesel S, 3.0 Diesel Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition.
+Land Rover Discovery variant with Seat Belt Warning - 3.0 Diesel S.
+Land Rover Discovery variant with Engine Immobilizer - 3.0 Diesel S.
+Land Rover Discovery variants with Side Airbag-Rear - 2.0 Dynamic HSE, 3.0 Diesel S & 3.0 Diesel Dynamic HSE.
+Land Rover Discovery variants without Side Airbag-Rear - 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition.
+Land Rover Discovery variant with Electronic Stability Control (ESC) - 3.0 Diesel S.
+Land Rover Discovery variant with Anti-Theft Device - 3.0 Diesel S.
+Land Rover Discovery variant with Speed Alert - 3.0 Diesel S.
+Land Rover Discovery variant with Speed Sensing Auto Door Lock - 3.0 Diesel S.
+Land Rover Discovery variant with ISOFIX Child Seat Mounts - 3.0 Diesel S.
+Land Rover Discovery variants with Hill Assist - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with Impact Sensing Auto Door Unlock - 3.0 Diesel S.
+Land Rover Discovery variant with 360 View Camera - 3.0 Diesel S.
+Land Rover Discovery variant with Radio - 3.0 Diesel S.
+Land Rover Discovery variant with Wireless Phone Charging - 3.0 Diesel S.
+Land Rover Discovery variant with Bluetooth Connectivity - 3.0 Diesel S.
+Land Rover Discovery variant with Android Auto - 3.0 Diesel S.
+Land Rover Discovery variant with Apple CarPlay - 3.0 Diesel S.
+Land Rover Discovery variants with Remote Climate Control (A/C) - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Height Adjustable Front Seat Belts - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Lumbar Support - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants without Paddle Shifters - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Electronic Multi-Tripmeter - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Digital Clock - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Outside Temperature Display - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Dual Tone Dashboard - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants without Power Antenna - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with LED Taillights - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with Brake Assist - 3.0 Diesel S.
+Land Rover Discovery variant with Anti-Theft Alarm - 3.0 Diesel S.
+Land Rover Discovery variant with Door Ajar Warning - 3.0 Diesel S.
+Land Rover Discovery variants with Digital Odometer - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Cooled Glovebox - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Ventilated Seats - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Hill Descent Control - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Active noise cancellation - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Leather wrap gear-shift selector - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with Blind Spot Monitor - 3.0 Diesel S.
+Land Rover Discovery variants with Tailgate Ajar Warning - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Remote Trunk Opener - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with Compass - 3.0 Diesel S.
+Land Rover Discovery variants with Lane Change Indicator - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with Wi-Fi Connectivity - 3.0 Diesel S.
+Land Rover Discovery variants with Cornering Headlamps - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Traction Control - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with Rear Entertainment System - 3.0 Diesel S.
+Land Rover Discovery variants with Leather Seats - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Driving Experience Control Eco - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with MirrorLink - 3.0 Diesel S.
+Land Rover Discovery variants with Fog Lights - Rear - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with Internal Storage - 3.0 Diesel S.
+Land Rover Discovery variants with Find My Car location - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Height Adjustable Driver Seat - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Rear Window Defogger - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Leather Wrapped Steering Wheel - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Glove Box - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Adjustable Headlamps - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Outside Rear View Mirror Turn Indicators - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Passenger Airbag - 2.0 Dynamic HSE, 3.0 Diesel S, 3.0 Diesel Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition.
+Land Rover Discovery variant with Day & Night Rear View Mirror - 3.0 Diesel S.
+Land Rover Discovery variant with Tyre Pressure Monitoring System (TPMS) - 3.0 Diesel S.
+Land Rover Discovery variant with Touchscreen - 3.0 Diesel S.
+Land Rover Discovery variants with Rear Window Wiper - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Rear Window Washer - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Chrome Garnish - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with Child Safety Locks - 3.0 Diesel S.
+Land Rover Discovery variants with Rear Spoiler - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Rain Sensing Wiper - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Air Quality Control - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Folding Table in The Rear - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Navigation System - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Fabric Upholstery - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Roof Rails - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Cigarette Lighter - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Roof Carrier - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Side Stepper - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Dual Tone Body Colour - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with Usb Ports - 3.0 Diesel S.
+Land Rover Discovery variants with Gear Shift Indicator - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant without Gear Shift Indicator - 3.0 l Metropolitan Edition.
+Land Rover Discovery variants with Luggage Hook & Net - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant without Luggage Hook & Net - 3.0 l Metropolitan Edition.
+Land Rover Discovery variants with LED Fog Lamps - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Low Fuel Warning Light - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Heated Wing Mirror - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Power Boot - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Fog Lights - Front - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variant with Integrated 2DIN Audio - 3.0 Diesel S.
+Land Rover Discovery variant with USB & Auxiliary input - 3.0 Diesel S.
+Land Rover Discovery variant without Rear Curtain - 3.0 l Metropolitan Edition.
+Land Rover Discovery variant with Audio System Remote Control - 3.0 Diesel S.
+Land Rover Discovery variants - 2.0 S & 2.0 Dynamic HSE share the 2.0 L 4-cylinder engine.
+Land Rover Discovery variant 3.0 Dynamic HSE has the 6 Cylinders In V Shape engine.
+Land Rover Discovery variants - 3.0 Diesel Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition share the 3.0 L 6-cylinder engine.
+Land Rover Discovery variants - 2.0 S & 2.0 Dynamic HSE share a displacement of 1997  cubic centimeters.
+Land Rover Discovery variants - 3.0 S, 3.0 Diesel S, 3.0 Dynamic HSE & 3.0 Diesel Dynamic HSE share a displacement of 2996  cubic centimeters.
+Land Rover Discovery variant 3.0 l Metropolitan Edition has a displacement of 2998  cubic centimeters.
+Land Rover Discovery variant 3.0 Diesel Metropolitan Edition has a displacement of 2997  cubic centimeters.
+Land Rover Discovery variants - 2.0 S, 3.0 S, 2.0 Dynamic HSE, 3.0 Diesel S, 3.0 Diesel Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition have a max power of 296.36 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Land Rover Discovery variant 3.0 Dynamic HSE delivers a max power of 355 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Land Rover Discovery variants - 2.0 S, 2.0 Dynamic HSE & 3.0 l Metropolitan Edition share a max torque of 400 Newton meters at 1500 to 2500 Revolutions Per Minute (RPM).
+Land Rover Discovery variants - 3.0 S, 3.0 Diesel S, 3.0 Diesel Dynamic HSE & 3.0 Diesel Metropolitan Edition share a max torque of 650 Newton meters at 1500 to 2500 Revolutions Per Minute (RPM).
+Land Rover Discovery variant 3.0 Dynamic HSE has a max torque of 500 Newton meters at 1700 Revolutions Per Minute (RPM).
+All Land Rover Discovery variants have 4.0 valves per cylinder.
+All Land Rover Discovery variants have a Automatic transmission.
+Land Rover Discovery variants - 2.0 S, 3.0 S, 2.0 Dynamic HSE, 3.0 Diesel S, 3.0 Diesel Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition have 4.0 cylinders.
+Land Rover Discovery variant 3.0 Dynamic HSE has 6.0 cylinders.
+Land Rover Discovery variants - 3.0 S, 2.0 Dynamic HSE & 3.0 Diesel Dynamic HSE share a 8-Speed-AT gearbox.
+Land Rover Discovery variants - 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition share a 8-Speed gearbox.
+All Land Rover Discovery variants have a All-Wheel Drive (AWD) drive type.
+Land Rover Discovery variants - 2.0 S, 3.0 S, 2.0 Dynamic HSE, 3.0 Dynamic HSE & 3.0 l Metropolitan Edition use Petrol as fuel.
+Land Rover Discovery variants - 3.0 Diesel S, 3.0 Diesel Dynamic HSE & 3.0 Diesel Metropolitan Edition use Diesel as fuel.
+Land Rover Discovery variants - 3.0 S, 2.0 Dynamic HSE, 3.0 Diesel Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition comply with BS VI emission norms.
+Land Rover Discovery variant 3.0 Dynamic HSE complies with BS IV emission norms.
+Land Rover Discovery variants - 3.0 S & 3.0 Diesel S have Electric steering.
+Land Rover Discovery variants - 2.0 S & 3.0 Dynamic HSE share a length of 4970 mm.
+Land Rover Discovery variants - 3.0 S & 3.0 Diesel S share a length of 4956 mm.
+Land Rover Discovery variants - 2.0 Dynamic HSE, 3.0 Diesel Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition share a length of 4949 mm.
+Land Rover Discovery variants - 2.0 S & 3.0 Dynamic HSE share a width of 2000 mm.
+Land Rover Discovery variants - 3.0 S & 3.0 Diesel S share a width of 2220 mm.
+Land Rover Discovery variants - 2.0 Dynamic HSE, 3.0 Diesel Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition share a width of 2073 mm.
+Land Rover Discovery variants - 2.0 S & 3.0 Dynamic HSE share a height of 1800 mm.
+Land Rover Discovery variants - 3.0 S & 3.0 Diesel S share a height of 1888 mm.
+Land Rover Discovery variants - 2.0 Dynamic HSE, 3.0 Diesel Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition share a height of 1869 mm.
+Land Rover Discovery variants - 2.0 S, 3.0 S, 3.0 Diesel S & 3.0 Dynamic HSE share a boot space of 258 Litres.
+Land Rover Discovery variants - 2.0 Dynamic HSE, 3.0 Diesel Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition share a boot space of 123 Litres.
+All Land Rover Discovery variants have a seating capacity of 7.0.
+Land Rover Discovery variants - 3.0 S & 3.0 Diesel S share a wheelbase of 2923 mm.
+Land Rover Discovery variants - 2.0 Dynamic HSE & 3.0 l Metropolitan Edition share a wheelbase of 2670 mm.
+Land Rover Discovery variant 3.0 Diesel Dynamic HSE has a wheelbase of 2900 mm.
+Land Rover Discovery variant 3.0 Diesel Metropolitan Edition has a wheelbase of 3095 mm.
+Land Rover Discovery variant 2.0 S has a kerb weight of 2035 kg.
+Land Rover Discovery variant 3.0 S has a kerb weight of 2472 kg.
+Land Rover Discovery variant 2.0 Dynamic HSE has a kerb weight of 2252 kg.
+Land Rover Discovery variant 3.0 Diesel S has a kerb weight of 2509 kg.
+Land Rover Discovery variant 3.0 Dynamic HSE has a kerb weight of 2501 kg.
+Land Rover Discovery variant 3.0 Diesel Dynamic HSE has a kerb weight of 2278 kg.
+Land Rover Discovery variant 3.0 l Metropolitan Edition has a kerb weight of 2183 kg.
+Land Rover Discovery variant 3.0 Diesel Metropolitan Edition has a kerb weight of 2264 kg.
+All Land Rover Discovery variants come with Unknown tyres.
+Land Rover Discovery variants - 2.0 S, 3.0 S, 2.0 Dynamic HSE, 3.0 Diesel S, 3.0 Dynamic HSE & 3.0 Diesel Dynamic HSE offer 8.0 airbags.
+Land Rover Discovery variants - 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition offer 6.0 airbags.
+Land Rover Discovery variants - 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition have been rated 5 Star by Global NCAP.
+Land Rover Discovery variant 3.0 Diesel S includes Android Auto, Apple CarPlay connectivity features.
+Land Rover Discovery variants - 2.0 S, 3.0 S, 3.0 Diesel S & 3.0 Dynamic HSE come with boot space of 258 Litres.
+Land Rover Discovery variant 2.0 Dynamic HSE has a top speed of 194 kmph.
+Land Rover Discovery variants - 3.0 Diesel Dynamic HSE & 3.0 l Metropolitan Edition have a top speed of 209 kmph.
+Land Rover Discovery variant 3.0 Diesel Metropolitan Edition has a top speed of 191 kmph.
+Land Rover Discovery variants - 2.0 Dynamic HSE & 3.0 Diesel Dynamic HSE have a front tread of 1536 mm.
+Land Rover Discovery variant 3.0 l Metropolitan Edition features a front tread of 1538 mm.
+Land Rover Discovery variant 3.0 Diesel Metropolitan Edition features a front tread of 1582 mm.
+Land Rover Discovery variant 3.0 S features a Rack & Pinion steering gear type.
+Land Rover Discovery variants - 3.0 S & 3.0 Diesel S offer the same trunk opening mechanism, which is Smart.
+Land Rover Discovery variant 3.0 Diesel S has Driver's Window anti-pinch power windows.
+Land Rover Discovery variant 3.0 Diesel S provides a mileage of 12.37 kmpl.
+Land Rover Discovery variants - 2.0 S & 2.0 Dynamic HSE have highway mileage figures of 8.9 kmpl.
+Land Rover Discovery variant 3.0 S has a highway mileage of 9.3 kmpl.
+Land Rover Discovery variants - 3.0 Dynamic HSE, 3.0 l Metropolitan Edition & 3.0 Diesel Metropolitan Edition have highway mileage figures of 12.37 kmpl.
+Land Rover Discovery variant 3.0 Diesel Dynamic HSE has a highway mileage of 13.2 kmpl.
+All Land Rover Discovery variants have the Air suspension front suspension.
+All Land Rover Discovery variants have the Air suspension rear suspension.
+Land Rover Discovery variant 3.0 S has Tilt & Telescopic steering adjustment.
+Land Rover Discovery variants with Adjustable Steering - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants - 3.0 S & 3.0 Diesel S share the Front & Rear parking sensor configuration.
+Land Rover Discovery variants - 3.0 S & 3.0 Diesel S share the Front & Rear USB charging configuration.
+Land Rover Discovery variant 3.0 Diesel S has Front & Rear speakers.
+Land Rover Discovery variants - 3.0 S & 3.0 Diesel S share the Front & Rear electric seat adjustment type.
+Land Rover Discovery variants - 3.0 S & 3.0 Diesel S share the 60:40 Split foldable rear seat type.
+Land Rover Discovery variants with Central Console Armrest - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants - 3.0 S & 3.0 Diesel S share the Semi autonomous parking feature.
+Land Rover Discovery variants with Rear Seat Headrest - 3.0 S & 3.0 Diesel S.
+Land Rover Discovery variants with Sunroof - 3.0 S & 3.0 Diesel S.

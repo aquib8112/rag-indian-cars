@@ -1,0 +1,155 @@
+﻿Mercedes Benz Eqa has 1 variants: 250 Plus.
+Mercedes Benz Eqa has Power Steering.
+Mercedes Benz Eqa has Air Conditioner.
+Mercedes Benz Eqa has Heater.
+Mercedes Benz Eqa has Automatic Climate Control.
+Mercedes Benz Eqa has Accessory Power Outlet.
+Mercedes Benz Eqa has Trunk Light.
+Mercedes Benz Eqa has Vanity Mirror.
+Mercedes Benz Eqa has Rear Reading Lamp.
+Mercedes Benz Eqa has Adjustable Headrest.
+Mercedes Benz Eqa has Rear AC Vents.
+Mercedes Benz Eqa has Cruise Control.
+Mercedes Benz Eqa has Real-Time Vehicle Tracking.
+Mercedes Benz Eqa has Engine Start/Stop Button.
+Mercedes Benz Eqa has Voice Commands.
+Mercedes Benz Eqa does not have Hands-Free Tailgate.
+Mercedes Benz Eqa has KeyLess Entry.
+Mercedes Benz Eqa has Idle Start-Stop System.
+Mercedes Benz Eqa has Follow Me Home Headlamps.
+Mercedes Benz Eqa has Tachometer.
+Mercedes Benz Eqa does not have Wheel Covers.
+Mercedes Benz Eqa has Alloy Wheels.
+Mercedes Benz Eqa has Projector Headlamps.
+Mercedes Benz Eqa has LED DRLs.
+Mercedes Benz Eqa has LED Headlamps.
+Mercedes Benz Eqa has Anti-lock Braking System (ABS).
+Mercedes Benz Eqa has Central Locking.
+Mercedes Benz Eqa has Driver Airbag.
+Mercedes Benz Eqa has Side Airbag.
+Mercedes Benz Eqa has Seat Belt Warning.
+Mercedes Benz Eqa has Engine Immobilizer.
+Mercedes Benz Eqa has E-Call & I-Call.
+Mercedes Benz Eqa has Remote AC On/Off.
+Mercedes Benz Eqa has Electronic Stability Control (ESC).
+Mercedes Benz Eqa has Anti-Theft Device.
+Mercedes Benz Eqa has Speed Alert.
+Mercedes Benz Eqa has Speed Sensing Auto Door Lock.
+Mercedes Benz Eqa has ISOFIX Child Seat Mounts.
+Mercedes Benz Eqa has Hill Assist.
+Mercedes Benz Eqa has Impact Sensing Auto Door Unlock.
+Mercedes Benz Eqa has 360 View Camera.
+Mercedes Benz Eqa has Radio.
+Mercedes Benz Eqa has Wireless Phone Charging.
+Mercedes Benz Eqa has Bluetooth Connectivity.
+Mercedes Benz Eqa has Android Auto.
+Mercedes Benz Eqa has Apple CarPlay.
+Mercedes Benz Eqa has Driver Attention Warning.
+Mercedes Benz Eqa has Live Location.
+Mercedes Benz Eqa has Over the Air (OTA) Updates.
+Mercedes Benz Eqa has Google / Alexa Connectivity.
+Mercedes Benz Eqa has Over Speeding Alert.
+Mercedes Benz Eqa has Smartwatch App.
+Mercedes Benz Eqa has Valet Mode.
+Mercedes Benz Eqa has Remote Door Lock/Unlock.
+Mercedes Benz Eqa has Geo-fence Alert.
+Mercedes Benz Eqa has Height Adjustable Front Seat Belts.
+Mercedes Benz Eqa has Lumbar Support.
+Mercedes Benz Eqa has Paddle Shifters.
+Mercedes Benz Eqa has Tow Away Alert.
+Mercedes Benz Eqa does not have Power Antenna.
+Mercedes Benz Eqa has LED Taillights.
+Mercedes Benz Eqa has Electronic Brakeforce Distribution (EBD).
+Mercedes Benz Eqa has Brake Assist.
+Mercedes Benz Eqa has Anti-Theft Alarm.
+Mercedes Benz Eqa has Door Ajar Warning.
+Mercedes Benz Eqa has SOS / Emergency Assistance.
+Mercedes Benz Eqa has Heads-Up Display (HUD).
+Mercedes Benz Eqa has Adaptive High Beam Assist.
+Mercedes Benz Eqa has Unauthorised Vehicle entry.
+Mercedes Benz Eqa has Cooled Glovebox.
+Mercedes Benz Eqa has Glove Box light.
+Mercedes Benz Eqa has Navigation with Live Traffic.
+Mercedes Benz Eqa has Puddle Lamps.
+Mercedes Benz Eqa has Blind Spot Monitor.
+Mercedes Benz Eqa has Digital Car Key.
+Mercedes Benz Eqa has Live Weather.
+Mercedes Benz Eqa has Tailgate Ajar Warning.
+Mercedes Benz Eqa has SOS Button.
+Mercedes Benz Eqa has Lane Change Indicator.
+Mercedes Benz Eqa has Engine Start Alarm.
+Mercedes Benz Eqa has Regenerative Braking.
+Mercedes Benz Eqa has Fast Charging.
+Mercedes Benz Eqa has RSA.
+Mercedes Benz Eqa does not have Fog Lights - Rear.
+Mercedes Benz Eqa has Height Adjustable Driver Seat.
+Mercedes Benz Eqa has Leather Wrapped Steering Wheel.
+Mercedes Benz Eqa has Glove Box.
+Mercedes Benz Eqa has Adjustable Headlamps.
+Mercedes Benz Eqa has Outside Rear View Mirror Turn Indicators.
+Mercedes Benz Eqa has Passenger Airbag.
+Mercedes Benz Eqa has Day & Night Rear View Mirror.
+Mercedes Benz Eqa has Tyre Pressure Monitoring System (TPMS).
+Mercedes Benz Eqa has Touchscreen.
+Mercedes Benz Eqa has Rear Window Wiper.
+Mercedes Benz Eqa has Rear Window Washer.
+Mercedes Benz Eqa has Child Safety Locks.
+Mercedes Benz Eqa has Air Quality Control.
+Mercedes Benz Eqa has Curtain Airbag.
+Mercedes Benz Eqa has Usb Ports.
+Mercedes Benz Eqa has Luggage Hook & Net.
+Mercedes Benz Eqa does not have Fog Lights - Front.
+The Mercedes Benz Eqa generates 188 Brake Horsepower (BHP).
+The Mercedes Benz Eqa generates 385 Newton meters.
+The Mercedes Benz Eqa has a Automatic transmission.
+The Mercedes Benz Eqa has a Front-Wheel Drive (FWD) drive type.
+The Mercedes Benz Eqa runs on Electric.
+The Mercedes Benz Eqa complies with ZEV emission norms.
+The Mercedes Benz Eqa has Electric steering.
+The Mercedes Benz Eqa has a turning radius of 5.7m.
+The Mercedes Benz Eqa has Disc front brakes.
+The Mercedes Benz Eqa has Disc rear brakes.
+The Mercedes Benz Eqa has a length of 4463 mm.
+The Mercedes Benz Eqa has a width of 1834 mm.
+The Mercedes Benz Eqa has a height of 1608 mm.
+The Mercedes Benz Eqa offers 340 Litres of boot space.
+The Mercedes Benz Eqa has a seating capacity of 5.0.
+The Mercedes Benz Eqa has a kerb weight of 2055 kg.
+The Mercedes Benz Eqa has a gross weight of 2470 kg.
+The Mercedes Benz Eqa has 5.0 doors.
+The Mercedes Benz Eqa is equipped with Tyre Type tyres.
+The Mercedes Benz Eqa is equipped with 6.0 airbags.
+The Mercedes Benz Eqa is equipped with a 10.25 inch touchscreen.
+The Mercedes Benz Eqa is equipped with 12.0 speakers.
+The Mercedes Benz Eqa features Android Auto, Apple CarPlay connectivity options.
+The Mercedes Benz Eqa comes with a Full Digital digital cluster.
+The Mercedes Benz Eqa features Leatherette upholstery.
+The Mercedes Benz Eqa achieves a top speed of 160 kmph.
+The Mercedes Benz Eqa has a front tread of 1588 mm.
+The Mercedes Benz Eqa features a rear tread of 1589 mm.
+The Mercedes Benz Eqa features a Asynchronous motor motor type.
+The Mercedes Benz Eqa comes with a Lithium-Ion Battery battery.
+The Mercedes Benz Eqa has a battery capacity of 70.5 kWh.
+The Mercedes Benz Eqa features a motor with 140 kW power.
+The Mercedes Benz Eqa provides a range of 497-560 km.
+The Mercedes Benz Eqa charges in 7.15 Hours using an A.C charger.
+The Mercedes Benz Eqa charges in 35 Min using a D.C charger.
+The Mercedes Benz Eqa is equipped with a CCS-II charging port.
+The Mercedes Benz Eqa reaches 0-100 km/h in 8.6 s.
+The Mercedes Benz Eqa features Driver's Window anti-pinch power windows.
+The Mercedes Benz Eqa features Tilt & Telescopic steering adjustment.
+Mercedes Benz Eqa has Adjustable Steering.
+The Mercedes Benz Eqa features Front & Rear parking sensors.
+The Mercedes Benz Eqa features Front & Rear USB charging ports.
+The Mercedes Benz Eqa has a 10.25 inch digital cluster.
+The Mercedes Benz Eqa has a With Guidedlines rear camera.
+The Mercedes Benz Eqa has Driver and Passenger seatbelt pretensioners and force limiters.
+The Mercedes Benz Eqa has Front & Rear speakers.
+The Mercedes Benz Eqa has Front electric adjustable seats.
+Mercedes Benz Eqa has Central Console Armrest.
+The Mercedes Benz Eqa offers ambient lighting with 64 color choices.
+Mercedes Benz Eqa has Rear Seat Headrest.
+The Mercedes Benz Eqa includes a Panoramic sunroof.
+The Mercedes Benz Eqa has 4 drive modes.
+The Mercedes Benz Eqa features Individual, Sport, Comfort & Eco drive modes.
+The Mercedes Benz Eqa includes MBUX Interior Assistant as additional features.

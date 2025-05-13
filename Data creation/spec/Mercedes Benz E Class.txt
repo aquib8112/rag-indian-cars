@@ -1,0 +1,183 @@
+Mercedes Benz E Class has 3 variants: E 200, E 220d & E 450.
+All variants of Mercedes Benz E Class have Power Steering.
+All variants of Mercedes Benz E Class have Air Conditioner.
+All variants of Mercedes Benz E Class have Heater.
+All variants of Mercedes Benz E Class have Automatic Climate Control.
+All variants of Mercedes Benz E Class have Accessory Power Outlet.
+All variants of Mercedes Benz E Class have Trunk Light.
+All variants of Mercedes Benz E Class have Vanity Mirror.
+All variants of Mercedes Benz E Class have Rear Reading Lamp.
+All variants of Mercedes Benz E Class have Adjustable Headrest.
+All variants of Mercedes Benz E Class have Rear Seat Centre Arm Rest.
+All variants of Mercedes Benz E Class have Rear AC Vents.
+All variants of Mercedes Benz E Class have Cruise Control.
+All variants of Mercedes Benz E Class have Real-Time Vehicle Tracking.
+All variants of Mercedes Benz E Class have Engine Start/Stop Button.
+All variants of Mercedes Benz E Class have Voice Commands.
+All variants of Mercedes Benz E Class do not have Hands-Free Tailgate.
+All variants of Mercedes Benz E Class have KeyLess Entry.
+All variants of Mercedes Benz E Class have Idle Start-Stop System.
+All variants of Mercedes Benz E Class have Follow Me Home Headlamps.
+All variants of Mercedes Benz E Class have Tachometer.
+All variants of Mercedes Benz E Class do not have Wheel Covers.
+All variants of Mercedes Benz E Class have Alloy Wheels.
+All variants of Mercedes Benz E Class have Integrated Antenna.
+All variants of Mercedes Benz E Class have Projector Headlamps.
+All variants of Mercedes Benz E Class have Automatic Headlamps.
+All variants of Mercedes Benz E Class have LED DRLs.
+All variants of Mercedes Benz E Class have LED Headlamps.
+All variants of Mercedes Benz E Class have Anti-lock Braking System (ABS).
+All variants of Mercedes Benz E Class have Central Locking.
+All variants of Mercedes Benz E Class have Driver Airbag.
+All variants of Mercedes Benz E Class have Side Airbag.
+All variants of Mercedes Benz E Class have Seat Belt Warning.
+All variants of Mercedes Benz E Class have Engine Immobilizer.
+All variants of Mercedes Benz E Class have E-Call & I-Call.
+All variants of Mercedes Benz E Class have Remote AC On/Off.
+All variants of Mercedes Benz E Class have Side Airbag-Rear.
+All variants of Mercedes Benz E Class have Electronic Stability Control (ESC).
+All variants of Mercedes Benz E Class have Anti-Theft Device.
+All variants of Mercedes Benz E Class have Speed Alert.
+All variants of Mercedes Benz E Class have Speed Sensing Auto Door Lock.
+All variants of Mercedes Benz E Class have ISOFIX Child Seat Mounts.
+All variants of Mercedes Benz E Class have Hill Assist.
+All variants of Mercedes Benz E Class have Impact Sensing Auto Door Unlock.
+All variants of Mercedes Benz E Class have 360 View Camera.
+All variants of Mercedes Benz E Class have Radio.
+All variants of Mercedes Benz E Class have Wireless Phone Charging.
+All variants of Mercedes Benz E Class have Bluetooth Connectivity.
+All variants of Mercedes Benz E Class have Android Auto.
+All variants of Mercedes Benz E Class have Apple CarPlay.
+All variants of Mercedes Benz E Class have Driver Attention Warning.
+All variants of Mercedes Benz E Class have Live Location.
+All variants of Mercedes Benz E Class have Over the Air (OTA) Updates.
+All variants of Mercedes Benz E Class have Google / Alexa Connectivity.
+All variants of Mercedes Benz E Class have Over Speeding Alert.
+All variants of Mercedes Benz E Class have Smartwatch App.
+All variants of Mercedes Benz E Class have Valet Mode.
+All variants of Mercedes Benz E Class have Remote Door Lock/Unlock.
+All variants of Mercedes Benz E Class have Geo-fence Alert.
+All variants of Mercedes Benz E Class have Height Adjustable Front Seat Belts.
+All variants of Mercedes Benz E Class have Tow Away Alert.
+All variants of Mercedes Benz E Class have LED Taillights.
+All variants of Mercedes Benz E Class have Electronic Brakeforce Distribution (EBD).
+All variants of Mercedes Benz E Class have Brake Assist.
+All variants of Mercedes Benz E Class have Anti-Theft Alarm.
+All variants of Mercedes Benz E Class have Door Ajar Warning.
+All variants of Mercedes Benz E Class have Digital Odometer.
+All variants of Mercedes Benz E Class have Remote Immobiliser.
+All variants of Mercedes Benz E Class have SOS / Emergency Assistance.
+All variants of Mercedes Benz E Class have Forward Collision Warning.
+All variants of Mercedes Benz E Class have Traffic Sign Recognition.
+All variants of Mercedes Benz E Class have Blind Spot Collision Avoidance Assist.
+All variants of Mercedes Benz E Class have Lane Departure Warning.
+All variants of Mercedes Benz E Class have Lane Keep Assist.
+All variants of Mercedes Benz E Class have Adaptive Cruise Control.
+All variants of Mercedes Benz E Class have Adaptive High Beam Assist.
+All variants of Mercedes Benz E Class have Rear Cross Traffic Alert.
+All variants of Mercedes Benz E Class have Rear Cross Traffic Collision-Avoidance Assist.
+All variants of Mercedes Benz E Class have Unauthorised Vehicle entry.
+All variants of Mercedes Benz E Class have Cooled Glovebox.
+All variants of Mercedes Benz E Class have Glove Box light.
+All variants of Mercedes Benz E Class have Inbuilt Assistant.
+All variants of Mercedes Benz E Class have Navigation with Live Traffic.
+All variants of Mercedes Benz E Class have Send POI to Vehicle From App.
+All variants of Mercedes Benz E Class have Puddle Lamps.
+All variants of Mercedes Benz E Class have Hill Descent Control.
+All variants of Mercedes Benz E Class have Rear Window Sunblind.
+All variants of Mercedes Benz E Class have Live Weather.
+All variants of Mercedes Benz E Class have Remote Vehicle Ignition Start/Stop.
+All variants of Mercedes Benz E Class have Remote Boot Open.
+All variants of Mercedes Benz E Class have Tailgate Ajar Warning.
+All variants of Mercedes Benz E Class have Remote Vehicle Status Check.
+All variants of Mercedes Benz E Class have SOS Button.
+All variants of Mercedes Benz E Class have Lane Change Indicator.
+All variants of Mercedes Benz E Class have Wi-Fi Connectivity.
+All variants of Mercedes Benz E Class have Engine Start Alarm.
+All variants of Mercedes Benz E Class have Traction Control.
+All variants of Mercedes Benz E Class have RSA.
+All variants of Mercedes Benz E Class have Hinglish Voice Commands.
+All variants of Mercedes Benz E Class have Height Adjustable Driver Seat.
+All variants of Mercedes Benz E Class have Rear Window Defogger.
+All variants of Mercedes Benz E Class have Leather Wrapped Steering Wheel.
+All variants of Mercedes Benz E Class have Glove Box.
+All variants of Mercedes Benz E Class have Adjustable Headlamps.
+All variants of Mercedes Benz E Class have Outside Rear View Mirror Turn Indicators.
+All variants of Mercedes Benz E Class have Passenger Airbag.
+All variants of Mercedes Benz E Class have Day & Night Rear View Mirror.
+All variants of Mercedes Benz E Class have Tyre Pressure Monitoring System (TPMS).
+All variants of Mercedes Benz E Class have Touchscreen.
+All variants of Mercedes Benz E Class have Rear Window Wiper.
+All variants of Mercedes Benz E Class have Rear Window Washer.
+All variants of Mercedes Benz E Class have Child Safety Locks.
+All variants of Mercedes Benz E Class have Rain Sensing Wiper.
+All variants of Mercedes Benz E Class have Air Quality Control.
+All variants of Mercedes Benz E Class have Curtain Airbag.
+All variants of Mercedes Benz E Class have Usb Ports.
+All variants of Mercedes Benz E Class have Luggage Hook & Net.
+All variants of Mercedes Benz E Class have Rear Curtain.
+Mercedes Benz E Class variant E 200 has a displacement of 1999  cubic centimeters.
+Mercedes Benz E Class variant E 220d has a displacement of 1993  cubic centimeters.
+Mercedes Benz E Class variant E 450 has a displacement of 2999  cubic centimeters.
+Mercedes Benz E Class variant E 200 delivers a max power of 201 Brake Horsepower (BHP) at 5800 Revolutions Per Minute (RPM).
+Mercedes Benz E Class variant E 220d delivers a max power of 194 Brake Horsepower (BHP) at 3600 Revolutions Per Minute (RPM).
+Mercedes Benz E Class variant E 450 delivers a max power of 375 Brake Horsepower (BHP) at 5800 to 6100 Revolutions Per Minute (RPM).
+Mercedes Benz E Class variant E 200 has a max torque of 320 Newton meters at 1600 to 4000 Revolutions Per Minute (RPM).
+Mercedes Benz E Class variant E 220d has a max torque of 440 Newton meters at 1800 to 2800 Revolutions Per Minute (RPM).
+Mercedes Benz E Class variant E 450 has a max torque of 500 Newton meters at 1800 to 5000 Revolutions Per Minute (RPM).
+All Mercedes Benz E Class variants have 4.0 valves per cylinder.
+All Mercedes Benz E Class variants have a Automatic transmission.
+Mercedes Benz E Class variants - E 200 & E 220d have 4.0 cylinders.
+Mercedes Benz E Class variant E 450 has 6.0 cylinders.
+All Mercedes Benz E Class variants come with a 9-Speed gearbox.
+All Mercedes Benz E Class variants have a All-Wheel Drive (AWD) drive type.
+Mercedes Benz E Class variants - E 200 & E 450 use Petrol as fuel.
+Mercedes Benz E Class variant E 220d runs on Diesel.
+All Mercedes Benz E Class variants comply with BS VI 2.0 emission norms.
+All Mercedes Benz E Class variants come with Electric steering.
+All Mercedes Benz E Class variants have Disc front brakes.
+All Mercedes Benz E Class variants have Disc rear brakes.
+All Mercedes Benz E Class variants have a length of 4949 mm.
+All Mercedes Benz E Class variants have a width of 1880 mm.
+All Mercedes Benz E Class variants have a height of 1468 mm.
+All Mercedes Benz E Class variants have a seating capacity of 5.0.
+All Mercedes Benz E Class variants have a wheelbase of 2961 mm.
+Mercedes Benz E Class variant E 200 has a kerb weight of 1810 kg.
+Mercedes Benz E Class variant E 220d has a kerb weight of 1900 kg.
+Mercedes Benz E Class variant E 450 has a kerb weight of 1960 kg.
+All Mercedes Benz E Class variants have 4.0 doors.
+All Mercedes Benz E Class variants come with a Electronic boot opening mechanism.
+All Mercedes Benz E Class variants have Powered & Folding Outside Rear View Mirror (ORVM).
+All Mercedes Benz E Class variants come with Tyre Type tyres.
+All Mercedes Benz E Class variants come equipped with 8.0 airbags.
+All Mercedes Benz E Class variants come with a unknown touchscreen display.
+All Mercedes Benz E Class variants come with 18 Inch front alloy wheels.
+All Mercedes Benz E Class variants come with 18 Inch rear alloy wheels.
+All Mercedes Benz E Class variants feature a Full Digital digital cluster.
+All Mercedes Benz E Class variants come with Leather upholstery.
+Mercedes Benz E Class variant E 200 has a top speed of 240 kmph.
+Mercedes Benz E Class variant E 220d has a top speed of 238 kmph.
+Mercedes Benz E Class variant E 450 has a top speed of 250 kmph.
+Mercedes Benz E Class variant E 200 accelerates from 0-100 kmph in 7.5 s.
+Mercedes Benz E Class variant E 220d accelerates from 0-100 kmph in 7.6 s.
+Mercedes Benz E Class variant E 450 accelerates from 0-100 kmph in 4.5 s.
+Mercedes Benz E Class variant E 200 accelerates from 0-100 kmph in 7.5 s.
+Mercedes Benz E Class variant E 220d accelerates from 0-100 kmph in 7.6 s.
+Mercedes Benz E Class variant E 450 accelerates from 0-100 kmph in 4.5 s.
+All Mercedes Benz E Class variants have All Windows anti-pinch power windows.
+Mercedes Benz E Class variants - E 200 & E 220d have highway mileage figures of 15 kmpl.
+Mercedes Benz E Class variant E 450 has a highway mileage of 12 kmpl.
+All Mercedes Benz E Class variants have a fuel tank capacity of 66 Litres.
+All Mercedes Benz E Class variants come with Tilt & Telescopic steering adjustment.
+All Mercedes Benz E Class variants have Powered Adjustment steering adjustability.
+All Mercedes Benz E Class variants are equipped with Front & Rear parking sensors.
+All Mercedes Benz E Class variants come with Front & Rear USB charging ports.
+All Mercedes Benz E Class variants have Front & Rear power windows.
+All Mercedes Benz E Class variants come with Front & Rear cup holders.
+All Mercedes Benz E Class variants have a With Guidedlines rear camera.
+All Mercedes Benz E Class variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Mercedes Benz E Class variants include Front & Rear speakers.
+All Mercedes Benz E Class variants have Front & Rear electric adjustable seats.
+All Mercedes Benz E Class variants have a With Storage central console armrest.
+All Mercedes Benz E Class variants come with Adjustable rear seat headrests.
+All Mercedes Benz E Class variants come with a Panoramic sunroof.

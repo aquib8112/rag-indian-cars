@@ -1,0 +1,198 @@
+Tata Tiago has 12 variants: XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+All variants of Tata Tiago have Power Steering.
+All variants of Tata Tiago have Air Conditioner.
+All variants of Tata Tiago have Heater.
+Tata Tiago variant with Automatic Climate Control - XZ Plus.
+Tata Tiago variants without Automatic Climate Control - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XT CNG, XTA AMT CNG & XZ CNG.
+All variants of Tata Tiago have Accessory Power Outlet.
+Tata Tiago variants with Vanity Mirror - XT, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants without Vanity Mirror - XE, XM, XE CNG & XM CNG.
+All variants of Tata Tiago have Adjustable Headrest.
+Tata Tiago variant with Cruise Control - XZ Plus.
+Tata Tiago variants with Voice Commands - XZ & XZ CNG.
+Tata Tiago variants without Chrome Grille - XZ & XZ CNG.
+Tata Tiago variants with KeyLess Entry - XM, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants without KeyLess Entry - XE & XE CNG.
+Tata Tiago variants with Follow Me Home Headlamps - XT, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants without Follow Me Home Headlamps - XE, XM, XE CNG & XM CNG.
+All variants of Tata Tiago have Tachometer.
+Tata Tiago variants with Wheel Covers - XM, XT, XM CNG, XTA AMT, XZ, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants without Wheel Covers - XE, XE CNG & XZ Plus.
+Tata Tiago variant with Alloy Wheels - XZ Plus.
+Tata Tiago variants without Alloy Wheels - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XT CNG, XTA AMT CNG & XZ CNG.
+Tata Tiago variant with Projector Headlamps - XZ Plus.
+Tata Tiago variants without Projector Headlamps - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XT CNG, XTA AMT CNG & XZ CNG.
+Tata Tiago variant with Automatic Headlamps - XZ Plus.
+Tata Tiago variants without Automatic Headlamps - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XT CNG & XTA AMT CNG.
+Tata Tiago variant with LED DRLs - XZ Plus.
+Tata Tiago variants without LED DRLs - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XT CNG, XTA AMT CNG & XZ CNG.
+All variants of Tata Tiago have Anti-lock Braking System (ABS).
+Tata Tiago variants with Central Locking - XM, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants without Central Locking - XE & XE CNG.
+All variants of Tata Tiago have Driver Airbag.
+All variants of Tata Tiago have Seat Belt Warning.
+All variants of Tata Tiago have Engine Immobilizer.
+Tata Tiago variant without Side Airbag-Rear - XZA AMT CNG.
+Tata Tiago variants with Electronic Stability Control (ESC) - XE, XM, XE CNG, XT, XTA AMT, XZ Plus, XT CNG, XTA AMT CNG & XZA AMT CNG.
+Tata Tiago variants with Speed Sensing Auto Door Lock - XT, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants without Speed Sensing Auto Door Lock - XE, XM, XE CNG & XM CNG.
+Tata Tiago variants with ISOFIX Child Seat Mounts - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG & XTA AMT CNG.
+Tata Tiago variants with Radio - XM, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants without Radio - XE & XE CNG.
+Tata Tiago variants with Bluetooth Connectivity - XM, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants without Bluetooth Connectivity - XE & XE CNG.
+Tata Tiago variants with Android Auto - XZ, XZ Plus, XZ CNG & XZA AMT CNG.
+Tata Tiago variants without Android Auto - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XT CNG & XTA AMT CNG.
+Tata Tiago variants with Apple CarPlay - XZ, XZ Plus, XZ CNG & XZA AMT CNG.
+Tata Tiago variants without Apple CarPlay - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XT CNG & XTA AMT CNG.
+Tata Tiago variants with Electronic Multi-Tripmeter - XZ & XZ CNG.
+Tata Tiago variants with Digital Clock - XZ & XZ CNG.
+Tata Tiago variants with Dual Tone Dashboard - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XT CNG, XTA AMT CNG & XZ CNG.
+Tata Tiago variant without Dual Tone Dashboard - XZ Plus.
+Tata Tiago variants with Power Antenna - XZ & XZ CNG.
+Tata Tiago variants with Halogen Headlamps - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XT CNG, XTA AMT CNG & XZ CNG.
+Tata Tiago variant without Halogen Headlamps - XZ Plus.
+Tata Tiago variants with Electronic Brakeforce Distribution (EBD) - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG, XTA AMT CNG & XZA AMT CNG.
+Tata Tiago variants with Power Door Locks - XZ & XZ CNG.
+Tata Tiago variants with Passenger Side Rear View Mirror - XZ & XZ CNG.
+Tata Tiago variants with Rear Seat Belts - XZ & XZ CNG.
+Tata Tiago variants with Door Ajar Warning - XZ & XZ CNG.
+Tata Tiago variants with Adjustable Seats - XZ & XZ CNG.
+Tata Tiago variants with Crash Sensor - XZ & XZ CNG.
+Tata Tiago variants with EBD - XZ & XZ CNG.
+Tata Tiago variants with Digital Odometer - XZ & XZ CNG.
+Tata Tiago variants with Cooled Glovebox - XZ, XZ Plus, XZ CNG & XZA AMT CNG.
+Tata Tiago variants without Cooled Glovebox - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XT CNG & XTA AMT CNG.
+Tata Tiago variants without Puddle Lamps - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG, XTA AMT CNG & XZA AMT CNG.
+Tata Tiago variants with Engine Check Warning - XZ & XZ CNG.
+Tata Tiago variants with Height Adjustable Driver Seat - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants with Rear Window Defogger - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+All variants of Tata Tiago have Glove Box.
+Tata Tiago variants with Adjustable Headlamps - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG & XZ CNG.
+Tata Tiago variants with Outside Rear View Mirror Turn Indicators - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+All variants of Tata Tiago have Passenger Airbag.
+Tata Tiago variants with Day & Night Rear View Mirror - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants with Tyre Pressure Monitoring System (TPMS) - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG & XTA AMT CNG.
+Tata Tiago variants with Touchscreen - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants with Rear Window Wiper - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants with Rear Window Washer - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants with Chrome Garnish - XZ & XZ CNG.
+All variants of Tata Tiago have Rear Spoiler.
+Tata Tiago variants with Rain Sensing Wiper - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG & XTA AMT CNG.
+Tata Tiago variants with Fabric Upholstery - XZ & XZ CNG.
+Tata Tiago variant with Roof Rails - XZA AMT CNG.
+Tata Tiago variants with Usb Ports - XM, XT, XM CNG, XTA AMT, XZ Plus, XT CNG, XTA AMT CNG & XZA AMT CNG.
+Tata Tiago variants without Usb Ports - XE & XE CNG.
+Tata Tiago variants with Gear Shift Indicator - XE, XM, XE CNG, XT, XM CNG, XZ Plus & XT CNG.
+Tata Tiago variants without Gear Shift Indicator - XTA AMT, XZ, XTA AMT CNG, XZ CNG & XZA AMT CNG.
+Tata Tiago variants with Luggage Hook & Net - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG & XTA AMT CNG.
+Tata Tiago variants without Luggage Hook & Net - XZ, XZ CNG & XZA AMT CNG.
+Tata Tiago variants with Low Fuel Warning Light - XZ & XZ CNG.
+Tata Tiago variants with Fog Lights - Front - XZ & XZ CNG.
+Tata Tiago variants with Integrated 2DIN Audio - XM, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG & XZ CNG.
+Tata Tiago variants without Integrated 2DIN Audio - XE & XE CNG.
+Tata Tiago variants with USB & Auxiliary input - XZ & XZ CNG.
+Tata Tiago variants without Rear Curtain - XZ, XZ CNG & XZA AMT CNG.
+All Tata Tiago variants use the 1.2L Revotron engine.
+All Tata Tiago variants have a displacement of 1199  cubic centimeters.
+Tata Tiago variants - XE, XM, XT, XTA AMT & XZ Plus have a max power of 84.48 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Tata Tiago variants - XE CNG, XM CNG, XT CNG & XTA AMT CNG have a max power of 72.41 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Tata Tiago variants - XZ, XZ CNG & XZA AMT CNG have a max power of 84.82 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Tata Tiago variants - XE, XM, XT, XTA AMT, XZ, XZ Plus, XZ CNG & XZA AMT CNG share a max torque of 113 Newton meters at 3300 Revolutions Per Minute (RPM).
+Tata Tiago variants - XE CNG, XM CNG, XT CNG & XTA AMT CNG share a max torque of 95 Newton meters at 3500 Revolutions Per Minute (RPM).
+All Tata Tiago variants have 4.0 valves per cylinder.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XZ, XZ Plus, XT CNG & XZ CNG share a Manual transmission.
+Tata Tiago variants - XTA AMT, XTA AMT CNG & XZA AMT CNG share a Automatic transmission.
+All Tata Tiago variants have 3.0 cylinders.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XZ, XZ Plus, XT CNG & XZ CNG share a 5-Speed gearbox.
+Tata Tiago variants - XTA AMT, XTA AMT CNG & XZA AMT CNG share a 5-Speed-AMT gearbox.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG & XTA AMT CNG share a Front-Wheel Drive (FWD) drive type.
+Tata Tiago variant XZA AMT CNG has a Two-Wheel Drive (2WD) drive type.
+Tata Tiago variants - XE, XM, XT, XTA AMT, XZ & XZ Plus use Petrol as fuel.
+Tata Tiago variants - XE CNG, XM CNG, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG use CNG as fuel.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG, XTA AMT CNG & XZA AMT CNG comply with BS VI 2.0 emission norms.
+Tata Tiago variants - XZ & XZ CNG comply with BS VI emission norms.
+Tata Tiago variants - XZ, XZ CNG & XZA AMT CNG have Electric steering.
+All Tata Tiago variants have Disc front brakes.
+All Tata Tiago variants have Drum rear brakes.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG & XZ CNG share a length of 3765 mm.
+Tata Tiago variant XZA AMT CNG has a length of 3802 mm.
+All Tata Tiago variants have a width of 1677 mm.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG & XZ CNG share a height of 1535 mm.
+Tata Tiago variant XZA AMT CNG has a height of 1537 mm.
+Tata Tiago variants - XE, XM, XT, XTA AMT, XZ Plus & XZA AMT CNG share a boot space of 242 Litres.
+Tata Tiago variants - XE CNG, XM CNG, XT CNG & XTA AMT CNG share a boot space of 240 Litres.
+All Tata Tiago variants have a seating capacity of 5.0.
+Tata Tiago variants - XE, XM, XT, XTA AMT, XZ, XZ Plus & XZ CNG share an unladen ground clearance of 170 mm.
+Tata Tiago variants - XE CNG, XM CNG, XT CNG & XTA AMT CNG share an unladen ground clearance of 168 mm.
+Tata Tiago variant XZA AMT CNG has an unladen ground clearance of 181 mm.
+All Tata Tiago variants have a wheelbase of 2400 mm.
+Tata Tiago variants - XZ & XZ CNG share a kerb weight of 1100 kg.
+All Tata Tiago variants have 5.0 doors.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG & XTA AMT CNG feature a Manual boot opening mechanism.
+Tata Tiago variant XZA AMT CNG is equipped with a Electronic boot opening mechanism.
+Tata Tiago variants - XE & XE CNG feature Manual Outside Rear View Mirror (ORVM).
+Tata Tiago variants - XM, XT, XM CNG, XTA AMT, XT CNG & XTA AMT CNG feature Powered Outside Rear View Mirror (ORVM).
+Tata Tiago variant XZ Plus has Powered & Folding Outside Rear View Mirror (ORVM).
+Tata Tiago variant XE comes with tyres of size 155/80 R13.
+Tata Tiago variants - XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XT CNG, XTA AMT CNG & XZ CNG feature tyres of size 175/65 R14.
+Tata Tiago variants - XZ Plus & XZA AMT CNG feature tyres of size 175/60 R15.
+All Tata Tiago variants come with Tubeless Radial tyres.
+Tata Tiago variant XE is equipped with 13 Inch wheels.
+Tata Tiago variants - XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XT CNG, XTA AMT CNG & XZ CNG feature 14 Inch wheels.
+Tata Tiago variant XZA AMT CNG is equipped with 15 Inch wheels.
+All Tata Tiago variants come equipped with 2.0 airbags.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG & XTA AMT CNG have been rated 4 Star by Global NCAP.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG & XTA AMT CNG have a child safety rating of 4 Star from Global NCAP.
+Tata Tiago variants - XZ, XZ Plus, XZ CNG & XZA AMT CNG come with a 7 inch touchscreen display.
+Tata Tiago variants - XM & XM CNG come with 2.0 speakers.
+Tata Tiago variants - XT, XTA AMT, XZ, XZ Plus, XT CNG, XTA AMT CNG, XZ CNG & XZA AMT CNG come with 4.0 speakers.
+Tata Tiago variant XTA AMT CNG features Petrol as a secondary fuel type.
+Tata Tiago variant XTA AMT CNG has a secondary fuel tank capacity of 35.0 liters.
+Tata Tiago variant XZ Plus has 15 Inch front alloy wheels.
+Tata Tiago variant XZ Plus has 15 Inch rear alloy wheels.
+Tata Tiago variants - XZ Plus & XZA AMT CNG have 4.0 tweeters.
+Tata Tiago variants - XZ, XZ Plus & XZ CNG have Android Auto, Apple CarPlay connectivity options.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG, XTA AMT CNG & XZA AMT CNG feature a Semi Digital digital cluster.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG, XTA AMT CNG & XZA AMT CNG feature Fabric upholstery options.
+Tata Tiago variants - XE CNG, XM CNG, XT CNG & XTA AMT CNG come with boot space of 240 Litres.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG, XTA AMT CNG & XZA AMT CNG have a top speed of 150 kmph.
+Tata Tiago variants - XZ & XZ CNG are equipped with the same type of shock absorbers, which are Hydraulic.
+Tata Tiago variants - XE, XM, XT, XZ & XZ Plus have mileage figures of 20.09 kmpl.
+Tata Tiago variants - XE CNG, XM CNG & XT CNG have mileage figures of 26.49 km/kg.
+Tata Tiago variant XTA AMT provides a mileage of 19 kmpl.
+Tata Tiago variant XTA AMT CNG provides a mileage of 28.06 km/kg.
+Tata Tiago variants - XZ CNG & XZA AMT CNG have mileage figures of 20.09 km/kg.
+Tata Tiago variant XZ has a highway mileage of 20 kmpl.
+Tata Tiago variant XZ CNG has a highway mileage of 20 km/kg.
+Tata Tiago variants - XE, XM, XT, XTA AMT & XZ Plus have fuel tank capacities of 35 Litres.
+Tata Tiago variants - XE CNG, XM CNG, XT CNG & XTA AMT CNG have fuel tank capacities of 60 Litres.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG & XTA AMT CNG share the MacPherson Strut suspension front suspension type.
+Tata Tiago variants without Front Suspension - XZ & XZ CNG.
+Tata Tiago variant XZA AMT CNG has the Independent, Lower wishbone, McPherson Strut with coil spring front suspension.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG & XTA AMT CNG share the Rear twist beam rear suspension type.
+Tata Tiago variants without Rear Suspension - XZ & XZ CNG.
+Tata Tiago variant XZA AMT CNG has the Semi-independent, Rear Twist Beam with Dual path Strut rear suspension.
+Tata Tiago variants - XZ, XZ CNG & XZA AMT CNG share the Tilt Steering steering adjustment type.
+Tata Tiago variants without Adjustable Steering - XZ & XZ CNG.
+Tata Tiago variant with Adjustable Steering - XZA AMT CNG.
+All Tata Tiago variants are equipped with Rear parking sensors.
+Tata Tiago variants without USB Charger - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XT CNG & XTA AMT CNG.
+Tata Tiago variants - XZ Plus & XZA AMT CNG share the Front USB charging configuration.
+Tata Tiago variants without Power Windows - XE & XE CNG.
+Tata Tiago variants - XM, XT, XM CNG, XZ Plus & XTA AMT CNG share the Front & Rear power window configuration.
+Tata Tiago variants without Fog Lights - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XT CNG & XTA AMT CNG.
+Tata Tiago variants - XZ Plus & XZA AMT CNG share the Front fog light configuration.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG, XTA AMT CNG & XZA AMT CNG share the 2.5 inch digital cluster size.
+Tata Tiago variants without Rear Camera - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ, XT CNG, XTA AMT CNG & XZ CNG.
+Tata Tiago variants - XZ Plus & XZA AMT CNG share the With Guidedlines rear camera type.
+Tata Tiago variants - XE, XM, XE CNG, XT, XM CNG, XTA AMT, XZ Plus, XT CNG, XTA AMT CNG & XZA AMT CNG share the Driver and Passenger seatbelt pretensioner and force limiter type.
+Tata Tiago variants without Speakers - XE & XE CNG.
+Tata Tiago variants - XM & XM CNG share the Front Only speaker configuration.
+Tata Tiago variants - XT, XTA AMT, XZ Plus, XT CNG & XTA AMT CNG share the Front & Rear speaker configuration.
+Tata Tiago variants - XZ & XZ CNG share the Bench Folding foldable rear seat type.
+Tata Tiago variants - XE & XE CNG share Stylish Body Colored Bumper,Door Handle Design Black,Piano Black ORVM, as additional features.
+Tata Tiago variants - XM, XT, XM CNG, XTA AMT, XT CNG & XTA AMT CNG share 8.89 cm Integrated Infotainment by Harman,USB Connectivity,Speed Dependent Volume Control,Phone Book Access & Audio Streaming, as additional features.
+Tata Tiago variants - XZ & XZ CNG share 17.78 cm Touchscreen infotainment by Harman,4 tweeters,Speed Dependent Volume Control,Phone Book Access & Audio Streaming,Call Rejected with SMS Feature,Incoming SMS Notifications and Read-Outs,Image and Video Playback as additional features.
+Tata Tiago variant XZ Plus offers USB Connectivity,Speed Dependent Volume Control,Phone Book Access & Audio Streaming,Call Rejected with SMS Feature,Incoming SMS Notifications and Read-Outs,Image and Video Playback, as additional features.
+Tata Tiago variant XZA AMT CNG offers Speed Dependent Volume Control.Phone Book Access & Audio Streaming,Call Rejected with SMS Feature,Image and Video Playback as additional features.

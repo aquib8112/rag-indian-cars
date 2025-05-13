@@ -1,0 +1,177 @@
+﻿Citroen Basalt has 8 variants: You, Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+All variants of Citroen Basalt have Power Steering.
+All variants of Citroen Basalt have Air Conditioner.
+All variants of Citroen Basalt have Heater.
+Citroen Basalt variants with Automatic Climate Control - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without Automatic Climate Control - You & Plus.
+All variants of Citroen Basalt have Accessory Power Outlet.
+Citroen Basalt variants with Trunk Light - Max Turbo, Max Turbo DT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without Trunk Light - You, Plus, Plus Turbo & Plus Turbo AT.
+Citroen Basalt variants with Vanity Mirror - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variant without Vanity Mirror - You.
+All variants of Citroen Basalt have Rear Reading Lamp.
+Citroen Basalt variants with Adjustable Headrest - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variant without Adjustable Headrest - You.
+Citroen Basalt variants with Rear Seat Centre Arm Rest - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variant without Rear Seat Centre Arm Rest - You.
+Citroen Basalt variants with Rear AC Vents - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without Rear AC Vents - You & Plus.
+Citroen Basalt variants with Engine Start/Stop Button - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without Engine Start/Stop Button - You & Plus.
+Citroen Basalt variants with KeyLess Entry - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variant without KeyLess Entry - You.
+All variants of Citroen Basalt have Idle Start-Stop System.
+All variants of Citroen Basalt have Tachometer.
+Citroen Basalt variants with Wheel Covers - Plus, Plus Turbo & Plus Turbo AT.
+Citroen Basalt variants without Wheel Covers - You, Max Turbo, Max Turbo DT & Max Turbo AT.
+Citroen Basalt variants with Alloy Wheels - Max Turbo, Max Turbo DT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without Alloy Wheels - You, Plus, Plus Turbo & Plus Turbo AT.
+Citroen Basalt variant with Integrated Antenna - Max Turbo AT DT.
+Citroen Basalt variants with Projector Headlamps - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without Projector Headlamps - You & Plus.
+Citroen Basalt variants with LED DRLs - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variant without LED DRLs - You.
+Citroen Basalt variants with LED Headlamps - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without LED Headlamps - You & Plus.
+All variants of Citroen Basalt have Anti-lock Braking System (ABS).
+All variants of Citroen Basalt have Central Locking.
+All variants of Citroen Basalt have Driver Airbag.
+All variants of Citroen Basalt have Side Airbag.
+All variants of Citroen Basalt have Seat Belt Warning.
+All variants of Citroen Basalt have Engine Immobilizer.
+All variants of Citroen Basalt do not have Side Airbag-Rear.
+All variants of Citroen Basalt have Electronic Stability Control (ESC).
+All variants of Citroen Basalt have Speed Alert.
+All variants of Citroen Basalt have ISOFIX Child Seat Mounts.
+All variants of Citroen Basalt have Hill Assist.
+Citroen Basalt variants with Radio - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variant without Radio - You.
+Citroen Basalt variants with Wireless Phone Charging - Max Turbo, Max Turbo DT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without Wireless Phone Charging - You, Plus, Plus Turbo & Plus Turbo AT.
+Citroen Basalt variants with Bluetooth Connectivity - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variant without Bluetooth Connectivity - You.
+Citroen Basalt variants with Android Auto - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variant without Android Auto - You.
+Citroen Basalt variants with Apple CarPlay - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variant without Apple CarPlay - You.
+Citroen Basalt variants with Over Speeding Alert - Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without Over Speeding Alert - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT & Plus Turbo AT.
+Citroen Basalt variants with Remote Door Lock/Unlock - Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without Remote Door Lock/Unlock - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT & Plus Turbo AT.
+Citroen Basalt variants with Geo-fence Alert - Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without Geo-fence Alert - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT & Plus Turbo AT.
+Citroen Basalt variants with Halogen Headlamps - You & Plus.
+Citroen Basalt variants without Halogen Headlamps - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT & Max Turbo AT.
+All variants of Citroen Basalt do not have LED Taillights.
+All variants of Citroen Basalt have Electronic Brakeforce Distribution (EBD).
+Citroen Basalt variants with Door Ajar Warning - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variant without Door Ajar Warning - You.
+Citroen Basalt variants with Remote Vehicle Ignition Start/Stop - Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without Remote Vehicle Ignition Start/Stop - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT & Plus Turbo AT.
+All variants of Citroen Basalt have Tailgate Ajar Warning.
+Citroen Basalt variants with SOS Button - Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without SOS Button - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT & Plus Turbo AT.
+Citroen Basalt variants with RSA - Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants without RSA - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT & Plus Turbo AT.
+Citroen Basalt variants with Height Adjustable Driver Seat - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants with Rear Window Defogger - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants with Leather Wrapped Steering Wheel - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+All variants of Citroen Basalt have Glove Box.
+All variants of Citroen Basalt have Adjustable Headlamps.
+Citroen Basalt variants with Outside Rear View Mirror Turn Indicators - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+All variants of Citroen Basalt have Passenger Airbag.
+Citroen Basalt variants with Day & Night Rear View Mirror - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants with Tyre Pressure Monitoring System (TPMS) - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants with Touchscreen - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants with Child Safety Locks - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variants with Rear Touchscreen - Plus Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+All variants of Citroen Basalt have Curtain Airbag.
+Citroen Basalt variants with Usb Ports - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+Citroen Basalt variant without Usb Ports - You.
+All variants of Citroen Basalt have Gear Shift Indicator.
+All variants of Citroen Basalt have Luggage Hook & Net.
+Citroen Basalt variants - You & Plus share the Puretech 82 engine.
+Citroen Basalt variants - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share the Puretech 110 engine.
+All Citroen Basalt variants have a displacement of 1199  cubic centimeters.
+Citroen Basalt variants - You & Plus have a max power of 80 Brake Horsepower (BHP) at 5750 Revolutions Per Minute (RPM).
+Citroen Basalt variants - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT have a max power of 109 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Citroen Basalt variants - You & Plus share a max torque of 115 Newton meters at 3750 Revolutions Per Minute (RPM).
+Citroen Basalt variants - Plus Turbo, Max Turbo & Max Turbo DT share a max torque of 190 Newton meters at 1750 Revolutions Per Minute (RPM).
+Citroen Basalt variants - Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share a max torque of 205 Newton meters at 1750 to 2500 Revolutions Per Minute (RPM).
+All Citroen Basalt variants have 4.0 valves per cylinder.
+Citroen Basalt variants - You, Plus, Plus Turbo, Max Turbo & Max Turbo DT share a Manual transmission.
+Citroen Basalt variants - Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share a Automatic transmission.
+All Citroen Basalt variants have 3.0 cylinders.
+All Citroen Basalt variants come with a 6-Speed gearbox.
+All Citroen Basalt variants have a Front-Wheel Drive (FWD) drive type.
+All Citroen Basalt variants run on Petrol.
+All Citroen Basalt variants comply with BS VI 2.0 emission norms.
+All Citroen Basalt variants come with Electric steering.
+All Citroen Basalt variants have Ventilated Disc front brakes.
+All Citroen Basalt variants have Drum rear brakes.
+All Citroen Basalt variants have a length of 4352 mm.
+All Citroen Basalt variants have a width of 1765 mm.
+All Citroen Basalt variants have a height of 1593 mm.
+All Citroen Basalt variants offer 470 Litres of boot space.
+All Citroen Basalt variants have a seating capacity of 5.0.
+All Citroen Basalt variants have a wheelbase of 2651 mm.
+All Citroen Basalt variants have 5.0 doors.
+Citroen Basalt variant You has Manual Outside Rear View Mirror (ORVM).
+Citroen Basalt variant Plus has Powered Outside Rear View Mirror (ORVM).
+Citroen Basalt variants - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT & Max Turbo AT feature Powered & Folding Outside Rear View Mirror (ORVM).
+All Citroen Basalt variants have tyres of size 205/60 R16.
+All Citroen Basalt variants come with Tyre Type tyres.
+Citroen Basalt variants - Plus, Plus Turbo & Plus Turbo AT feature 16 Inch wheels.
+All Citroen Basalt variants come equipped with 6.0 airbags.
+Citroen Basalt variant You features a unknown touchscreen.
+Citroen Basalt variants - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT come with a 10.23 inch touchscreen display.
+Citroen Basalt variants - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT come with 4.0 speakers.
+Citroen Basalt variants - Max Turbo, Max Turbo DT, Max Turbo AT & Max Turbo AT DT have 16 Inch front alloy wheels.
+Citroen Basalt variants - Max Turbo, Max Turbo DT, Max Turbo AT & Max Turbo AT DT have 16 Inch rear alloy wheels.
+Citroen Basalt variants - Max Turbo, Max Turbo DT, Max Turbo AT & Max Turbo AT DT have 2.0 tweeters.
+Citroen Basalt variant You includes a No Digital Cluster digital cluster.
+Citroen Basalt variants - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT feature a Full Digital digital cluster.
+Citroen Basalt variants - You, Plus, Plus Turbo & Plus Turbo AT feature Fabric upholstery options.
+Citroen Basalt variants - Max Turbo, Max Turbo DT, Max Turbo AT & Max Turbo AT DT feature Leatherette upholstery options.
+Citroen Basalt variant Max Turbo has a Bharat NCAP safety rating of 4 Star.
+Citroen Basalt variant Max Turbo has a Bharat NCAP child safety rating of 4 Star.
+Citroen Basalt variants - You & Plus have mileage figures of 18 kmpl.
+Citroen Basalt variants - Plus Turbo, Max Turbo & Max Turbo DT have mileage figures of 19.5 kmpl.
+Citroen Basalt variants - Plus Turbo AT, Max Turbo AT & Max Turbo AT DT have mileage figures of 18.7 kmpl.
+All Citroen Basalt variants have a fuel tank capacity of 45 Litres.
+All Citroen Basalt variants have the MacPherson Strut suspension front suspension.
+All Citroen Basalt variants have the Rear twist beam rear suspension.
+Citroen Basalt variant without Steering Column - You.
+Citroen Basalt variants - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share the Tilt Steering steering adjustment type.
+Citroen Basalt variant without Adjustable Steering - You.
+Citroen Basalt variants - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share the Powered Adjustment steering adjustability option.
+All Citroen Basalt variants are equipped with Rear parking sensors.
+Citroen Basalt variant without USB Charger - You.
+Citroen Basalt variant Plus has Front USB charging ports.
+Citroen Basalt variants - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share the Front & Rear USB charging configuration.
+Citroen Basalt variant You has Front Only power windows.
+Citroen Basalt variants - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share the Front & Rear power window configuration.
+Citroen Basalt variant You has Front Only cup holders.
+Citroen Basalt variants - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share the Front & Rear cup holder configuration.
+Citroen Basalt variants without Fog Lights - You & Plus.
+Citroen Basalt variants - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share the Front fog light configuration.
+Citroen Basalt variants - Max Turbo, Max Turbo DT, Max Turbo AT & Max Turbo AT DT share the Shark Fin antenna type.
+Citroen Basalt variants - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share the 7 inch digital cluster size.
+Citroen Basalt variants without Rear Camera - You, Plus, Plus Turbo & Plus Turbo AT.
+Citroen Basalt variants - Max Turbo, Max Turbo DT, Max Turbo AT & Max Turbo AT DT share the With Guidedlines rear camera type.
+Citroen Basalt variant without Speakers - You.
+Citroen Basalt variants - Plus, Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share the Front & Rear speaker configuration.
+Citroen Basalt variants without Central Console Armrest - You & Plus.
+Citroen Basalt variants - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT share the With Storage central console armrest type.
+Citroen Basalt variants without Turbo Charger - You & Plus.
+Citroen Basalt variants with Turbo Charger - Plus Turbo, Max Turbo, Max Turbo DT, Plus Turbo AT, Max Turbo AT & Max Turbo AT DT.
+All Citroen Basalt variants come with Adjustable rear seat headrests.
+Citroen Basalt variants without Drive Modes - You, Plus, Plus Turbo, Max Turbo, Max Turbo DT & Plus Turbo AT.
+Citroen Basalt variants - Max Turbo AT & Max Turbo AT DT share the 3 drive mode configuration.
+Citroen Basalt variants without Drive Mode Types - You & Plus.
+Citroen Basalt variants - Max Turbo AT & Max Turbo AT DT share the Minimal-Eco-Dual Mode drive mode options.
+Citroen Basalt variant You offers Body Coloured Bumpers,Front Panel: Brand Emblems - Chevron-CHROME,Front Panel: Chrome moustache,Sash Tape - A/B Pillar,Body Side Sill Cladding as additional features.
+Citroen Basalt variant Plus offers Body Coloured Bumpers,Front Panel: Brand Emblems - Chevron-CHROME,Front Panel: Chrome moustache,Sash Tape - A/B Pillar,Body Side Sill Cladding`,Front Signature Grill: High Gloss Black,AColour Touch: Front Bumper & C-Pillar,Body Coloured Outside Door Handles,Outside Door Mirror: High Gloss Black,Wheel Arch Cladding as additional features.
+Citroen Basalt variants - Plus Turbo & Plus Turbo AT share Body Coloured Bumpers,Front Panel: Brand Emblems - Chevron-CHROME,Front Panel: Chrome moustache,Sash Tape - A/B Pillar,Body Side Sill Cladding`,Front Signature Grill: High Gloss Black,AColour Touch: Front Bumper & C-Pillar,Body Coloured Outside Door Handles,Outside Door Mirror: High Gloss Black,Wheel Arch Cladding,Skid Plate - Front & Rear as additional features.
+Citroen Basalt variants - Max Turbo & Max Turbo DT share Body Coloured Bumpers,Front Panel: Brand Emblems - Chevron-CHROME,Front Panel: Chrome moustache,Sash Tape - A/B Pillar,Body Side Sill Cladding`,Front Signature Grill: High Gloss Black,AColour Touch: Front Bumper & C-Pillar,Body Coloured Outside Door Handles,Outside Door Mirror: High Gloss Black,Wheel Arch Cladding,Skid Plate - Front & Rear,Dual Tone Roof,Body Side Door Moulding & Chrome Insert,Front Grill Embellisher (Glossy Black + Painted) as additional features.
+Citroen Basalt variants - Max Turbo AT & Max Turbo AT DT share MyCitroën Connect With 40 Smart Features as additional features.

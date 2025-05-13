@@ -1,0 +1,240 @@
+Maruti Fronx has 16 variants: Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+All variants of Maruti Fronx have Power Steering.
+All variants of Maruti Fronx have Air Conditioner.
+All variants of Maruti Fronx have Heater.
+All variants of Maruti Fronx have Automatic Climate Control.
+All variants of Maruti Fronx have Rear Reading Lamp.
+All variants of Maruti Fronx have Adjustable Headrest.
+Maruti Fronx variants with Rear AC Vents - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Rear AC Vents - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Cruise Control - Alpha Turbo, Alpha Turbo DT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Cruise Control - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo & Zeta Turbo AT.
+Maruti Fronx variants with Real-Time Vehicle Tracking - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Real-Time Vehicle Tracking - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Engine Start/Stop Button - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Engine Start/Stop Button - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Voice Commands - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Voice Commands - Sigma & Sigma CNG.
+All variants of Maruti Fronx have Chrome Grille.
+All variants of Maruti Fronx have KeyLess Entry.
+Maruti Fronx variants with Idle Start-Stop System - Sigma, Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Idle Start-Stop System - Sigma CNG & Delta CNG.
+Maruti Fronx variants with Follow Me Home Headlamps - Delta Plus, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Follow Me Home Headlamps - Sigma, Delta, Sigma CNG, Delta AMT & Delta CNG.
+All variants of Maruti Fronx have Tachometer.
+Maruti Fronx variants with Wheel Covers - Sigma, Delta, Sigma CNG, Delta AMT & Delta CNG.
+Maruti Fronx variants without Wheel Covers - Delta Plus, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants with Alloy Wheels - Delta Plus, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Alloy Wheels - Sigma, Delta, Sigma CNG, Delta AMT & Delta CNG.
+All variants of Maruti Fronx have Integrated Antenna.
+Maruti Fronx variants with Projector Headlamps - Sigma, Delta, Sigma CNG, Delta AMT & Delta CNG.
+Maruti Fronx variants without Projector Headlamps - Delta Plus, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants with Automatic Headlamps - Delta Plus, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Automatic Headlamps - Sigma, Delta, Sigma CNG, Delta AMT & Delta CNG.
+Maruti Fronx variants with LED DRLs - Delta Plus, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without LED DRLs - Sigma, Delta, Sigma CNG, Delta AMT & Delta CNG.
+Maruti Fronx variants with LED Headlamps - Delta Plus, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without LED Headlamps - Sigma, Delta, Sigma CNG, Delta AMT & Delta CNG.
+All variants of Maruti Fronx have Anti-lock Braking System (ABS).
+All variants of Maruti Fronx have Central Locking.
+All variants of Maruti Fronx have Driver Airbag.
+Maruti Fronx variants with Side Airbag - Delta Plus Opt, Delta Plus Opt AMT, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Side Airbag - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus AMT, Delta CNG & Delta Plus Turbo.
+All variants of Maruti Fronx have Seat Belt Warning.
+All variants of Maruti Fronx have Engine Immobilizer.
+Maruti Fronx variants without E-Call & I-Call - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus AMT, Delta CNG, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants with Remote AC On/Off - Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Remote AC On/Off - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo & Alpha Turbo DT.
+All variants of Maruti Fronx do not have Side Airbag-Rear.
+All variants of Maruti Fronx have Electronic Stability Control (ESC).
+Maruti Fronx variants with Anti-Theft Device - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Anti-Theft Device - Sigma & Sigma CNG.
+All variants of Maruti Fronx have Speed Alert.
+All variants of Maruti Fronx have Speed Sensing Auto Door Lock.
+All variants of Maruti Fronx have ISOFIX Child Seat Mounts.
+All variants of Maruti Fronx have Hill Assist.
+All variants of Maruti Fronx have Impact Sensing Auto Door Unlock.
+Maruti Fronx variants with 360 View Camera - Alpha Turbo, Alpha Turbo DT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without 360 View Camera - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo & Zeta Turbo AT.
+Maruti Fronx variants with Radio - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Radio - Sigma & Sigma CNG.
+Maruti Fronx variants with Wireless Phone Charging - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Wireless Phone Charging - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Bluetooth Connectivity - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Bluetooth Connectivity - Sigma & Sigma CNG.
+Maruti Fronx variants with Android Auto - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Android Auto - Sigma & Sigma CNG.
+Maruti Fronx variants with Apple CarPlay - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Apple CarPlay - Sigma & Sigma CNG.
+All variants of Maruti Fronx do not have Driver Attention Warning.
+Maruti Fronx variants with Live Location - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Live Location - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Over the Air (OTA) Updates - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Over the Air (OTA) Updates - Sigma & Sigma CNG.
+Maruti Fronx variants with Google / Alexa Connectivity - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Google / Alexa Connectivity - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Over Speeding Alert - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Over Speeding Alert - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Smartwatch App - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Smartwatch App - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Valet Mode - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Valet Mode - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Remote Door Lock/Unlock - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Remote Door Lock/Unlock - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Geo-fence Alert - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Geo-fence Alert - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Paddle Shifters - Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Paddle Shifters - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo & Alpha Turbo DT.
+Maruti Fronx variants with Tow Away Alert - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Tow Away Alert - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+All variants of Maruti Fronx have Dual Tone Dashboard.
+Maruti Fronx variants with Halogen Headlamps - Sigma, Delta, Sigma CNG, Delta AMT & Delta CNG.
+Maruti Fronx variants without Halogen Headlamps - Delta Plus, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+All variants of Maruti Fronx have LED Taillights.
+All variants of Maruti Fronx have Electronic Brakeforce Distribution (EBD).
+Maruti Fronx variants with Anti-Theft Alarm - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Anti-Theft Alarm - Sigma & Sigma CNG.
+All variants of Maruti Fronx have Door Ajar Warning.
+Maruti Fronx variants with Remote Immobiliser - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Remote Immobiliser - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with SOS / Emergency Assistance - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without SOS / Emergency Assistance - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Heads-Up Display (HUD) - Alpha Turbo, Alpha Turbo DT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Heads-Up Display (HUD) - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo & Zeta Turbo AT.
+All variants of Maruti Fronx do not have Forward Collision Warning.
+All variants of Maruti Fronx do not have Automatic Emergency Braking.
+All variants of Maruti Fronx do not have Oncoming Lane Mitigation.
+All variants of Maruti Fronx do not have Speed Assist System.
+All variants of Maruti Fronx do not have Traffic Sign Recognition.
+All variants of Maruti Fronx do not have Blind Spot Collision Avoidance Assist.
+All variants of Maruti Fronx do not have Lane Departure Warning.
+All variants of Maruti Fronx do not have Lane Keep Assist.
+All variants of Maruti Fronx do not have Lane Departure Prevention Assist.
+All variants of Maruti Fronx do not have Road Departure Mitigation System.
+All variants of Maruti Fronx do not have Adaptive Cruise Control.
+All variants of Maruti Fronx do not have Leading Vehicle Departure Alert.
+All variants of Maruti Fronx do not have Adaptive High Beam Assist.
+All variants of Maruti Fronx do not have Rear Cross Traffic Alert.
+All variants of Maruti Fronx do not have Rear Cross Traffic Collision-Avoidance Assist.
+Maruti Fronx variants with Unauthorised Vehicle entry - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Unauthorised Vehicle entry - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants with Height Adjustable Driver Seat - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+All variants of Maruti Fronx have Rear Window Defogger.
+Maruti Fronx variants with Leather Wrapped Steering Wheel - Alpha Turbo, Alpha Turbo DT, Alpha Turbo AT & Alpha Turbo DT AT.
+All variants of Maruti Fronx have Glove Box.
+Maruti Fronx variants with Outside Rear View Mirror Turn Indicators - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+All variants of Maruti Fronx have Passenger Airbag.
+All variants of Maruti Fronx have Day & Night Rear View Mirror.
+Maruti Fronx variants with Touchscreen - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants with Rear Window Wiper - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants with Rear Window Washer - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+All variants of Maruti Fronx have Rear Spoiler.
+Maruti Fronx variants with Curtain Airbag - Delta Plus Opt, Delta Plus Opt AMT, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Curtain Airbag - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus AMT, Delta CNG & Delta Plus Turbo.
+Maruti Fronx variants with Usb Ports - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Usb Ports - Sigma & Sigma CNG.
+Maruti Fronx variants with Gear Shift Indicator - Sigma, Delta, Sigma CNG, Delta Plus, Delta Plus Opt, Delta CNG, Delta Plus Turbo, Zeta Turbo, Alpha Turbo & Alpha Turbo DT.
+Maruti Fronx variants without Gear Shift Indicator - Delta AMT, Delta Plus AMT, Delta Plus Opt AMT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants with Integrated 2DIN Audio - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Integrated 2DIN Audio - Sigma & Sigma CNG.
+Maruti Fronx variants - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG & Delta Plus Opt AMT share the 1.2L Dual Jet, Dual VVT engine.
+Maruti Fronx variants - Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share the 1.0L Turbo Boosterjet engine.
+Maruti Fronx variants - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG & Delta Plus Opt AMT share a displacement of 1197  cubic centimeters.
+Maruti Fronx variants - Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share a displacement of 998  cubic centimeters.
+Maruti Fronx variants - Sigma, Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT & Delta Plus Opt AMT have a max power of 88.50 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Fronx variants - Sigma CNG & Delta CNG have a max power of 76.43 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Fronx variants - Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT have a max power of 98.69 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Maruti Fronx variants - Sigma, Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT & Delta Plus Opt AMT share a max torque of 113 Newton meters at 4400 Revolutions Per Minute (RPM).
+Maruti Fronx variants - Sigma CNG & Delta CNG share a max torque of 98.5 Newton meters at 4300 Revolutions Per Minute (RPM).
+Maruti Fronx variants - Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share a max torque of 147.6 Newton meters at 2000 to 4500 Revolutions Per Minute (RPM).
+All Maruti Fronx variants have 4.0 valves per cylinder.
+Maruti Fronx variants - Sigma, Delta, Sigma CNG, Delta Plus, Delta Plus Opt, Delta CNG, Delta Plus Turbo, Zeta Turbo, Alpha Turbo & Alpha Turbo DT share a Manual transmission.
+Maruti Fronx variants - Delta AMT, Delta Plus AMT, Delta Plus Opt AMT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share a Automatic transmission.
+Maruti Fronx variants - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG & Delta Plus Opt AMT have 4.0 cylinders.
+Maruti Fronx variants - Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT have 3.0 cylinders.
+Maruti Fronx variants - Sigma, Delta, Sigma CNG, Delta Plus, Delta Plus Opt, Delta CNG, Delta Plus Turbo, Zeta Turbo, Alpha Turbo & Alpha Turbo DT share a 5-Speed gearbox.
+Maruti Fronx variants - Delta AMT, Delta Plus AMT & Delta Plus Opt AMT share a 5-Speed-AMT gearbox.
+Maruti Fronx variants - Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share a 6-Speed-AT gearbox.
+All Maruti Fronx variants have a Front-Wheel Drive (FWD) drive type.
+Maruti Fronx variants - Sigma, Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT use Petrol as fuel.
+Maruti Fronx variants - Sigma CNG & Delta CNG use CNG as fuel.
+All Maruti Fronx variants comply with BS VI 2.0 emission norms.
+All Maruti Fronx variants come with Electric steering.
+All Maruti Fronx variants have a turning radius of 4.9m.
+All Maruti Fronx variants have Disc front brakes.
+All Maruti Fronx variants have Drum rear brakes.
+All Maruti Fronx variants have a length of 3995 mm.
+All Maruti Fronx variants have a width of 1765 mm.
+All Maruti Fronx variants have a height of 1550 mm.
+All Maruti Fronx variants offer 308 Litres of boot space.
+All Maruti Fronx variants have a seating capacity of 5.0.
+All Maruti Fronx variants have a wheelbase of 2520 mm.
+Maruti Fronx variants - Sigma, Delta & Delta Plus Opt share a kerb weight of 960-970 kg.
+Maruti Fronx variants - Sigma CNG & Delta CNG share a kerb weight of 1050-1060 kg.
+Maruti Fronx variant Delta Plus has a kerb weight of 965-970 kg.
+Maruti Fronx variants - Delta AMT, Delta Plus AMT & Delta Plus Opt AMT share a kerb weight of 965-975 kg.
+Maruti Fronx variants - Delta Plus Turbo, Zeta Turbo, Alpha Turbo & Alpha Turbo DT share a kerb weight of 1015-1030 kg.
+Maruti Fronx variants - Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share a kerb weight of 1055-1060 kg.
+Maruti Fronx variants - Sigma, Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT & Delta Plus Opt AMT share a gross weight of 1450 kg.
+Maruti Fronx variants - Sigma CNG, Delta CNG, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share a gross weight of 1480 kg.
+All Maruti Fronx variants have 5.0 doors.
+Maruti Fronx variants - Sigma & Sigma CNG feature Manual Outside Rear View Mirror (ORVM).
+Maruti Fronx variants - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo & Zeta Turbo AT feature Powered Outside Rear View Mirror (ORVM).
+Maruti Fronx variants - Alpha Turbo, Alpha Turbo DT, Alpha Turbo AT & Alpha Turbo DT AT feature Powered & Folding Outside Rear View Mirror (ORVM).
+All Maruti Fronx variants have tyres of size 195/60 R16.
+All Maruti Fronx variants come with Tyre Type tyres.
+Maruti Fronx variants - Sigma, Delta, Sigma CNG, Delta AMT & Delta CNG feature 16 Inch wheels.
+Maruti Fronx variants - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus AMT, Delta CNG & Delta Plus Turbo offer 2.0 airbags.
+Maruti Fronx variants - Delta Plus Opt, Delta Plus Opt AMT, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT offer 6.0 airbags.
+Maruti Fronx variants - Sigma & Sigma CNG come with a unknown touchscreen display.
+Maruti Fronx variants - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo & Zeta Turbo AT come with a 7 inch touchscreen display.
+Maruti Fronx variants - Alpha Turbo, Alpha Turbo DT, Alpha Turbo AT & Alpha Turbo DT AT come with a 9 Inch touchscreen display.
+Maruti Fronx variants - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT come with 4.0 speakers.
+Maruti Fronx variants - Sigma CNG & Delta CNG use Petrol as a secondary fuel type.
+Maruti Fronx variants - Sigma CNG & Delta CNG have a secondary fuel tank capacity of 37.0 liters.
+Maruti Fronx variants - Delta Plus, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT have 16 Inch front alloy wheels.
+Maruti Fronx variants - Delta Plus, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT have 16 Inch rear alloy wheels.
+Maruti Fronx variants - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT have 2.0 tweeters.
+Maruti Fronx variants - Delta Plus Turbo, Zeta Turbo & Alpha Turbo DT have a 100-0 kmph braking time of 41.30 s seconds.
+Maruti Fronx variants - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT have Android Auto, Apple CarPlay connectivity options.
+Maruti Fronx variants - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo feature a No Digital Cluster digital cluster.
+Maruti Fronx variants - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT feature a Full Digital digital cluster.
+All Maruti Fronx variants come with Fabric upholstery.
+Maruti Fronx variants - Sigma CNG & Delta CNG come with boot space of 308 Litres.
+All Maruti Fronx variants have a top speed of 180 kmph.
+Maruti Fronx variant Delta features a front tread of 1632 mm.
+Maruti Fronx variants - Delta Plus Turbo, Zeta Turbo, Alpha Turbo & Alpha Turbo DT have a 0-100 kmph acceleration time of 10.38 s.
+Maruti Fronx variants - Delta Plus Turbo, Zeta Turbo, Alpha Turbo & Alpha Turbo DT have a 0-100 kmph acceleration time of 10.38 s.
+All Maruti Fronx variants have Driver's Window anti-pinch power windows.
+Maruti Fronx variants - Sigma, Delta, Delta Plus & Delta Plus Opt have mileage figures of 21.79 kmpl.
+Maruti Fronx variants - Sigma CNG & Delta CNG have mileage figures of 28.51 km/kg.
+Maruti Fronx variants - Delta AMT, Delta Plus AMT & Delta Plus Opt AMT have mileage figures of 22.89 kmpl.
+Maruti Fronx variants - Delta Plus Turbo, Zeta Turbo, Alpha Turbo & Alpha Turbo DT have mileage figures of 21.5 kmpl.
+Maruti Fronx variants - Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT have mileage figures of 20.01 kmpl.
+Maruti Fronx variants - Sigma, Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT have fuel tank capacities of 37 Litres.
+Maruti Fronx variants - Sigma CNG & Delta CNG have fuel tank capacities of 55 Litres.
+All Maruti Fronx variants have the MacPherson Strut suspension front suspension.
+All Maruti Fronx variants have the Rear twist beam rear suspension.
+Maruti Fronx variants - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo share the Tilt Steering steering adjustment type.
+Maruti Fronx variants - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share the Tilt & Telescopic steering adjustment type.
+Maruti Fronx variants with Adjustable Steering - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo & Zeta Turbo AT.
+All Maruti Fronx variants are equipped with Rear parking sensors.
+Maruti Fronx variants - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo share the Front USB charging configuration.
+Maruti Fronx variants - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share the Front & Rear USB charging configuration.
+All Maruti Fronx variants have Front & Rear power windows.
+Maruti Fronx variants - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share the Front Only cup holder configuration.
+All Maruti Fronx variants come with a Shark Fin antenna.
+Maruti Fronx variants without Rear Camera - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share the With Guidedlines rear camera type.
+All Maruti Fronx variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Maruti Fronx variants without Speakers - Sigma & Sigma CNG.
+Maruti Fronx variants - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT, Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share the Front & Rear speaker configuration.
+All Maruti Fronx variants have a 60:40 Split foldable rear seat.
+Maruti Fronx variants without Central Console Armrest - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo.
+Maruti Fronx variants - Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT share the With Storage central console armrest type.
+Maruti Fronx variants without Turbo Charger - Sigma, Delta, Sigma CNG, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG & Delta Plus Opt AMT.
+Maruti Fronx variants with Turbo Charger - Delta Plus Turbo, Zeta Turbo, Alpha Turbo, Alpha Turbo DT, Zeta Turbo AT, Alpha Turbo AT & Alpha Turbo DT AT.
+Maruti Fronx variants without Additional Features - Sigma & Sigma CNG.
+Maruti Fronx variants - Delta, Delta Plus, Delta AMT, Delta Plus Opt, Delta Plus AMT, Delta CNG, Delta Plus Opt AMT & Delta Plus Turbo share SmartPlay Pro Touch Screen Audio, Android Auto and Apple CarPlay (Wireless), Onboard Voice Assistant (Wake-up through (Hi Suzuki) with Barge-in feature) as additional features.
+Maruti Fronx variants - Zeta Turbo & Zeta Turbo AT share SmartPlay Pro Touch Screen Audio, Android Auto and Apple CarPlay (Wireless), Onboard Voice Assistant (Wake-up through (Hi Suzuki) with Barge-in feature), Multi Information Display (TFT Color) as additional features.
+Maruti Fronx variants - Alpha Turbo, Alpha Turbo DT, Alpha Turbo AT & Alpha Turbo DT AT share SmartPlay Pro Plus Touch Screen Audio, ARKAMYS Premium Sound System, Android Auto and Apple CarPlay (Wireless), Onboard Voice Assistant (Wake-up through (Hi Suzuki) with Barge-in feature), Multi Information Display (TFT Color) as additional features.

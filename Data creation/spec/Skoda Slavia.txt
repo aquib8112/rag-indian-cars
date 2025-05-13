@@ -1,0 +1,197 @@
+Skoda Slavia has 13 variants: 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+All variants of Skoda Slavia have Power Steering.
+All variants of Skoda Slavia have Air Conditioner.
+All variants of Skoda Slavia have Heater.
+Skoda Slavia variants with Automatic Climate Control - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variant without Automatic Climate Control - 1.0L Classic.
+All variants of Skoda Slavia have Accessory Power Outlet.
+All variants of Skoda Slavia have Trunk Light.
+All variants of Skoda Slavia have Vanity Mirror.
+All variants of Skoda Slavia have Rear Reading Lamp.
+All variants of Skoda Slavia have Adjustable Headrest.
+Skoda Slavia variants with Rear Seat Centre Arm Rest - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variant without Rear Seat Centre Arm Rest - 1.0L Classic.
+Skoda Slavia variants with Rear AC Vents - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variant without Rear AC Vents - 1.0L Classic.
+Skoda Slavia variants with Cruise Control - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variant without Cruise Control - 1.0L Classic.
+Skoda Slavia variants with Engine Start/Stop Button - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variant without Engine Start/Stop Button - 1.0L Classic.
+All variants of Skoda Slavia do not have Hands-Free Tailgate.
+All variants of Skoda Slavia have KeyLess Entry.
+All variants of Skoda Slavia have Idle Start-Stop System.
+All variants of Skoda Slavia have Follow Me Home Headlamps.
+All variants of Skoda Slavia have Tachometer.
+Skoda Slavia variant with Wheel Covers - 1.0L Classic.
+Skoda Slavia variants without Wheel Covers - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variants with Alloy Wheels - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variant without Alloy Wheels - 1.0L Classic.
+All variants of Skoda Slavia have Integrated Antenna.
+Skoda Slavia variants with Automatic Headlamps - 1.0L Prestige, 1.0L Prestige AT & 1.5L Prestige DSG.
+Skoda Slavia variants without Automatic Headlamps - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+Skoda Slavia variants with LED DRLs - 1.0L Prestige, 1.0L Prestige AT & 1.5L Prestige DSG.
+Skoda Slavia variants without LED DRLs - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+Skoda Slavia variants with LED Headlamps - 1.0L Prestige, 1.0L Prestige AT & 1.5L Prestige DSG.
+Skoda Slavia variants without LED Headlamps - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+All variants of Skoda Slavia have Anti-lock Braking System (ABS).
+All variants of Skoda Slavia have Central Locking.
+All variants of Skoda Slavia have Driver Airbag.
+All variants of Skoda Slavia have Side Airbag.
+All variants of Skoda Slavia have Seat Belt Warning.
+All variants of Skoda Slavia have Engine Immobilizer.
+All variants of Skoda Slavia do not have Side Airbag-Rear.
+All variants of Skoda Slavia have Electronic Stability Control (ESC).
+All variants of Skoda Slavia have Anti-Theft Device.
+All variants of Skoda Slavia have Speed Alert.
+All variants of Skoda Slavia have Speed Sensing Auto Door Lock.
+All variants of Skoda Slavia have ISOFIX Child Seat Mounts.
+Skoda Slavia variants with Hill Assist - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variant without Hill Assist - 1.0L Classic.
+All variants of Skoda Slavia have Impact Sensing Auto Door Unlock.
+All variants of Skoda Slavia have Radio.
+Skoda Slavia variants with Wireless Phone Charging - 1.0L Prestige, 1.0L Prestige AT & 1.5L Prestige DSG.
+Skoda Slavia variants without Wireless Phone Charging - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+All variants of Skoda Slavia have Bluetooth Connectivity.
+All variants of Skoda Slavia have Android Auto.
+All variants of Skoda Slavia have Apple CarPlay.
+All variants of Skoda Slavia have Over Speeding Alert.
+Skoda Slavia variants with Height Adjustable Front Seat Belts - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variant without Height Adjustable Front Seat Belts - 1.0L Classic.
+Skoda Slavia variants with Paddle Shifters - 1.0L Signature AT, 1.0L Sportline AT, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variants without Paddle Shifters - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Monte Carlo & 1.0L Prestige.
+All variants of Skoda Slavia do not have Tow Away Alert.
+Skoda Slavia variants with Halogen Headlamps - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+Skoda Slavia variants without Halogen Headlamps - 1.0L Prestige, 1.0L Prestige AT & 1.5L Prestige DSG.
+All variants of Skoda Slavia have LED Taillights.
+All variants of Skoda Slavia have Electronic Brakeforce Distribution (EBD).
+All variants of Skoda Slavia have Anti-Theft Alarm.
+All variants of Skoda Slavia have Door Ajar Warning.
+All variants of Skoda Slavia do not have Heads-Up Display (HUD).
+Skoda Slavia variants with Cooled Glovebox - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variant without Cooled Glovebox - 1.0L Classic.
+Skoda Slavia variants with Ventilated Seats - 1.0L Prestige, 1.0L Prestige AT & 1.5L Prestige DSG.
+Skoda Slavia variants without Ventilated Seats - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+All variants of Skoda Slavia do not have Hill Descent Control.
+All variants of Skoda Slavia have Battery Saver.
+All variants of Skoda Slavia do not have Headlamp Washers.
+All variants of Skoda Slavia do not have Blind Spot Monitor.
+All variants of Skoda Slavia have Traction Control.
+All variants of Skoda Slavia do not have RSA.
+All variants of Skoda Slavia have Height Adjustable Driver Seat.
+All variants of Skoda Slavia have Rear Window Defogger.
+All variants of Skoda Slavia have Glove Box.
+All variants of Skoda Slavia have Adjustable Headlamps.
+Skoda Slavia variants with Outside Rear View Mirror Turn Indicators - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+All variants of Skoda Slavia have Passenger Airbag.
+All variants of Skoda Slavia have Day & Night Rear View Mirror.
+All variants of Skoda Slavia have Tyre Pressure Monitoring System (TPMS).
+All variants of Skoda Slavia have Touchscreen.
+All variants of Skoda Slavia have Child Safety Locks.
+Skoda Slavia variants with Rain Sensing Wiper - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+Skoda Slavia variants with Air Quality Control - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG.
+All variants of Skoda Slavia have Folding Table in The Rear.
+All variants of Skoda Slavia have Roof Rails.
+All variants of Skoda Slavia have Cigarette Lighter.
+All variants of Skoda Slavia have Curtain Airbag.
+All variants of Skoda Slavia have Usb Ports.
+Skoda Slavia variants without Gear Shift Indicator - 1.0L Sportline, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+Skoda Slavia variants with Luggage Hook & Net - 1.0L Classic, 1.0L Signature, 1.0L Signature AT, 1.0L Prestige, 1.5L Signature DSG, 1.0L Prestige AT & 1.5L Prestige DSG.
+Skoda Slavia variants without Luggage Hook & Net - 1.0L Sportline, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+Skoda Slavia variants without Rear Curtain - 1.0L Sportline, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.0L Monte Carlo AT & 1.0L Prestige AT share the 1.0 TSI Petrol engine.
+Skoda Slavia variants - 1.5L Sportline DSG, 1.5L Signature DSG, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share the 1.5 TSI Petrol engine.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.0L Monte Carlo AT & 1.0L Prestige AT share a displacement of 999  cubic centimeters.
+Skoda Slavia variants - 1.5L Sportline DSG, 1.5L Signature DSG, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share a displacement of 1498  cubic centimeters.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.0L Monte Carlo AT & 1.0L Prestige AT have a max power of 114 Brake Horsepower (BHP) at 5000 to 5500 Revolutions Per Minute (RPM).
+Skoda Slavia variants - 1.5L Sportline DSG, 1.5L Signature DSG, 1.5L Monte Carlo DSG & 1.5L Prestige DSG have a max power of 147.51 Brake Horsepower (BHP) at 5000 to 6000 Revolutions Per Minute (RPM).
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.0L Monte Carlo AT & 1.0L Prestige AT share a max torque of 178 Newton meters at 1750 to 4500 Revolutions Per Minute (RPM).
+Skoda Slavia variants - 1.5L Sportline DSG, 1.5L Signature DSG, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share a max torque of 250 Newton meters at 1600 to 3500 Revolutions Per Minute (RPM).
+All Skoda Slavia variants have 4.0 valves per cylinder.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Monte Carlo & 1.0L Prestige share a Manual transmission.
+Skoda Slavia variants - 1.0L Signature AT, 1.0L Sportline AT, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share a Automatic transmission.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.0L Monte Carlo AT & 1.0L Prestige AT have 3.0 cylinders.
+Skoda Slavia variants - 1.5L Sportline DSG, 1.5L Signature DSG, 1.5L Monte Carlo DSG & 1.5L Prestige DSG have 4.0 cylinders.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Monte Carlo & 1.0L Prestige share a 6-Speed gearbox.
+Skoda Slavia variants - 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo AT & 1.0L Prestige AT share a 6-Speed-AT gearbox.
+Skoda Slavia variants - 1.5L Sportline DSG, 1.5L Signature DSG & 1.5L Monte Carlo DSG share a 7-Speed gearbox.
+Skoda Slavia variant 1.5L Prestige DSG comes with a 7-Speed-DSG gearbox.
+All Skoda Slavia variants have a Front-Wheel Drive (FWD) drive type.
+All Skoda Slavia variants run on Petrol.
+All Skoda Slavia variants comply with BS VI 2.0 emission norms.
+All Skoda Slavia variants come with Electric steering.
+All Skoda Slavia variants have Disc front brakes.
+All Skoda Slavia variants have Drum rear brakes.
+All Skoda Slavia variants have a length of 4541 mm.
+All Skoda Slavia variants have a width of 1752 mm.
+All Skoda Slavia variants have a height of 1507 mm.
+All Skoda Slavia variants offer 521 Litres of boot space.
+All Skoda Slavia variants have a seating capacity of 5.0.
+All Skoda Slavia variants have an unladen ground clearance of 179 mm.
+All Skoda Slavia variants have a wheelbase of 2651 mm.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Monte Carlo & 1.0L Prestige share a kerb weight of 1160-1216 kg.
+Skoda Slavia variants - 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo AT & 1.0L Prestige AT share a kerb weight of 1219-1252 kg.
+Skoda Slavia variants - 1.5L Sportline DSG, 1.5L Signature DSG, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share a kerb weight of 1246-1277 kg.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Monte Carlo & 1.0L Prestige share a gross weight of 1630 kg.
+Skoda Slavia variants - 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo AT & 1.0L Prestige AT share a gross weight of 1660 kg.
+Skoda Slavia variants - 1.5L Sportline DSG, 1.5L Signature DSG, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share a gross weight of 1685 kg.
+All Skoda Slavia variants have 4.0 doors.
+Skoda Slavia variant 1.0L Classic is equipped with a Manual boot opening mechanism.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG feature a Electronic boot opening mechanism.
+Skoda Slavia variant 1.0L Classic comes with tyres of size 195/65R15.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG feature tyres of size 205/55R16.
+All Skoda Slavia variants come with Tyre Type tyres.
+Skoda Slavia variant 1.0L Classic is equipped with 15 Inch wheels.
+All Skoda Slavia variants come equipped with 6.0 airbags.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Signature AT, 1.0L Prestige, 1.5L Signature DSG, 1.0L Prestige AT & 1.5L Prestige DSG have been rated 5 Star by Global NCAP.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Signature AT, 1.0L Prestige, 1.5L Signature DSG, 1.0L Prestige AT & 1.5L Prestige DSG have a child safety rating of 5 Star from Global NCAP.
+Skoda Slavia variant 1.0L Classic features a 7 inch touchscreen.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG come with a 10 inch touchscreen display.
+Skoda Slavia variant 1.0L Classic features 2.0 speakers.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG come with 4.0 speakers.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG have 16 Inch front alloy wheels.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG have 16 Inch rear alloy wheels.
+Skoda Slavia variant 1.0L Classic features 2.0 tweeters.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG have 4.0 tweeters.
+All Skoda Slavia variants feature a Full Digital digital cluster.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG feature Fabric upholstery options.
+Skoda Slavia variants - 1.0L Prestige, 1.0L Prestige AT & 1.5L Prestige DSG feature Leatherette upholstery options.
+Skoda Slavia variant 1.5L Prestige DSG includes 1.0 subwoofer(s).
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG come with Driver's Window anti-pinch power windows.
+All Skoda Slavia variants have a laden ground clearance of 145 mm mm.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Monte Carlo & 1.0L Prestige have mileage figures of 20.32 kmpl.
+Skoda Slavia variants - 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo AT & 1.0L Prestige AT have mileage figures of 18.73 kmpl.
+Skoda Slavia variants - 1.5L Sportline DSG, 1.5L Signature DSG, 1.5L Monte Carlo DSG & 1.5L Prestige DSG have mileage figures of 19.36 kmpl.
+All Skoda Slavia variants have a fuel tank capacity of 45 Litres.
+All Skoda Slavia variants have the MacPherson Strut suspension front suspension.
+All Skoda Slavia variants have the Rear twist beam rear suspension.
+All Skoda Slavia variants come with Tilt & Telescopic steering adjustment.
+Skoda Slavia variants with Adjustable Steering - 1.0L Classic, 1.0L Signature, 1.0L Signature AT, 1.0L Prestige, 1.5L Signature DSG, 1.0L Prestige AT & 1.5L Prestige DSG.
+Skoda Slavia variants without Adjustable Steering - 1.0L Sportline, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+All Skoda Slavia variants are equipped with Rear parking sensors.
+Skoda Slavia variant 1.0L Classic has Front USB charging ports.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share the Front & Rear USB charging configuration.
+Skoda Slavia variant without Fog Lights - 1.0L Classic.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share the Front fog light configuration.
+Skoda Slavia variant 1.0L Classic has a Pole Type antenna.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share the Shark Fin antenna type.
+Skoda Slavia variants - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG share the 3.5 inch digital cluster size.
+Skoda Slavia variants - 1.0L Prestige, 1.0L Prestige AT & 1.5L Prestige DSG share the 8 inch digital cluster size.
+Skoda Slavia variant without Rear Camera - 1.0L Classic.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share the With Guidedlines rear camera type.
+All Skoda Slavia variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Skoda Slavia variant 1.0L Classic has Front Only speakers.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share the Front & Rear speaker configuration.
+Skoda Slavia variants without Electric Adjustable Seats - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+Skoda Slavia variants - 1.0L Prestige, 1.0L Prestige AT & 1.5L Prestige DSG share the Front electric seat adjustment type.
+Skoda Slavia variant 1.0L Classic has a Bench Folding foldable rear seat.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share the 60:40 Split foldable rear seat type.
+Skoda Slavia variant without Central Console Armrest - 1.0L Classic.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.0L Prestige, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT, 1.0L Prestige AT, 1.5L Monte Carlo DSG & 1.5L Prestige DSG share the With Storage central console armrest type.
+All Skoda Slavia variants come with built-in apps including MySKODA ConnectED.
+All variants of Skoda Slavia do not have Knee Airbags.
+All variants of Skoda Slavia have Rear Seat Headrest.
+Skoda Slavia variants without Sunroof - 1.0L Classic, 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG.
+Skoda Slavia variants - 1.0L Prestige, 1.0L Prestige AT & 1.5L Prestige DSG share a Single Pane sunroof.
+Skoda Slavia variant 1.0L Classic offers 17.7cm Skoda Infotainment System, Wired Smartlink - Apple Carplay & Android Auto via USB as additional features.
+Skoda Slavia variants - 1.0L Signature, 1.0L Sportline, 1.0L Signature AT, 1.0L Sportline AT, 1.0L Monte Carlo, 1.5L Sportline DSG, 1.5L Signature DSG, 1.0L Monte Carlo AT & 1.5L Monte Carlo DSG share 25.4 cm Infotainment System with Skoda Play Apps, Wireless Smartlink-Apple Carplay & Android Auto as additional features.
+Skoda Slavia variants - 1.0L Prestige, 1.0L Prestige AT & 1.5L Prestige DSG share 25.4 cm Infotainment System with Skoda Play Apps, Wireless Smartlink-Apple Carplay & Android Auto, Skoda Sound System with 8 High Performance Speakers & Subwoofer - 380 W as additional features.

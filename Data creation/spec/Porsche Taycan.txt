@@ -1,0 +1,178 @@
+﻿Porsche Taycan has 2 variants: 4S & Turbo.
+All variants of Porsche Taycan have Power Steering.
+All variants of Porsche Taycan have Air Conditioner.
+All variants of Porsche Taycan have Heater.
+All variants of Porsche Taycan have Automatic Climate Control.
+All variants of Porsche Taycan have Accessory Power Outlet.
+All variants of Porsche Taycan have Trunk Light.
+All variants of Porsche Taycan have Vanity Mirror.
+All variants of Porsche Taycan have Rear Reading Lamp.
+All variants of Porsche Taycan have Adjustable Headrest.
+All variants of Porsche Taycan have Rear Seat Centre Arm Rest.
+All variants of Porsche Taycan have Rear AC Vents.
+All variants of Porsche Taycan have Cruise Control.
+Porsche Taycan variant with Real-Time Vehicle Tracking - 4S.
+Porsche Taycan variant with Engine Start/Stop Button - 4S.
+All variants of Porsche Taycan have Voice Commands.
+Porsche Taycan variant with Hands-Free Tailgate - Turbo.
+Porsche Taycan variant without Hands-Free Tailgate - 4S.
+All variants of Porsche Taycan have KeyLess Entry.
+All variants of Porsche Taycan have Follow Me Home Headlamps.
+All variants of Porsche Taycan have Tachometer.
+All variants of Porsche Taycan have Alloy Wheels.
+All variants of Porsche Taycan have Integrated Antenna.
+Porsche Taycan variant with Projector Headlamps - 4S.
+All variants of Porsche Taycan have Automatic Headlamps.
+All variants of Porsche Taycan have LED DRLs.
+All variants of Porsche Taycan have LED Headlamps.
+All variants of Porsche Taycan have Anti-lock Braking System (ABS).
+All variants of Porsche Taycan have Central Locking.
+All variants of Porsche Taycan have Driver Airbag.
+All variants of Porsche Taycan have Side Airbag.
+All variants of Porsche Taycan have Seat Belt Warning.
+Porsche Taycan variant with Engine Immobilizer - Turbo.
+All variants of Porsche Taycan have Side Airbag-Rear.
+All variants of Porsche Taycan have Electronic Stability Control (ESC).
+All variants of Porsche Taycan have Anti-Theft Device.
+Porsche Taycan variant with Speed Alert - 4S.
+All variants of Porsche Taycan have Speed Sensing Auto Door Lock.
+All variants of Porsche Taycan have ISOFIX Child Seat Mounts.
+Porsche Taycan variant with Hill Assist - 4S.
+All variants of Porsche Taycan have Impact Sensing Auto Door Unlock.
+All variants of Porsche Taycan have 360 View Camera.
+All variants of Porsche Taycan have Radio.
+All variants of Porsche Taycan have Bluetooth Connectivity.
+All variants of Porsche Taycan have Android Auto.
+All variants of Porsche Taycan have Apple CarPlay.
+All variants of Porsche Taycan have Height Adjustable Front Seat Belts.
+All variants of Porsche Taycan have Lumbar Support.
+Porsche Taycan variant with Paddle Shifters - 4S.
+Porsche Taycan variant with Electronic Multi-Tripmeter - Turbo.
+Porsche Taycan variant with Digital Clock - Turbo.
+All variants of Porsche Taycan have Dual Tone Dashboard.
+All variants of Porsche Taycan have LED Taillights.
+Porsche Taycan variant with Electronic Brakeforce Distribution (EBD) - 4S.
+All variants of Porsche Taycan have Brake Assist.
+All variants of Porsche Taycan have Anti-Theft Alarm.
+All variants of Porsche Taycan have Door Ajar Warning.
+All variants of Porsche Taycan have Digital Odometer.
+Porsche Taycan variant with Blind Spot Camera - Turbo.
+Porsche Taycan variant with Heads-Up Display (HUD) - Turbo.
+Porsche Taycan variant with Cooled Glovebox - 4S.
+Porsche Taycan variant with Ventilated Seats - Turbo.
+Porsche Taycan variant with Puddle Lamps - 4S.
+Porsche Taycan variant with Hill Descent Control - 4S.
+Porsche Taycan variant with Active noise cancellation - Turbo.
+Porsche Taycan variant with Battery Saver - 4S.
+Porsche Taycan variant with Leather wrap gear-shift selector - Turbo.
+All variants of Porsche Taycan have Blind Spot Monitor.
+All variants of Porsche Taycan have Tailgate Ajar Warning.
+Porsche Taycan variant with Remote Trunk Opener - Turbo.
+All variants of Porsche Taycan have Regenerative Braking.
+All variants of Porsche Taycan have Fast Charging.
+Porsche Taycan variant with Traction Control - 4S.
+Porsche Taycan variant with Rear Entertainment System - Turbo.
+Porsche Taycan variant with Leather Seats - Turbo.
+Porsche Taycan variant with Internal Storage - Turbo.
+Porsche Taycan variant with Find My Car location - Turbo.
+All variants of Porsche Taycan have Height Adjustable Driver Seat.
+All variants of Porsche Taycan have Leather Wrapped Steering Wheel.
+All variants of Porsche Taycan have Glove Box.
+Porsche Taycan variant with Adjustable Headlamps - Turbo.
+All variants of Porsche Taycan have Passenger Airbag.
+All variants of Porsche Taycan have Day & Night Rear View Mirror.
+All variants of Porsche Taycan have Tyre Pressure Monitoring System (TPMS).
+All variants of Porsche Taycan have Touchscreen.
+All variants of Porsche Taycan have Child Safety Locks.
+Porsche Taycan variant with Rear Spoiler - Turbo.
+Porsche Taycan variant with Rain Sensing Wiper - 4S.
+All variants of Porsche Taycan have Air Quality Control.
+Porsche Taycan variant with Navigation System - Turbo.
+Porsche Taycan variant with Smart Access Card Entry - Turbo.
+Porsche Taycan variant with Curtain Airbag - 4S.
+All variants of Porsche Taycan have Usb Ports.
+Porsche Taycan variant without Gear Shift Indicator - Turbo.
+Porsche Taycan variant without Luggage Hook & Net - Turbo.
+All variants of Porsche Taycan have LED Fog Lamps.
+Porsche Taycan variant with Power Boot - Turbo.
+Porsche Taycan variant with Fog Lights - Front - Turbo.
+Porsche Taycan variant with Integrated 2DIN Audio - Turbo.
+Porsche Taycan variant with USB & Auxiliary input - Turbo.
+Porsche Taycan variant without Rear Curtain - Turbo.
+Porsche Taycan variant with Audio System Remote Control - Turbo.
+Porsche Taycan variant with Smart Key Band - Turbo.
+Porsche Taycan variant 4S delivers a max power of 590 Brake Horsepower (BHP).
+Porsche Taycan variant Turbo delivers a max power of 872 Brake Horsepower (BHP).
+Porsche Taycan variant 4S has a max torque of 695 Newton meters.
+Porsche Taycan variant Turbo has a max torque of 650 Newton meters.
+All Porsche Taycan variants have a Automatic transmission.
+Porsche Taycan variant 4S comes with a 1-Speed gearbox.
+Porsche Taycan variant Turbo comes with a 2-Speed gearbox.
+All Porsche Taycan variants have a All-Wheel Drive (AWD) drive type.
+All Porsche Taycan variants run on Electric.
+All Porsche Taycan variants comply with ZEV emission norms.
+All Porsche Taycan variants come with Electric steering.
+Porsche Taycan variant Turbo has a turning radius of 12m.
+Porsche Taycan variant 4S has Disc front brakes.
+Porsche Taycan variant Turbo has Ventilated Disc front brakes.
+Porsche Taycan variant 4S has Disc rear brakes.
+Porsche Taycan variant Turbo has Ventilated Disc rear brakes.
+All Porsche Taycan variants have a length of 4974 mm.
+All Porsche Taycan variants have a width of 2144 mm.
+All Porsche Taycan variants have a height of 1395 mm.
+Porsche Taycan variant 4S offers 407 Litres of boot space.
+Porsche Taycan variant Turbo offers 446 Litres of boot space.
+All Porsche Taycan variants have a seating capacity of 5.0.
+Porsche Taycan variant 4S has a wheelbase of 2675 mm.
+Porsche Taycan variant Turbo has a wheelbase of 2702 mm.
+All Porsche Taycan variants have a kerb weight of 2245 kg.
+All Porsche Taycan variants have a gross weight of 2880 kg.
+Porsche Taycan variant 4S has 4.0 doors.
+Porsche Taycan variant Turbo has 5.0 doors.
+Porsche Taycan variant 4S features Unknown tyres.
+Porsche Taycan variant Turbo features Tubeless Radial tyres.
+Porsche Taycan variant Turbo is equipped with Tubeless,Radial Inch wheels.
+All Porsche Taycan variants come equipped with 8.0 airbags.
+All Porsche Taycan variants come with a 10.9 inch touchscreen display.
+Porsche Taycan variant Turbo features 21.0 speakers.
+Porsche Taycan variant 4S includes Android Auto, Apple CarPlay connectivity features.
+Porsche Taycan variant Turbo includes Android Auto connectivity features.
+Porsche Taycan variant 4S is equipped with Leather upholstery.
+Porsche Taycan variant 4S provides 407 Litres boot space.
+Porsche Taycan variant 4S has a top speed of 250 kmph.
+Porsche Taycan variant Turbo has a top speed of 260 kmph.
+Porsche Taycan variant Turbo features a front tread of 1280 mm.
+All Porsche Taycan variants use a Rack & Pinion steering gear type.
+All Porsche Taycan variants are equipped with a Permanent Magnet Synchronous Motor motor type.
+All Porsche Taycan variants are powered by a Lithium-Ion Battery battery.
+Porsche Taycan variant Turbo has a Smart trunk opener.
+Porsche Taycan variant 4S features Active Suspension Management shock absorbers.
+Porsche Taycan variant Turbo features Porsche Active Suspension Management shock absorbers.
+All Porsche Taycan variants come with a 93.4 kWh battery capacity.
+Porsche Taycan variant 4S has a 340 kW motor power.
+Porsche Taycan variant 4S has a driving range of 705 km.
+Porsche Taycan variant Turbo has a driving range of 683 km.
+Porsche Taycan variant 4S requires 9 Hours at 11kW (0-100%) for A.C charging.
+Porsche Taycan variant 4S requires 33 Min at 150kW (10-80%) for D.C charging.
+All Porsche Taycan variants come with a CCS-II charging port.
+Porsche Taycan variant 4S accelerates from 0-100 km/h in 3.7 s.
+Porsche Taycan variant Turbo accelerates from 0-100 km/h in 2.7 s.
+Porsche Taycan variant 4S takes 33 Min at 150kW (10-80%) to charge.
+Porsche Taycan variant 4S has All Windows anti-pinch power windows.
+All Porsche Taycan variants have a laden ground clearance of 127 mm mm.
+All Porsche Taycan variants have the Air suspension front suspension.
+All Porsche Taycan variants have the Air suspension rear suspension.
+Porsche Taycan variant Turbo has Adjustable Steering steering adjustment.
+All variants of Porsche Taycan have Adjustable Steering.
+All Porsche Taycan variants are equipped with Front & Rear parking sensors.
+All Porsche Taycan variants come with Front & Rear USB charging ports.
+Porsche Taycan variant 4S has Front fog lights.
+Porsche Taycan variant 4S has a With Guidedlines rear camera.
+Porsche Taycan variant 4S has Driver and Passenger seatbelt pretensioners and force limiters.
+All Porsche Taycan variants include Front & Rear speakers.
+Porsche Taycan variant Turbo has Front electric adjustable seats.
+Porsche Taycan variant Turbo has a 40:20:40 Split foldable rear seat.
+All variants of Porsche Taycan have Central Console Armrest.
+All variants of Porsche Taycan have Rear Seat Headrest.
+Porsche Taycan variant Turbo offers a Optional sunroof.
+Porsche Taycan variant Turbo has 6 drive modes.

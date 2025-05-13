@@ -1,0 +1,235 @@
+Maruti Grand Vitara has 17 variants: Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+All variants of Maruti Grand Vitara have Power Steering.
+All variants of Maruti Grand Vitara have Air Conditioner.
+All variants of Maruti Grand Vitara have Heater.
+All variants of Maruti Grand Vitara have Automatic Climate Control.
+All variants of Maruti Grand Vitara have Accessory Power Outlet.
+Maruti Grand Vitara variants with Trunk Light - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Trunk Light - Sigma.
+All variants of Maruti Grand Vitara have Vanity Mirror.
+All variants of Maruti Grand Vitara have Rear Reading Lamp.
+All variants of Maruti Grand Vitara have Adjustable Headrest.
+All variants of Maruti Grand Vitara have Rear Seat Centre Arm Rest.
+All variants of Maruti Grand Vitara have Rear AC Vents.
+Maruti Grand Vitara variants with Cruise Control - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Cruise Control - Sigma.
+Maruti Grand Vitara variants with Real-Time Vehicle Tracking - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Real-Time Vehicle Tracking - Sigma.
+All variants of Maruti Grand Vitara have Engine Start/Stop Button.
+Maruti Grand Vitara variants with Voice Commands - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Voice Commands - Sigma.
+All variants of Maruti Grand Vitara have KeyLess Entry.
+All variants of Maruti Grand Vitara have Idle Start-Stop System.
+Maruti Grand Vitara variants with Follow Me Home Headlamps - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without Follow Me Home Headlamps - Sigma, Delta, Delta CNG & Delta AT.
+All variants of Maruti Grand Vitara have Tachometer.
+Maruti Grand Vitara variants with Wheel Covers - Sigma, Delta, Delta CNG & Delta AT.
+Maruti Grand Vitara variants without Wheel Covers - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants with Alloy Wheels - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without Alloy Wheels - Sigma, Delta, Delta CNG & Delta AT.
+All variants of Maruti Grand Vitara have Integrated Antenna.
+All variants of Maruti Grand Vitara have Projector Headlamps.
+Maruti Grand Vitara variants with Automatic Headlamps - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without Automatic Headlamps - Sigma, Delta, Delta CNG & Delta AT.
+Maruti Grand Vitara variants with LED Headlamps - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without LED Headlamps - Sigma, Delta, Delta CNG & Delta AT.
+All variants of Maruti Grand Vitara have Anti-lock Braking System (ABS).
+All variants of Maruti Grand Vitara have Central Locking.
+All variants of Maruti Grand Vitara have Driver Airbag.
+Maruti Grand Vitara variants with Side Airbag - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without Side Airbag - Sigma, Delta, Delta CNG & Delta AT.
+All variants of Maruti Grand Vitara have Seat Belt Warning.
+All variants of Maruti Grand Vitara have Engine Immobilizer.
+All variants of Maruti Grand Vitara do not have E-Call & I-Call.
+Maruti Grand Vitara variants with Remote AC On/Off - Delta AT, Zeta AT, Alpha AT DT, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without Remote AC On/Off - Sigma, Delta, Delta CNG, Zeta, Zeta CNG, Alpha DT, Alpha, Alpha AWD DT & Alpha AWD.
+All variants of Maruti Grand Vitara do not have Side Airbag-Rear.
+All variants of Maruti Grand Vitara have Electronic Stability Control (ESC).
+Maruti Grand Vitara variants with Anti-Theft Device - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Anti-Theft Device - Sigma.
+All variants of Maruti Grand Vitara have Speed Alert.
+All variants of Maruti Grand Vitara have Speed Sensing Auto Door Lock.
+All variants of Maruti Grand Vitara have ISOFIX Child Seat Mounts.
+All variants of Maruti Grand Vitara have Hill Assist.
+All variants of Maruti Grand Vitara have Impact Sensing Auto Door Unlock.
+Maruti Grand Vitara variants with 360 View Camera - Alpha DT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without 360 View Camera - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Zeta AT, Zeta Plus Hybrid CVT DT & Zeta Plus Hybrid CVT.
+Maruti Grand Vitara variants with Radio - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Radio - Sigma.
+Maruti Grand Vitara variants with Wireless Phone Charging - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without Wireless Phone Charging - Sigma, Delta, Delta CNG, Delta AT, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD & Alpha AT.
+Maruti Grand Vitara variants with Bluetooth Connectivity - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Bluetooth Connectivity - Sigma.
+Maruti Grand Vitara variants with Android Auto - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Android Auto - Sigma.
+Maruti Grand Vitara variants with Apple CarPlay - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Apple CarPlay - Sigma.
+Maruti Grand Vitara variants with Live Location - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Live Location - Sigma.
+Maruti Grand Vitara variants with Google / Alexa Connectivity - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Google / Alexa Connectivity - Sigma.
+Maruti Grand Vitara variants with Over Speeding Alert - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Over Speeding Alert - Sigma.
+Maruti Grand Vitara variants with Smartwatch App - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Smartwatch App - Sigma.
+Maruti Grand Vitara variants with Valet Mode - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Valet Mode - Sigma.
+Maruti Grand Vitara variants with Remote Door Lock/Unlock - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Remote Door Lock/Unlock - Sigma.
+Maruti Grand Vitara variants with Geo-fence Alert - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Geo-fence Alert - Sigma.
+All variants of Maruti Grand Vitara have Height Adjustable Front Seat Belts.
+Maruti Grand Vitara variants with Paddle Shifters - Delta AT, Zeta AT, Alpha AT DT & Alpha AT.
+Maruti Grand Vitara variants without Paddle Shifters - Sigma, Delta, Delta CNG, Zeta, Zeta CNG, Alpha DT, Alpha, Alpha AWD DT, Alpha AWD, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants with Tow Away Alert - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Tow Away Alert - Sigma.
+All variants of Maruti Grand Vitara have Dual Tone Dashboard.
+Maruti Grand Vitara variants with Halogen Headlamps - Sigma, Delta, Delta CNG & Delta AT.
+Maruti Grand Vitara variants without Halogen Headlamps - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+All variants of Maruti Grand Vitara have LED Taillights.
+All variants of Maruti Grand Vitara have Electronic Brakeforce Distribution (EBD).
+All variants of Maruti Grand Vitara have Brake Assist.
+Maruti Grand Vitara variants with Anti-Theft Alarm - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Anti-Theft Alarm - Sigma.
+All variants of Maruti Grand Vitara have Door Ajar Warning.
+All variants of Maruti Grand Vitara have Digital Odometer.
+Maruti Grand Vitara variants with Remote Immobiliser - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Remote Immobiliser - Sigma.
+Maruti Grand Vitara variants with SOS / Emergency Assistance - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without SOS / Emergency Assistance - Sigma.
+Maruti Grand Vitara variants with Heads-Up Display (HUD) - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without Heads-Up Display (HUD) - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD & Alpha AT.
+Maruti Grand Vitara variants with Glove Box light - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Glove Box light - Sigma.
+Maruti Grand Vitara variants with Send POI to Vehicle From App - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Send POI to Vehicle From App - Sigma.
+Maruti Grand Vitara variants with Ventilated Seats - Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without Ventilated Seats - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT & Zeta Plus Hybrid CVT.
+Maruti Grand Vitara variants with Puddle Lamps - Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without Puddle Lamps - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT & Zeta Plus Hybrid CVT.
+Maruti Grand Vitara variants with Hill Descent Control - Alpha AWD DT & Alpha AWD.
+Maruti Grand Vitara variants without Hill Descent Control - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+All variants of Maruti Grand Vitara have Height Adjustable Driver Seat.
+All variants of Maruti Grand Vitara have Glove Box.
+All variants of Maruti Grand Vitara have Adjustable Headlamps.
+All variants of Maruti Grand Vitara have Outside Rear View Mirror Turn Indicators.
+All variants of Maruti Grand Vitara have Passenger Airbag.
+All variants of Maruti Grand Vitara have Day & Night Rear View Mirror.
+Maruti Grand Vitara variants with Tyre Pressure Monitoring System (TPMS) - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants with Touchscreen - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants with Rear Window Wiper - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants with Rear Window Washer - Sigma, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+All variants of Maruti Grand Vitara have Child Safety Locks.
+All variants of Maruti Grand Vitara have Rear Spoiler.
+Maruti Grand Vitara variants with Roof Rails - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants with Curtain Airbag - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants without Curtain Airbag - Sigma, Delta, Delta CNG & Delta AT.
+All variants of Maruti Grand Vitara have Usb Ports.
+Maruti Grand Vitara variants with Gear Shift Indicator - Sigma, Delta, Delta CNG, Zeta, Alpha AWD DT & Alpha AWD.
+Maruti Grand Vitara variants without Gear Shift Indicator - Delta AT, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variants with Integrated 2DIN Audio - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT.
+Maruti Grand Vitara variant without Integrated 2DIN Audio - Sigma.
+Maruti Grand Vitara variants - Sigma, Delta, Delta AT, Zeta, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD & Alpha AT share the K15C With Mild Hybrid System engine.
+Maruti Grand Vitara variants - Delta CNG & Zeta CNG share the K15C engine.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share the M15D With Strong Hybrid engine.
+Maruti Grand Vitara variants - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD & Alpha AT share a displacement of 1462  cubic centimeters.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share a displacement of 1490  cubic centimeters.
+Maruti Grand Vitara variants - Sigma, Delta, Delta AT, Zeta, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD & Alpha AT have a max power of 101.64 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Grand Vitara variants - Delta CNG & Zeta CNG have a max power of 87 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have a max power of 91.18 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Maruti Grand Vitara variants - Sigma, Delta, Delta AT, Zeta, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD & Alpha AT share a max torque of 136.8 Newton meters at 4400 Revolutions Per Minute (RPM).
+Maruti Grand Vitara variants - Delta CNG & Zeta CNG share a max torque of 121.5 Newton meters at 4200 Revolutions Per Minute (RPM).
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share a max torque of 122 Newton meters at 4400 to 4800 Revolutions Per Minute (RPM).
+All Maruti Grand Vitara variants have 4.0 valves per cylinder.
+Maruti Grand Vitara variants - Sigma, Delta, Delta CNG, Zeta, Zeta CNG, Alpha DT, Alpha, Alpha AWD DT & Alpha AWD share a Manual transmission.
+Maruti Grand Vitara variants - Delta AT, Zeta AT, Alpha AT DT, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share a Automatic transmission.
+Maruti Grand Vitara variants - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD & Alpha AT have 4.0 cylinders.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have 3.0 cylinders.
+Maruti Grand Vitara variants - Sigma, Delta, Delta CNG, Zeta, Zeta CNG, Alpha DT, Alpha, Alpha AWD DT & Alpha AWD share a 5-Speed gearbox.
+Maruti Grand Vitara variants - Delta AT, Zeta AT, Alpha AT DT & Alpha AT share a 6-Speed gearbox.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share a E-CVT gearbox.
+Maruti Grand Vitara variants - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share a Front-Wheel Drive (FWD) drive type.
+Maruti Grand Vitara variants - Alpha AWD DT & Alpha AWD share a All-Wheel Drive (AWD) drive type.
+Maruti Grand Vitara variants - Sigma, Delta, Delta AT, Zeta, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT use Petrol as fuel.
+Maruti Grand Vitara variants - Delta CNG & Zeta CNG use CNG as fuel.
+All Maruti Grand Vitara variants comply with BS VI 2.0 emission norms.
+All Maruti Grand Vitara variants come with Electric steering.
+All Maruti Grand Vitara variants have a turning radius of 5.4m.
+All Maruti Grand Vitara variants have Ventilated Disc front brakes.
+All Maruti Grand Vitara variants have Solid Disc rear brakes.
+All Maruti Grand Vitara variants have a length of 4345 mm.
+All Maruti Grand Vitara variants have a width of 1795 mm.
+All Maruti Grand Vitara variants have a height of 1645 mm.
+All Maruti Grand Vitara variants offer 373 Litres of boot space.
+All Maruti Grand Vitara variants have a seating capacity of 5.0.
+All Maruti Grand Vitara variants have an unladen ground clearance of 210 mm.
+All Maruti Grand Vitara variants have a wheelbase of 2600 mm.
+Maruti Grand Vitara variants - Sigma, Delta, Zeta, Alpha DT & Alpha share a kerb weight of 1150-1185 kg.
+Maruti Grand Vitara variants - Delta AT, Zeta AT, Alpha AT DT & Alpha AT share a kerb weight of 1185-1210 kg.
+Maruti Grand Vitara variants - Alpha AWD DT & Alpha AWD share a kerb weight of 1260 kg.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share a kerb weight of 1290-1295 kg.
+Maruti Grand Vitara variants - Sigma, Delta, Zeta, Alpha DT & Alpha share a gross weight of 1645 kg.
+Maruti Grand Vitara variants - Delta AT, Zeta AT, Alpha AT DT & Alpha AT share a gross weight of 1670 kg.
+Maruti Grand Vitara variants - Alpha AWD DT & Alpha AWD share a gross weight of 1720 kg.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share a gross weight of 1755 kg.
+All Maruti Grand Vitara variants have 5.0 doors.
+All Maruti Grand Vitara variants come with a Manual boot opening mechanism.
+All Maruti Grand Vitara variants have tyres of size 215/60 R17.
+All Maruti Grand Vitara variants come with Tubeless Radial tyres.
+Maruti Grand Vitara variants - Sigma, Delta, Delta CNG & Delta AT feature 17 Inch wheels.
+Maruti Grand Vitara variants - Sigma, Delta, Delta CNG & Delta AT offer 2.0 airbags.
+Maruti Grand Vitara variants - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT offer 6.0 airbags.
+Maruti Grand Vitara variant Sigma features a unknown touchscreen.
+Maruti Grand Vitara variants - Sigma, Delta, Delta AT, Zeta, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT use Electric as a secondary fuel type.
+Maruti Grand Vitara variants - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have 17 Inch front alloy wheels.
+Maruti Grand Vitara variants - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have 17 Inch rear alloy wheels.
+Maruti Grand Vitara variants - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have 2.0 tweeters.
+Maruti Grand Vitara variants - Delta AT, Zeta AT, Alpha AT DT & Alpha AT have a 100-0 kmph braking time of 46.87 s seconds.
+Maruti Grand Vitara variants - Alpha AWD DT & Alpha AWD have a 100-0 kmph braking time of 41.19 s seconds.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have a 100-0 kmph braking time of 40.58 s seconds.
+Maruti Grand Vitara variants - Delta AT, Zeta AT, Alpha AT DT & Alpha AT have a 0-100 kmph acceleration time of 15.13 s seconds.
+Maruti Grand Vitara variants - Alpha AWD DT & Alpha AWD have a 0-100 kmph acceleration time of 13.99 s seconds.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have a 0-100 kmph acceleration time of 11.55 s seconds.
+Maruti Grand Vitara variants - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have Android Auto, Apple CarPlay connectivity options.
+Maruti Grand Vitara variants - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD & Alpha AT feature a Semi Digital digital cluster.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT feature a Full Digital digital cluster.
+Maruti Grand Vitara variants - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Zeta AT, Zeta Plus Hybrid CVT DT & Zeta Plus Hybrid CVT feature Fabric upholstery options.
+Maruti Grand Vitara variants - Alpha DT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT feature Leatherette upholstery options.
+Maruti Grand Vitara variants - Delta CNG & Zeta CNG come with boot space of 373 Litres.
+All Maruti Grand Vitara variants have a top speed of 135 kmph.
+Maruti Grand Vitara variants - Delta AT, Zeta AT, Alpha AT DT & Alpha AT have a city driveability (20-80 kmph) time of 8.48 s.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have a city driveability (20-80 kmph) time of 8.55 s.
+All Maruti Grand Vitara variants use a Rack & Pinion steering gear type.
+All Maruti Grand Vitara variants have Driver's Window anti-pinch power windows.
+Maruti Grand Vitara variants - Sigma, Delta, Zeta, Alpha DT & Alpha have mileage figures of 21.11 kmpl.
+Maruti Grand Vitara variants - Delta CNG & Zeta CNG have mileage figures of 26.6 km/kg.
+Maruti Grand Vitara variants - Delta AT, Zeta AT, Alpha AT DT & Alpha AT have mileage figures of 20.58 kmpl.
+Maruti Grand Vitara variants - Alpha AWD DT & Alpha AWD have mileage figures of 19.38 kmpl.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have mileage figures of 27.97 kmpl.
+Maruti Grand Vitara variants - Delta AT, Zeta AT, Alpha AT DT & Alpha AT have highway mileage figures of 19.05 kmpl.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have highway mileage figures of 21.97 kmpl.
+Maruti Grand Vitara variants - Sigma, Delta, Delta AT, Zeta, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT have fuel tank capacities of 45 Litres.
+All Maruti Grand Vitara variants have the MacPherson Strut suspension front suspension.
+All Maruti Grand Vitara variants have the Rear twist beam rear suspension.
+All Maruti Grand Vitara variants come with Tilt & Telescopic steering adjustment.
+All variants of Maruti Grand Vitara have Adjustable Steering.
+All Maruti Grand Vitara variants are equipped with Rear parking sensors.
+Maruti Grand Vitara variant without USB Charger - Sigma.
+Maruti Grand Vitara variants - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share the Rear USB charging configuration.
+All Maruti Grand Vitara variants come with a Shark Fin antenna.
+Maruti Grand Vitara variants - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD & Alpha AT share the 4.2 inch digital cluster size.
+Maruti Grand Vitara variants - Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share the 7 inch digital cluster size.
+Maruti Grand Vitara variant without Rear Camera - Sigma.
+Maruti Grand Vitara variants - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share the With Guidedlines rear camera type.
+All Maruti Grand Vitara variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Maruti Grand Vitara variant without Speakers - Sigma.
+Maruti Grand Vitara variants - Delta, Delta CNG, Delta AT, Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share the Front & Rear speaker configuration.
+All Maruti Grand Vitara variants have a 60:40 Split foldable rear seat.
+All Maruti Grand Vitara variants have a With Storage central console armrest.
+All variants of Maruti Grand Vitara have Rear Seat Headrest.
+Maruti Grand Vitara variants without Sunroof - Sigma, Delta, Delta CNG, Delta AT, Zeta, Zeta CNG & Zeta AT.
+Maruti Grand Vitara variants - Alpha DT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT, Zeta Plus Hybrid CVT, Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share a Panoramic sunroof.
+Maruti Grand Vitara variant Sigma offers Silver Skid Plate (Front & Rear), LED Position Lamp as additional features.
+Maruti Grand Vitara variants - Delta, Delta CNG & Delta AT share SmartPlay Pro as additional features.
+Maruti Grand Vitara variants - Zeta, Zeta CNG, Alpha DT, Zeta AT, Alpha, Alpha AT DT, Alpha AWD DT, Alpha AWD, Alpha AT, Zeta Plus Hybrid CVT DT & Zeta Plus Hybrid CVT share SmartPlay Pro+, Arkamys Sound Tuning as additional features.
+Maruti Grand Vitara variants - Alpha Plus Hybrid CVT DT & Alpha Plus Hybrid CVT share SmartPlay Pro+, Arkamys Sound Tuning, Premium Sound System as additional features.

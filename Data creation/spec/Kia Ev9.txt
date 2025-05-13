@@ -1,0 +1,149 @@
+Kia Ev9 has 1 variants: GT Line.
+Kia Ev9 has Power Steering.
+Kia Ev9 has Air Conditioner.
+Kia Ev9 has Heater.
+Kia Ev9 has Automatic Climate Control.
+Kia Ev9 has Accessory Power Outlet.
+Kia Ev9 has Vanity Mirror.
+Kia Ev9 has Adjustable Headrest.
+Kia Ev9 has Rear Seat Centre Arm Rest.
+Kia Ev9 has Rear AC Vents.
+Kia Ev9 has Engine Start/Stop Button.
+Kia Ev9 does not have Hands-Free Tailgate.
+Kia Ev9 has KeyLess Entry.
+Kia Ev9 has Follow Me Home Headlamps.
+Kia Ev9 has Tachometer.
+Kia Ev9 does not have Wheel Covers.
+Kia Ev9 has Alloy Wheels.
+Kia Ev9 has Integrated Antenna.
+Kia Ev9 has Projector Headlamps.
+Kia Ev9 has Automatic Headlamps.
+Kia Ev9 has LED DRLs.
+Kia Ev9 has LED Headlamps.
+Kia Ev9 has Anti-lock Braking System (ABS).
+Kia Ev9 has Central Locking.
+Kia Ev9 has Driver Airbag.
+Kia Ev9 has Side Airbag.
+Kia Ev9 has Seat Belt Warning.
+Kia Ev9 has Engine Immobilizer.
+Kia Ev9 has Side Airbag-Rear.
+Kia Ev9 has Electronic Stability Control (ESC).
+Kia Ev9 has Speed Alert.
+Kia Ev9 has ISOFIX Child Seat Mounts.
+Kia Ev9 has Hill Assist.
+Kia Ev9 has 360 View Camera.
+Kia Ev9 has Radio.
+Kia Ev9 has Wireless Phone Charging.
+Kia Ev9 has Bluetooth Connectivity.
+Kia Ev9 has Android Auto.
+Kia Ev9 has Apple CarPlay.
+Kia Ev9 has Driver Attention Warning.
+Kia Ev9 has Over the Air (OTA) Updates.
+Kia Ev9 has Remote Door Lock/Unlock.
+Kia Ev9 has Height Adjustable Front Seat Belts.
+Kia Ev9 has Paddle Shifters.
+Kia Ev9 has LED Taillights.
+Kia Ev9 has Electronic Brakeforce Distribution (EBD).
+Kia Ev9 has Brake Assist.
+Kia Ev9 has Door Ajar Warning.
+Kia Ev9 has SOS / Emergency Assistance.
+Kia Ev9 has Heads-Up Display (HUD).
+Kia Ev9 has Forward Collision Warning.
+Kia Ev9 has Oncoming Lane Mitigation.
+Kia Ev9 has Blind Spot Collision Avoidance Assist.
+Kia Ev9 has Lane Departure Warning.
+Kia Ev9 has Lane Keep Assist.
+Kia Ev9 has Lane Departure Prevention Assist.
+Kia Ev9 has Adaptive Cruise Control.
+Kia Ev9 has Leading Vehicle Departure Alert.
+Kia Ev9 has Adaptive High Beam Assist.
+Kia Ev9 has Rear Cross Traffic Alert.
+Kia Ev9 has Rear Cross Traffic Collision-Avoidance Assist.
+Kia Ev9 has Cooled Glovebox.
+Kia Ev9 has Glove Box light.
+Kia Ev9 has Ventilated Seats.
+Kia Ev9 has Hill Descent Control.
+Kia Ev9 has Blind Spot Monitor.
+Kia Ev9 has Digital Car Key.
+Kia Ev9 has Tailgate Ajar Warning.
+Kia Ev9 has SOS Button.
+Kia Ev9 has Lane Change Indicator.
+Kia Ev9 has Regenerative Braking.
+Kia Ev9 has Fast Charging.
+Kia Ev9 has Vehicle to Load Charging.
+Kia Ev9 has Traction Control.
+Kia Ev9 has RSA.
+Kia Ev9 has Height Adjustable Driver Seat.
+Kia Ev9 has Rear Window Defogger.
+Kia Ev9 has Leather Wrapped Steering Wheel.
+Kia Ev9 has Glove Box.
+Kia Ev9 has Adjustable Headlamps.
+Kia Ev9 has Outside Rear View Mirror Turn Indicators.
+Kia Ev9 has Passenger Airbag.
+Kia Ev9 has Day & Night Rear View Mirror.
+Kia Ev9 has Tyre Pressure Monitoring System (TPMS).
+Kia Ev9 has Touchscreen.
+Kia Ev9 has Rear Window Wiper.
+Kia Ev9 has Rear Window Washer.
+Kia Ev9 has Child Safety Locks.
+Kia Ev9 has Rain Sensing Wiper.
+Kia Ev9 has Air Quality Control.
+Kia Ev9 has Curtain Airbag.
+Kia Ev9 has Usb Ports.
+Kia Ev9 has Luggage Hook & Net.
+Kia Ev9 has LED Fog Lamps.
+Kia Ev9 has Rear Curtain.
+The Kia Ev9 generates 379 Brake Horsepower (BHP).
+The Kia Ev9 generates 700 Newton meters.
+The Kia Ev9 has a Automatic transmission.
+The Kia Ev9 has a 1-Speed gearbox.
+The Kia Ev9 has a All-Wheel Drive (AWD) drive type.
+The Kia Ev9 runs on Electric.
+The Kia Ev9 complies with ZEV emission norms.
+The Kia Ev9 has Electric steering.
+The Kia Ev9 has Disc front brakes.
+The Kia Ev9 has Disc rear brakes.
+The Kia Ev9 has a length of 5015 mm.
+The Kia Ev9 has a width of 1980 mm.
+The Kia Ev9 has a height of 1780 mm.
+The Kia Ev9 has a seating capacity of 6.0.
+The Kia Ev9 has a wheelbase of 3100 mm.
+The Kia Ev9 has 5.0 doors.
+The Kia Ev9 features a Electronic boot opening mechanism.
+The Kia Ev9 is equipped with Powered & Folding Outside Rear View Mirror (ORVM).
+The Kia Ev9 is fitted with tyres of size 275/ 50 R20.
+The Kia Ev9 is equipped with Tubeless Radial tyres.
+The Kia Ev9 is equipped with 10.0 airbags.
+The Kia Ev9 is equipped with a 12.3 inch touchscreen.
+The Kia Ev9 is equipped with 14.0 speakers.
+The Kia Ev9 comes with a Full Digital digital cluster.
+The Kia Ev9 features Leatherette upholstery.
+The Kia Ev9 comes with a Lithium-Ion Battery battery.
+The Kia Ev9 has a battery capacity of 99.8 kWh.
+The Kia Ev9 features a motor with 283 kW power.
+The Kia Ev9 provides a range of 561 km.
+The Kia Ev9 charges in 24 Min at 350kW (10-80%) using a D.C charger.
+The Kia Ev9 is equipped with a CCS-II charging port.
+The Kia Ev9 reaches 0-100 km/h in 5.3 s.
+The Kia Ev9 requires 24 Min at 350kW (10-80%) for a full charge.
+The Kia Ev9 comes with the MacPherson Strut suspension front suspension.
+The Kia Ev9 comes with the Multi-link suspension rear suspension.
+The Kia Ev9 features Tilt & Telescopic steering adjustment.
+The Kia Ev9 features Height & Reach steering adjustability.
+The Kia Ev9 features Front & Rear parking sensors.
+The Kia Ev9 features Front & Rear USB charging ports.
+The Kia Ev9 features Front & Rear power windows.
+The Kia Ev9 features Front & Rear cup holders.
+The Kia Ev9 features Rear fog lights.
+The Kia Ev9 has a 12.3 inch digital cluster.
+The Kia Ev9 has a With Guidedlines rear camera.
+The Kia Ev9 has Driver and Passenger seatbelt pretensioners and force limiters.
+The Kia Ev9 has Front & Rear speakers.
+The Kia Ev9 has Front & Rear electric adjustable seats.
+The Kia Ev9 has a 50:50 Split foldable rear seat.
+The Kia Ev9 has a With Storage central console armrest.
+The Kia Ev9 has Driver knee airbags.
+The Kia Ev9 offers ambient lighting with 64 color choices.
+The Kia Ev9 includes Adjustable rear seat headrests.
+The Kia Ev9 includes a Dual Sunroof sunroof.
+The Kia Ev9 includes Wireless Android Auto and Apple CarPlay,Next-gen Kia Connect with 100+ Features,Hidden Haptic Touchscreen Buttons,Meridian Premium Sound System with 14 Speakers,Active Sound Design as additional features.

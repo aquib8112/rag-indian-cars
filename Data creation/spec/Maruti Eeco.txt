@@ -1,0 +1,72 @@
+Maruti Eeco has 4 variants: 5 Seater STD, 7 Seater STD, 5 Seater AC & 5 Seater AC CNG.
+All variants of Maruti Eeco do not have Power Steering.
+Maruti Eeco variants with Air Conditioner - 5 Seater AC & 5 Seater AC CNG.
+Maruti Eeco variants without Air Conditioner - 5 Seater STD & 7 Seater STD.
+All variants of Maruti Eeco have Heater.
+All variants of Maruti Eeco have Accessory Power Outlet.
+All variants of Maruti Eeco have Rear Reading Lamp.
+All variants of Maruti Eeco have Tachometer.
+All variants of Maruti Eeco have Wheel Covers.
+All variants of Maruti Eeco have Anti-lock Braking System (ABS).
+All variants of Maruti Eeco have Driver Airbag.
+All variants of Maruti Eeco have Seat Belt Warning.
+All variants of Maruti Eeco have Engine Immobilizer.
+All variants of Maruti Eeco do not have E-Call & I-Call.
+All variants of Maruti Eeco have Speed Alert.
+All variants of Maruti Eeco have Halogen Headlamps.
+All variants of Maruti Eeco have Electronic Brakeforce Distribution (EBD).
+All variants of Maruti Eeco have Digital Odometer.
+All variants of Maruti Eeco have Glove Box.
+All variants of Maruti Eeco have Adjustable Headlamps.
+All variants of Maruti Eeco have Passenger Airbag.
+All variants of Maruti Eeco have Child Safety Locks.
+Maruti Eeco variants with Air Quality Control - 5 Seater STD, 7 Seater STD, 5 Seater AC & 5 Seater AC CNG.
+All Maruti Eeco variants use the K12N engine.
+All Maruti Eeco variants have a displacement of 1197  cubic centimeters.
+Maruti Eeco variants - 5 Seater STD, 7 Seater STD & 5 Seater AC have a max power of 79.65 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Eeco variant 5 Seater AC CNG delivers a max power of 70.67 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Eeco variants - 5 Seater STD, 7 Seater STD & 5 Seater AC share a max torque of 104.4 Newton meters at 3000 Revolutions Per Minute (RPM).
+Maruti Eeco variant 5 Seater AC CNG has a max torque of 95 Newton meters at 3000 Revolutions Per Minute (RPM).
+All Maruti Eeco variants have 4.0 valves per cylinder.
+All Maruti Eeco variants have a Manual transmission.
+All Maruti Eeco variants have 4.0 cylinders.
+All Maruti Eeco variants come with a 5-Speed gearbox.
+All Maruti Eeco variants have a Rear-Wheel Drive (RWD) drive type.
+Maruti Eeco variants - 5 Seater STD, 7 Seater STD & 5 Seater AC use Petrol as fuel.
+Maruti Eeco variant 5 Seater AC CNG runs on CNG.
+All Maruti Eeco variants comply with BS VI 2.0 emission norms.
+All Maruti Eeco variants have a turning radius of 4.5m.
+All Maruti Eeco variants have Disc front brakes.
+All Maruti Eeco variants have Drum rear brakes.
+All Maruti Eeco variants have a length of 3675 mm.
+All Maruti Eeco variants have a width of 1475 mm.
+All Maruti Eeco variants have a height of 1825 mm.
+Maruti Eeco variants - 5 Seater STD & 5 Seater AC share a boot space of 510 Litres.
+Maruti Eeco variant 7 Seater STD offers 540 Litres of boot space.
+Maruti Eeco variant 5 Seater AC CNG offers 275 Litres of boot space.
+Maruti Eeco variants - 5 Seater STD, 5 Seater AC & 5 Seater AC CNG share a seating capacity of 5.0.
+Maruti Eeco variant 7 Seater STD has a seating capacity of 7.0.
+All Maruti Eeco variants have a wheelbase of 2350 mm.
+Maruti Eeco variants - 5 Seater STD, 7 Seater STD & 5 Seater AC share a kerb weight of 935 kg.
+Maruti Eeco variant 5 Seater AC CNG has a kerb weight of 1050 kg.
+All Maruti Eeco variants have 5.0 doors.
+All Maruti Eeco variants come with a Manual boot opening mechanism.
+All Maruti Eeco variants have tyres of size 155/65 R13.
+All Maruti Eeco variants come with Tubeless tyres.
+All Maruti Eeco variants have 13 Inch wheels.
+All Maruti Eeco variants come equipped with 2.0 airbags.
+Maruti Eeco variant 5 Seater AC CNG has a Global NCAP rating of 0 Star.
+Maruti Eeco variant 5 Seater AC CNG has a Global NCAP child safety rating of 2 Star.
+All Maruti Eeco variants feature a Semi Digital digital cluster.
+Maruti Eeco variant 5 Seater AC CNG provides 275 Litres boot space.
+Maruti Eeco variants - 5 Seater STD, 7 Seater STD & 5 Seater AC have a top speed of 146 kmph.
+Maruti Eeco variant 5 Seater AC CNG has a top speed of 170 kmph.
+All Maruti Eeco variants have a front tread of 1280 mm.
+All Maruti Eeco variants have a rear tread of 1290 mm.
+Maruti Eeco variants - 5 Seater STD, 7 Seater STD & 5 Seater AC have mileage figures of 19.71 kmpl.
+Maruti Eeco variant 5 Seater AC CNG provides a mileage of 26.78 km/kg.
+Maruti Eeco variants - 5 Seater STD, 7 Seater STD & 5 Seater AC have fuel tank capacities of 32 Litres.
+Maruti Eeco variant 5 Seater AC CNG features a fuel tank capacity of 65 Litres.
+All Maruti Eeco variants have the MacPherson Strut suspension front suspension.
+All Maruti Eeco variants are equipped with Rear parking sensors.
+All Maruti Eeco variants come with Front Mud Flaps,Outside Rear View Mirror (Left & Right),High Mount Stop Lamp, as additional features.

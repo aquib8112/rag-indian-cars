@@ -1,0 +1,175 @@
+Bmw X5 has 4 variants: xDrive40i xLine, xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+All variants of Bmw X5 have Power Steering.
+All variants of Bmw X5 have Air Conditioner.
+All variants of Bmw X5 have Heater.
+All variants of Bmw X5 have Automatic Climate Control.
+All variants of Bmw X5 have Accessory Power Outlet.
+All variants of Bmw X5 have Trunk Light.
+All variants of Bmw X5 have Vanity Mirror.
+All variants of Bmw X5 have Rear Reading Lamp.
+All variants of Bmw X5 have Adjustable Headrest.
+All variants of Bmw X5 have Rear Seat Centre Arm Rest.
+All variants of Bmw X5 have Rear AC Vents.
+All variants of Bmw X5 have Cruise Control.
+All variants of Bmw X5 have Engine Start/Stop Button.
+All variants of Bmw X5 have Voice Commands.
+All variants of Bmw X5 have Hands-Free Tailgate.
+All variants of Bmw X5 have Chrome Grille.
+All variants of Bmw X5 have KeyLess Entry.
+All variants of Bmw X5 have Tachometer.
+All variants of Bmw X5 do not have Wheel Covers.
+All variants of Bmw X5 have Alloy Wheels.
+All variants of Bmw X5 have Integrated Antenna.
+All variants of Bmw X5 have Automatic Headlamps.
+All variants of Bmw X5 have LED DRLs.
+All variants of Bmw X5 have LED Headlamps.
+All variants of Bmw X5 have Anti-lock Braking System (ABS).
+All variants of Bmw X5 have Central Locking.
+All variants of Bmw X5 have Driver Airbag.
+All variants of Bmw X5 have Side Airbag.
+All variants of Bmw X5 have Seat Belt Warning.
+All variants of Bmw X5 have Engine Immobilizer.
+All variants of Bmw X5 do not have Side Airbag-Rear.
+All variants of Bmw X5 have Electronic Stability Control (ESC).
+All variants of Bmw X5 have Anti-Theft Device.
+All variants of Bmw X5 have Speed Alert.
+All variants of Bmw X5 have Speed Sensing Auto Door Lock.
+All variants of Bmw X5 have ISOFIX Child Seat Mounts.
+All variants of Bmw X5 do not have Hill Assist.
+All variants of Bmw X5 have Impact Sensing Auto Door Unlock.
+Bmw X5 variants with 360 View Camera - xDrive40i xLine, xDrive30d xLine & xDrive40i M Sport.
+Bmw X5 variant without 360 View Camera - xDrive30d M Sport.
+All variants of Bmw X5 have Radio.
+All variants of Bmw X5 have Wireless Phone Charging.
+All variants of Bmw X5 have Bluetooth Connectivity.
+All variants of Bmw X5 do not have Android Auto.
+All variants of Bmw X5 have Apple CarPlay.
+All variants of Bmw X5 have Height Adjustable Front Seat Belts.
+All variants of Bmw X5 have Lumbar Support.
+All variants of Bmw X5 have Paddle Shifters.
+Bmw X5 variants with Electronic Multi-Tripmeter - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+Bmw X5 variants with Digital Clock - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+Bmw X5 variants with Outside Temperature Display - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+All variants of Bmw X5 have Dual Tone Dashboard.
+Bmw X5 variants without Power Antenna - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+All variants of Bmw X5 do not have Halogen Headlamps.
+All variants of Bmw X5 have LED Taillights.
+All variants of Bmw X5 have Electronic Brakeforce Distribution (EBD).
+All variants of Bmw X5 have Brake Assist.
+All variants of Bmw X5 have Anti-Theft Alarm.
+All variants of Bmw X5 have Door Ajar Warning.
+All variants of Bmw X5 have Digital Odometer.
+Bmw X5 variant with Heads-Up Display (HUD) - xDrive40i M Sport.
+Bmw X5 variants without Heads-Up Display (HUD) - xDrive40i xLine, xDrive30d xLine & xDrive30d M Sport.
+All variants of Bmw X5 have Hill Descent Control.
+All variants of Bmw X5 have Heated Outside Rear View Mirror.
+All variants of Bmw X5 have Tailgate Ajar Warning.
+All variants of Bmw X5 have Remote Trunk Opener.
+All variants of Bmw X5 have Lane Change Indicator.
+All variants of Bmw X5 have Cornering Headlamps.
+All variants of Bmw X5 do not have Xenon Headlamps.
+All variants of Bmw X5 have Traction Control.
+All variants of Bmw X5 have Rear Entertainment System.
+Bmw X5 variants with Leather Seats - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+Bmw X5 variants with Driving Experience Control Eco - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+Bmw X5 variants with Fog Lights - Rear - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+All variants of Bmw X5 have Internal Storage.
+All variants of Bmw X5 do not have Super Charge.
+All variants of Bmw X5 have Height Adjustable Driver Seat.
+All variants of Bmw X5 have Rear Window Defogger.
+All variants of Bmw X5 have Leather Wrapped Steering Wheel.
+All variants of Bmw X5 have Glove Box.
+All variants of Bmw X5 have Adjustable Headlamps.
+All variants of Bmw X5 have Outside Rear View Mirror Turn Indicators.
+All variants of Bmw X5 have Passenger Airbag.
+All variants of Bmw X5 have Tyre Pressure Monitoring System (TPMS).
+All variants of Bmw X5 have Touchscreen.
+All variants of Bmw X5 have Rear Window Wiper.
+All variants of Bmw X5 have Chrome Garnish.
+All variants of Bmw X5 have Child Safety Locks.
+All variants of Bmw X5 have Rear Spoiler.
+All variants of Bmw X5 have Rain Sensing Wiper.
+All variants of Bmw X5 have Air Quality Control.
+All variants of Bmw X5 have Tinted Glass.
+Bmw X5 variants with Navigation System - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+All variants of Bmw X5 have Smart Access Card Entry.
+Bmw X5 variants with Fabric Upholstery - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+All variants of Bmw X5 have Roof Rails.
+All variants of Bmw X5 have Roof Carrier.
+All variants of Bmw X5 have Side Stepper.
+All variants of Bmw X5 have Usb Ports.
+All variants of Bmw X5 have LED Fog Lamps.
+Bmw X5 variants with Low Fuel Warning Light - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+Bmw X5 variants with Heated Wing Mirror - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+Bmw X5 variants with Power Boot - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+Bmw X5 variants with Fog Lights - Front - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+All variants of Bmw X5 have Integrated 2DIN Audio.
+All variants of Bmw X5 have USB & Auxiliary input.
+Bmw X5 variants with Audio System Remote Control - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport.
+All Bmw X5 variants use the TwinPower Turbo 6-cylinder engine engine.
+Bmw X5 variants - xDrive40i xLine & xDrive40i M Sport share a displacement of 2998  cubic centimeters.
+Bmw X5 variants - xDrive30d xLine & xDrive30d M Sport share a displacement of 2993  cubic centimeters.
+Bmw X5 variants - xDrive40i xLine & xDrive40i M Sport have a max power of 375.48 Brake Horsepower (BHP) at 5200 to 6250 Revolutions Per Minute (RPM).
+Bmw X5 variants - xDrive30d xLine & xDrive30d M Sport have a max power of 281.68 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Bmw X5 variants - xDrive40i xLine & xDrive40i M Sport share a max torque of 520 Newton meters at 1850 to 5000 Revolutions Per Minute (RPM).
+Bmw X5 variants - xDrive30d xLine & xDrive30d M Sport share a max torque of 650 Newton meters at 1500 to 2500 Revolutions Per Minute (RPM).
+All Bmw X5 variants have 4.0 valves per cylinder.
+All Bmw X5 variants have a Automatic transmission.
+All Bmw X5 variants have 6.0 cylinders.
+All Bmw X5 variants come with a 8-Speed Steptronic gearbox.
+All Bmw X5 variants have a Four-Wheel Drive (4WD) drive type.
+Bmw X5 variants - xDrive40i xLine & xDrive40i M Sport use Petrol as fuel.
+Bmw X5 variants - xDrive30d xLine & xDrive30d M Sport use Diesel as fuel.
+All Bmw X5 variants comply with BS VI 2.0 emission norms.
+All Bmw X5 variants come with Electric steering.
+All Bmw X5 variants have Disc front brakes.
+All Bmw X5 variants have Disc rear brakes.
+All Bmw X5 variants have a length of 4922 mm.
+All Bmw X5 variants have a width of 2004 mm.
+All Bmw X5 variants have a height of 1745 mm.
+All Bmw X5 variants offer 645 Litres of boot space.
+All Bmw X5 variants have a seating capacity of 5.0.
+All Bmw X5 variants have a wheelbase of 2975 mm.
+Bmw X5 variants - xDrive40i xLine & xDrive40i M Sport share a kerb weight of 2220 kg.
+Bmw X5 variant xDrive30d xLine has a kerb weight of 2060 kg.
+Bmw X5 variant xDrive30d M Sport has a kerb weight of 2170 kg.
+All Bmw X5 variants have 5.0 doors.
+All Bmw X5 variants have tyres of size 21.
+All Bmw X5 variants come with Tubeless Runflat tyres.
+All Bmw X5 variants come equipped with 6.0 airbags.
+Bmw X5 variant xDrive30d xLine has a Global NCAP rating of 5 Star.
+All Bmw X5 variants come with 16.0 speakers.
+All Bmw X5 variants come with 21 Inch front alloy wheels.
+All Bmw X5 variants come with 21 Inch rear alloy wheels.
+All Bmw X5 variants come with Android Auto, Apple CarPlay connectivity options.
+All Bmw X5 variants feature a 12.3-inch Curved Widescreen Digital Cluster digital cluster.
+All Bmw X5 variants have a top speed of 243 kmph.
+Bmw X5 variants - xDrive40i xLine & xDrive40i M Sport have a 0-100 kmph acceleration time of 5.4 s.
+Bmw X5 variants - xDrive30d xLine & xDrive30d M Sport have a 0-100 kmph acceleration time of 6.1 s.
+Bmw X5 variants - xDrive40i xLine & xDrive40i M Sport have a 0-100 kmph acceleration time of 5.4 s.
+Bmw X5 variants - xDrive30d xLine & xDrive30d M Sport have a 0-100 kmph acceleration time of 6.1 s.
+All Bmw X5 variants have a rear tread of 1686 mm.
+All Bmw X5 variants are equipped with a 48V Electric Motor motor type.
+Bmw X5 variants - xDrive30d xLine, xDrive40i M Sport & xDrive30d M Sport offer the same trunk opening mechanism, which is Smart.
+All Bmw X5 variants offer a mileage of 12 kmpl.
+Bmw X5 variants - xDrive40i xLine & xDrive40i M Sport have fuel tank capacities of 83 Litres.
+Bmw X5 variants - xDrive30d xLine & xDrive30d M Sport have fuel tank capacities of 80 Litres.
+All Bmw X5 variants have the Air suspension front suspension.
+All Bmw X5 variants have the Air suspension rear suspension.
+All variants of Bmw X5 have Adjustable Steering.
+All Bmw X5 variants are equipped with Front & Rear parking sensors.
+All Bmw X5 variants come with Front USB charging ports.
+All Bmw X5 variants feature a 12.3 inch digital cluster.
+All Bmw X5 variants have a With Guidedlines rear camera.
+All Bmw X5 variants include Front & Rear speakers.
+All Bmw X5 variants have Front electric adjustable seats.
+All Bmw X5 variants have a 40:20:40 Split foldable rear seat.
+All variants of Bmw X5 have Central Console Armrest.
+All Bmw X5 variants come with a Twin turbocharger.
+All variants of Bmw X5 do not have Knee Airbags.
+All variants of Bmw X5 do not have Autonomous Parking.
+All Bmw X5 variants feature ambient lighting with 6 color options.
+All variants of Bmw X5 have Rear Seat Headrest.
+All Bmw X5 variants come with a Panoramic sunroof.
+All Bmw X5 variants come with 4 drive modes.
+All Bmw X5 variants come with 464 W Harman Kardon Surround Sound system, BMW Connected Package Professional(Teleservices, Intelligent E-call, Remote software upgrade, MyBMW App with Remote Services, Intelligent Personal Assistant), Digital Key Plus as additional features.

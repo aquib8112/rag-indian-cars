@@ -1,0 +1,129 @@
+Mini Cooper S has 4 variants: STD, Classic Pack, Favoured Pack & JSW Pack.
+All variants of Mini Cooper S have Power Steering.
+All variants of Mini Cooper S have Air Conditioner.
+All variants of Mini Cooper S have Heater.
+All variants of Mini Cooper S have Automatic Climate Control.
+All variants of Mini Cooper S have Accessory Power Outlet.
+All variants of Mini Cooper S have Trunk Light.
+All variants of Mini Cooper S have Vanity Mirror.
+All variants of Mini Cooper S have Rear Reading Lamp.
+All variants of Mini Cooper S have Adjustable Headrest.
+All variants of Mini Cooper S have Rear Seat Centre Arm Rest.
+All variants of Mini Cooper S have Rear AC Vents.
+All variants of Mini Cooper S have Cruise Control.
+All variants of Mini Cooper S have Real-Time Vehicle Tracking.
+All variants of Mini Cooper S have Engine Start/Stop Button.
+All variants of Mini Cooper S have Voice Commands.
+All variants of Mini Cooper S do not have Hands-Free Tailgate.
+All variants of Mini Cooper S have KeyLess Entry.
+All variants of Mini Cooper S have Idle Start-Stop System.
+All variants of Mini Cooper S have Follow Me Home Headlamps.
+All variants of Mini Cooper S have Tachometer.
+All variants of Mini Cooper S have Alloy Wheels.
+All variants of Mini Cooper S have Automatic Headlamps.
+All variants of Mini Cooper S have LED DRLs.
+All variants of Mini Cooper S have LED Headlamps.
+All variants of Mini Cooper S have Anti-lock Braking System (ABS).
+All variants of Mini Cooper S have Central Locking.
+All variants of Mini Cooper S have Driver Airbag.
+All variants of Mini Cooper S have Seat Belt Warning.
+All variants of Mini Cooper S have Engine Immobilizer.
+Mini Cooper S variant with E-Call & I-Call - JSW Pack.
+All variants of Mini Cooper S have Electronic Stability Control (ESC).
+All variants of Mini Cooper S have Anti-Theft Device.
+All variants of Mini Cooper S have Speed Alert.
+All variants of Mini Cooper S have Speed Sensing Auto Door Lock.
+All variants of Mini Cooper S have ISOFIX Child Seat Mounts.
+All variants of Mini Cooper S have Impact Sensing Auto Door Unlock.
+All variants of Mini Cooper S have Radio.
+All variants of Mini Cooper S have Wireless Phone Charging.
+All variants of Mini Cooper S have Bluetooth Connectivity.
+All variants of Mini Cooper S have Android Auto.
+All variants of Mini Cooper S have Apple CarPlay.
+Mini Cooper S variant with Live Location - JSW Pack.
+Mini Cooper S variant with Over the Air (OTA) Updates - JSW Pack.
+Mini Cooper S variant with Over Speeding Alert - JSW Pack.
+All variants of Mini Cooper S have Height Adjustable Front Seat Belts.
+All variants of Mini Cooper S have LED Taillights.
+All variants of Mini Cooper S have Electronic Brakeforce Distribution (EBD).
+All variants of Mini Cooper S have Brake Assist.
+All variants of Mini Cooper S have Anti-Theft Alarm.
+All variants of Mini Cooper S have Door Ajar Warning.
+Mini Cooper S variant with Heads-Up Display (HUD) - JSW Pack.
+Mini Cooper S variant with Adaptive High Beam Assist - JSW Pack.
+All variants of Mini Cooper S have Cooled Glovebox.
+Mini Cooper S variant with Navigation with Live Traffic - JSW Pack.
+Mini Cooper S variant with Send POI to Vehicle From App - JSW Pack.
+Mini Cooper S variant with Digital Car Key - JSW Pack.
+Mini Cooper S variant with Live Weather - JSW Pack.
+All variants of Mini Cooper S have Tailgate Ajar Warning.
+Mini Cooper S variant with Remote Vehicle Status Check - JSW Pack.
+Mini Cooper S variant with SOS Button - JSW Pack.
+Mini Cooper S variant without Regenerative Braking - STD.
+All variants of Mini Cooper S have Traction Control.
+Mini Cooper S variant with RSA - JSW Pack.
+All variants of Mini Cooper S have Height Adjustable Driver Seat.
+All variants of Mini Cooper S have Rear Window Defogger.
+All variants of Mini Cooper S have Glove Box.
+All variants of Mini Cooper S have Adjustable Headlamps.
+All variants of Mini Cooper S have Outside Rear View Mirror Turn Indicators.
+All variants of Mini Cooper S have Passenger Airbag.
+All variants of Mini Cooper S have Day & Night Rear View Mirror.
+All variants of Mini Cooper S have Tyre Pressure Monitoring System (TPMS).
+All variants of Mini Cooper S have Touchscreen.
+All variants of Mini Cooper S have Rear Window Wiper.
+All variants of Mini Cooper S have Rear Window Washer.
+All variants of Mini Cooper S have Child Safety Locks.
+All variants of Mini Cooper S have Rain Sensing Wiper.
+All variants of Mini Cooper S have Air Quality Control.
+Mini Cooper S variant with Rear Touchscreen - Classic Pack.
+Mini Cooper S variants with Usb Ports - STD, Favoured Pack & JSW Pack.
+Mini Cooper S variant without Gear Shift Indicator - JSW Pack.
+Mini Cooper S variants with Luggage Hook & Net - STD, Classic Pack & Favoured Pack.
+Mini Cooper S variant without Luggage Hook & Net - JSW Pack.
+Mini Cooper S variant without Rear Curtain - JSW Pack.
+All Mini Cooper S variants use the 2-litre turbo-petrol engine engine.
+All Mini Cooper S variants have a displacement of 1998  cubic centimeters.
+All Mini Cooper S variants produce a maximum power of 201 Brake Horsepower (BHP).
+Mini Cooper S variants - STD, Classic Pack & Favoured Pack share a max torque of 300 Newton meters.
+Mini Cooper S variant JSW Pack has a max torque of 300 Newton meters at 1450 to 4500 Revolutions Per Minute (RPM).
+All Mini Cooper S variants have 4.0 valves per cylinder.
+All Mini Cooper S variants have a Automatic transmission.
+All Mini Cooper S variants have 4.0 cylinders.
+All Mini Cooper S variants come with a 7-Speed-DCT gearbox.
+Mini Cooper S variants - STD, Classic Pack & Favoured Pack share a Front-Wheel Drive (FWD) drive type.
+All Mini Cooper S variants run on Petrol.
+All Mini Cooper S variants comply with BS VI 2.0 emission norms.
+Mini Cooper S variant JSW Pack has Electric steering.
+All Mini Cooper S variants have Disc front brakes.
+All Mini Cooper S variants have Disc rear brakes.
+All Mini Cooper S variants have a length of 3876 mm.
+All Mini Cooper S variants have a width of 1744 mm.
+All Mini Cooper S variants have a height of 1432 mm.
+All Mini Cooper S variants offer 210 Litres of boot space.
+All Mini Cooper S variants have a seating capacity of 5.0.
+All Mini Cooper S variants have a wheelbase of 2495 mm.
+All Mini Cooper S variants have 3.0 doors.
+All Mini Cooper S variants come with Unknown tyres.
+All Mini Cooper S variants come equipped with 2.0 airbags.
+All Mini Cooper S variants come with a unknown touchscreen display.
+Mini Cooper S variant JSW Pack has 17 Inch front alloy wheels.
+Mini Cooper S variant JSW Pack has 17 Inch rear alloy wheels.
+All Mini Cooper S variants feature a Full Digital digital cluster.
+All Mini Cooper S variants come with Leather upholstery.
+Mini Cooper S variant JSW Pack accelerates from 0-100 kmph in 6.6 s.
+Mini Cooper S variant JSW Pack accelerates from 0-100 kmph in 6.6 s.
+All Mini Cooper S variants have All Windows anti-pinch power windows.
+All Mini Cooper S variants provide a highway mileage of 15 kmpl.
+Mini Cooper S variant JSW Pack has the Air suspension front suspension.
+Mini Cooper S variant JSW Pack has the Air suspension rear suspension.
+Mini Cooper S variant with Adjustable Steering - STD.
+Mini Cooper S variant without Adjustable Steering - JSW Pack.
+All Mini Cooper S variants are equipped with Front & Rear parking sensors.
+All Mini Cooper S variants come with Front & Rear USB charging ports.
+All Mini Cooper S variants have a With Guidedlines rear camera.
+All Mini Cooper S variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Mini Cooper S variants have Front electric adjustable seats.
+All Mini Cooper S variants have a With Storage central console armrest.
+All variants of Mini Cooper S have Turbo Charger.
+Mini Cooper S variants with Rear Seat Headrest - STD & JSW Pack.

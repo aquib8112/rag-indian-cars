@@ -1,0 +1,162 @@
+Maruti Invicto has 3 variants: Zeta Plus 7Str, Zeta Plus 8Str & Alpha Plus 7Str.
+All variants of Maruti Invicto have Power Steering.
+All variants of Maruti Invicto have Air Conditioner.
+All variants of Maruti Invicto have Heater.
+All variants of Maruti Invicto have Automatic Climate Control.
+All variants of Maruti Invicto have Accessory Power Outlet.
+All variants of Maruti Invicto have Trunk Light.
+All variants of Maruti Invicto have Vanity Mirror.
+All variants of Maruti Invicto have Rear Reading Lamp.
+All variants of Maruti Invicto have Adjustable Headrest.
+All variants of Maruti Invicto have Rear AC Vents.
+All variants of Maruti Invicto have Cruise Control.
+All variants of Maruti Invicto have Real-Time Vehicle Tracking.
+All variants of Maruti Invicto have Engine Start/Stop Button.
+All variants of Maruti Invicto have KeyLess Entry.
+All variants of Maruti Invicto have Tachometer.
+All variants of Maruti Invicto do not have Wheel Covers.
+All variants of Maruti Invicto have Alloy Wheels.
+All variants of Maruti Invicto have Integrated Antenna.
+All variants of Maruti Invicto have LED DRLs.
+All variants of Maruti Invicto have LED Headlamps.
+All variants of Maruti Invicto have Anti-lock Braking System (ABS).
+All variants of Maruti Invicto have Central Locking.
+All variants of Maruti Invicto have Driver Airbag.
+All variants of Maruti Invicto have Side Airbag.
+All variants of Maruti Invicto have Seat Belt Warning.
+All variants of Maruti Invicto have Engine Immobilizer.
+All variants of Maruti Invicto have E-Call & I-Call.
+Maruti Invicto variant with Remote AC On/Off - Alpha Plus 7Str.
+Maruti Invicto variants without Remote AC On/Off - Zeta Plus 7Str & Zeta Plus 8Str.
+All variants of Maruti Invicto have Electronic Stability Control (ESC).
+Maruti Invicto variant with Anti-Theft Device - Alpha Plus 7Str.
+Maruti Invicto variants without Anti-Theft Device - Zeta Plus 7Str & Zeta Plus 8Str.
+All variants of Maruti Invicto have Speed Alert.
+All variants of Maruti Invicto have Speed Sensing Auto Door Lock.
+All variants of Maruti Invicto have ISOFIX Child Seat Mounts.
+All variants of Maruti Invicto have Hill Assist.
+Maruti Invicto variant with 360 View Camera - Alpha Plus 7Str.
+Maruti Invicto variants without 360 View Camera - Zeta Plus 7Str & Zeta Plus 8Str.
+Maruti Invicto variants with Radio - Zeta Plus 8Str & Alpha Plus 7Str.
+All variants of Maruti Invicto have Bluetooth Connectivity.
+All variants of Maruti Invicto have Android Auto.
+All variants of Maruti Invicto have Apple CarPlay.
+All variants of Maruti Invicto have Live Location.
+All variants of Maruti Invicto have Google / Alexa Connectivity.
+All variants of Maruti Invicto have Over Speeding Alert.
+All variants of Maruti Invicto have Smartwatch App.
+All variants of Maruti Invicto have Valet Mode.
+All variants of Maruti Invicto have Remote Door Lock/Unlock.
+All variants of Maruti Invicto have Geo-fence Alert.
+All variants of Maruti Invicto have Height Adjustable Front Seat Belts.
+All variants of Maruti Invicto have Paddle Shifters.
+All variants of Maruti Invicto have Tow Away Alert.
+All variants of Maruti Invicto have LED Taillights.
+All variants of Maruti Invicto have Electronic Brakeforce Distribution (EBD).
+Maruti Invicto variant with Anti-Theft Alarm - Alpha Plus 7Str.
+Maruti Invicto variants without Anti-Theft Alarm - Zeta Plus 7Str & Zeta Plus 8Str.
+All variants of Maruti Invicto have Door Ajar Warning.
+All variants of Maruti Invicto have Digital Odometer.
+All variants of Maruti Invicto have Remote Immobiliser.
+All variants of Maruti Invicto have Send POI to Vehicle From App.
+Maruti Invicto variant with Ventilated Seats - Alpha Plus 7Str.
+Maruti Invicto variants without Ventilated Seats - Zeta Plus 7Str & Zeta Plus 8Str.
+All variants of Maruti Invicto have Rear Window Sunblind.
+All variants of Maruti Invicto have Remote Vehicle Status Check.
+All variants of Maruti Invicto have SOS Button.
+All variants of Maruti Invicto have Height Adjustable Driver Seat.
+Maruti Invicto variants with Rear Window Defogger - Zeta Plus 7Str, Zeta Plus 8Str & Alpha Plus 7Str.
+All variants of Maruti Invicto have Leather Wrapped Steering Wheel.
+All variants of Maruti Invicto have Glove Box.
+All variants of Maruti Invicto have Adjustable Headlamps.
+All variants of Maruti Invicto have Outside Rear View Mirror Turn Indicators.
+All variants of Maruti Invicto have Passenger Airbag.
+All variants of Maruti Invicto have Day & Night Rear View Mirror.
+Maruti Invicto variants with Tyre Pressure Monitoring System (TPMS) - Zeta Plus 7Str, Zeta Plus 8Str & Alpha Plus 7Str.
+All variants of Maruti Invicto have Touchscreen.
+All variants of Maruti Invicto have Rear Window Wiper.
+All variants of Maruti Invicto have Rear Window Washer.
+All variants of Maruti Invicto have Child Safety Locks.
+All variants of Maruti Invicto have Rear Spoiler.
+All variants of Maruti Invicto have Air Quality Control.
+Maruti Invicto variant with Tinted Glass - Zeta Plus 7Str.
+All variants of Maruti Invicto have Curtain Airbag.
+All variants of Maruti Invicto have Usb Ports.
+All variants of Maruti Invicto have Luggage Hook & Net.
+Maruti Invicto variants with Integrated 2DIN Audio - Zeta Plus 8Str & Alpha Plus 7Str.
+All Maruti Invicto variants have a displacement of 1987  cubic centimeters.
+All Maruti Invicto variants produce a maximum power of 150.19 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Maruti Invicto variants produce a maximum torque of 188 Newton meters at 4400 to 5200 Revolutions Per Minute (RPM).
+All Maruti Invicto variants have 4.0 valves per cylinder.
+All Maruti Invicto variants have a Automatic transmission.
+All Maruti Invicto variants have 4.0 cylinders.
+All Maruti Invicto variants come with a E-CVT gearbox.
+All Maruti Invicto variants have a Front-Wheel Drive (FWD) drive type.
+All Maruti Invicto variants run on Petrol.
+All Maruti Invicto variants comply with BS VI 2.0 emission norms.
+All Maruti Invicto variants come with Electric steering.
+All Maruti Invicto variants have Ventilated Disc front brakes.
+All Maruti Invicto variants have Solid Disc rear brakes.
+All Maruti Invicto variants have a length of 4755 mm.
+Maruti Invicto variants - Zeta Plus 7Str & Zeta Plus 8Str share a width of 1845 mm.
+Maruti Invicto variant Alpha Plus 7Str has a width of 1850 mm.
+Maruti Invicto variants - Zeta Plus 7Str & Zeta Plus 8Str share a height of 1795 mm.
+Maruti Invicto variant Alpha Plus 7Str has a height of 1790 mm.
+All Maruti Invicto variants offer 239 Litres of boot space.
+Maruti Invicto variants - Zeta Plus 7Str & Alpha Plus 7Str share a seating capacity of 7.0.
+Maruti Invicto variant Zeta Plus 8Str has a seating capacity of 8.0.
+All Maruti Invicto variants have a wheelbase of 2850 mm.
+Maruti Invicto variants - Zeta Plus 7Str & Zeta Plus 8Str share a kerb weight of 1620-1630 kg.
+Maruti Invicto variant Alpha Plus 7Str has a kerb weight of 1685 kg.
+Maruti Invicto variants - Zeta Plus 7Str & Zeta Plus 8Str share a gross weight of 2300 kg.
+Maruti Invicto variant Alpha Plus 7Str has a gross weight of 2320 kg.
+All Maruti Invicto variants have 5.0 doors.
+Maruti Invicto variants - Zeta Plus 7Str & Zeta Plus 8Str feature a Manual boot opening mechanism.
+Maruti Invicto variant Alpha Plus 7Str is equipped with a Electronic boot opening mechanism.
+All Maruti Invicto variants have Powered & Folding Outside Rear View Mirror (ORVM).
+All Maruti Invicto variants have tyres of size 215/60 R17.
+All Maruti Invicto variants come with Tubeless Radial tyres.
+All Maruti Invicto variants come equipped with 6.0 airbags.
+Maruti Invicto variant Zeta Plus 7Str has a Global NCAP rating of 5 Star.
+Maruti Invicto variants - Zeta Plus 7Str & Zeta Plus 8Str come with a 8 inch touchscreen display.
+Maruti Invicto variant Alpha Plus 7Str features a 10.09 inch touchscreen.
+All Maruti Invicto variants come with 6.0 speakers.
+All Maruti Invicto variants use Electric as a secondary fuel type.
+All Maruti Invicto variants come with 17 Inch front alloy wheels.
+All Maruti Invicto variants come with 17 Inch rear alloy wheels.
+Maruti Invicto variants - Zeta Plus 8Str & Alpha Plus 7Str have Android Auto, Apple CarPlay connectivity options.
+All Maruti Invicto variants feature a Full Digital digital cluster.
+Maruti Invicto variants - Zeta Plus 7Str & Zeta Plus 8Str feature Fabric upholstery options.
+Maruti Invicto variant Alpha Plus 7Str is equipped with Leatherette upholstery.
+All Maruti Invicto variants offer a boot space of 239 Litres.
+All Maruti Invicto variants have a top speed of 170 kmph.
+All Maruti Invicto variants are equipped with a AC Synchronous Motor motor type.
+All Maruti Invicto variants are powered by a Nickel Metal Hydride battery.
+All Maruti Invicto variants have Driver's Window anti-pinch power windows.
+All Maruti Invicto variants offer a mileage of 23.24 kmpl.
+All Maruti Invicto variants have a fuel tank capacity of 52 Litres.
+All Maruti Invicto variants have the MacPherson Strut suspension front suspension.
+All Maruti Invicto variants have the Rear twist beam rear suspension.
+All Maruti Invicto variants come with Tilt & Telescopic steering adjustment.
+All variants of Maruti Invicto have Adjustable Steering.
+Maruti Invicto variants without Parking Sensors - Zeta Plus 7Str & Zeta Plus 8Str.
+Maruti Invicto variant Alpha Plus 7Str has Front & Rear parking sensors.
+All Maruti Invicto variants come with Front & Rear USB charging ports.
+All Maruti Invicto variants have Front & Rear power windows.
+All Maruti Invicto variants come with Front Only cup holders.
+All Maruti Invicto variants come with a Shark Fin antenna.
+All Maruti Invicto variants feature a 7 inch digital cluster.
+All Maruti Invicto variants have a With Guidedlines rear camera.
+All Maruti Invicto variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Maruti Invicto variants include Front & Rear speakers.
+Maruti Invicto variants without Electric Adjustable Seats - Zeta Plus 7Str & Zeta Plus 8Str.
+Maruti Invicto variant Alpha Plus 7Str has Front electric adjustable seats.
+All Maruti Invicto variants have a 60:40 Split foldable rear seat.
+All Maruti Invicto variants have a With Storage central console armrest.
+Maruti Invicto variants without Sunroof - Zeta Plus 7Str & Zeta Plus 8Str.
+Maruti Invicto variant Alpha Plus 7Str offers a Panoramic sunroof.
+All Maruti Invicto variants come with 3 drive modes.
+All Maruti Invicto variants offer Eco, Normal & Sport drive modes.
+Maruti Invicto variant Zeta Plus 7Str offers SmartPlay Magnum 20.32 cm Touch Screen, Eco Drive Indicator with Eco Score, S-Connect as additional features.
+Maruti Invicto variant Zeta Plus 8Str offers Twin Led Headlamps With NEXT re DRLs,NEXT re Signature LED Tail Lamps,LInear LED Turn Indicators(Front Bumper),Body Colored ORVM With Turn Indicator,Roof End Spoiler With Led High Mount Stop Lamp,Chrome Back Door Garnish,Outside Door Handles(Body Colored),NEXWave Grille With Sweeping Cross Bar Chrome Finish,Precision Cut Alloy Wheels,Front Wipers(Intermittent) as additional features.
+Maruti Invicto variant Alpha Plus 7Str offers Wireless Apple CarPlay as additional features.

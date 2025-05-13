@@ -1,0 +1,124 @@
+Audi Q7 has 3 variants: Premium Plus, Bold Edition & Technology.
+All variants of Audi Q7 have Power Steering.
+All variants of Audi Q7 have Air Conditioner.
+All variants of Audi Q7 have Heater.
+All variants of Audi Q7 have Automatic Climate Control.
+All variants of Audi Q7 have Accessory Power Outlet.
+All variants of Audi Q7 have Trunk Light.
+All variants of Audi Q7 have Vanity Mirror.
+All variants of Audi Q7 have Rear Reading Lamp.
+All variants of Audi Q7 have Adjustable Headrest.
+All variants of Audi Q7 have Rear AC Vents.
+All variants of Audi Q7 have Cruise Control.
+All variants of Audi Q7 have Engine Start/Stop Button.
+All variants of Audi Q7 have KeyLess Entry.
+All variants of Audi Q7 have Idle Start-Stop System.
+All variants of Audi Q7 have Follow Me Home Headlamps.
+All variants of Audi Q7 have Tachometer.
+All variants of Audi Q7 do not have Wheel Covers.
+All variants of Audi Q7 have Alloy Wheels.
+All variants of Audi Q7 have Integrated Antenna.
+All variants of Audi Q7 have Projector Headlamps.
+All variants of Audi Q7 have Automatic Headlamps.
+All variants of Audi Q7 have LED DRLs.
+All variants of Audi Q7 have LED Headlamps.
+All variants of Audi Q7 have Anti-lock Braking System (ABS).
+All variants of Audi Q7 have Central Locking.
+All variants of Audi Q7 have Driver Airbag.
+All variants of Audi Q7 have Side Airbag.
+All variants of Audi Q7 have Seat Belt Warning.
+All variants of Audi Q7 have Engine Immobilizer.
+All variants of Audi Q7 have Side Airbag-Rear.
+All variants of Audi Q7 have Electronic Stability Control (ESC).
+All variants of Audi Q7 have Anti-Theft Device.
+All variants of Audi Q7 have Speed Alert.
+All variants of Audi Q7 have Speed Sensing Auto Door Lock.
+All variants of Audi Q7 have ISOFIX Child Seat Mounts.
+All variants of Audi Q7 have Hill Assist.
+All variants of Audi Q7 have Impact Sensing Auto Door Unlock.
+All variants of Audi Q7 have 360 View Camera.
+All variants of Audi Q7 have Radio.
+All variants of Audi Q7 have Wireless Phone Charging.
+All variants of Audi Q7 have Bluetooth Connectivity.
+All variants of Audi Q7 have Android Auto.
+All variants of Audi Q7 have Apple CarPlay.
+All variants of Audi Q7 have Height Adjustable Front Seat Belts.
+All variants of Audi Q7 have LED Taillights.
+All variants of Audi Q7 have Electronic Brakeforce Distribution (EBD).
+All variants of Audi Q7 have Anti-Theft Alarm.
+All variants of Audi Q7 have Door Ajar Warning.
+All variants of Audi Q7 have Cooled Glovebox.
+All variants of Audi Q7 have Glove Box light.
+All variants of Audi Q7 have Tailgate Ajar Warning.
+All variants of Audi Q7 have Traction Control.
+All variants of Audi Q7 have Height Adjustable Driver Seat.
+All variants of Audi Q7 have Rear Window Defogger.
+All variants of Audi Q7 have Leather Wrapped Steering Wheel.
+All variants of Audi Q7 have Glove Box.
+All variants of Audi Q7 have Adjustable Headlamps.
+All variants of Audi Q7 have Outside Rear View Mirror Turn Indicators.
+All variants of Audi Q7 have Passenger Airbag.
+All variants of Audi Q7 have Day & Night Rear View Mirror.
+All variants of Audi Q7 have Tyre Pressure Monitoring System (TPMS).
+All variants of Audi Q7 have Touchscreen.
+All variants of Audi Q7 have Rear Window Wiper.
+All variants of Audi Q7 have Rear Window Washer.
+All variants of Audi Q7 have Child Safety Locks.
+All variants of Audi Q7 have Rear Spoiler.
+All variants of Audi Q7 have Rain Sensing Wiper.
+All variants of Audi Q7 have Air Quality Control.
+All variants of Audi Q7 have Curtain Airbag.
+All variants of Audi Q7 have Usb Ports.
+All variants of Audi Q7 have Luggage Hook & Net.
+All Audi Q7 variants use the 3.0L V6 TFSI engine.
+All Audi Q7 variants have a displacement of 2995  cubic centimeters.
+All Audi Q7 variants produce a maximum power of 335 Brake Horsepower (BHP) at 5200  to  6400 Revolutions Per Minute (RPM).
+All Audi Q7 variants produce a maximum torque of 500 Newton meters at 1370  to  4500 Revolutions Per Minute (RPM).
+All Audi Q7 variants have 4.0 valves per cylinder.
+All Audi Q7 variants have a Automatic transmission.
+All Audi Q7 variants have 6.0 cylinders.
+All Audi Q7 variants come with a 8-Speed-AT gearbox.
+All Audi Q7 variants have a All-Wheel Drive (AWD) drive type.
+All Audi Q7 variants run on Petrol.
+All Audi Q7 variants comply with BS VI 2.0 emission norms.
+All Audi Q7 variants come with Electric steering.
+All Audi Q7 variants have Disc front brakes.
+All Audi Q7 variants have Disc rear brakes.
+All Audi Q7 variants have a length of 5072 mm.
+All Audi Q7 variants have a width of 1970 mm.
+All Audi Q7 variants have a height of 1705 mm.
+All Audi Q7 variants have a seating capacity of 7.0.
+All Audi Q7 variants have a wheelbase of 3000 mm.
+All Audi Q7 variants have 5.0 doors.
+All Audi Q7 variants come with a Electronic boot opening mechanism.
+All Audi Q7 variants have Powered & Folding Outside Rear View Mirror (ORVM).
+All Audi Q7 variants come with Tyre Type tyres.
+All Audi Q7 variants come equipped with 8.0 airbags.
+All Audi Q7 variants come with a 10.09 inch touchscreen display.
+All Audi Q7 variants come with 19.0 speakers.
+All Audi Q7 variants come with 20 Inch front alloy wheels.
+All Audi Q7 variants come with 20 Inch rear alloy wheels.
+All Audi Q7 variants feature a Full Digital digital cluster.
+All Audi Q7 variants come with Leather upholstery.
+All Audi Q7 variants have a top speed of 250 kmph.
+All Audi Q7 variants accelerate from 0-100 kmph in 5.6 s.
+All Audi Q7 variants accelerate from 0-100 kmph in 5.6 s.
+All Audi Q7 variants have Driver's Window anti-pinch power windows.
+All Audi Q7 variants come with Tilt & Telescopic steering adjustment.
+All Audi Q7 variants have Height & Reach steering adjustability.
+All Audi Q7 variants are equipped with Front & Rear parking sensors.
+All Audi Q7 variants come with Front & Rear USB charging ports.
+All Audi Q7 variants have Front & Rear power windows.
+All Audi Q7 variants come with Front & Rear cup holders.
+All Audi Q7 variants come with a Shark Fin antenna.
+All Audi Q7 variants feature a 12.29 inch digital cluster.
+All Audi Q7 variants have a With Guidedlines rear camera.
+All Audi Q7 variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Audi Q7 variants include Front & Rear speakers.
+All Audi Q7 variants have Front electric adjustable seats.
+All Audi Q7 variants have a With Storage central console armrest.
+All variants of Audi Q7 have Turbo Charger.
+All Audi Q7 variants come with Adjustable rear seat headrests.
+All Audi Q7 variants come with a Dual Pane sunroof.
+All Audi Q7 variants come with 6 drive modes.
+All Audi Q7 variants offer Auto Mode, Comfort Mode, Dynamic Mode, Effciency Mode, Off-Road Mode, Individual Mode, All-Road Mode drive modes.

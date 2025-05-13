@@ -1,0 +1,225 @@
+Kia Syros has 13 variants: HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+All variants of Kia Syros have Power Steering.
+All variants of Kia Syros have Air Conditioner.
+All variants of Kia Syros have Heater.
+Kia Syros variants with Automatic Climate Control - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Automatic Climate Control - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+All variants of Kia Syros have Accessory Power Outlet.
+Kia Syros variants with Trunk Light - HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Trunk Light - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT & HTK Plus Diesel.
+All variants of Kia Syros have Adjustable Headrest.
+Kia Syros variants with Rear Seat Centre Arm Rest - HTK Plus Turbo, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Rear Seat Centre Arm Rest - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel & HTK Plus Turbo DCT.
+All variants of Kia Syros have Rear AC Vents.
+Kia Syros variants with Cruise Control - HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Cruise Control - HTK Turbo, HTK Opt Turbo & HTK Opt DIesel.
+Kia Syros variants with Real-Time Vehicle Tracking - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Real-Time Vehicle Tracking - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+Kia Syros variants with Engine Start/Stop Button - HTK Plus Turbo DCT, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Engine Start/Stop Button - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo & HTK Plus Diesel.
+All variants of Kia Syros have KeyLess Entry.
+All variants of Kia Syros have Idle Start-Stop System.
+Kia Syros variants with Follow Me Home Headlamps - HTK Plus Turbo DCT, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Follow Me Home Headlamps - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo & HTK Plus Diesel.
+All variants of Kia Syros have Tachometer.
+Kia Syros variants with Wheel Covers - HTK Turbo & HTK Opt Turbo.
+Kia Syros variants without Wheel Covers - HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants with Alloy Wheels - HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Alloy Wheels - HTK Turbo & HTK Opt Turbo.
+All variants of Kia Syros have Integrated Antenna.
+All variants of Kia Syros have Automatic Headlamps.
+Kia Syros variants with LED DRLs - HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without LED DRLs - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT & HTK Plus Diesel.
+Kia Syros variants with LED Headlamps - HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without LED Headlamps - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT & HTK Plus Diesel.
+All variants of Kia Syros have Anti-lock Braking System (ABS).
+All variants of Kia Syros have Central Locking.
+All variants of Kia Syros have Driver Airbag.
+All variants of Kia Syros have Side Airbag.
+All variants of Kia Syros have Seat Belt Warning.
+All variants of Kia Syros have Engine Immobilizer.
+Kia Syros variants with E-Call & I-Call - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without E-Call & I-Call - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+All variants of Kia Syros do not have Side Airbag-Rear.
+All variants of Kia Syros have Electronic Stability Control (ESC).
+All variants of Kia Syros have Anti-Theft Device.
+All variants of Kia Syros have Speed Alert.
+All variants of Kia Syros have Speed Sensing Auto Door Lock.
+All variants of Kia Syros have ISOFIX Child Seat Mounts.
+All variants of Kia Syros have Hill Assist.
+All variants of Kia Syros have Impact Sensing Auto Door Unlock.
+Kia Syros variants with 360 View Camera - HTX Plus Opt Turbo DCT & HTX Plus Opt Diesel AT.
+Kia Syros variants without 360 View Camera - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT & HTX Plus Diesel AT.
+All variants of Kia Syros have Radio.
+Kia Syros variants with Wireless Phone Charging - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Wireless Phone Charging - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+All variants of Kia Syros have Bluetooth Connectivity.
+All variants of Kia Syros have Android Auto.
+All variants of Kia Syros have Apple CarPlay.
+Kia Syros variants with Driver Attention Warning - HTX Plus Opt Turbo DCT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Driver Attention Warning - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT & HTX Plus Diesel AT.
+All variants of Kia Syros have Live Location.
+Kia Syros variants with Over the Air (OTA) Updates - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Over the Air (OTA) Updates - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+Kia Syros variants with Smartwatch App - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Smartwatch App - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+Kia Syros variants with Paddle Shifters - HTK Plus Turbo DCT, HTX Turbo DCT, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Paddle Shifters - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Diesel, HTX Turbo & HTX DIesel.
+Kia Syros variants with Halogen Headlamps - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT & HTK Plus Diesel.
+Kia Syros variants without Halogen Headlamps - HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants with LED Taillights - HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without LED Taillights - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT & HTK Plus Diesel.
+All variants of Kia Syros have Electronic Brakeforce Distribution (EBD).
+All variants of Kia Syros have Brake Assist.
+All variants of Kia Syros have Anti-Theft Alarm.
+All variants of Kia Syros have Door Ajar Warning.
+Kia Syros variants with SOS / Emergency Assistance - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without SOS / Emergency Assistance - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+Kia Syros variants with Forward Collision Warning - HTX Plus Opt Turbo DCT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Forward Collision Warning - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT & HTX Plus Diesel AT.
+Kia Syros variants with Automatic Emergency Braking - HTX Plus Opt Turbo DCT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Automatic Emergency Braking - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT & HTX Plus Diesel AT.
+Kia Syros variants with Lane Departure Warning - HTX Plus Opt Turbo DCT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Lane Departure Warning - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT & HTX Plus Diesel AT.
+Kia Syros variants with Lane Keep Assist - HTX Plus Opt Turbo DCT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Lane Keep Assist - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT & HTX Plus Diesel AT.
+Kia Syros variants with Adaptive Cruise Control - HTX Plus Opt Turbo DCT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Adaptive Cruise Control - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT & HTX Plus Diesel AT.
+Kia Syros variants with Leading Vehicle Departure Alert - HTX Plus Opt Turbo DCT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Leading Vehicle Departure Alert - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT & HTX Plus Diesel AT.
+Kia Syros variants with Adaptive High Beam Assist - HTX Plus Opt Turbo DCT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Adaptive High Beam Assist - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT & HTX Plus Diesel AT.
+Kia Syros variants with Navigation with Live Traffic - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Navigation with Live Traffic - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+Kia Syros variants with Ventilated Seats - HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Ventilated Seats - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT & HTK Plus Diesel.
+Kia Syros variants with Puddle Lamps - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Puddle Lamps - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+All variants of Kia Syros have Rear Window Sunblind.
+Kia Syros variants with Blind Spot Monitor - HTX Plus Opt Turbo DCT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Blind Spot Monitor - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT & HTX Plus Diesel AT.
+All variants of Kia Syros have Live Weather.
+All variants of Kia Syros have Tailgate Ajar Warning.
+Kia Syros variants with SOS Button - HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variant without SOS Button - HTK Turbo.
+Kia Syros variants with Traction Control - HTK Plus Turbo DCT, HTX Turbo DCT, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants without Traction Control - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Diesel, HTX Turbo & HTX DIesel.
+Kia Syros variants with RSA - HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variant without RSA - HTK Turbo.
+Kia Syros variants with Height Adjustable Driver Seat - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+All variants of Kia Syros have Glove Box.
+All variants of Kia Syros have Passenger Airbag.
+All variants of Kia Syros have Day & Night Rear View Mirror.
+All variants of Kia Syros have Tyre Pressure Monitoring System (TPMS).
+All variants of Kia Syros have Touchscreen.
+Kia Syros variants with Rear Window Wiper - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants with Rear Window Washer - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants with Chrome Garnish - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+All variants of Kia Syros have Child Safety Locks.
+All variants of Kia Syros have Rear Spoiler.
+Kia Syros variants with Air Quality Control - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variants with Roof Rails - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+All variants of Kia Syros have Curtain Airbag.
+All variants of Kia Syros have Usb Ports.
+Kia Syros variants with Gear Shift Indicator - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Diesel, HTX Turbo & HTX DIesel.
+Kia Syros variants without Gear Shift Indicator - HTK Plus Turbo DCT, HTX Turbo DCT, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT.
+Kia Syros variant HTK Turbo has the Smartstream G1.0 T-GDi engine.
+Kia Syros variants - HTK Opt Turbo, HTK Plus Turbo, HTK Plus Turbo DCT, HTX Turbo, HTX Turbo DCT, HTX Plus Turbo DCT & HTX Plus Opt Turbo DCT share the Smartstream G1.0T-GDi engine.
+Kia Syros variant HTK Opt DIesel has the 1.5L CRDi VGT engine.
+Kia Syros variants - HTK Plus Diesel, HTX DIesel, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share the D1.5 CRDi VGT engine.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Plus Turbo, HTK Plus Turbo DCT, HTX Turbo, HTX Turbo DCT, HTX Plus Turbo DCT & HTX Plus Opt Turbo DCT share a displacement of 998  cubic centimeters.
+Kia Syros variants - HTK Opt DIesel, HTK Plus Diesel, HTX DIesel, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share a displacement of 1493  cubic centimeters.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Plus Turbo, HTK Plus Turbo DCT, HTX Turbo, HTX Turbo DCT, HTX Plus Turbo DCT & HTX Plus Opt Turbo DCT have a max power of 118 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Kia Syros variants - HTK Opt DIesel, HTK Plus Diesel, HTX DIesel, HTX Plus Diesel AT & HTX Plus Opt Diesel AT have a max power of 114 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Kia Syros variant HTK Turbo has a max torque of 172 Newton meters at 1500~4000 Revolutions Per Minute (RPM).
+Kia Syros variants - HTK Opt Turbo, HTK Plus Turbo, HTK Plus Turbo DCT, HTX Turbo, HTX Turbo DCT, HTX Plus Turbo DCT & HTX Plus Opt Turbo DCT share a max torque of 172 Newton meters at 1500 to 4000 Revolutions Per Minute (RPM).
+Kia Syros variants - HTK Opt DIesel, HTK Plus Diesel, HTX DIesel, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share a max torque of 250 Newton meters at 1500 to 2750 Revolutions Per Minute (RPM).
+All Kia Syros variants have 4.0 valves per cylinder.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Diesel, HTX Turbo & HTX DIesel share a Manual transmission.
+Kia Syros variants - HTK Plus Turbo DCT, HTX Turbo DCT, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share a Automatic transmission.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Plus Turbo, HTK Plus Turbo DCT, HTX Turbo, HTX Turbo DCT, HTX Plus Turbo DCT & HTX Plus Opt Turbo DCT have 3.0 cylinders.
+Kia Syros variants - HTK Opt DIesel, HTK Plus Diesel, HTX DIesel, HTX Plus Diesel AT & HTX Plus Opt Diesel AT have 4.0 cylinders.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Diesel, HTX Turbo, HTX DIesel, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share a 6-Speed gearbox.
+Kia Syros variants - HTK Plus Turbo DCT, HTX Turbo DCT, HTX Plus Turbo DCT & HTX Plus Opt Turbo DCT share a 7-Speed gearbox.
+All Kia Syros variants have a Front-Wheel Drive (FWD) drive type.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Plus Turbo, HTK Plus Turbo DCT, HTX Turbo, HTX Turbo DCT, HTX Plus Turbo DCT & HTX Plus Opt Turbo DCT use Petrol as fuel.
+Kia Syros variants - HTK Opt DIesel, HTK Plus Diesel, HTX DIesel, HTX Plus Diesel AT & HTX Plus Opt Diesel AT use Diesel as fuel.
+All Kia Syros variants comply with BS VI 2.0 emission norms.
+All Kia Syros variants come with Electric steering.
+All Kia Syros variants have Disc front brakes.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Diesel, HTX Turbo & HTX DIesel feature Drum rear brakes.
+Kia Syros variants - HTK Plus Turbo DCT, HTX Turbo DCT, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT feature Disc rear brakes.
+All Kia Syros variants have a length of 3995 mm.
+All Kia Syros variants have a width of 1805 mm.
+All Kia Syros variants have a height of 1680 mm.
+All Kia Syros variants offer 465 Litres of boot space.
+All Kia Syros variants have a seating capacity of 5.0.
+All Kia Syros variants have an unladen ground clearance of 190 mm.
+All Kia Syros variants have a wheelbase of 2550 mm.
+All Kia Syros variants have 5.0 doors.
+All Kia Syros variants come with a Electronic boot opening mechanism.
+Kia Syros variant HTK Turbo has Powered Outside Rear View Mirror (ORVM).
+Kia Syros variants - HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT feature Powered & Folding Outside Rear View Mirror (ORVM).
+Kia Syros variants - HTK Turbo, HTK Opt Turbo & HTK Plus Turbo feature tyres of size 195/65 R15.
+Kia Syros variants - HTK Opt DIesel, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel feature tyres of size 215/60 R16.
+Kia Syros variants - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT feature tyres of size 215/55 R17.
+All Kia Syros variants come with Tyre Type tyres.
+Kia Syros variants - HTK Turbo & HTK Opt Turbo feature 15 Inch wheels.
+All Kia Syros variants come equipped with 6.0 airbags.
+All Kia Syros variants come with a 12.3 inch touchscreen display.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel come with 4.0 speakers.
+Kia Syros variants - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT come with 8.0 speakers.
+Kia Syros variants - HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel have 16 Inch front alloy wheels.
+Kia Syros variants - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT have 17 Inch front alloy wheels.
+Kia Syros variants - HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel have 16 Inch rear alloy wheels.
+Kia Syros variants - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT have 17 Inch rear alloy wheels.
+Kia Syros variants - HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel have 2.0 tweeters.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT have Android Auto, Apple CarPlay connectivity options.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel feature a Multi-Information Display (MID) digital cluster.
+Kia Syros variants - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT feature a Full Digital digital cluster.
+All Kia Syros variants come with Leatherette upholstery.
+Kia Syros variants - HTK Plus Turbo, HTK Plus Turbo DCT & HTK Plus Diesel come with Driver's Window anti-pinch power windows.
+Kia Syros variants - HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT come with All Windows anti-pinch power windows.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Plus Turbo & HTX Turbo have mileage figures of 18.2 kmpl.
+Kia Syros variants - HTK Opt DIesel, HTK Plus Diesel & HTX DIesel have mileage figures of 20.75 kmpl.
+Kia Syros variants - HTK Plus Turbo DCT, HTX Turbo DCT, HTX Plus Turbo DCT & HTX Plus Opt Turbo DCT have mileage figures of 17.68 kmpl.
+Kia Syros variants - HTX Plus Diesel AT & HTX Plus Opt Diesel AT have mileage figures of 17.65 kmpl.
+All Kia Syros variants have a fuel tank capacity of 45 Litres.
+All Kia Syros variants have the MacPherson Strut suspension front suspension.
+All Kia Syros variants have the Rear twist beam rear suspension.
+All Kia Syros variants come with Tilt Steering steering adjustment.
+All Kia Syros variants have Height only steering adjustability.
+All Kia Syros variants are equipped with Front & Rear parking sensors.
+All Kia Syros variants come with Front & Rear USB charging ports.
+All Kia Syros variants have Front & Rear power windows.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo & HTK Opt DIesel share the Front Only cup holder configuration.
+Kia Syros variants - HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share the Front & Rear cup holder configuration.
+All Kia Syros variants come with a Shark Fin antenna.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel share the 4.2 inch digital cluster size.
+Kia Syros variants - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share the 12.3 inch digital cluster size.
+All Kia Syros variants have a With Guidedlines rear camera.
+All Kia Syros variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Kia Syros variants include Front & Rear speakers.
+Kia Syros variants without Electric Adjustable Seats - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+Kia Syros variants - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share the Front electric seat adjustment type.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo & HTK Opt DIesel share the Bench Folding foldable rear seat type.
+Kia Syros variants - HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share the 60:40 Split foldable rear seat type.
+All Kia Syros variants have a With Storage central console armrest.
+All variants of Kia Syros have Turbo Charger.
+Kia Syros variants without Inbuilt_Apps - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+Kia Syros variants - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share the Kia Connect 2.0 inbuilt apps.
+Kia Syros variants without Ambient  Light Colour (numbers) - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+Kia Syros variants - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share the 64 ambient lighting configuration.
+Kia Syros variants - HTK Turbo, HTK Opt Turbo & HTK Opt DIesel share Integrated rear seat headrests.
+Kia Syros variants - HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share Adjustable rear seat headrests.
+Kia Syros variant without Sunroof - HTK Turbo.
+Kia Syros variants - HTK Opt Turbo & HTK Opt DIesel share a Single Pane sunroof.
+Kia Syros variants - HTK Plus Turbo, HTK Plus Turbo DCT, HTK Plus Diesel, HTX Turbo, HTX Turbo DCT, HTX DIesel, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share a Panoramic sunroof.
+Kia Syros variants without Drive Modes - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Diesel, HTX Turbo & HTX DIesel.
+Kia Syros variants - HTK Plus Turbo DCT, HTX Turbo DCT, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share the 3 drive mode configuration.
+Kia Syros variants without Drive Mode Types - HTK Turbo, HTK Opt Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Diesel, HTX Turbo & HTX DIesel.
+Kia Syros variants - HTK Plus Turbo DCT, HTX Turbo DCT, HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share the Eco, Normal & Sport drive mode options.
+Kia Syros variants without Additional Features - HTK Turbo, HTK Opt DIesel, HTK Plus Turbo, HTK Plus Turbo DCT, HTX Turbo, HTX Turbo DCT & HTX DIesel.
+Kia Syros variant HTK Opt Turbo offers Kia Signature Digital Tiger Face | Streamline Door Handles | High Mounted Stop Lamp | Robust Front & Rear Skid Plate with Silver Metallic Finish | Side Door Garnish with Sliver Metallic Accent | Silver Brake calipers as additional features.
+Kia Syros variant HTK Plus Diesel offers Kia Signature Digital Tiger Face | Streamline Door Handles | High Mounted Stop Lamp | Robust Front & Rear Skid Plate with Silver Metallic Finish | Side Door Garnish with Sliver Metallic Accent | Silver Brake calipers | Black High Glossy Upper Garnish as additional features.
+Kia Syros variants - HTX Plus Turbo DCT, HTX Plus Opt Turbo DCT, HTX Plus Diesel AT & HTX Plus Opt Diesel AT share Harman Kardon Premium 8 Speakers Sound System as additional features.

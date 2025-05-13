@@ -1,0 +1,36 @@
+﻿There are 35 car brands currently available in India: Maruti, Tata, Kia, Toyota, Hyundai, Mahindra, Honda, MG, Skoda, Jeep, Renault, Nissan, Volkswagen, Citroën, Aston Martin, Audi, Bentley, BMW, BYD, Ferrari, Force, Isuzu, Jaguar, Lamborghini, Land Rover, Lexus, Lotus, Maserati, McLaren, Mercedes-Benz, Mini, Porsche, Pravaig, Rolls-Royce, and Volvo.
+Maruti has 22 cars present in India: Dzire, Ertiga, Swift, Fronx, Brezza, Grand Vitara, Baleno, Wagon R, Alto K10, Celerio, Xl6, Jimny, Eeco, Ignis, Ciaz, S Presso, Invicto, Ertiga Tour, Alto 800 Tour, Swift Dzire Tour, Eeco Cargo & Wagon R Tour.
+Tata has 15 cars present in India: Punch, Nexon, Curvv, Tiago, Harrier, Safari, Altroz, Curvv Ev, Tiago Ev, Tigor, Punch Ev, Nexon Ev, Altroz Racer, Tigor Ev & Tiago Nrg.
+Kia has 7 cars present in India: Syros, Seltos, Carens, Sonet, Carnival, Ev6 & Ev9.
+Toyota has 12 cars present in India: Fortuner, Innova Crysta, Land Cruiser 300, Hyryder, Camry, Hilux, Vellfire, Rumion, Innova Hycross, Taisor, Fortuner Legender & Glanza.
+Hyundai has 14 cars present in India: Creta, Venue, Verna, I20, Exter, Aura, Creta Electric, Alcazar, Tucson, Creta N Line, Venue N Line, Grand I10 Nios, I20 N Line & Ioniq 5.
+Mahindra has 13 cars present in India: Scorpio N, Thar Roxx, Bolero, Xuv700, Scorpio, Thar, Xuv 3Xo, Be 6, Xev 9E, Bolero Neo, Bolero Camper, Xuv400 Ev & Bolero Neo Plus.
+Honda has 5 cars present in India: Amaze, City, Elevate, City Hybrid & Amaze 2Nd Gen.
+Mg has 7 cars present in India: Hector, Windsor Ev, Astor, Gloster, Comet Ev, Zs Ev & Hector Plus.
+Skoda has 5 cars present in India: Kylaq, Kushaq, Slavia, Superb & Kodiaq.
+Jeep has 4 cars present in India: Compass, Wrangler, Meridian & Grand Cherokee.
+Renault has 3 cars present in India: Kwid, Triber & Kiger.
+Nissan has 2 cars present in India: Magnite & X Trail.
+Volkswagen has 3 cars present in India: Virtus, Taigun & Tiguan.
+Citroen has 5 cars present in India: C3, Basalt, Aircross, C5 Aircross & Ec3.
+Aston Martin has 3 cars present in India: Vantage, Db12 & Dbx.
+Audi has 12 cars present in India: Q7, A4, Q3, Q5, A6, Q8, Rs E Tron Gt, E Tron Gt, Q3 Sportback, Q8 E Tron, Q8 Sportback E Tron & S5 Sportback.
+Bentley has 3 cars present in India: Continental, Flying Spur & Bentayga.
+Bmw has 23 cars present in India: M5, I7, X1, X5, X7, X3, Z4, Ix1, 3 Series, M2, 5 Series, 7 Series, Xm, Ix, 2 Series, X4, M4 Competition, 6 Series, M4 Cs, 3 Series Gran Limousine, I4, I5 & M8 Coupe Competition.
+Byd has 3 cars present in India: Seal, Atto 3 & Emax 7.
+Ferrari has 5 cars present in India: 296 Gtb, Roma, Sf90 Stradale, F8 Tributo & 812.
+Force has 2 cars present in India: Gurkha & Gurkha 5 Door.
+Isuzu has 6 cars present in India: D Max, V Cross, Mu X, S Cab, S Cab Z & Hi Lander.
+Jaguar has 1 cars present in India: F Pace.
+Lamborghini has 3 cars present in India: Urus, Revuelto & Huracan Evo.
+Land Rover has 7 cars present in India: Defender, Range Rover, Range Rover Velar, Range Rover Sport, Discovery, Discovery Sport & Range Rover Evoque.
+Lexus has 5 cars present in India: Es, Lm, Lx, Nx & Rx.
+Lotus has 3 cars present in India: Emira, Eletre & Emeya.
+Maserati has 6 cars present in India: Levante, Ghibli, Gran Turismo, Quattroporte, Grecale & Gran Cabrio.
+Mclaren has 2 cars present in India: Gt & 750S.
+Mercedes Benz has 31 cars present in India: Gla, Gls, C Class, Maybach Gls, E Class, Glc, S Class, Gle, G Class, Eqs Suv, Eqs, Eqb, Amg Sl, Eqe Suv, Amg C43, Amg Glc 43, Maybach Eqs Suv, Amg A 45 S, Maybach S Class, Amg C 63, Eqa, Glb, Cle Cabriolet, A Class Limousine, Amg Gle 53, Amg E 53 Cabriolet, Amg Eqs, Amg Gla 35, Amg Gt 4 Door Coupe, Amg S 63 & G Class Electric.
+Mini has 5 cars present in India: Cooper Countryman, Cooper S, Cooper Se, Countryman Electric & 3 Door.
+Porsche has 7 cars present in India: 911, Cayenne, Macan, Taycan, Panamera, Macan Ev & Cayenne Coupe.
+Pravaig has 1 cars present in India: Defy.
+Rolls Royce has 4 cars present in India: Phantom, Cullinan, Ghost & Spectre.
+Volvo has 4 cars present in India: Xc60, S90, C40 Recharge & Ex40.

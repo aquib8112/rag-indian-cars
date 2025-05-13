@@ -1,0 +1,177 @@
+Aston Martin Dbx has 2 variants: V8 & 707.
+All variants of Aston Martin Dbx have Power Steering.
+All variants of Aston Martin Dbx have Air Conditioner.
+All variants of Aston Martin Dbx have Heater.
+All variants of Aston Martin Dbx have Automatic Climate Control.
+All variants of Aston Martin Dbx have Accessory Power Outlet.
+All variants of Aston Martin Dbx have Trunk Light.
+All variants of Aston Martin Dbx have Vanity Mirror.
+All variants of Aston Martin Dbx have Rear Reading Lamp.
+All variants of Aston Martin Dbx have Adjustable Headrest.
+All variants of Aston Martin Dbx have Rear AC Vents.
+All variants of Aston Martin Dbx have Cruise Control.
+All variants of Aston Martin Dbx have Engine Start/Stop Button.
+All variants of Aston Martin Dbx have Voice Commands.
+All variants of Aston Martin Dbx have Hands-Free Tailgate.
+All variants of Aston Martin Dbx have KeyLess Entry.
+All variants of Aston Martin Dbx have Follow Me Home Headlamps.
+All variants of Aston Martin Dbx have Tachometer.
+All variants of Aston Martin Dbx do not have Wheel Covers.
+All variants of Aston Martin Dbx have Alloy Wheels.
+All variants of Aston Martin Dbx have Integrated Antenna.
+All variants of Aston Martin Dbx do not have Projector Headlamps.
+All variants of Aston Martin Dbx have Automatic Headlamps.
+All variants of Aston Martin Dbx have LED DRLs.
+All variants of Aston Martin Dbx have LED Headlamps.
+All variants of Aston Martin Dbx have Anti-lock Braking System (ABS).
+All variants of Aston Martin Dbx have Central Locking.
+All variants of Aston Martin Dbx have Driver Airbag.
+All variants of Aston Martin Dbx have Side Airbag.
+All variants of Aston Martin Dbx have Seat Belt Warning.
+All variants of Aston Martin Dbx have Engine Immobilizer.
+All variants of Aston Martin Dbx have Side Airbag-Rear.
+All variants of Aston Martin Dbx have Electronic Stability Control (ESC).
+All variants of Aston Martin Dbx have Anti-Theft Device.
+All variants of Aston Martin Dbx have Speed Alert.
+All variants of Aston Martin Dbx have Speed Sensing Auto Door Lock.
+All variants of Aston Martin Dbx have ISOFIX Child Seat Mounts.
+All variants of Aston Martin Dbx have Hill Assist.
+All variants of Aston Martin Dbx have Impact Sensing Auto Door Unlock.
+All variants of Aston Martin Dbx have 360 View Camera.
+All variants of Aston Martin Dbx have Radio.
+All variants of Aston Martin Dbx have Bluetooth Connectivity.
+All variants of Aston Martin Dbx do not have Android Auto.
+All variants of Aston Martin Dbx have Apple CarPlay.
+All variants of Aston Martin Dbx have Height Adjustable Front Seat Belts.
+All variants of Aston Martin Dbx have Lumbar Support.
+All variants of Aston Martin Dbx have Paddle Shifters.
+All variants of Aston Martin Dbx have Electronic Multi-Tripmeter.
+All variants of Aston Martin Dbx have Digital Clock.
+All variants of Aston Martin Dbx have Outside Temperature Display.
+All variants of Aston Martin Dbx do not have Power Antenna.
+All variants of Aston Martin Dbx do not have Halogen Headlamps.
+All variants of Aston Martin Dbx have LED Taillights.
+All variants of Aston Martin Dbx have Brake Assist.
+All variants of Aston Martin Dbx have Anti-Theft Alarm.
+All variants of Aston Martin Dbx have Door Ajar Warning.
+All variants of Aston Martin Dbx have Digital Odometer.
+All variants of Aston Martin Dbx have Cooled Glovebox.
+All variants of Aston Martin Dbx have Hill Descent Control.
+All variants of Aston Martin Dbx do not have Smoke Headlamps.
+All variants of Aston Martin Dbx have Blind Spot Monitor.
+All variants of Aston Martin Dbx have Tailgate Ajar Warning.
+Aston Martin Dbx variant with Remote Trunk Opener - 707.
+All variants of Aston Martin Dbx have Remote Fuel Lid Opener.
+All variants of Aston Martin Dbx do not have Compass.
+All variants of Aston Martin Dbx have Lane Change Indicator.
+All variants of Aston Martin Dbx do not have Wi-Fi Connectivity.
+All variants of Aston Martin Dbx have Traction Control.
+All variants of Aston Martin Dbx do not have Rear Entertainment System.
+All variants of Aston Martin Dbx have Leather Seats.
+All variants of Aston Martin Dbx have Driving Experience Control Eco.
+All variants of Aston Martin Dbx do not have MirrorLink.
+All variants of Aston Martin Dbx have Fog Lights - Rear.
+All variants of Aston Martin Dbx do not have Internal Storage.
+Aston Martin Dbx variant with Find My Car location - 707.
+All variants of Aston Martin Dbx have Height Adjustable Driver Seat.
+All variants of Aston Martin Dbx have Rear Window Defogger.
+All variants of Aston Martin Dbx have Leather Wrapped Steering Wheel.
+All variants of Aston Martin Dbx have Glove Box.
+All variants of Aston Martin Dbx have Adjustable Headlamps.
+All variants of Aston Martin Dbx have Outside Rear View Mirror Turn Indicators.
+All variants of Aston Martin Dbx have Passenger Airbag.
+All variants of Aston Martin Dbx have Day & Night Rear View Mirror.
+All variants of Aston Martin Dbx have Tyre Pressure Monitoring System (TPMS).
+All variants of Aston Martin Dbx have Touchscreen.
+All variants of Aston Martin Dbx have Rear Window Wiper.
+All variants of Aston Martin Dbx have Rear Window Washer.
+All variants of Aston Martin Dbx have Child Safety Locks.
+All variants of Aston Martin Dbx have Rear Spoiler.
+All variants of Aston Martin Dbx have Rain Sensing Wiper.
+Aston Martin Dbx variant with Navigation System - 707.
+All variants of Aston Martin Dbx have Smart Access Card Entry.
+All variants of Aston Martin Dbx have Fabric Upholstery.
+All variants of Aston Martin Dbx have Roof Rails.
+All variants of Aston Martin Dbx have Cigarette Lighter.
+All variants of Aston Martin Dbx have Roof Carrier.
+All variants of Aston Martin Dbx have Usb Ports.
+All variants of Aston Martin Dbx have Luggage Hook & Net.
+All variants of Aston Martin Dbx have LED Fog Lamps.
+Aston Martin Dbx variant with Low Fuel Warning Light - 707.
+All variants of Aston Martin Dbx have Heated Wing Mirror.
+Aston Martin Dbx variant with Power Boot - 707.
+All variants of Aston Martin Dbx have Fog Lights - Front.
+All variants of Aston Martin Dbx have Integrated 2DIN Audio.
+All variants of Aston Martin Dbx have USB & Auxiliary input.
+All variants of Aston Martin Dbx have Audio System Remote Control.
+Aston Martin Dbx variant without Smart Key Band - 707.
+Aston Martin Dbx variant V8 has the 4.0-litre V8 32 valve Twin Turbo engine.
+Aston Martin Dbx variant 707 has the Quad Overhead Cam,4 litre twin turbo V8 engine.
+All Aston Martin Dbx variants have a displacement of 3982  cubic centimeters.
+Aston Martin Dbx variant V8 delivers a max power of 542 Brake Horsepower (BHP) at 6500 Revolutions Per Minute (RPM).
+Aston Martin Dbx variant 707 delivers a max power of 697 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Aston Martin Dbx variant V8 has a max torque of 700 Newton meters at 2200 to 5000 Revolutions Per Minute (RPM).
+Aston Martin Dbx variant 707 has a max torque of 900 Newton meters at 2600 to 4500 Revolutions Per Minute (RPM).
+All Aston Martin Dbx variants have 4.0 valves per cylinder.
+All Aston Martin Dbx variants have a Automatic transmission.
+All Aston Martin Dbx variants have 8.0 cylinders.
+All Aston Martin Dbx variants come with a 9-Speed-AT gearbox.
+All Aston Martin Dbx variants have a All-Wheel Drive (AWD) drive type.
+All Aston Martin Dbx variants run on Petrol.
+Aston Martin Dbx variant V8 complies with BS VI 2.0 emission norms.
+Aston Martin Dbx variant 707 complies with BS VI emission norms.
+All Aston Martin Dbx variants come with Electric steering.
+All Aston Martin Dbx variants have a turning radius of 6.2m.
+All Aston Martin Dbx variants have Ventilated steel Disc front brakes.
+All Aston Martin Dbx variants have Ventilated Disc rear brakes.
+All Aston Martin Dbx variants have a length of 5039 mm.
+All Aston Martin Dbx variants have a width of 2220 mm.
+All Aston Martin Dbx variants have a height of 1680 mm.
+All Aston Martin Dbx variants offer 632 Litres of boot space.
+All Aston Martin Dbx variants have a seating capacity of 5.0.
+All Aston Martin Dbx variants have an unladen ground clearance of 235 mm.
+Aston Martin Dbx variant V8 has a wheelbase of 3060 mm.
+Aston Martin Dbx variant 707 has a wheelbase of 3022 mm.
+All Aston Martin Dbx variants have a kerb weight of 2245 kg.
+All Aston Martin Dbx variants have a gross weight of 3020 kg.
+All Aston Martin Dbx variants have 5.0 doors.
+Aston Martin Dbx variant V8 comes with tyres of size 285/40 R22, 325/35 R22.
+Aston Martin Dbx variant 707 comes with tyres of size 285/40 R22,325/35 R22.
+All Aston Martin Dbx variants come with Tubeless Radial tyres.
+All Aston Martin Dbx variants come equipped with 10.0 airbags.
+All Aston Martin Dbx variants come with a 10.25 inch touchscreen display.
+All Aston Martin Dbx variants come with 14.0 speakers.
+All Aston Martin Dbx variants come with Android Auto, Apple CarPlay, SD Card Reader connectivity options.
+Aston Martin Dbx variant V8 has a top speed of 291 kmph.
+Aston Martin Dbx variant 707 has a top speed of 310 kmph.
+Aston Martin Dbx variant V8 features a front tread of 1630 mm.
+Aston Martin Dbx variant 707 features a front tread of 1531 mm.
+Aston Martin Dbx variant V8 accelerates from 0-100 kmph in 4.5 s.
+Aston Martin Dbx variant 707 accelerates from 0-100 kmph in 3.3 s.
+Aston Martin Dbx variant V8 accelerates from 0-100 kmph in 4.5 s.
+Aston Martin Dbx variant 707 accelerates from 0-100 kmph in 3.3 s.
+All Aston Martin Dbx variants come with a DOHC valve configuration.
+All Aston Martin Dbx variants use a Rack & Pinion steering gear type.
+All Aston Martin Dbx variants use a Gasoline Direct Injection (GDi) fuel supply system.
+All Aston Martin Dbx variants feature a Smart trunk opener.
+All Aston Martin Dbx variants come with Adaptive triple chamber air suspension shock absorbers.
+All Aston Martin Dbx variants provide a highway mileage of 10.1 kmpl.
+All Aston Martin Dbx variants have a fuel tank capacity of 85 Litres.
+All Aston Martin Dbx variants have the Air suspension front suspension.
+All Aston Martin Dbx variants have the Air suspension rear suspension.
+All Aston Martin Dbx variants come with Tilt & Telescopic steering adjustment.
+All variants of Aston Martin Dbx have Adjustable Steering.
+All Aston Martin Dbx variants are equipped with Front & Rear parking sensors.
+All Aston Martin Dbx variants come with Front & Rear USB charging ports.
+All Aston Martin Dbx variants include Front & Rear speakers.
+All Aston Martin Dbx variants have Front electric adjustable seats.
+Aston Martin Dbx variant 707 has a 40:20:40 Split foldable rear seat.
+All variants of Aston Martin Dbx have Central Console Armrest.
+All Aston Martin Dbx variants come with a Twin turbocharger.
+All variants of Aston Martin Dbx do not have Knee Airbags.
+All variants of Aston Martin Dbx have Rear Seat Headrest.
+All variants of Aston Martin Dbx have Sunroof.
+Aston Martin Dbx variant V8 has 6 drive modes.
+Aston Martin Dbx variant 707 has 5 drive modes.
+Aston Martin Dbx variant V8 offers Aston Martin Premium Audio System (800 watts), Bluetooth mobile phone connectivity with audio streaming, as additional features.
+Aston Martin Dbx variant 707 offers Tyres(Pirelli P-Zero), Front overhang: 915mm / 36", Rear overhang: 1,064mm / 41.9", Track (front): 1,698mm / 66.9", Track (rear): 1,664mm / 65.5", Turning circle (Kerb-to-kerb): 12.4m / 40.7', Approach angle: 25.70, Breakover angle:18.80, Departure angle (GT mode / Max offroad): 24.30 / 27.10, Wading depth : 500mm, Weight distribution: Front 52 : Rear 48, Towing capacity (braked / unbraked): 2,700Kg / 750Kg, Roof load: 75Kg (including all roof loading equipment), as additional features.

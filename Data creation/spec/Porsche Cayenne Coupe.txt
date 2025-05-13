@@ -1,0 +1,113 @@
+Porsche Cayenne Coupe has 2 variants: STD & GTS.
+All variants of Porsche Cayenne Coupe have Power Steering.
+All variants of Porsche Cayenne Coupe have Air Conditioner.
+All variants of Porsche Cayenne Coupe have Heater.
+All variants of Porsche Cayenne Coupe have Automatic Climate Control.
+All variants of Porsche Cayenne Coupe have Accessory Power Outlet.
+All variants of Porsche Cayenne Coupe have Trunk Light.
+All variants of Porsche Cayenne Coupe have Vanity Mirror.
+All variants of Porsche Cayenne Coupe have Adjustable Headrest.
+All variants of Porsche Cayenne Coupe have Rear Seat Centre Arm Rest.
+All variants of Porsche Cayenne Coupe have Cruise Control.
+All variants of Porsche Cayenne Coupe have Engine Start/Stop Button.
+All variants of Porsche Cayenne Coupe have Voice Commands.
+All variants of Porsche Cayenne Coupe have Chrome Grille.
+All variants of Porsche Cayenne Coupe have KeyLess Entry.
+All variants of Porsche Cayenne Coupe have Follow Me Home Headlamps.
+All variants of Porsche Cayenne Coupe have Tachometer.
+All variants of Porsche Cayenne Coupe have Alloy Wheels.
+All variants of Porsche Cayenne Coupe have Integrated Antenna.
+All variants of Porsche Cayenne Coupe have Projector Headlamps.
+All variants of Porsche Cayenne Coupe have Automatic Headlamps.
+All variants of Porsche Cayenne Coupe have LED DRLs.
+All variants of Porsche Cayenne Coupe have LED Headlamps.
+All variants of Porsche Cayenne Coupe have Anti-lock Braking System (ABS).
+All variants of Porsche Cayenne Coupe have Central Locking.
+All variants of Porsche Cayenne Coupe have Driver Airbag.
+All variants of Porsche Cayenne Coupe have Side Airbag.
+All variants of Porsche Cayenne Coupe have Seat Belt Warning.
+All variants of Porsche Cayenne Coupe have Engine Immobilizer.
+All variants of Porsche Cayenne Coupe do not have Side Airbag-Rear.
+All variants of Porsche Cayenne Coupe have Anti-Theft Device.
+All variants of Porsche Cayenne Coupe have Speed Alert.
+All variants of Porsche Cayenne Coupe have Speed Sensing Auto Door Lock.
+All variants of Porsche Cayenne Coupe have ISOFIX Child Seat Mounts.
+All variants of Porsche Cayenne Coupe have Impact Sensing Auto Door Unlock.
+All variants of Porsche Cayenne Coupe have Radio.
+All variants of Porsche Cayenne Coupe have Wireless Phone Charging.
+All variants of Porsche Cayenne Coupe have Bluetooth Connectivity.
+All variants of Porsche Cayenne Coupe have Android Auto.
+All variants of Porsche Cayenne Coupe have Apple CarPlay.
+All variants of Porsche Cayenne Coupe have Height Adjustable Front Seat Belts.
+All variants of Porsche Cayenne Coupe have Paddle Shifters.
+All variants of Porsche Cayenne Coupe have Digital Clock.
+All variants of Porsche Cayenne Coupe have LED Taillights.
+All variants of Porsche Cayenne Coupe have Anti-Theft Alarm.
+All variants of Porsche Cayenne Coupe have Door Ajar Warning.
+All variants of Porsche Cayenne Coupe have Leather wrap gear-shift selector.
+All variants of Porsche Cayenne Coupe have Compass.
+All variants of Porsche Cayenne Coupe have Height Adjustable Driver Seat.
+All variants of Porsche Cayenne Coupe have Adjustable Headlamps.
+All variants of Porsche Cayenne Coupe have Passenger Airbag.
+All variants of Porsche Cayenne Coupe have Day & Night Rear View Mirror.
+All variants of Porsche Cayenne Coupe have Tyre Pressure Monitoring System (TPMS).
+All variants of Porsche Cayenne Coupe have Touchscreen.
+All variants of Porsche Cayenne Coupe have Chrome Garnish.
+All variants of Porsche Cayenne Coupe have Rear Spoiler.
+All variants of Porsche Cayenne Coupe have Air Quality Control.
+All variants of Porsche Cayenne Coupe have Tinted Glass.
+All variants of Porsche Cayenne Coupe have Navigation System.
+All variants of Porsche Cayenne Coupe have Usb Ports.
+Porsche Cayenne Coupe variant without Gear Shift Indicator - GTS.
+Porsche Cayenne Coupe variant without Luggage Hook & Net - GTS.
+All variants of Porsche Cayenne Coupe have Low Fuel Warning Light.
+All variants of Porsche Cayenne Coupe have Heated Wing Mirror.
+All variants of Porsche Cayenne Coupe have Power Boot.
+All variants of Porsche Cayenne Coupe have Integrated 2DIN Audio.
+All variants of Porsche Cayenne Coupe have USB & Auxiliary input.
+Porsche Cayenne Coupe variant without Rear Curtain - GTS.
+Porsche Cayenne Coupe variant STD has the 3.0-litre turbocharged V6 engine engine.
+Porsche Cayenne Coupe variant GTS has the 4.0 L Twin Turbo V8 engine.
+Porsche Cayenne Coupe variant STD has a displacement of 2894  cubic centimeters.
+Porsche Cayenne Coupe variant GTS has a displacement of 3996  cubic centimeters.
+Porsche Cayenne Coupe variant STD delivers a max power of 348.66 Brake Horsepower (BHP) at 5400 to 6400 Revolutions Per Minute (RPM).
+Porsche Cayenne Coupe variant GTS delivers a max power of 493 Brake Horsepower (BHP) at 5400 Revolutions Per Minute (RPM).
+Porsche Cayenne Coupe variant STD has a max torque of 600 Newton meters.
+Porsche Cayenne Coupe variant GTS has a max torque of 660 Newton meters at 1340 Revolutions Per Minute (RPM).
+All Porsche Cayenne Coupe variants have 4.0 valves per cylinder.
+All Porsche Cayenne Coupe variants have a Automatic transmission.
+Porsche Cayenne Coupe variant STD has 6.0 cylinders.
+Porsche Cayenne Coupe variant GTS has 8.0 cylinders.
+All Porsche Cayenne Coupe variants come with a 8-Speed gearbox.
+All Porsche Cayenne Coupe variants have a All-Wheel Drive (AWD) drive type.
+All Porsche Cayenne Coupe variants run on Petrol.
+All Porsche Cayenne Coupe variants comply with BS VI 2.0 emission norms.
+All Porsche Cayenne Coupe variants come with Electric steering.
+All Porsche Cayenne Coupe variants have Disc front brakes.
+All Porsche Cayenne Coupe variants have Disc rear brakes.
+All Porsche Cayenne Coupe variants have a length of 4931 mm.
+All Porsche Cayenne Coupe variants have a width of 1983 mm.
+All Porsche Cayenne Coupe variants have a height of 1676 mm.
+All Porsche Cayenne Coupe variants offer 625 Litres of boot space.
+All Porsche Cayenne Coupe variants have a seating capacity of 4.0.
+All Porsche Cayenne Coupe variants have 4.0 doors.
+All Porsche Cayenne Coupe variants come with Tubeless Radial tyres.
+All Porsche Cayenne Coupe variants come equipped with 6.0 airbags.
+All Porsche Cayenne Coupe variants come with 10.0 speakers.
+All Porsche Cayenne Coupe variants come with Android Auto, Apple CarPlay connectivity options.
+All Porsche Cayenne Coupe variants have a top speed of 248 kmph.
+All Porsche Cayenne Coupe variants use a Rack & Pinion steering gear type.
+All Porsche Cayenne Coupe variants provide a highway mileage of 8 kmpl.
+All Porsche Cayenne Coupe variants have a fuel tank capacity of 75 Litres.
+All Porsche Cayenne Coupe variants have the Air suspension front suspension.
+All Porsche Cayenne Coupe variants have the Air suspension rear suspension.
+All Porsche Cayenne Coupe variants come with Tilt & Telescopic steering adjustment.
+All variants of Porsche Cayenne Coupe have Adjustable Steering.
+All Porsche Cayenne Coupe variants are equipped with Front & Rear parking sensors.
+All Porsche Cayenne Coupe variants come with Front USB charging ports.
+All Porsche Cayenne Coupe variants include Front & Rear speakers.
+All Porsche Cayenne Coupe variants have Front electric adjustable seats.
+All variants of Porsche Cayenne Coupe have Central Console Armrest.
+Porsche Cayenne Coupe variant GTS has a Twin turbocharger.
+All variants of Porsche Cayenne Coupe have Rear Seat Headrest.
+All Porsche Cayenne Coupe variants come with Sound Package Plus with 10 Speakers and a total Output of 150 Watts as additional features.

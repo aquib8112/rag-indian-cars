@@ -1,0 +1,165 @@
+﻿Bmw 7 Series has 2 variants: 740i M Sport & 740d M Sport.
+All variants of Bmw 7 Series have Power Steering.
+All variants of Bmw 7 Series have Air Conditioner.
+All variants of Bmw 7 Series have Heater.
+All variants of Bmw 7 Series have Automatic Climate Control.
+All variants of Bmw 7 Series have Accessory Power Outlet.
+All variants of Bmw 7 Series have Trunk Light.
+All variants of Bmw 7 Series have Vanity Mirror.
+All variants of Bmw 7 Series have Adjustable Headrest.
+All variants of Bmw 7 Series have Rear Seat Centre Arm Rest.
+All variants of Bmw 7 Series have Rear AC Vents.
+All variants of Bmw 7 Series have Cruise Control.
+All variants of Bmw 7 Series have Real-Time Vehicle Tracking.
+All variants of Bmw 7 Series have Engine Start/Stop Button.
+All variants of Bmw 7 Series have Voice Commands.
+All variants of Bmw 7 Series have Hands-Free Tailgate.
+All variants of Bmw 7 Series have KeyLess Entry.
+All variants of Bmw 7 Series have Follow Me Home Headlamps.
+All variants of Bmw 7 Series have Tachometer.
+All variants of Bmw 7 Series have Alloy Wheels.
+All variants of Bmw 7 Series have Integrated Antenna.
+All variants of Bmw 7 Series have Automatic Headlamps.
+All variants of Bmw 7 Series have LED DRLs.
+All variants of Bmw 7 Series have LED Headlamps.
+All variants of Bmw 7 Series have Anti-lock Braking System (ABS).
+All variants of Bmw 7 Series have Central Locking.
+All variants of Bmw 7 Series have Driver Airbag.
+All variants of Bmw 7 Series have Side Airbag.
+All variants of Bmw 7 Series have Seat Belt Warning.
+All variants of Bmw 7 Series have Engine Immobilizer.
+All variants of Bmw 7 Series have Electronic Stability Control (ESC).
+All variants of Bmw 7 Series have Speed Alert.
+All variants of Bmw 7 Series have Speed Sensing Auto Door Lock.
+All variants of Bmw 7 Series have ISOFIX Child Seat Mounts.
+All variants of Bmw 7 Series have Impact Sensing Auto Door Unlock.
+All variants of Bmw 7 Series have 360 View Camera.
+All variants of Bmw 7 Series have Radio.
+All variants of Bmw 7 Series have Wireless Phone Charging.
+All variants of Bmw 7 Series have Bluetooth Connectivity.
+All variants of Bmw 7 Series have Android Auto.
+All variants of Bmw 7 Series have Apple CarPlay.
+All variants of Bmw 7 Series have Remote Climate Control (A/C).
+All variants of Bmw 7 Series have Height Adjustable Front Seat Belts.
+All variants of Bmw 7 Series have Lumbar Support.
+All variants of Bmw 7 Series have Electronic Multi-Tripmeter.
+All variants of Bmw 7 Series have Outside Temperature Display.
+All variants of Bmw 7 Series have LED Taillights.
+All variants of Bmw 7 Series have Brake Assist.
+All variants of Bmw 7 Series have Power Door Locks.
+All variants of Bmw 7 Series have Anti-Theft Alarm.
+All variants of Bmw 7 Series have Passenger Side Rear View Mirror.
+All variants of Bmw 7 Series have Rear Seat Belts.
+All variants of Bmw 7 Series have Door Ajar Warning.
+All variants of Bmw 7 Series have Adjustable Seats.
+All variants of Bmw 7 Series have Crash Sensor.
+All variants of Bmw 7 Series have EBD.
+All variants of Bmw 7 Series have Digital Odometer.
+All variants of Bmw 7 Series have Heads-Up Display (HUD).
+All variants of Bmw 7 Series have Cooled Glovebox.
+All variants of Bmw 7 Series do not have Ventilated Seats.
+All variants of Bmw 7 Series have Active noise cancellation.
+All variants of Bmw 7 Series have Leather wrap gear-shift selector.
+All variants of Bmw 7 Series have Tailgate Ajar Warning.
+All variants of Bmw 7 Series have Remote Trunk Opener.
+All variants of Bmw 7 Series have Compass.
+All variants of Bmw 7 Series have Lane Change Indicator.
+All variants of Bmw 7 Series have Wi-Fi Connectivity.
+All variants of Bmw 7 Series have Traction Control.
+All variants of Bmw 7 Series have Rear Entertainment System.
+All variants of Bmw 7 Series have Leather Seats.
+All variants of Bmw 7 Series have Fog Lights - Rear.
+All variants of Bmw 7 Series have Internal Storage.
+All variants of Bmw 7 Series have Find My Car location.
+All variants of Bmw 7 Series have Side Impact Beams.
+All variants of Bmw 7 Series have Height Adjustable Driver Seat.
+All variants of Bmw 7 Series have Rear Window Defogger.
+All variants of Bmw 7 Series have Leather Wrapped Steering Wheel.
+All variants of Bmw 7 Series have Glove Box.
+All variants of Bmw 7 Series have Adjustable Headlamps.
+All variants of Bmw 7 Series have Outside Rear View Mirror Turn Indicators.
+All variants of Bmw 7 Series have Passenger Airbag.
+All variants of Bmw 7 Series have Day & Night Rear View Mirror.
+All variants of Bmw 7 Series have Tyre Pressure Monitoring System (TPMS).
+All variants of Bmw 7 Series have Touchscreen.
+All variants of Bmw 7 Series have Rear Window Wiper.
+All variants of Bmw 7 Series have Rear Window Washer.
+All variants of Bmw 7 Series have Child Safety Locks.
+All variants of Bmw 7 Series have Rain Sensing Wiper.
+All variants of Bmw 7 Series have Air Quality Control.
+All variants of Bmw 7 Series have Navigation System.
+All variants of Bmw 7 Series have Front Impact Beams.
+All variants of Bmw 7 Series have Vehicle Stability Control System.
+All variants of Bmw 7 Series have Smart Access Card Entry.
+All variants of Bmw 7 Series have Dual Tone Body Colour.
+All variants of Bmw 7 Series have Usb Ports.
+All variants of Bmw 7 Series do not have Gear Shift Indicator.
+All variants of Bmw 7 Series do not have Luggage Hook & Net.
+All variants of Bmw 7 Series have LED Fog Lamps.
+All variants of Bmw 7 Series have Low Fuel Warning Light.
+All variants of Bmw 7 Series have Heated Wing Mirror.
+All variants of Bmw 7 Series have Power Boot.
+All variants of Bmw 7 Series have Fog Lights - Front.
+All variants of Bmw 7 Series have Integrated 2DIN Audio.
+All variants of Bmw 7 Series have USB & Auxiliary input.
+All variants of Bmw 7 Series do not have Rear Curtain.
+All variants of Bmw 7 Series have Audio System Remote Control.
+Bmw 7 Series variant 740i M Sport has the B58 turbo I6 engine.
+Bmw 7 Series variant 740d M Sport has the B57 turbo I6 engine.
+Bmw 7 Series variant 740i M Sport has a displacement of 2998  cubic centimeters.
+Bmw 7 Series variant 740d M Sport has a displacement of 2993  cubic centimeters.
+All Bmw 7 Series variants produce a maximum power of 375.48 Brake Horsepower (BHP) at 5200 to 6250 Revolutions Per Minute (RPM).
+All Bmw 7 Series variants produce a maximum torque of 520 Newton meters at 1850 to 5000 Revolutions Per Minute (RPM).
+All Bmw 7 Series variants have 4.0 valves per cylinder.
+All Bmw 7 Series variants have a Automatic transmission.
+All Bmw 7 Series variants have 6.0 cylinders.
+All Bmw 7 Series variants come with a 8-Speed gearbox.
+Bmw 7 Series variant 740i M Sport has a All-Wheel Drive (AWD) drive type.
+Bmw 7 Series variant 740d M Sport has a Rear-Wheel Drive (RWD) drive type.
+Bmw 7 Series variant 740i M Sport runs on Petrol.
+Bmw 7 Series variant 740d M Sport runs on Diesel.
+All Bmw 7 Series variants comply with BS VI 2.0 emission norms.
+All Bmw 7 Series variants come with Power steering.
+All Bmw 7 Series variants have Ventilated Disc front brakes.
+All Bmw 7 Series variants have Ventilated Disc rear brakes.
+All Bmw 7 Series variants have a length of 5391 mm.
+All Bmw 7 Series variants have a width of 2192 mm.
+All Bmw 7 Series variants have a height of 1544 mm.
+All Bmw 7 Series variants offer 540 Litres of boot space.
+All Bmw 7 Series variants have a seating capacity of 5.0.
+All Bmw 7 Series variants have an unladen ground clearance of 136 mm.
+Bmw 7 Series variant 740i M Sport has a wheelbase of 2651 mm.
+Bmw 7 Series variant 740d M Sport has a wheelbase of 3019 mm.
+All Bmw 7 Series variants have a kerb weight of 1915 kg.
+All Bmw 7 Series variants have 4.0 doors.
+Bmw 7 Series variant 740i M Sport comes with tyres of size F:255/40 R21,R:285/35 R21.
+All Bmw 7 Series variants come with Tubeless tyres.
+All Bmw 7 Series variants come equipped with 7.0 airbags.
+All Bmw 7 Series variants come with a 14.9 inch touchscreen display.
+All Bmw 7 Series variants come with 24.0 speakers.
+Bmw 7 Series variant 740d M Sport has 21 Inch front alloy wheels.
+Bmw 7 Series variant 740d M Sport has 21 Inch rear alloy wheels.
+All Bmw 7 Series variants come with Android Auto, Apple CarPlay connectivity options.
+All Bmw 7 Series variants have a top speed of 250 kmph.
+All Bmw 7 Series variants accelerate from 0-100 kmph in 4.7 s.
+All Bmw 7 Series variants accelerate from 0-100 kmph in 4.7 s.
+All Bmw 7 Series variants use a Rack & Pinion steering gear type.
+All Bmw 7 Series variants have a rear tread of 1663 mm.
+All Bmw 7 Series variants feature a Remote trunk opener.
+Bmw 7 Series variant 740i M Sport has a highway mileage of 12.61 kmpl.
+Bmw 7 Series variant 740d M Sport has a highway mileage of 16.55 kmpl.
+All Bmw 7 Series variants have a fuel tank capacity of 74 Litres.
+All Bmw 7 Series variants have the Air suspension front suspension.
+All Bmw 7 Series variants have the Air suspension rear suspension.
+All variants of Bmw 7 Series have Adjustable Steering.
+All Bmw 7 Series variants are equipped with Front & Rear parking sensors.
+All Bmw 7 Series variants come with Front & Rear USB charging ports.
+All variants of Bmw 7 Series have Rear Camera.
+All variants of Bmw 7 Series have Pretensioners & Force Limiter Seatbelts.
+All Bmw 7 Series variants include Front & Rear speakers.
+All Bmw 7 Series variants have a With Storage central console armrest.
+All variants of Bmw 7 Series have Turbo Charger.
+All variants of Bmw 7 Series have Rear Seat Headrest.
+All variants of Bmw 7 Series have Sunroof.
+All Bmw 7 Series variants come with 3 drive modes.
+All Bmw 7 Series variants come with Theatre Screen with:( 31.3” ultra-wide format in 32:9 with 8K resolution, Amazon Fire TV Ecosystem, Theatre mode, HDMI interface for external content, e.g.: TV sticks, mobile phones, games console, computer, Display can be electrically folded and moved for maximum distance from the eyes), Bowers & Wilkins surround sound system (18 Speaker system with 4 head restraint integrated speakers, 2 central bass speakers & 2 impulse compensated bass speakers in front doors with the output of 655 Watts), Optional equipment (Bowers & Wilkins Diamond Surround Sound System (35 Speaker system, 8 head restraint integrated speakers, 4D Audio, Total system output 1965 Watts) as additional features.

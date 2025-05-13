@@ -1,0 +1,129 @@
+Isuzu V Cross has 4 variants: 4x2 Z AT, 4x4 Z, 4x4 Z Prestige & 4x4 Z Prestige AT.
+All variants of Isuzu V Cross have Power Steering.
+All variants of Isuzu V Cross have Air Conditioner.
+All variants of Isuzu V Cross have Heater.
+All variants of Isuzu V Cross have Automatic Climate Control.
+All variants of Isuzu V Cross have Accessory Power Outlet.
+All variants of Isuzu V Cross have Vanity Mirror.
+All variants of Isuzu V Cross have Rear Reading Lamp.
+All variants of Isuzu V Cross have Adjustable Headrest.
+All variants of Isuzu V Cross have Rear AC Vents.
+All variants of Isuzu V Cross have KeyLess Entry.
+All variants of Isuzu V Cross have Idle Start-Stop System.
+All variants of Isuzu V Cross have Tachometer.
+All variants of Isuzu V Cross do not have Wheel Covers.
+All variants of Isuzu V Cross have Alloy Wheels.
+All variants of Isuzu V Cross have Projector Headlamps.
+All variants of Isuzu V Cross have LED DRLs.
+All variants of Isuzu V Cross have LED Headlamps.
+All variants of Isuzu V Cross have Anti-lock Braking System (ABS).
+All variants of Isuzu V Cross have Central Locking.
+All variants of Isuzu V Cross have Driver Airbag.
+Isuzu V Cross variant with Side Airbag - 4x4 Z Prestige AT.
+Isuzu V Cross variants without Side Airbag - 4x2 Z AT, 4x4 Z & 4x4 Z Prestige.
+All variants of Isuzu V Cross have Seat Belt Warning.
+All variants of Isuzu V Cross have Engine Immobilizer.
+All variants of Isuzu V Cross do not have Side Airbag-Rear.
+All variants of Isuzu V Cross have Electronic Stability Control (ESC).
+All variants of Isuzu V Cross have Speed Alert.
+All variants of Isuzu V Cross have Speed Sensing Auto Door Lock.
+All variants of Isuzu V Cross have ISOFIX Child Seat Mounts.
+Isuzu V Cross variants with Hill Assist - 4x2 Z AT & 4x4 Z Prestige AT.
+Isuzu V Cross variants without Hill Assist - 4x4 Z & 4x4 Z Prestige.
+All variants of Isuzu V Cross have Impact Sensing Auto Door Unlock.
+All variants of Isuzu V Cross have Radio.
+All variants of Isuzu V Cross have Bluetooth Connectivity.
+All variants of Isuzu V Cross have Android Auto.
+All variants of Isuzu V Cross have Apple CarPlay.
+All variants of Isuzu V Cross have LED Taillights.
+All variants of Isuzu V Cross have Electronic Brakeforce Distribution (EBD).
+All variants of Isuzu V Cross have Brake Assist.
+All variants of Isuzu V Cross have Door Ajar Warning.
+All variants of Isuzu V Cross have Digital Odometer.
+Isuzu V Cross variants with Adaptive Cruise Control - 4x2 Z AT, 4x4 Z & 4x4 Z Prestige AT.
+Isuzu V Cross variant without Adaptive Cruise Control - 4x4 Z Prestige.
+All variants of Isuzu V Cross have Hill Descent Control.
+All variants of Isuzu V Cross have Traction Control.
+All variants of Isuzu V Cross have Height Adjustable Driver Seat.
+All variants of Isuzu V Cross have Rear Window Defogger.
+All variants of Isuzu V Cross have Leather Wrapped Steering Wheel.
+All variants of Isuzu V Cross have Glove Box.
+All variants of Isuzu V Cross have Adjustable Headlamps.
+All variants of Isuzu V Cross have Outside Rear View Mirror Turn Indicators.
+All variants of Isuzu V Cross have Passenger Airbag.
+All variants of Isuzu V Cross have Touchscreen.
+All variants of Isuzu V Cross have Child Safety Locks.
+All variants of Isuzu V Cross have Roof Rails.
+All variants of Isuzu V Cross have Side Stepper.
+Isuzu V Cross variant with Curtain Airbag - 4x4 Z Prestige AT.
+Isuzu V Cross variants without Curtain Airbag - 4x2 Z AT, 4x4 Z & 4x4 Z Prestige.
+All variants of Isuzu V Cross have Usb Ports.
+Isuzu V Cross variants with Gear Shift Indicator - 4x4 Z & 4x4 Z Prestige.
+Isuzu V Cross variants without Gear Shift Indicator - 4x2 Z AT & 4x4 Z Prestige AT.
+All variants of Isuzu V Cross have Integrated 2DIN Audio.
+All Isuzu V Cross variants use the 4 Cylinder VGS Turbo Intercooled Diesel engine.
+All Isuzu V Cross variants have a displacement of 1898  cubic centimeters.
+All Isuzu V Cross variants produce a maximum power of 160.92 Brake Horsepower (BHP) at 3600 Revolutions Per Minute (RPM).
+All Isuzu V Cross variants produce a maximum torque of 360 Newton meters at 2000 to 2500 Revolutions Per Minute (RPM).
+All Isuzu V Cross variants have 4.0 valves per cylinder.
+Isuzu V Cross variants - 4x2 Z AT & 4x4 Z Prestige AT share a Automatic transmission.
+Isuzu V Cross variants - 4x4 Z & 4x4 Z Prestige share a Manual transmission.
+All Isuzu V Cross variants have 4.0 cylinders.
+Isuzu V Cross variants - 4x2 Z AT & 4x4 Z Prestige AT share a 6-Speed-AT gearbox.
+Isuzu V Cross variants - 4x4 Z & 4x4 Z Prestige share a 6-Speed gearbox.
+Isuzu V Cross variant 4x2 Z AT has a Two-Wheel Drive (2WD) drive type.
+Isuzu V Cross variants - 4x4 Z, 4x4 Z Prestige & 4x4 Z Prestige AT share a Four-Wheel Drive (4WD) drive type.
+All Isuzu V Cross variants run on Diesel.
+All Isuzu V Cross variants comply with BS VI 2.0 emission norms.
+All Isuzu V Cross variants come with Hydraulic steering.
+All Isuzu V Cross variants have Ventilated Disc front brakes.
+All Isuzu V Cross variants have Drum rear brakes.
+Isuzu V Cross variants - 4x2 Z AT & 4x4 Z share a length of 5295 mm.
+Isuzu V Cross variants - 4x4 Z Prestige & 4x4 Z Prestige AT share a length of 5332 mm.
+Isuzu V Cross variants - 4x2 Z AT & 4x4 Z share a width of 1860 mm.
+Isuzu V Cross variants - 4x4 Z Prestige & 4x4 Z Prestige AT share a width of 1880 mm.
+Isuzu V Cross variants - 4x2 Z AT & 4x4 Z share a height of 1840 mm.
+Isuzu V Cross variants - 4x4 Z Prestige & 4x4 Z Prestige AT share a height of 1855 mm.
+All Isuzu V Cross variants have a seating capacity of 5.0.
+All Isuzu V Cross variants have a wheelbase of 3095 mm.
+Isuzu V Cross variant 4x2 Z AT has a kerb weight of 1890 kg.
+Isuzu V Cross variants - 4x4 Z & 4x4 Z Prestige share a kerb weight of 1955 kg.
+Isuzu V Cross variant 4x4 Z Prestige AT has a kerb weight of 1990 kg.
+Isuzu V Cross variant 4x2 Z AT has a gross weight of 2400 kg.
+Isuzu V Cross variants - 4x4 Z, 4x4 Z Prestige & 4x4 Z Prestige AT share a gross weight of 2510 kg.
+All Isuzu V Cross variants have 4.0 doors.
+All Isuzu V Cross variants have tyres of size 255/60 R18.
+All Isuzu V Cross variants come with Tubeless Radial tyres.
+Isuzu V Cross variants - 4x2 Z AT, 4x4 Z & 4x4 Z Prestige offer 2.0 airbags.
+Isuzu V Cross variant 4x4 Z Prestige AT features 6.0 airbags.
+All Isuzu V Cross variants come with a 9 Inch touchscreen display.
+Isuzu V Cross variants - 4x2 Z AT, 4x4 Z & 4x4 Z Prestige come with 6.0 speakers.
+Isuzu V Cross variant 4x4 Z Prestige AT features 8.0 speakers.
+All Isuzu V Cross variants come with 18 Inch front alloy wheels.
+All Isuzu V Cross variants come with 18 Inch rear alloy wheels.
+Isuzu V Cross variants - 4x2 Z AT, 4x4 Z & 4x4 Z Prestige have 2.0 tweeters.
+Isuzu V Cross variant 4x4 Z Prestige AT features 4.0 tweeters.
+All Isuzu V Cross variants come with Android Auto, Apple CarPlay connectivity options.
+All Isuzu V Cross variants feature a Full Digital digital cluster.
+Isuzu V Cross variants - 4x2 Z AT, 4x4 Z & 4x4 Z Prestige feature Fabric upholstery options.
+Isuzu V Cross variant 4x4 Z Prestige AT is equipped with Leather upholstery.
+Isuzu V Cross variant 4x4 Z Prestige AT has Driver's Window anti-pinch power windows.
+All Isuzu V Cross variants provide a highway mileage of 12.4 kmpl.
+All Isuzu V Cross variants have a fuel tank capacity of 55 Litres.
+All Isuzu V Cross variants have the Double wishbone suspension front suspension.
+All Isuzu V Cross variants have the Leaf spring suspension rear suspension.
+All Isuzu V Cross variants come with Tilt Steering steering adjustment.
+All variants of Isuzu V Cross have Adjustable Steering.
+All Isuzu V Cross variants are equipped with Rear parking sensors.
+All Isuzu V Cross variants come with Front & Rear USB charging ports.
+All Isuzu V Cross variants are equipped with Front fog lights.
+All Isuzu V Cross variants come with a Shark Fin antenna.
+All Isuzu V Cross variants have a With Guidedlines rear camera.
+All Isuzu V Cross variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Isuzu V Cross variants include Front & Rear speakers.
+Isuzu V Cross variants without Electric Adjustable Seats - 4x2 Z AT, 4x4 Z & 4x4 Z Prestige.
+Isuzu V Cross variant 4x4 Z Prestige AT has Front electric adjustable seats.
+All Isuzu V Cross variants have a 60:40 Split foldable rear seat.
+All Isuzu V Cross variants have a With Storage central console armrest.
+All variants of Isuzu V Cross have Turbo Charger.
+All Isuzu V Cross variants come with wireless Android Auto/Apple Car Play ,USB Ports (Centre Console, Entertainment System & 2nd Row Floor Console) as additional features.

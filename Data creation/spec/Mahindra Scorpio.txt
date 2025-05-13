@@ -1,0 +1,128 @@
+Mahindra Scorpio has 4 variants: S, S 9 Seater, S 11 7CC & S 11.
+All variants of Mahindra Scorpio have Power Steering.
+All variants of Mahindra Scorpio have Air Conditioner.
+All variants of Mahindra Scorpio have Heater.
+Mahindra Scorpio variants with Automatic Climate Control - S 11 7CC & S 11.
+Mahindra Scorpio variants without Automatic Climate Control - S & S 9 Seater.
+All variants of Mahindra Scorpio have Accessory Power Outlet.
+All variants of Mahindra Scorpio have Rear Reading Lamp.
+All variants of Mahindra Scorpio have Adjustable Headrest.
+All variants of Mahindra Scorpio have Rear AC Vents.
+Mahindra Scorpio variants with Cruise Control - S 11 7CC & S 11.
+Mahindra Scorpio variants without Cruise Control - S & S 9 Seater.
+Mahindra Scorpio variants with Chrome Grille - S 11 7CC & S 11.
+Mahindra Scorpio variants without Chrome Grille - S & S 9 Seater.
+Mahindra Scorpio variants with KeyLess Entry - S 11 7CC & S 11.
+Mahindra Scorpio variants without KeyLess Entry - S & S 9 Seater.
+Mahindra Scorpio variants with Follow Me Home Headlamps - S 11 7CC & S 11.
+Mahindra Scorpio variants without Follow Me Home Headlamps - S & S 9 Seater.
+All variants of Mahindra Scorpio have Tachometer.
+Mahindra Scorpio variants with Alloy Wheels - S 11 7CC & S 11.
+Mahindra Scorpio variants without Alloy Wheels - S & S 9 Seater.
+Mahindra Scorpio variants with Integrated Antenna - S 11 7CC & S 11.
+Mahindra Scorpio variants without Integrated Antenna - S & S 9 Seater.
+Mahindra Scorpio variants with Projector Headlamps - S 11 7CC & S 11.
+Mahindra Scorpio variants without Projector Headlamps - S & S 9 Seater.
+Mahindra Scorpio variants with LED DRLs - S 11 7CC & S 11.
+Mahindra Scorpio variants without LED DRLs - S & S 9 Seater.
+Mahindra Scorpio variants with LED Headlamps - S 11 7CC & S 11.
+Mahindra Scorpio variants without LED Headlamps - S & S 9 Seater.
+All variants of Mahindra Scorpio have Anti-lock Braking System (ABS).
+All variants of Mahindra Scorpio have Central Locking.
+All variants of Mahindra Scorpio have Driver Airbag.
+All variants of Mahindra Scorpio do not have Side Airbag.
+All variants of Mahindra Scorpio have Seat Belt Warning.
+All variants of Mahindra Scorpio have Engine Immobilizer.
+All variants of Mahindra Scorpio do not have Side Airbag-Rear.
+Mahindra Scorpio variants with Anti-Theft Device - S 11 7CC & S 11.
+Mahindra Scorpio variants without Anti-Theft Device - S & S 9 Seater.
+All variants of Mahindra Scorpio have Speed Alert.
+Mahindra Scorpio variants with Speed Sensing Auto Door Lock - S 11 7CC & S 11.
+Mahindra Scorpio variants without Speed Sensing Auto Door Lock - S & S 9 Seater.
+Mahindra Scorpio variants with Radio - S 11 7CC & S 11.
+Mahindra Scorpio variants without Radio - S & S 9 Seater.
+Mahindra Scorpio variants with Bluetooth Connectivity - S 11 7CC & S 11.
+Mahindra Scorpio variants without Bluetooth Connectivity - S & S 9 Seater.
+All variants of Mahindra Scorpio do not have Height Adjustable Front Seat Belts.
+All variants of Mahindra Scorpio have LED Taillights.
+All variants of Mahindra Scorpio have Electronic Brakeforce Distribution (EBD).
+Mahindra Scorpio variants with Anti-Theft Alarm - S 11 7CC & S 11.
+Mahindra Scorpio variants without Anti-Theft Alarm - S & S 9 Seater.
+All variants of Mahindra Scorpio have Door Ajar Warning.
+All variants of Mahindra Scorpio have Lane Change Indicator.
+Mahindra Scorpio variants with Height Adjustable Driver Seat - S, S 9 Seater, S 11 7CC & S 11.
+Mahindra Scorpio variants with Rear Window Defogger - S, S 9 Seater, S 11 7CC & S 11.
+Mahindra Scorpio variants with Leather Wrapped Steering Wheel - S, S 9 Seater, S 11 7CC & S 11.
+All variants of Mahindra Scorpio have Glove Box.
+All variants of Mahindra Scorpio have Adjustable Headlamps.
+All variants of Mahindra Scorpio have Outside Rear View Mirror Turn Indicators.
+All variants of Mahindra Scorpio have Passenger Airbag.
+All variants of Mahindra Scorpio have Day & Night Rear View Mirror.
+Mahindra Scorpio variants with Touchscreen - S, S 9 Seater, S 11 7CC & S 11.
+Mahindra Scorpio variants with Rear Window Wiper - S, S 9 Seater, S 11 7CC & S 11.
+Mahindra Scorpio variants with Rear Window Washer - S, S 9 Seater, S 11 7CC & S 11.
+Mahindra Scorpio variants with Rear Spoiler - S, S 9 Seater, S 11 7CC & S 11.
+Mahindra Scorpio variants with Side Stepper - S, S 9 Seater, S 11 7CC & S 11.
+Mahindra Scorpio variants with Usb Ports - S 11 7CC & S 11.
+Mahindra Scorpio variants without Usb Ports - S & S 9 Seater.
+Mahindra Scorpio variants with Gear Shift Indicator - S 11 7CC & S 11.
+Mahindra Scorpio variants without Gear Shift Indicator - S & S 9 Seater.
+Mahindra Scorpio variants with Integrated 2DIN Audio - S 11 7CC & S 11.
+Mahindra Scorpio variants without Integrated 2DIN Audio - S & S 9 Seater.
+All Mahindra Scorpio variants use the mHAWK 4 Cylinder engine.
+All Mahindra Scorpio variants have a displacement of 2184  cubic centimeters.
+All Mahindra Scorpio variants produce a maximum power of 130 Brake Horsepower (BHP) at 3750 Revolutions Per Minute (RPM).
+All Mahindra Scorpio variants produce a maximum torque of 300 Newton meters at 1600 to 2800 Revolutions Per Minute (RPM).
+All Mahindra Scorpio variants have 4.0 valves per cylinder.
+All Mahindra Scorpio variants have a Manual transmission.
+All Mahindra Scorpio variants have 4.0 cylinders.
+All Mahindra Scorpio variants come with a 6-Speed gearbox.
+All Mahindra Scorpio variants have a Rear-Wheel Drive (RWD) drive type.
+All Mahindra Scorpio variants run on Diesel.
+All Mahindra Scorpio variants comply with BS VI 2.0 emission norms.
+All Mahindra Scorpio variants come with Hydraulic steering.
+All Mahindra Scorpio variants have Disc front brakes.
+All Mahindra Scorpio variants have Drum rear brakes.
+All Mahindra Scorpio variants have a length of 4456 mm.
+All Mahindra Scorpio variants have a width of 1820 mm.
+All Mahindra Scorpio variants have a height of 1995 mm.
+All Mahindra Scorpio variants offer 460 Litres of boot space.
+Mahindra Scorpio variants - S, S 11 7CC & S 11 share a seating capacity of 7.0.
+Mahindra Scorpio variant S 9 Seater has a seating capacity of 9.0.
+All Mahindra Scorpio variants have a wheelbase of 2680 mm.
+All Mahindra Scorpio variants have 5.0 doors.
+All Mahindra Scorpio variants come with a Manual boot opening mechanism.
+All Mahindra Scorpio variants have tyres of size 235/65 R17.
+All Mahindra Scorpio variants come with Tubeless Radial tyres.
+Mahindra Scorpio variants - S & S 9 Seater feature 17 Inch wheels.
+All Mahindra Scorpio variants come equipped with 2.0 airbags.
+Mahindra Scorpio variants - S 11 7CC & S 11 come with a 9 Inch touchscreen display.
+Mahindra Scorpio variants - S 11 7CC & S 11 have 17 Inch front alloy wheels.
+Mahindra Scorpio variants - S 11 7CC & S 11 have 17 Inch rear alloy wheels.
+Mahindra Scorpio variants - S 11 7CC & S 11 have 2.0 tweeters.
+All Mahindra Scorpio variants achieve 100-0 kmph braking in 41.50 s seconds.
+All Mahindra Scorpio variants accelerate from 0-100 kmph in 13.1 s seconds.
+Mahindra Scorpio variants - S 11 7CC & S 11 feature Fabric upholstery options.
+All Mahindra Scorpio variants have a top speed of 165 kmph.
+All Mahindra Scorpio variants use a Common Rail Direct Injection (CRDi) fuel supply system.
+All Mahindra Scorpio variants come with Hydraulic, Double Acting, Telescopic shock absorbers.
+Mahindra Scorpio variant S 11 7CC has Driver's Window anti-pinch power windows.
+All Mahindra Scorpio variants offer a mileage of 14.44 kmpl.
+All Mahindra Scorpio variants have a fuel tank capacity of 60 Litres.
+All Mahindra Scorpio variants have the Double wishbone suspension front suspension.
+All Mahindra Scorpio variants have the Multi-link suspension rear suspension.
+Mahindra Scorpio variant S has Tilt & Collapsible steering adjustment.
+Mahindra Scorpio variants - S 9 Seater, S 11 7CC & S 11 share the Tilt & Telescopic steering adjustment type.
+All variants of Mahindra Scorpio have Adjustable Steering.
+All Mahindra Scorpio variants are equipped with Rear parking sensors.
+Mahindra Scorpio variants without Fog Lights - S & S 9 Seater.
+Mahindra Scorpio variants - S 11 7CC & S 11 share the Front fog light configuration.
+Mahindra Scorpio variants without Speakers - S & S 9 Seater.
+Mahindra Scorpio variants - S 11 7CC & S 11 share the Front & Rear speaker configuration.
+Mahindra Scorpio variants without Central Console Armrest - S & S 9 Seater.
+Mahindra Scorpio variants with Central Console Armrest - S 11 7CC & S 11.
+All variants of Mahindra Scorpio have Turbo Charger.
+All variants of Mahindra Scorpio have Rear Seat Headrest.
+All variants of Mahindra Scorpio do not have Sunroof.
+Mahindra Scorpio variants - S & S 9 Seater share Intellipark as additional features.
+Mahindra Scorpio variants - S 11 7CC & S 11 share Infotainment With Bluetooth/USB/Aux and Phone Screen Mirroring, Intellipark as additional features.

@@ -1,0 +1,159 @@
+﻿Mercedes Benz Eqb has 2 variants: 250 Plus & 350 4Matic.
+All variants of Mercedes Benz Eqb have Power Steering.
+All variants of Mercedes Benz Eqb have Air Conditioner.
+All variants of Mercedes Benz Eqb have Heater.
+All variants of Mercedes Benz Eqb have Automatic Climate Control.
+All variants of Mercedes Benz Eqb have Accessory Power Outlet.
+All variants of Mercedes Benz Eqb have Trunk Light.
+All variants of Mercedes Benz Eqb have Vanity Mirror.
+All variants of Mercedes Benz Eqb have Rear Reading Lamp.
+All variants of Mercedes Benz Eqb have Adjustable Headrest.
+All variants of Mercedes Benz Eqb have Rear Seat Centre Arm Rest.
+All variants of Mercedes Benz Eqb have Rear AC Vents.
+All variants of Mercedes Benz Eqb have Cruise Control.
+All variants of Mercedes Benz Eqb have Real-Time Vehicle Tracking.
+All variants of Mercedes Benz Eqb have Engine Start/Stop Button.
+All variants of Mercedes Benz Eqb have Voice Commands.
+All variants of Mercedes Benz Eqb have KeyLess Entry.
+All variants of Mercedes Benz Eqb have Idle Start-Stop System.
+All variants of Mercedes Benz Eqb have Follow Me Home Headlamps.
+All variants of Mercedes Benz Eqb have Tachometer.
+All variants of Mercedes Benz Eqb have Alloy Wheels.
+All variants of Mercedes Benz Eqb have Integrated Antenna.
+All variants of Mercedes Benz Eqb have Projector Headlamps.
+All variants of Mercedes Benz Eqb have LED DRLs.
+All variants of Mercedes Benz Eqb have LED Headlamps.
+All variants of Mercedes Benz Eqb have Anti-lock Braking System (ABS).
+All variants of Mercedes Benz Eqb have Central Locking.
+All variants of Mercedes Benz Eqb have Driver Airbag.
+All variants of Mercedes Benz Eqb have Side Airbag.
+All variants of Mercedes Benz Eqb have Seat Belt Warning.
+All variants of Mercedes Benz Eqb have E-Call & I-Call.
+All variants of Mercedes Benz Eqb have Remote AC On/Off.
+All variants of Mercedes Benz Eqb do not have Side Airbag-Rear.
+All variants of Mercedes Benz Eqb have Electronic Stability Control (ESC).
+All variants of Mercedes Benz Eqb have Anti-Theft Device.
+All variants of Mercedes Benz Eqb have Speed Alert.
+All variants of Mercedes Benz Eqb have Speed Sensing Auto Door Lock.
+All variants of Mercedes Benz Eqb have ISOFIX Child Seat Mounts.
+All variants of Mercedes Benz Eqb have Hill Assist.
+All variants of Mercedes Benz Eqb have Impact Sensing Auto Door Unlock.
+All variants of Mercedes Benz Eqb have Radio.
+All variants of Mercedes Benz Eqb have Wireless Phone Charging.
+All variants of Mercedes Benz Eqb have Bluetooth Connectivity.
+All variants of Mercedes Benz Eqb have Android Auto.
+All variants of Mercedes Benz Eqb have Apple CarPlay.
+All variants of Mercedes Benz Eqb have Live Location.
+All variants of Mercedes Benz Eqb have Over the Air (OTA) Updates.
+All variants of Mercedes Benz Eqb have Google / Alexa Connectivity.
+All variants of Mercedes Benz Eqb have Over Speeding Alert.
+All variants of Mercedes Benz Eqb have Smartwatch App.
+All variants of Mercedes Benz Eqb have Valet Mode.
+All variants of Mercedes Benz Eqb have Remote Door Lock/Unlock.
+All variants of Mercedes Benz Eqb have Geo-fence Alert.
+All variants of Mercedes Benz Eqb have Height Adjustable Front Seat Belts.
+All variants of Mercedes Benz Eqb have Lumbar Support.
+All variants of Mercedes Benz Eqb have Tow Away Alert.
+All variants of Mercedes Benz Eqb have Dual Tone Dashboard.
+All variants of Mercedes Benz Eqb have LED Taillights.
+All variants of Mercedes Benz Eqb have Electronic Brakeforce Distribution (EBD).
+All variants of Mercedes Benz Eqb have Brake Assist.
+All variants of Mercedes Benz Eqb have Anti-Theft Alarm.
+All variants of Mercedes Benz Eqb have Door Ajar Warning.
+All variants of Mercedes Benz Eqb have Digital Odometer.
+All variants of Mercedes Benz Eqb have SOS / Emergency Assistance.
+All variants of Mercedes Benz Eqb have Unauthorised Vehicle entry.
+All variants of Mercedes Benz Eqb have Cooled Glovebox.
+All variants of Mercedes Benz Eqb have Glove Box light.
+All variants of Mercedes Benz Eqb have Ventilated Seats.
+All variants of Mercedes Benz Eqb have Hill Descent Control.
+All variants of Mercedes Benz Eqb have Blind Spot Monitor.
+All variants of Mercedes Benz Eqb have Live Weather.
+All variants of Mercedes Benz Eqb have Tailgate Ajar Warning.
+All variants of Mercedes Benz Eqb have SOS Button.
+All variants of Mercedes Benz Eqb have Lane Change Indicator.
+All variants of Mercedes Benz Eqb have Engine Start Alarm.
+All variants of Mercedes Benz Eqb have Regenerative Braking.
+All variants of Mercedes Benz Eqb have Fast Charging.
+All variants of Mercedes Benz Eqb have Traction Control.
+All variants of Mercedes Benz Eqb have RSA.
+All variants of Mercedes Benz Eqb have Hinglish Voice Commands.
+All variants of Mercedes Benz Eqb have Height Adjustable Driver Seat.
+All variants of Mercedes Benz Eqb have Rear Window Defogger.
+All variants of Mercedes Benz Eqb have Leather Wrapped Steering Wheel.
+All variants of Mercedes Benz Eqb have Glove Box.
+All variants of Mercedes Benz Eqb have Adjustable Headlamps.
+All variants of Mercedes Benz Eqb have Outside Rear View Mirror Turn Indicators.
+All variants of Mercedes Benz Eqb have Passenger Airbag.
+All variants of Mercedes Benz Eqb have Day & Night Rear View Mirror.
+All variants of Mercedes Benz Eqb have Tyre Pressure Monitoring System (TPMS).
+All variants of Mercedes Benz Eqb have Touchscreen.
+All variants of Mercedes Benz Eqb have Rear Window Wiper.
+All variants of Mercedes Benz Eqb have Rear Window Washer.
+All variants of Mercedes Benz Eqb have Child Safety Locks.
+All variants of Mercedes Benz Eqb have Rear Spoiler.
+All variants of Mercedes Benz Eqb have Rain Sensing Wiper.
+All variants of Mercedes Benz Eqb have Air Quality Control.
+All variants of Mercedes Benz Eqb have Roof Rails.
+All variants of Mercedes Benz Eqb have Curtain Airbag.
+All variants of Mercedes Benz Eqb have Usb Ports.
+All variants of Mercedes Benz Eqb have Luggage Hook & Net.
+All variants of Mercedes Benz Eqb have LED Fog Lamps.
+Mercedes Benz Eqb variant 250 Plus delivers a max power of 187.74 Brake Horsepower (BHP).
+Mercedes Benz Eqb variant 350 4Matic delivers a max power of 288.32 Brake Horsepower (BHP).
+Mercedes Benz Eqb variant 250 Plus has a max torque of 385 Newton meters.
+Mercedes Benz Eqb variant 350 4Matic has a max torque of 520 Newton meters.
+All Mercedes Benz Eqb variants have a Automatic transmission.
+Mercedes Benz Eqb variant 250 Plus has a Front-Wheel Drive (FWD) drive type.
+Mercedes Benz Eqb variant 350 4Matic has a All-Wheel Drive (AWD) drive type.
+All Mercedes Benz Eqb variants run on Electric.
+All Mercedes Benz Eqb variants comply with ZEV emission norms.
+All Mercedes Benz Eqb variants come with Electric steering.
+All Mercedes Benz Eqb variants have a turning radius of 11.7m.
+All Mercedes Benz Eqb variants have Disc front brakes.
+All Mercedes Benz Eqb variants have Disc rear brakes.
+All Mercedes Benz Eqb variants have a length of 4684 mm.
+All Mercedes Benz Eqb variants have a width of 2020 mm.
+Mercedes Benz Eqb variant 250 Plus has a height of 1654 mm.
+Mercedes Benz Eqb variant 350 4Matic has a height of 1689 mm.
+All Mercedes Benz Eqb variants offer 495 Litres of boot space.
+All Mercedes Benz Eqb variants have a seating capacity of 5.0.
+All Mercedes Benz Eqb variants have a wheelbase of 2829 mm.
+Mercedes Benz Eqb variant 250 Plus has a kerb weight of 2105 kg.
+Mercedes Benz Eqb variant 350 4Matic has a kerb weight of 2165 kg.
+All Mercedes Benz Eqb variants have 5.0 doors.
+All Mercedes Benz Eqb variants come with Unknown tyres.
+All Mercedes Benz Eqb variants come equipped with 6.0 airbags.
+All Mercedes Benz Eqb variants come with a unknown touchscreen display.
+Mercedes Benz Eqb variant 250 Plus includes Android Auto, Apple CarPlay connectivity features.
+Mercedes Benz Eqb variant 350 4Matic includes Android Auto, Apple CarPlay connectivity features.
+All Mercedes Benz Eqb variants feature a Full Digital digital cluster.
+All Mercedes Benz Eqb variants offer a boot space of 495 Litres.
+All Mercedes Benz Eqb variants have a top speed of 160 kmph.
+All Mercedes Benz Eqb variants are powered by a Lithium-Ion Battery battery.
+Mercedes Benz Eqb variant 250 Plus features a 70.5 kWh battery capacity.
+Mercedes Benz Eqb variant 350 4Matic features a 66.5 kWh battery capacity.
+Mercedes Benz Eqb variant 250 Plus has a 140 kW motor power.
+Mercedes Benz Eqb variant 350 4Matic has a 215 kW motor power.
+Mercedes Benz Eqb variant 250 Plus has a driving range of 464-535 km.
+Mercedes Benz Eqb variant 350 4Matic has a driving range of 397-447 km.
+Mercedes Benz Eqb variant 250 Plus requires 7.15 Hours for A.C charging.
+Mercedes Benz Eqb variant 350 4Matic requires 6 Hours 45Mins for A.C charging.
+Mercedes Benz Eqb variant 250 Plus requires 35 Min for D.C charging.
+Mercedes Benz Eqb variant 350 4Matic requires 32 Min for D.C charging.
+All Mercedes Benz Eqb variants come with a CCS-II charging port.
+Mercedes Benz Eqb variant 250 Plus accelerates from 0-100 km/h in 8.9 s.
+Mercedes Benz Eqb variant 350 4Matic accelerates from 0-100 km/h in 6.2 s.
+All Mercedes Benz Eqb variants have All Windows anti-pinch power windows.
+All Mercedes Benz Eqb variants come with Tilt & Telescopic steering adjustment.
+All variants of Mercedes Benz Eqb have Adjustable Steering.
+All Mercedes Benz Eqb variants are equipped with Front & Rear parking sensors.
+All Mercedes Benz Eqb variants come with Front & Rear USB charging ports.
+All Mercedes Benz Eqb variants have a With Guidedlines rear camera.
+All Mercedes Benz Eqb variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Mercedes Benz Eqb variants include Front & Rear speakers.
+All Mercedes Benz Eqb variants have Front electric adjustable seats.
+All Mercedes Benz Eqb variants have a With Storage central console armrest.
+All variants of Mercedes Benz Eqb have Rear Seat Headrest.
+All Mercedes Benz Eqb variants come with a Panoramic sunroof.
+All Mercedes Benz Eqb variants come with LED HIGH PERFORMANCE HEADLAMPS as additional features.

@@ -1,0 +1,163 @@
+Honda City Hybrid has 3 variants: V CVT, ZX CVT & ZX CVT Reinforced.
+All variants of Honda City Hybrid have Power Steering.
+All variants of Honda City Hybrid have Air Conditioner.
+All variants of Honda City Hybrid have Heater.
+All variants of Honda City Hybrid have Automatic Climate Control.
+All variants of Honda City Hybrid have Accessory Power Outlet.
+All variants of Honda City Hybrid have Trunk Light.
+All variants of Honda City Hybrid have Vanity Mirror.
+All variants of Honda City Hybrid have Rear Reading Lamp.
+All variants of Honda City Hybrid have Adjustable Headrest.
+All variants of Honda City Hybrid have Rear Seat Centre Arm Rest.
+All variants of Honda City Hybrid have Rear AC Vents.
+All variants of Honda City Hybrid have Engine Start/Stop Button.
+All variants of Honda City Hybrid have Voice Commands.
+All variants of Honda City Hybrid have KeyLess Entry.
+All variants of Honda City Hybrid have Idle Start-Stop System.
+All variants of Honda City Hybrid have Follow Me Home Headlamps.
+All variants of Honda City Hybrid have Tachometer.
+All variants of Honda City Hybrid have Alloy Wheels.
+All variants of Honda City Hybrid have Integrated Antenna.
+Honda City Hybrid variant with Projector Headlamps - V CVT.
+Honda City Hybrid variants without Projector Headlamps - ZX CVT & ZX CVT Reinforced.
+All variants of Honda City Hybrid have Automatic Headlamps.
+All variants of Honda City Hybrid have LED DRLs.
+Honda City Hybrid variants with LED Headlamps - ZX CVT & ZX CVT Reinforced.
+Honda City Hybrid variant without LED Headlamps - V CVT.
+All variants of Honda City Hybrid have Anti-lock Braking System (ABS).
+All variants of Honda City Hybrid have Central Locking.
+All variants of Honda City Hybrid have Driver Airbag.
+Honda City Hybrid variant with Side Airbag - ZX CVT Reinforced.
+Honda City Hybrid variants without Side Airbag - V CVT & ZX CVT.
+All variants of Honda City Hybrid have Seat Belt Warning.
+All variants of Honda City Hybrid have Engine Immobilizer.
+Honda City Hybrid variants without E-Call & I-Call - V CVT & ZX CVT.
+All variants of Honda City Hybrid do not have Side Airbag-Rear.
+All variants of Honda City Hybrid have Electronic Stability Control (ESC).
+All variants of Honda City Hybrid have Speed Alert.
+All variants of Honda City Hybrid have Speed Sensing Auto Door Lock.
+All variants of Honda City Hybrid have ISOFIX Child Seat Mounts.
+All variants of Honda City Hybrid have Hill Assist.
+All variants of Honda City Hybrid have Impact Sensing Auto Door Unlock.
+All variants of Honda City Hybrid have Radio.
+All variants of Honda City Hybrid have Wireless Phone Charging.
+All variants of Honda City Hybrid have Bluetooth Connectivity.
+All variants of Honda City Hybrid have Android Auto.
+All variants of Honda City Hybrid have Apple CarPlay.
+All variants of Honda City Hybrid have Google / Alexa Connectivity.
+All variants of Honda City Hybrid have Smartwatch App.
+All variants of Honda City Hybrid have Paddle Shifters.
+All variants of Honda City Hybrid have LED Taillights.
+All variants of Honda City Hybrid have Electronic Brakeforce Distribution (EBD).
+All variants of Honda City Hybrid have Brake Assist.
+All variants of Honda City Hybrid have Anti-Theft Alarm.
+All variants of Honda City Hybrid have Door Ajar Warning.
+All variants of Honda City Hybrid have Digital Odometer.
+Honda City Hybrid variants with Blind Spot Camera - ZX CVT & ZX CVT Reinforced.
+Honda City Hybrid variant without Blind Spot Camera - V CVT.
+All variants of Honda City Hybrid have Forward Collision Warning.
+All variants of Honda City Hybrid have Lane Keep Assist.
+All variants of Honda City Hybrid have Road Departure Mitigation System.
+All variants of Honda City Hybrid have Adaptive Cruise Control.
+All variants of Honda City Hybrid have Leading Vehicle Departure Alert.
+Honda City Hybrid variants with Puddle Lamps - ZX CVT & ZX CVT Reinforced.
+Honda City Hybrid variant without Puddle Lamps - V CVT.
+Honda City Hybrid variants with Rear Window Sunblind - ZX CVT & ZX CVT Reinforced.
+Honda City Hybrid variant without Rear Window Sunblind - V CVT.
+Honda City Hybrid variants with Leather wrap gear-shift selector - ZX CVT & ZX CVT Reinforced.
+Honda City Hybrid variant without Leather wrap gear-shift selector - V CVT.
+All variants of Honda City Hybrid have Tailgate Ajar Warning.
+All variants of Honda City Hybrid have Traction Control.
+All variants of Honda City Hybrid have Acoustic Vehicle Alert System.
+All variants of Honda City Hybrid have Height Adjustable Driver Seat.
+All variants of Honda City Hybrid have Rear Window Defogger.
+Honda City Hybrid variants with Leather Wrapped Steering Wheel - V CVT, ZX CVT & ZX CVT Reinforced.
+All variants of Honda City Hybrid have Glove Box.
+All variants of Honda City Hybrid have Adjustable Headlamps.
+All variants of Honda City Hybrid have Outside Rear View Mirror Turn Indicators.
+All variants of Honda City Hybrid have Passenger Airbag.
+All variants of Honda City Hybrid have Day & Night Rear View Mirror.
+All variants of Honda City Hybrid have Tyre Pressure Monitoring System (TPMS).
+All variants of Honda City Hybrid have Touchscreen.
+All variants of Honda City Hybrid have Rear Window Wiper.
+All variants of Honda City Hybrid have Rear Window Washer.
+All variants of Honda City Hybrid have Child Safety Locks.
+All variants of Honda City Hybrid have Rear Spoiler.
+Honda City Hybrid variants with Rain Sensing Wiper - V CVT, ZX CVT & ZX CVT Reinforced.
+All variants of Honda City Hybrid have Air Quality Control.
+All variants of Honda City Hybrid have Smart Access Card Entry.
+Honda City Hybrid variant with Curtain Airbag - ZX CVT Reinforced.
+Honda City Hybrid variants without Curtain Airbag - V CVT & ZX CVT.
+All variants of Honda City Hybrid have Usb Ports.
+Honda City Hybrid variant without Gear Shift Indicator - ZX CVT Reinforced.
+Honda City Hybrid variant without Luggage Hook & Net - ZX CVT Reinforced.
+All variants of Honda City Hybrid have LED Fog Lamps.
+All variants of Honda City Hybrid have Integrated 2DIN Audio.
+Honda City Hybrid variant without Rear Curtain - ZX CVT Reinforced.
+All Honda City Hybrid variants use the i-VTEC engine.
+All Honda City Hybrid variants have a displacement of 1498  cubic centimeters.
+All Honda City Hybrid variants produce a maximum power of 96.55 Brake Horsepower (BHP) at 5600 to 6400 Revolutions Per Minute (RPM).
+All Honda City Hybrid variants produce a maximum torque of 127 Newton meters at 4500 to 5000 Revolutions Per Minute (RPM).
+All Honda City Hybrid variants have 4.0 valves per cylinder.
+All Honda City Hybrid variants have a Automatic transmission.
+All Honda City Hybrid variants have 4.0 cylinders.
+All Honda City Hybrid variants come with a E-CVT gearbox.
+All Honda City Hybrid variants have a Front-Wheel Drive (FWD) drive type.
+All Honda City Hybrid variants run on Petrol.
+All Honda City Hybrid variants comply with BS VI 2.0 emission norms.
+All Honda City Hybrid variants come with Electric steering.
+All Honda City Hybrid variants have a turning radius of 5.3m.
+All Honda City Hybrid variants have Ventilated Disc front brakes.
+All Honda City Hybrid variants have Solid Disc rear brakes.
+All Honda City Hybrid variants have a length of 4583 mm.
+All Honda City Hybrid variants have a width of 1748 mm.
+All Honda City Hybrid variants have a height of 1489 mm.
+All Honda City Hybrid variants offer 410 Litres of boot space.
+All Honda City Hybrid variants have a seating capacity of 5.0.
+All Honda City Hybrid variants have a wheelbase of 2651 mm.
+All Honda City Hybrid variants have a kerb weight of 1280 kg.
+All Honda City Hybrid variants have a gross weight of 1655 kg.
+All Honda City Hybrid variants have 4.0 doors.
+All Honda City Hybrid variants come with a Electronic boot opening mechanism.
+All Honda City Hybrid variants have tyres of size 185/55 R16.
+All Honda City Hybrid variants come with Tubeless Radial tyres.
+Honda City Hybrid variants - V CVT & ZX CVT offer 2.0 airbags.
+Honda City Hybrid variant ZX CVT Reinforced features 6.0 airbags.
+All Honda City Hybrid variants come with a 8 inch touchscreen display.
+All Honda City Hybrid variants come with 4.0 speakers.
+Honda City Hybrid variants - V CVT & ZX CVT use Electric as a secondary fuel type.
+All Honda City Hybrid variants come with 16 Inch front alloy wheels.
+Honda City Hybrid variants - ZX CVT & ZX CVT Reinforced have 4.0 tweeters.
+All Honda City Hybrid variants achieve 100-0 kmph braking in 40.95 s seconds.
+Honda City Hybrid variants - V CVT & ZX CVT have a 0-100 kmph acceleration time of 9.95 s seconds.
+All Honda City Hybrid variants come with Android Auto, Apple CarPlay connectivity options.
+All Honda City Hybrid variants feature a Semi Digital digital cluster.
+Honda City Hybrid variant V CVT is equipped with Fabric upholstery.
+Honda City Hybrid variants - ZX CVT & ZX CVT Reinforced feature Leather upholstery options.
+All Honda City Hybrid variants have a top speed of 176 kmph.
+Honda City Hybrid variant V CVT features a front tread of 1706 mm.
+Honda City Hybrid variants - ZX CVT & ZX CVT Reinforced have a front tread of 1511 mm.
+All Honda City Hybrid variants have a city driveability (20-80 kmph) time of 6.33 s.
+All Honda City Hybrid variants come with Telescopic Hydraulic Nitrogen Gas-filled shock absorbers.
+Honda City Hybrid variants - ZX CVT & ZX CVT Reinforced come with All Windows anti-pinch power windows.
+All Honda City Hybrid variants offer a mileage of 27.13 kmpl.
+All Honda City Hybrid variants provide a highway mileage of 23.38 kmpl.
+Honda City Hybrid variants - V CVT & ZX CVT have fuel tank capacities of 40 Litres.
+All Honda City Hybrid variants have the MacPherson Strut suspension front suspension.
+All Honda City Hybrid variants have the Rear twist beam rear suspension.
+All Honda City Hybrid variants come with Tilt & Telescopic steering adjustment.
+Honda City Hybrid variants with Adjustable Steering - V CVT & ZX CVT.
+Honda City Hybrid variant without Adjustable Steering - ZX CVT Reinforced.
+All Honda City Hybrid variants are equipped with Rear parking sensors.
+All Honda City Hybrid variants come with Front & Rear USB charging ports.
+All Honda City Hybrid variants are equipped with Front fog lights.
+All Honda City Hybrid variants come with a Shark Fin antenna.
+All Honda City Hybrid variants feature a 7 inch digital cluster.
+All Honda City Hybrid variants have a With Guidedlines rear camera.
+All Honda City Hybrid variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Honda City Hybrid variants include Front & Rear speakers.
+All Honda City Hybrid variants have a With Storage central console armrest.
+All variants of Honda City Hybrid have Rear Seat Headrest.
+Honda City Hybrid variant without Sunroof - V CVT.
+Honda City Hybrid variants - ZX CVT & ZX CVT Reinforced share a Single Pane sunroof.
+All Honda City Hybrid variants come with (Smart Connectivity Next Gen Honda Connect with Telematics Control Unit,IPS Display with Optical Bonding Display Coating for Reflection Reduction,Remote Control by Smartphone Application via Bluetooth),Weblink,Multi Function Driver Information Interface, as additional features.

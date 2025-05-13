@@ -1,0 +1,111 @@
+﻿Porsche Cayenne has 2 variants: STD & GTS.
+All variants of Porsche Cayenne have Power Steering.
+All variants of Porsche Cayenne have Air Conditioner.
+All variants of Porsche Cayenne have Heater.
+All variants of Porsche Cayenne have Automatic Climate Control.
+All variants of Porsche Cayenne have Accessory Power Outlet.
+All variants of Porsche Cayenne have Trunk Light.
+All variants of Porsche Cayenne have Vanity Mirror.
+All variants of Porsche Cayenne have Adjustable Headrest.
+All variants of Porsche Cayenne have Rear Seat Centre Arm Rest.
+All variants of Porsche Cayenne have Cruise Control.
+All variants of Porsche Cayenne have Engine Start/Stop Button.
+All variants of Porsche Cayenne have Voice Commands.
+All variants of Porsche Cayenne have Chrome Grille.
+All variants of Porsche Cayenne have KeyLess Entry.
+All variants of Porsche Cayenne have Follow Me Home Headlamps.
+All variants of Porsche Cayenne have Tachometer.
+All variants of Porsche Cayenne have Alloy Wheels.
+All variants of Porsche Cayenne have Integrated Antenna.
+All variants of Porsche Cayenne have Projector Headlamps.
+All variants of Porsche Cayenne have Automatic Headlamps.
+All variants of Porsche Cayenne have LED DRLs.
+All variants of Porsche Cayenne have LED Headlamps.
+All variants of Porsche Cayenne have Anti-lock Braking System (ABS).
+All variants of Porsche Cayenne have Central Locking.
+All variants of Porsche Cayenne have Driver Airbag.
+All variants of Porsche Cayenne have Side Airbag.
+All variants of Porsche Cayenne have Seat Belt Warning.
+All variants of Porsche Cayenne have Engine Immobilizer.
+All variants of Porsche Cayenne do not have Side Airbag-Rear.
+All variants of Porsche Cayenne have Anti-Theft Device.
+All variants of Porsche Cayenne have Speed Alert.
+All variants of Porsche Cayenne have Speed Sensing Auto Door Lock.
+All variants of Porsche Cayenne have ISOFIX Child Seat Mounts.
+All variants of Porsche Cayenne have Impact Sensing Auto Door Unlock.
+All variants of Porsche Cayenne have Radio.
+All variants of Porsche Cayenne have Wireless Phone Charging.
+All variants of Porsche Cayenne have Bluetooth Connectivity.
+All variants of Porsche Cayenne have Android Auto.
+All variants of Porsche Cayenne have Apple CarPlay.
+All variants of Porsche Cayenne have Height Adjustable Front Seat Belts.
+All variants of Porsche Cayenne have Paddle Shifters.
+All variants of Porsche Cayenne have Digital Clock.
+All variants of Porsche Cayenne have LED Taillights.
+All variants of Porsche Cayenne have Anti-Theft Alarm.
+All variants of Porsche Cayenne have Door Ajar Warning.
+All variants of Porsche Cayenne have Leather wrap gear-shift selector.
+All variants of Porsche Cayenne have Compass.
+All variants of Porsche Cayenne have Height Adjustable Driver Seat.
+All variants of Porsche Cayenne have Adjustable Headlamps.
+All variants of Porsche Cayenne have Passenger Airbag.
+All variants of Porsche Cayenne have Day & Night Rear View Mirror.
+All variants of Porsche Cayenne have Tyre Pressure Monitoring System (TPMS).
+All variants of Porsche Cayenne have Touchscreen.
+All variants of Porsche Cayenne have Chrome Garnish.
+All variants of Porsche Cayenne have Rear Spoiler.
+All variants of Porsche Cayenne have Air Quality Control.
+All variants of Porsche Cayenne have Tinted Glass.
+All variants of Porsche Cayenne have Navigation System.
+All variants of Porsche Cayenne have Usb Ports.
+Porsche Cayenne variant without Gear Shift Indicator - GTS.
+Porsche Cayenne variant without Luggage Hook & Net - GTS.
+All variants of Porsche Cayenne have Low Fuel Warning Light.
+All variants of Porsche Cayenne have Heated Wing Mirror.
+All variants of Porsche Cayenne have Power Boot.
+All variants of Porsche Cayenne have Integrated 2DIN Audio.
+All variants of Porsche Cayenne have USB & Auxiliary input.
+Porsche Cayenne variant without Rear Curtain - GTS.
+All Porsche Cayenne variants use the 3.0-litre turbocharged V6 engine engine.
+All Porsche Cayenne variants have a displacement of 2894  cubic centimeters.
+All Porsche Cayenne variants produce a maximum power of 348.66 Brake Horsepower (BHP).
+All Porsche Cayenne variants produce a maximum torque of 500 Newton meters.
+All Porsche Cayenne variants have 4.0 valves per cylinder.
+All Porsche Cayenne variants have a Automatic transmission.
+All Porsche Cayenne variants have 6.0 cylinders.
+All Porsche Cayenne variants come with a 8-Speed gearbox.
+All Porsche Cayenne variants have a All-Wheel Drive (AWD) drive type.
+All Porsche Cayenne variants run on Petrol.
+All Porsche Cayenne variants comply with BS VI 2.0 emission norms.
+All Porsche Cayenne variants come with Electric steering.
+All Porsche Cayenne variants have Disc front brakes.
+All Porsche Cayenne variants have Disc rear brakes.
+All Porsche Cayenne variants have a length of 4930 mm.
+All Porsche Cayenne variants have a width of 1983 mm.
+All Porsche Cayenne variants have a height of 1698 mm.
+All Porsche Cayenne variants offer 770 Litres of boot space.
+All Porsche Cayenne variants have a seating capacity of 4.0.
+All Porsche Cayenne variants have a wheelbase of 2500 mm.
+All Porsche Cayenne variants come with Tubeless Radial tyres.
+All Porsche Cayenne variants come equipped with 6.0 airbags.
+All Porsche Cayenne variants come with 10.0 speakers.
+Porsche Cayenne variant STD features Electric as a secondary fuel type.
+All Porsche Cayenne variants come with Android Auto, Apple CarPlay connectivity options.
+All Porsche Cayenne variants have a top speed of 248 kmph.
+All Porsche Cayenne variants accelerate from 0-100 kmph in 6.0 s.
+All Porsche Cayenne variants accelerate from 0-100 kmph in 6.0 s.
+All Porsche Cayenne variants use a Rack & Pinion steering gear type.
+Porsche Cayenne variant STD provides a mileage of 10.8 kmpl.
+All Porsche Cayenne variants provide a highway mileage of 10.7 kmpl.
+All Porsche Cayenne variants have a fuel tank capacity of 75 Litres.
+All Porsche Cayenne variants have the Air suspension front suspension.
+All Porsche Cayenne variants have the Air suspension rear suspension.
+All Porsche Cayenne variants come with Tilt & Telescopic steering adjustment.
+All variants of Porsche Cayenne have Adjustable Steering.
+All Porsche Cayenne variants are equipped with Front & Rear parking sensors.
+All Porsche Cayenne variants come with Front USB charging ports.
+All Porsche Cayenne variants include Front & Rear speakers.
+All Porsche Cayenne variants have Front & Rear electric adjustable seats.
+All variants of Porsche Cayenne have Central Console Armrest.
+All variants of Porsche Cayenne have Rear Seat Headrest.
+All Porsche Cayenne variants come with Sound Package Plus with 10 Speakers and a total Output of 150 Watts as additional features.

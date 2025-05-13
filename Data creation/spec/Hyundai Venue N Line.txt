@@ -1,0 +1,159 @@
+Hyundai Venue N Line has 8 variants: N6 Turbo, N6 Turbo DT, N6 Turbo DCT, N8 Turbo, N6 Turbo DCT DT, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+All variants of Hyundai Venue N Line have Power Steering.
+All variants of Hyundai Venue N Line have Air Conditioner.
+All variants of Hyundai Venue N Line have Heater.
+All variants of Hyundai Venue N Line have Accessory Power Outlet.
+All variants of Hyundai Venue N Line have Trunk Light.
+All variants of Hyundai Venue N Line have Rear Reading Lamp.
+All variants of Hyundai Venue N Line have Adjustable Headrest.
+All variants of Hyundai Venue N Line have Rear AC Vents.
+All variants of Hyundai Venue N Line have Cruise Control.
+All variants of Hyundai Venue N Line have Engine Start/Stop Button.
+All variants of Hyundai Venue N Line have Voice Commands.
+All variants of Hyundai Venue N Line have KeyLess Entry.
+All variants of Hyundai Venue N Line have Idle Start-Stop System.
+All variants of Hyundai Venue N Line have Follow Me Home Headlamps.
+All variants of Hyundai Venue N Line have Tachometer.
+All variants of Hyundai Venue N Line have Alloy Wheels.
+All variants of Hyundai Venue N Line have Integrated Antenna.
+All variants of Hyundai Venue N Line have Projector Headlamps.
+All variants of Hyundai Venue N Line have Automatic Headlamps.
+All variants of Hyundai Venue N Line have LED DRLs.
+All variants of Hyundai Venue N Line have LED Headlamps.
+All variants of Hyundai Venue N Line have Anti-lock Braking System (ABS).
+All variants of Hyundai Venue N Line have Central Locking.
+All variants of Hyundai Venue N Line have Driver Airbag.
+All variants of Hyundai Venue N Line have Side Airbag.
+All variants of Hyundai Venue N Line have Seat Belt Warning.
+All variants of Hyundai Venue N Line have Engine Immobilizer.
+All variants of Hyundai Venue N Line do not have Side Airbag-Rear.
+All variants of Hyundai Venue N Line have Electronic Stability Control (ESC).
+Hyundai Venue N Line variants with Anti-Theft Device - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants without Anti-Theft Device - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT.
+All variants of Hyundai Venue N Line have Speed Alert.
+All variants of Hyundai Venue N Line have Speed Sensing Auto Door Lock.
+All variants of Hyundai Venue N Line have ISOFIX Child Seat Mounts.
+All variants of Hyundai Venue N Line have Hill Assist.
+All variants of Hyundai Venue N Line have Impact Sensing Auto Door Unlock.
+All variants of Hyundai Venue N Line have Radio.
+All variants of Hyundai Venue N Line have Wireless Phone Charging.
+All variants of Hyundai Venue N Line have Bluetooth Connectivity.
+All variants of Hyundai Venue N Line have Android Auto.
+All variants of Hyundai Venue N Line have Apple CarPlay.
+Hyundai Venue N Line variants with Driver Attention Warning - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants without Driver Attention Warning - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT.
+Hyundai Venue N Line variants with Over the Air (OTA) Updates - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants without Over the Air (OTA) Updates - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT.
+Hyundai Venue N Line variants with Google / Alexa Connectivity - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants without Google / Alexa Connectivity - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT.
+All variants of Hyundai Venue N Line have Height Adjustable Front Seat Belts.
+Hyundai Venue N Line variants with Paddle Shifters - N6 Turbo DCT, N6 Turbo DCT DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants without Paddle Shifters - N6 Turbo, N6 Turbo DT, N8 Turbo & N8 Turbo DT.
+All variants of Hyundai Venue N Line have LED Taillights.
+All variants of Hyundai Venue N Line have Electronic Brakeforce Distribution (EBD).
+All variants of Hyundai Venue N Line have Brake Assist.
+Hyundai Venue N Line variants with Anti-Theft Alarm - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants without Anti-Theft Alarm - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT.
+All variants of Hyundai Venue N Line have Door Ajar Warning.
+Hyundai Venue N Line variants with SOS / Emergency Assistance - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants with Forward Collision Warning - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants without Forward Collision Warning - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT.
+Hyundai Venue N Line variants with Lane Departure Warning - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants without Lane Departure Warning - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT.
+Hyundai Venue N Line variants with Lane Keep Assist - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants without Lane Keep Assist - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT.
+Hyundai Venue N Line variants with Leading Vehicle Departure Alert - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants without Leading Vehicle Departure Alert - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT.
+Hyundai Venue N Line variants with Adaptive High Beam Assist - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants without Adaptive High Beam Assist - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT.
+All variants of Hyundai Venue N Line have Cooled Glovebox.
+All variants of Hyundai Venue N Line have Puddle Lamps.
+All variants of Hyundai Venue N Line have Battery Saver.
+All variants of Hyundai Venue N Line have Digital Car Key.
+All variants of Hyundai Venue N Line have Tailgate Ajar Warning.
+Hyundai Venue N Line variants with SOS Button - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+Hyundai Venue N Line variants with Voice assisted sunroof - N8 Turbo, N6 Turbo DCT DT, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+All variants of Hyundai Venue N Line have Lane Change Indicator.
+All variants of Hyundai Venue N Line have Cornering Headlamps.
+Hyundai Venue N Line variants with RSA - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT.
+All variants of Hyundai Venue N Line have Height Adjustable Driver Seat.
+All variants of Hyundai Venue N Line have Rear Window Defogger.
+All variants of Hyundai Venue N Line have Leather Wrapped Steering Wheel.
+All variants of Hyundai Venue N Line have Glove Box.
+All variants of Hyundai Venue N Line have Adjustable Headlamps.
+All variants of Hyundai Venue N Line have Outside Rear View Mirror Turn Indicators.
+All variants of Hyundai Venue N Line have Passenger Airbag.
+All variants of Hyundai Venue N Line have Day & Night Rear View Mirror.
+All variants of Hyundai Venue N Line have Tyre Pressure Monitoring System (TPMS).
+All variants of Hyundai Venue N Line have Touchscreen.
+All variants of Hyundai Venue N Line have Rear Window Wiper.
+All variants of Hyundai Venue N Line have Rear Window Washer.
+All variants of Hyundai Venue N Line have Child Safety Locks.
+All variants of Hyundai Venue N Line have Rear Spoiler.
+All variants of Hyundai Venue N Line have Roof Rails.
+All variants of Hyundai Venue N Line have Curtain Airbag.
+All variants of Hyundai Venue N Line have Usb Ports.
+All variants of Hyundai Venue N Line have Integrated 2DIN Audio.
+All Hyundai Venue N Line variants use the Kappa 1.0 l turbo GDi engine.
+All Hyundai Venue N Line variants have a displacement of 998  cubic centimeters.
+All Hyundai Venue N Line variants produce a maximum power of 118.41 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Hyundai Venue N Line variants produce a maximum torque of 172 Newton meters at 1500 to 4000 Revolutions Per Minute (RPM).
+All Hyundai Venue N Line variants have 4.0 valves per cylinder.
+Hyundai Venue N Line variants - N6 Turbo, N6 Turbo DT, N8 Turbo & N8 Turbo DT share a Manual transmission.
+Hyundai Venue N Line variants - N6 Turbo DCT, N6 Turbo DCT DT, N8 Turbo DCT & N8 Turbo DCT DT share a Automatic transmission.
+All Hyundai Venue N Line variants have 3.0 cylinders.
+Hyundai Venue N Line variants - N6 Turbo, N6 Turbo DT, N8 Turbo & N8 Turbo DT share a 6-Speed iMT gearbox.
+Hyundai Venue N Line variants - N6 Turbo DCT, N6 Turbo DCT DT, N8 Turbo DCT & N8 Turbo DCT DT share a 7-Speed-DCT gearbox.
+All Hyundai Venue N Line variants have a Front-Wheel Drive (FWD) drive type.
+All Hyundai Venue N Line variants run on Petrol.
+All Hyundai Venue N Line variants comply with BS VI 2.0 emission norms.
+All Hyundai Venue N Line variants come with Electric steering.
+All Hyundai Venue N Line variants have a turning radius of 5.1m.
+All Hyundai Venue N Line variants have Disc front brakes.
+All Hyundai Venue N Line variants have Disc rear brakes.
+All Hyundai Venue N Line variants have a length of 3995 mm.
+All Hyundai Venue N Line variants have a width of 1770 mm.
+All Hyundai Venue N Line variants have a height of 1617 mm.
+All Hyundai Venue N Line variants offer 350 Litres of boot space.
+All Hyundai Venue N Line variants have a seating capacity of 5.0.
+All Hyundai Venue N Line variants have a wheelbase of 2500 mm.
+All Hyundai Venue N Line variants have 5.0 doors.
+All Hyundai Venue N Line variants come with a Manual boot opening mechanism.
+All Hyundai Venue N Line variants have Powered & Folding Outside Rear View Mirror (ORVM).
+All Hyundai Venue N Line variants have tyres of size 215/60 R16.
+All Hyundai Venue N Line variants come with Tubeless Radial tyres.
+All Hyundai Venue N Line variants come equipped with 6.0 airbags.
+All Hyundai Venue N Line variants come with a 8 inch touchscreen display.
+All Hyundai Venue N Line variants come with 4.0 speakers.
+All Hyundai Venue N Line variants come with 16 Inch front alloy wheels.
+All Hyundai Venue N Line variants come with 16 Inch rear alloy wheels.
+All Hyundai Venue N Line variants come with 2.0 tweeters.
+All Hyundai Venue N Line variants come with Android Auto, Apple CarPlay connectivity options.
+All Hyundai Venue N Line variants feature a Semi Digital digital cluster.
+All Hyundai Venue N Line variants come with Leatherette upholstery.
+All Hyundai Venue N Line variants have a top speed of 165 kmph.
+Hyundai Venue N Line variants - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT come with Driver's Window anti-pinch power windows.
+All Hyundai Venue N Line variants offer a mileage of 18 kmpl.
+All Hyundai Venue N Line variants have a fuel tank capacity of 45 Litres.
+All Hyundai Venue N Line variants have the MacPherson Strut suspension front suspension.
+All Hyundai Venue N Line variants have the Rear twist beam rear suspension.
+All Hyundai Venue N Line variants come with Tilt Steering steering adjustment.
+All variants of Hyundai Venue N Line have Adjustable Steering.
+All Hyundai Venue N Line variants are equipped with Rear parking sensors.
+All Hyundai Venue N Line variants come with Front & Rear USB charging ports.
+All Hyundai Venue N Line variants have Front & Rear power windows.
+All Hyundai Venue N Line variants come with Front Only cup holders.
+All Hyundai Venue N Line variants come with a Shark Fin antenna.
+All Hyundai Venue N Line variants have a With Guidedlines rear camera.
+All Hyundai Venue N Line variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Hyundai Venue N Line variants include Front & Rear speakers.
+Hyundai Venue N Line variants without Electric Adjustable Seats - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT.
+Hyundai Venue N Line variants - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT share the Front electric seat adjustment type.
+All Hyundai Venue N Line variants have a 60:40 Split foldable rear seat.
+All Hyundai Venue N Line variants have a With Storage central console armrest.
+All variants of Hyundai Venue N Line have Turbo Charger.
+All Hyundai Venue N Line variants come with a Single Pane sunroof.
+Hyundai Venue N Line variants without Drive Modes - N6 Turbo, N6 Turbo DT, N8 Turbo & N8 Turbo DT.
+Hyundai Venue N Line variants - N6 Turbo DCT, N6 Turbo DCT DT, N8 Turbo DCT & N8 Turbo DCT DT share the 3 drive mode configuration.
+Hyundai Venue N Line variants - N6 Turbo, N6 Turbo DT, N6 Turbo DCT & N6 Turbo DCT DT share Multiple regional language, as additional features.
+Hyundai Venue N Line variants - N8 Turbo, N8 Turbo DT, N8 Turbo DCT & N8 Turbo DCT DT share Multiple regional language,Ambient sounds of nature,Hyundai Bluelink connected car technology, as additional features.

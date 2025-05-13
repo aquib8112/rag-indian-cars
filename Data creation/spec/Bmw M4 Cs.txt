@@ -1,0 +1,117 @@
+Bmw M4 Cs has 1 variants: xDrive.
+Bmw M4 Cs has Power Steering.
+Bmw M4 Cs has Air Conditioner.
+Bmw M4 Cs has Heater.
+Bmw M4 Cs has Automatic Climate Control.
+Bmw M4 Cs has Accessory Power Outlet.
+Bmw M4 Cs has Trunk Light.
+Bmw M4 Cs has Vanity Mirror.
+Bmw M4 Cs has Rear Reading Lamp.
+Bmw M4 Cs has Adjustable Headrest.
+Bmw M4 Cs has Cruise Control.
+Bmw M4 Cs has Engine Start/Stop Button.
+Bmw M4 Cs has Voice Commands.
+Bmw M4 Cs does not have Hands-Free Tailgate.
+Bmw M4 Cs has KeyLess Entry.
+Bmw M4 Cs has Idle Start-Stop System.
+Bmw M4 Cs has Follow Me Home Headlamps.
+Bmw M4 Cs has Tachometer.
+Bmw M4 Cs does not have Wheel Covers.
+Bmw M4 Cs has Alloy Wheels.
+Bmw M4 Cs has Integrated Antenna.
+Bmw M4 Cs has Automatic Headlamps.
+Bmw M4 Cs has LED DRLs.
+Bmw M4 Cs has LED Headlamps.
+Bmw M4 Cs has Anti-lock Braking System (ABS).
+Bmw M4 Cs has Central Locking.
+Bmw M4 Cs has Driver Airbag.
+Bmw M4 Cs has Side Airbag.
+Bmw M4 Cs has Seat Belt Warning.
+Bmw M4 Cs has Engine Immobilizer.
+Bmw M4 Cs has Electronic Stability Control (ESC).
+Bmw M4 Cs has Anti-Theft Device.
+Bmw M4 Cs has Speed Alert.
+Bmw M4 Cs has Speed Sensing Auto Door Lock.
+Bmw M4 Cs has ISOFIX Child Seat Mounts.
+Bmw M4 Cs has Hill Assist.
+Bmw M4 Cs has Impact Sensing Auto Door Unlock.
+Bmw M4 Cs has 360 View Camera.
+Bmw M4 Cs has Radio.
+Bmw M4 Cs has Wireless Phone Charging.
+Bmw M4 Cs has Bluetooth Connectivity.
+Bmw M4 Cs has Android Auto.
+Bmw M4 Cs has Apple CarPlay.
+Bmw M4 Cs has Height Adjustable Front Seat Belts.
+Bmw M4 Cs has Paddle Shifters.
+Bmw M4 Cs has LED Taillights.
+Bmw M4 Cs has Electronic Brakeforce Distribution (EBD).
+Bmw M4 Cs has Brake Assist.
+Bmw M4 Cs has Anti-Theft Alarm.
+Bmw M4 Cs has Door Ajar Warning.
+Bmw M4 Cs has Digital Odometer.
+Bmw M4 Cs has Cooled Glovebox.
+Bmw M4 Cs has Glove Box light.
+Bmw M4 Cs has Ventilated Seats.
+Bmw M4 Cs has Hill Descent Control.
+Bmw M4 Cs has Tailgate Ajar Warning.
+Bmw M4 Cs has Cornering Headlamps.
+Bmw M4 Cs has Traction Control.
+Bmw M4 Cs has Height Adjustable Driver Seat.
+Bmw M4 Cs has Rear Window Defogger.
+Bmw M4 Cs has Leather Wrapped Steering Wheel.
+Bmw M4 Cs has Glove Box.
+Bmw M4 Cs has Adjustable Headlamps.
+Bmw M4 Cs has Outside Rear View Mirror Turn Indicators.
+Bmw M4 Cs has Passenger Airbag.
+Bmw M4 Cs has Day & Night Rear View Mirror.
+Bmw M4 Cs has Tyre Pressure Monitoring System (TPMS).
+Bmw M4 Cs has Touchscreen.
+Bmw M4 Cs has Child Safety Locks.
+Bmw M4 Cs has Rain Sensing Wiper.
+Bmw M4 Cs has Air Quality Control.
+Bmw M4 Cs has Usb Ports.
+The Bmw M4 Cs has the six-cylinder in-line engine engine.
+The Bmw M4 Cs has a displacement of 2993  cubic centimeters.
+The Bmw M4 Cs generates 543 Brake Horsepower (BHP) at 6250 Revolutions Per Minute (RPM).
+The Bmw M4 Cs generates 650 Newton meters at 2750 to 5950 Revolutions Per Minute (RPM).
+The Bmw M4 Cs has 4.0 valves per cylinder.
+The Bmw M4 Cs has a Automatic transmission.
+The Bmw M4 Cs has 6.0 cylinders.
+The Bmw M4 Cs has a 8-Speed gearbox.
+The Bmw M4 Cs has a All-Wheel Drive (AWD) drive type.
+The Bmw M4 Cs runs on Petrol.
+The Bmw M4 Cs complies with BS VI 2.0 emission norms.
+The Bmw M4 Cs has Electric steering.
+The Bmw M4 Cs has a length of 4794 mm.
+The Bmw M4 Cs has a width of 1887 mm.
+The Bmw M4 Cs has a height of 1393 mm.
+The Bmw M4 Cs has a seating capacity of 4.0.
+The Bmw M4 Cs has a wheelbase of 2857 mm.
+The Bmw M4 Cs is equipped with Powered & Folding Outside Rear View Mirror (ORVM).
+The Bmw M4 Cs is equipped with Tyre Type tyres.
+The Bmw M4 Cs is equipped with 6.0 airbags.
+The Bmw M4 Cs is equipped with a 14.9 inch touchscreen.
+The Bmw M4 Cs is equipped with 16.0 speakers.
+The Bmw M4 Cs features 19 Inch front alloy wheels.
+The Bmw M4 Cs features 20 Inch rear alloy wheels.
+The Bmw M4 Cs comes with a Full Digital digital cluster.
+The Bmw M4 Cs features Leather upholstery.
+The Bmw M4 Cs achieves 0-100 kmph acceleration in 3.4 s.
+The Bmw M4 Cs achieves 0-100 kmph in 3.4 s.
+The Bmw M4 Cs features Driver's Window anti-pinch power windows.
+The Bmw M4 Cs delivers a highway mileage of 9.7 kmpl.
+The Bmw M4 Cs features Tilt & Telescopic steering adjustment.
+The Bmw M4 Cs features Powered Adjustment steering adjustability.
+The Bmw M4 Cs features Front & Rear parking sensors.
+The Bmw M4 Cs features Front & Rear USB charging ports.
+The Bmw M4 Cs features Front & Rear power windows.
+The Bmw M4 Cs features Front & Rear cup holders.
+The Bmw M4 Cs has a 12.3 inch digital cluster.
+The Bmw M4 Cs has a With Guidedlines rear camera.
+The Bmw M4 Cs has Driver and Passenger seatbelt pretensioners and force limiters.
+The Bmw M4 Cs has Front & Rear speakers.
+The Bmw M4 Cs has Front electric adjustable seats.
+Bmw M4 Cs has Central Console Armrest.
+The Bmw M4 Cs has a Twin turbocharger.
+The Bmw M4 Cs features inbuilt apps such as MyBMW.
+The Bmw M4 Cs includes Adjustable rear seat headrests.

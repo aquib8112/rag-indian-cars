@@ -1,0 +1,152 @@
+Skoda Superb has 1 variants: L&K.
+Skoda Superb has Power Steering.
+Skoda Superb has Air Conditioner.
+Skoda Superb has Heater.
+Skoda Superb has Automatic Climate Control.
+Skoda Superb has Accessory Power Outlet.
+Skoda Superb has Trunk Light.
+Skoda Superb has Vanity Mirror.
+Skoda Superb has Rear Reading Lamp.
+Skoda Superb has Adjustable Headrest.
+Skoda Superb has Rear Seat Centre Arm Rest.
+Skoda Superb has Rear AC Vents.
+Skoda Superb has Real-Time Vehicle Tracking.
+Skoda Superb has Engine Start/Stop Button.
+Skoda Superb has Voice Commands.
+Skoda Superb has Hands-Free Tailgate.
+Skoda Superb has Chrome Grille.
+Skoda Superb has KeyLess Entry.
+Skoda Superb has Tachometer.
+Skoda Superb does not have Wheel Covers.
+Skoda Superb has Alloy Wheels.
+Skoda Superb has LED DRLs.
+Skoda Superb has LED Headlamps.
+Skoda Superb has Anti-lock Braking System (ABS).
+Skoda Superb has Central Locking.
+Skoda Superb has Driver Airbag.
+Skoda Superb has Side Airbag.
+Skoda Superb has Seat Belt Warning.
+Skoda Superb has Engine Immobilizer.
+Skoda Superb has E-Call & I-Call.
+Skoda Superb has Side Airbag-Rear.
+Skoda Superb has Electronic Stability Control (ESC).
+Skoda Superb has Anti-Theft Device.
+Skoda Superb has Speed Alert.
+Skoda Superb has Speed Sensing Auto Door Lock.
+Skoda Superb has ISOFIX Child Seat Mounts.
+Skoda Superb has Hill Assist.
+Skoda Superb has Impact Sensing Auto Door Unlock.
+Skoda Superb has 360 View Camera.
+Skoda Superb has Radio.
+Skoda Superb has Wireless Phone Charging.
+Skoda Superb has Bluetooth Connectivity.
+Skoda Superb has Android Auto.
+Skoda Superb has Apple CarPlay.
+Skoda Superb has Driver Attention Warning.
+Skoda Superb has Live Location.
+Skoda Superb has Over the Air (OTA) Updates.
+Skoda Superb has Over Speeding Alert.
+Skoda Superb has Valet Mode.
+Skoda Superb has Remote Door Lock/Unlock.
+Skoda Superb has Geo-fence Alert.
+Skoda Superb has Height Adjustable Front Seat Belts.
+Skoda Superb has Lumbar Support.
+Skoda Superb has Dual Tone Dashboard.
+Skoda Superb has LED Taillights.
+Skoda Superb has Electronic Brakeforce Distribution (EBD).
+Skoda Superb has Brake Assist.
+Skoda Superb has Anti-Theft Alarm.
+Skoda Superb has Door Ajar Warning.
+Skoda Superb has SOS / Emergency Assistance.
+Skoda Superb has Cooled Glovebox.
+Skoda Superb has Glove Box light.
+Skoda Superb has Ventilated Seats.
+Skoda Superb has Puddle Lamps.
+Skoda Superb has Cornering Foglamps.
+Skoda Superb has Headlamp Washers.
+Skoda Superb has Remote Boot Open.
+Skoda Superb has Tailgate Ajar Warning.
+Skoda Superb has SOS Button.
+Skoda Superb has RSA.
+Skoda Superb has Height Adjustable Driver Seat.
+Skoda Superb has Rear Window Defogger.
+Skoda Superb has Leather Wrapped Steering Wheel.
+Skoda Superb has Glove Box.
+Skoda Superb has Adjustable Headlamps.
+Skoda Superb has Outside Rear View Mirror Turn Indicators.
+Skoda Superb has Passenger Airbag.
+Skoda Superb has Day & Night Rear View Mirror.
+Skoda Superb has Tyre Pressure Monitoring System (TPMS).
+Skoda Superb has Touchscreen.
+Skoda Superb has Rear Window Wiper.
+Skoda Superb has Rear Window Washer.
+Skoda Superb has Chrome Garnish.
+Skoda Superb has Child Safety Locks.
+Skoda Superb has Rain Sensing Wiper.
+Skoda Superb has Air Quality Control.
+Skoda Superb has Curtain Airbag.
+Skoda Superb has Usb Ports.
+Skoda Superb has Luggage Hook & Net.
+Skoda Superb has LED Fog Lamps.
+The Skoda Superb has the 2.0 TSI Engine engine.
+The Skoda Superb has a displacement of 1984  cubic centimeters.
+The Skoda Superb generates 187.74 Brake Horsepower (BHP) at 4200 to 6000 Revolutions Per Minute (RPM).
+The Skoda Superb generates 320 Newton meters at 1500 to 4100 Revolutions Per Minute (RPM).
+The Skoda Superb has 4.0 valves per cylinder.
+The Skoda Superb has a Automatic transmission.
+The Skoda Superb has 4.0 cylinders.
+The Skoda Superb has a 7-Speed-DSG gearbox.
+The Skoda Superb has a Front-Wheel Drive (FWD) drive type.
+The Skoda Superb runs on Petrol.
+The Skoda Superb complies with BS VI 2.0 emission norms.
+The Skoda Superb has Electric steering.
+The Skoda Superb has a turning radius of 11.1m.
+The Skoda Superb has Disc front brakes.
+The Skoda Superb has Disc rear brakes.
+The Skoda Superb has a length of 4869 mm.
+The Skoda Superb has a width of 1864 mm.
+The Skoda Superb has a height of 1503 mm.
+The Skoda Superb offers 625 Litres of boot space.
+The Skoda Superb has a seating capacity of 5.0.
+The Skoda Superb has an unladen ground clearance of 151 mm.
+The Skoda Superb has a wheelbase of 2836 mm.
+The Skoda Superb has a kerb weight of 1565 kg.
+The Skoda Superb has a gross weight of 2140 kg.
+The Skoda Superb has 5.0 doors.
+The Skoda Superb is fitted with tyres of size 235/45 R18.
+The Skoda Superb is equipped with Tubeless Radial tyres.
+The Skoda Superb is equipped with 9.0 airbags.
+The Skoda Superb has been rated 5 Star by Global NCAP.
+The Skoda Superb is equipped with a 9.19 inch touchscreen.
+The Skoda Superb is equipped with 11.0 speakers.
+The Skoda Superb features 18 Inch front alloy wheels.
+The Skoda Superb features 18 Inch rear alloy wheels.
+The Skoda Superb features Android Auto, Apple CarPlay connectivity options.
+The Skoda Superb comes with a Full Digital digital cluster.
+The Skoda Superb features Leather upholstery.
+The Skoda Superb is equipped with a Direct Injection (Di) fuel supply system.
+The Skoda Superb features 1.0 subwoofer(s).
+The Skoda Superb provides 1760 Litres of boot space when the rear seats are folded.
+The Skoda Superb features Driver's Window anti-pinch power windows.
+The Skoda Superb has a laden ground clearance of 122 mm mm.
+The Skoda Superb delivers a highway mileage of 15 kmpl.
+The Skoda Superb comes with a fuel tank capacity of 66 Litres.
+The Skoda Superb comes with the Multi-link suspension front suspension.
+The Skoda Superb comes with the Multi-link suspension rear suspension.
+The Skoda Superb features Tilt & Telescopic steering adjustment.
+Skoda Superb has Adjustable Steering.
+The Skoda Superb features Front & Rear parking sensors.
+The Skoda Superb features Front & Rear USB charging ports.
+The Skoda Superb features Front & Rear fog lights.
+The Skoda Superb features a Shark Fin antenna.
+The Skoda Superb has a With Guidedlines rear camera.
+The Skoda Superb has Driver and Passenger seatbelt pretensioners and force limiters.
+The Skoda Superb has Front & Rear speakers.
+The Skoda Superb has Front electric adjustable seats.
+The Skoda Superb has a 60:40 Split foldable rear seat.
+The Skoda Superb has a With Storage central console armrest.
+Skoda Superb has Turbo Charger.
+The Skoda Superb features inbuilt apps such as MySkoda.
+The Skoda Superb has Driver knee airbags.
+Skoda Superb has Rear Seat Headrest.
+The Skoda Superb includes Central infotainment system with proximity sensor as additional features.

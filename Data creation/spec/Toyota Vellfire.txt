@@ -1,0 +1,164 @@
+Toyota Vellfire has 2 variants: Hi & VIP Executive Lounge.
+All variants of Toyota Vellfire have Power Steering.
+All variants of Toyota Vellfire have Air Conditioner.
+All variants of Toyota Vellfire have Heater.
+All variants of Toyota Vellfire have Automatic Climate Control.
+All variants of Toyota Vellfire have Accessory Power Outlet.
+All variants of Toyota Vellfire have Vanity Mirror.
+All variants of Toyota Vellfire have Rear Reading Lamp.
+All variants of Toyota Vellfire have Adjustable Headrest.
+All variants of Toyota Vellfire have Rear AC Vents.
+All variants of Toyota Vellfire have Cruise Control.
+All variants of Toyota Vellfire have Real-Time Vehicle Tracking.
+All variants of Toyota Vellfire have Engine Start/Stop Button.
+All variants of Toyota Vellfire have Voice Commands.
+All variants of Toyota Vellfire have Hands-Free Tailgate.
+All variants of Toyota Vellfire have Chrome Grille.
+All variants of Toyota Vellfire have KeyLess Entry.
+Toyota Vellfire variant with Idle Start-Stop System - Hi.
+All variants of Toyota Vellfire have Follow Me Home Headlamps.
+All variants of Toyota Vellfire have Tachometer.
+All variants of Toyota Vellfire have Alloy Wheels.
+All variants of Toyota Vellfire have Integrated Antenna.
+All variants of Toyota Vellfire have Automatic Headlamps.
+All variants of Toyota Vellfire have LED DRLs.
+All variants of Toyota Vellfire have LED Headlamps.
+All variants of Toyota Vellfire have Anti-lock Braking System (ABS).
+All variants of Toyota Vellfire have Central Locking.
+All variants of Toyota Vellfire have Driver Airbag.
+All variants of Toyota Vellfire have Side Airbag.
+All variants of Toyota Vellfire have Seat Belt Warning.
+All variants of Toyota Vellfire have Engine Immobilizer.
+All variants of Toyota Vellfire have E-Call & I-Call.
+All variants of Toyota Vellfire have Remote AC On/Off.
+All variants of Toyota Vellfire do not have Side Airbag-Rear.
+All variants of Toyota Vellfire have Electronic Stability Control (ESC).
+All variants of Toyota Vellfire have Anti-Theft Device.
+All variants of Toyota Vellfire have Speed Alert.
+All variants of Toyota Vellfire have Speed Sensing Auto Door Lock.
+All variants of Toyota Vellfire have Hill Assist.
+All variants of Toyota Vellfire have Impact Sensing Auto Door Unlock.
+All variants of Toyota Vellfire have Radio.
+All variants of Toyota Vellfire have Wireless Phone Charging.
+All variants of Toyota Vellfire have Bluetooth Connectivity.
+All variants of Toyota Vellfire have Android Auto.
+All variants of Toyota Vellfire have Apple CarPlay.
+All variants of Toyota Vellfire have Live Location.
+All variants of Toyota Vellfire have Over the Air (OTA) Updates.
+All variants of Toyota Vellfire have Over Speeding Alert.
+All variants of Toyota Vellfire have Remote Door Lock/Unlock.
+All variants of Toyota Vellfire have Geo-fence Alert.
+All variants of Toyota Vellfire have Height Adjustable Front Seat Belts.
+All variants of Toyota Vellfire have Dual Tone Dashboard.
+All variants of Toyota Vellfire have LED Taillights.
+All variants of Toyota Vellfire have Electronic Brakeforce Distribution (EBD).
+All variants of Toyota Vellfire have Brake Assist.
+All variants of Toyota Vellfire have Anti-Theft Alarm.
+All variants of Toyota Vellfire have Door Ajar Warning.
+All variants of Toyota Vellfire have Digital Odometer.
+All variants of Toyota Vellfire have Remote Immobiliser.
+All variants of Toyota Vellfire have SOS / Emergency Assistance.
+All variants of Toyota Vellfire have Heads-Up Display (HUD).
+All variants of Toyota Vellfire have Lane Keep Assist.
+All variants of Toyota Vellfire have Adaptive Cruise Control.
+All variants of Toyota Vellfire have Adaptive High Beam Assist.
+All variants of Toyota Vellfire have Unauthorised Vehicle entry.
+All variants of Toyota Vellfire have Cooled Glovebox.
+All variants of Toyota Vellfire have Navigation with Live Traffic.
+All variants of Toyota Vellfire have Send POI to Vehicle From App.
+All variants of Toyota Vellfire have Ventilated Seats.
+All variants of Toyota Vellfire have Hill Descent Control.
+All variants of Toyota Vellfire have Rear Window Sunblind.
+All variants of Toyota Vellfire have Leather wrap gear-shift selector.
+All variants of Toyota Vellfire have Blind Spot Monitor.
+All variants of Toyota Vellfire have Live Weather.
+All variants of Toyota Vellfire have Remote Vehicle Ignition Start/Stop.
+All variants of Toyota Vellfire have Remote Boot Open.
+All variants of Toyota Vellfire have Tailgate Ajar Warning.
+All variants of Toyota Vellfire have Remote Vehicle Status Check.
+All variants of Toyota Vellfire have SOS Button.
+All variants of Toyota Vellfire have Save Route/Place.
+All variants of Toyota Vellfire have Regenerative Braking.
+All variants of Toyota Vellfire have Traction Control.
+All variants of Toyota Vellfire have RSA.
+All variants of Toyota Vellfire have Crash Notification.
+All variants of Toyota Vellfire have Rear Entertainment System.
+All variants of Toyota Vellfire have Height Adjustable Driver Seat.
+All variants of Toyota Vellfire have Rear Window Defogger.
+All variants of Toyota Vellfire have Leather Wrapped Steering Wheel.
+All variants of Toyota Vellfire have Glove Box.
+All variants of Toyota Vellfire have Adjustable Headlamps.
+All variants of Toyota Vellfire have Outside Rear View Mirror Turn Indicators.
+All variants of Toyota Vellfire have Passenger Airbag.
+All variants of Toyota Vellfire have Day & Night Rear View Mirror.
+All variants of Toyota Vellfire have Tyre Pressure Monitoring System (TPMS).
+All variants of Toyota Vellfire have Touchscreen.
+All variants of Toyota Vellfire have Rear Window Wiper.
+All variants of Toyota Vellfire have Rear Window Washer.
+All variants of Toyota Vellfire have Chrome Garnish.
+All variants of Toyota Vellfire have Rear Spoiler.
+Toyota Vellfire variants with Rain Sensing Wiper - Hi & VIP Executive Lounge.
+All variants of Toyota Vellfire have Air Quality Control.
+All variants of Toyota Vellfire have Tinted Glass.
+All variants of Toyota Vellfire have Rear Touchscreen.
+All variants of Toyota Vellfire have Smart Access Card Entry.
+Toyota Vellfire variant with Roof Rails - VIP Executive Lounge.
+All variants of Toyota Vellfire have Curtain Airbag.
+All variants of Toyota Vellfire have Usb Ports.
+All variants of Toyota Vellfire have Integrated 2DIN Audio.
+All Toyota Vellfire variants use the 2.5-litre a Hybrid engine.
+All Toyota Vellfire variants have a displacement of 2487  cubic centimeters.
+All Toyota Vellfire variants produce a maximum power of 190.42 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Toyota Vellfire variants produce a maximum torque of 240 Newton meters at 4296 to 4500 Revolutions Per Minute (RPM).
+All Toyota Vellfire variants have 4.0 valves per cylinder.
+All Toyota Vellfire variants have a Automatic transmission.
+All Toyota Vellfire variants have 4.0 cylinders.
+All Toyota Vellfire variants come with a CVT gearbox.
+All Toyota Vellfire variants have a All-Wheel Drive (AWD) drive type.
+All Toyota Vellfire variants run on Petrol.
+All Toyota Vellfire variants comply with BS VI 2.0 emission norms.
+All Toyota Vellfire variants come with Electric steering.
+All Toyota Vellfire variants have a turning radius of 5.9m.
+All Toyota Vellfire variants have Disc front brakes.
+All Toyota Vellfire variants have Disc rear brakes.
+All Toyota Vellfire variants have a length of 5005 mm.
+All Toyota Vellfire variants have a width of 1850 mm.
+All Toyota Vellfire variants have a height of 1950 mm.
+All Toyota Vellfire variants offer 148 Litres of boot space.
+All Toyota Vellfire variants have a seating capacity of 7.0.
+All Toyota Vellfire variants have a wheelbase of 3000 mm.
+Toyota Vellfire variant Hi has 5.0 doors.
+Toyota Vellfire variant VIP Executive Lounge has 4.0 doors.
+All Toyota Vellfire variants come with a Electronic boot opening mechanism.
+All Toyota Vellfire variants have tyres of size 225/55 R19.
+All Toyota Vellfire variants come with Tyre Type tyres.
+All Toyota Vellfire variants come equipped with 6.0 airbags.
+Toyota Vellfire variant VIP Executive Lounge has a Global NCAP rating of 4 Star.
+All Toyota Vellfire variants come with a 13.97 inch touchscreen display.
+All Toyota Vellfire variants come with 15.0 speakers.
+All Toyota Vellfire variants use Electric as a secondary fuel type.
+All Toyota Vellfire variants come with 19 Inch front alloy wheels.
+All Toyota Vellfire variants come with 19 Inch rear alloy wheels.
+All Toyota Vellfire variants come with Android Auto, Apple CarPlay connectivity options.
+All Toyota Vellfire variants come with Leather upholstery.
+All Toyota Vellfire variants have a top speed of 170 kmph.
+All Toyota Vellfire variants use a Rack & Pinion steering gear type.
+All Toyota Vellfire variants have All Windows anti-pinch power windows.
+All Toyota Vellfire variants provide a highway mileage of 18.28 kmpl.
+All Toyota Vellfire variants have a fuel tank capacity of 60 Litres.
+All Toyota Vellfire variants have the MacPherson Strut suspension front suspension.
+All Toyota Vellfire variants have the Double wishbone suspension rear suspension.
+All Toyota Vellfire variants come with Tilt & Telescopic steering adjustment.
+All variants of Toyota Vellfire have Adjustable Steering.
+All Toyota Vellfire variants are equipped with Front & Rear parking sensors.
+All Toyota Vellfire variants come with Front & Rear USB charging ports.
+All Toyota Vellfire variants come with a Shark Fin antenna.
+All Toyota Vellfire variants have a With Guidedlines rear camera.
+All Toyota Vellfire variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Toyota Vellfire variants include Front & Rear speakers.
+All Toyota Vellfire variants have Front & Rear electric adjustable seats.
+All Toyota Vellfire variants have a With Storage central console armrest.
+All Toyota Vellfire variants feature ambient lighting with 14 color options.
+All variants of Toyota Vellfire have Rear Seat Headrest.
+All Toyota Vellfire variants come with a Dual Pane sunroof.
+All Toyota Vellfire variants come with Dual Tone Mahine Finish Bright & Dark Alloy Wheels, Chrome Back Door Garnish And e Door Handles, Body Colour ORVMS as additional features.

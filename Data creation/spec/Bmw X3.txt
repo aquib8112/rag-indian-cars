@@ -1,0 +1,144 @@
+﻿Bmw X3 has 2 variants: xDrive 20 M Sport & xDrive 20d M Sport.
+All variants of Bmw X3 have Power Steering.
+All variants of Bmw X3 have Air Conditioner.
+All variants of Bmw X3 have Heater.
+All variants of Bmw X3 have Automatic Climate Control.
+All variants of Bmw X3 have Accessory Power Outlet.
+Bmw X3 variant with Trunk Light - xDrive 20 M Sport.
+Bmw X3 variant with Vanity Mirror - xDrive 20 M Sport.
+All variants of Bmw X3 have Rear Reading Lamp.
+All variants of Bmw X3 have Adjustable Headrest.
+All variants of Bmw X3 have Rear Seat Centre Arm Rest.
+All variants of Bmw X3 have Rear AC Vents.
+All variants of Bmw X3 have Cruise Control.
+All variants of Bmw X3 have Real-Time Vehicle Tracking.
+All variants of Bmw X3 have Engine Start/Stop Button.
+All variants of Bmw X3 do not have Hands-Free Tailgate.
+All variants of Bmw X3 have KeyLess Entry.
+All variants of Bmw X3 have Idle Start-Stop System.
+All variants of Bmw X3 have Follow Me Home Headlamps.
+All variants of Bmw X3 have Tachometer.
+All variants of Bmw X3 have Alloy Wheels.
+All variants of Bmw X3 have Integrated Antenna.
+All variants of Bmw X3 have Automatic Headlamps.
+All variants of Bmw X3 have LED DRLs.
+All variants of Bmw X3 have LED Headlamps.
+All variants of Bmw X3 have Anti-lock Braking System (ABS).
+All variants of Bmw X3 have Central Locking.
+All variants of Bmw X3 have Driver Airbag.
+All variants of Bmw X3 have Side Airbag.
+All variants of Bmw X3 have Seat Belt Warning.
+All variants of Bmw X3 have Engine Immobilizer.
+All variants of Bmw X3 have E-Call & I-Call.
+All variants of Bmw X3 have Electronic Stability Control (ESC).
+All variants of Bmw X3 have Speed Alert.
+All variants of Bmw X3 have Speed Sensing Auto Door Lock.
+All variants of Bmw X3 have ISOFIX Child Seat Mounts.
+All variants of Bmw X3 have Hill Assist.
+All variants of Bmw X3 have Impact Sensing Auto Door Unlock.
+All variants of Bmw X3 have 360 View Camera.
+All variants of Bmw X3 have Radio.
+All variants of Bmw X3 have Wireless Phone Charging.
+All variants of Bmw X3 have Bluetooth Connectivity.
+All variants of Bmw X3 have Android Auto.
+All variants of Bmw X3 have Apple CarPlay.
+All variants of Bmw X3 have Live Location.
+All variants of Bmw X3 have Over the Air (OTA) Updates.
+All variants of Bmw X3 have Over Speeding Alert.
+Bmw X3 variant with Smartwatch App - xDrive 20 M Sport.
+All variants of Bmw X3 have Height Adjustable Front Seat Belts.
+All variants of Bmw X3 have Lumbar Support.
+All variants of Bmw X3 have Paddle Shifters.
+All variants of Bmw X3 have LED Taillights.
+All variants of Bmw X3 have Electronic Brakeforce Distribution (EBD).
+All variants of Bmw X3 have Brake Assist.
+All variants of Bmw X3 have Door Ajar Warning.
+All variants of Bmw X3 have SOS / Emergency Assistance.
+All variants of Bmw X3 have Heads-Up Display (HUD).
+Bmw X3 variant with Unauthorised Vehicle entry - xDrive 20d M Sport.
+Bmw X3 variant with Navigation with Live Traffic - xDrive 20d M Sport.
+All variants of Bmw X3 have Ventilated Seats.
+All variants of Bmw X3 have Puddle Lamps.
+Bmw X3 variant with Hill Descent Control - xDrive 20 M Sport.
+All variants of Bmw X3 have Battery Saver.
+Bmw X3 variant with E-Manual - xDrive 20d M Sport.
+All variants of Bmw X3 have Digital Car Key.
+All variants of Bmw X3 have Live Weather.
+All variants of Bmw X3 have Tailgate Ajar Warning.
+Bmw X3 variant with Remote Vehicle Status Check - xDrive 20 M Sport.
+All variants of Bmw X3 have SOS Button.
+All variants of Bmw X3 have Voice assisted sunroof.
+Bmw X3 variant with Save Route/Place - xDrive 20 M Sport.
+All variants of Bmw X3 have Traction Control.
+All variants of Bmw X3 have RSA.
+All variants of Bmw X3 have Height Adjustable Driver Seat.
+All variants of Bmw X3 have Rear Window Defogger.
+All variants of Bmw X3 have Glove Box.
+All variants of Bmw X3 have Adjustable Headlamps.
+All variants of Bmw X3 have Outside Rear View Mirror Turn Indicators.
+All variants of Bmw X3 have Passenger Airbag.
+All variants of Bmw X3 have Day & Night Rear View Mirror.
+All variants of Bmw X3 have Tyre Pressure Monitoring System (TPMS).
+All variants of Bmw X3 have Touchscreen.
+All variants of Bmw X3 have Child Safety Locks.
+All variants of Bmw X3 have Rear Spoiler.
+All variants of Bmw X3 have Rain Sensing Wiper.
+All variants of Bmw X3 have Air Quality Control.
+All variants of Bmw X3 have Curtain Airbag.
+All variants of Bmw X3 have Usb Ports.
+Bmw X3 variant xDrive 20 M Sport has the 2-litre turbo-petrol engine.
+Bmw X3 variant xDrive 20d M Sport has the 2.0L Diesel engine.
+Bmw X3 variant xDrive 20 M Sport has a displacement of 1998  cubic centimeters.
+Bmw X3 variant xDrive 20d M Sport has a displacement of 1995  cubic centimeters.
+Bmw X3 variant xDrive 20 M Sport delivers a max power of 187 Brake Horsepower (BHP) at 5000 Revolutions Per Minute (RPM).
+Bmw X3 variant xDrive 20d M Sport delivers a max power of 194 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Bmw X3 variant xDrive 20 M Sport has a max torque of 310 Newton meters at 1500 to 4000 Revolutions Per Minute (RPM).
+Bmw X3 variant xDrive 20d M Sport has a max torque of 400 Newton meters at 1500 to 2750 Revolutions Per Minute (RPM).
+All Bmw X3 variants have 4.0 valves per cylinder.
+All Bmw X3 variants have a Automatic transmission.
+All Bmw X3 variants have 4.0 cylinders.
+All Bmw X3 variants come with a 8-Speed gearbox.
+All Bmw X3 variants have a All-Wheel Drive (AWD) drive type.
+Bmw X3 variant xDrive 20 M Sport runs on Petrol.
+Bmw X3 variant xDrive 20d M Sport runs on Diesel.
+All Bmw X3 variants comply with BS VI 2.0 emission norms.
+All Bmw X3 variants come with Electric steering.
+All Bmw X3 variants have Disc front brakes.
+All Bmw X3 variants have Disc rear brakes.
+All Bmw X3 variants have a seating capacity of 5.0.
+All Bmw X3 variants have 5.0 doors.
+All Bmw X3 variants come with a Hands-Free boot opening mechanism.
+All Bmw X3 variants have Powered Outside Rear View Mirror (ORVM).
+All Bmw X3 variants have tyres of size 245/50 R19.
+All Bmw X3 variants come with Unknown tyres.
+All Bmw X3 variants come with a 14.9 inch touchscreen display.
+All Bmw X3 variants come with 15.0 speakers.
+All Bmw X3 variants come with 19 Inch front alloy wheels.
+All Bmw X3 variants come with 19 Inch rear alloy wheels.
+All Bmw X3 variants come with Android Auto, Apple CarPlay connectivity options.
+All Bmw X3 variants feature a Full Digital digital cluster.
+Bmw X3 variant xDrive 20 M Sport accelerates from 0-100 kmph in 7.8 s.
+Bmw X3 variant xDrive 20d M Sport accelerates from 0-100 kmph in 7.7 s.
+Bmw X3 variant xDrive 20 M Sport accelerates from 0-100 kmph in 7.8 s.
+Bmw X3 variant xDrive 20d M Sport accelerates from 0-100 kmph in 7.7 s.
+All Bmw X3 variants have Driver's Window anti-pinch power windows.
+Bmw X3 variant xDrive 20 M Sport provides a mileage of 13.38 kmpl.
+Bmw X3 variant xDrive 20d M Sport provides a mileage of 17.86 kmpl.
+All Bmw X3 variants have the Air suspension front suspension.
+All Bmw X3 variants have the Air suspension rear suspension.
+All Bmw X3 variants have Height & Reach steering adjustability.
+All Bmw X3 variants are equipped with Rear parking sensors.
+All Bmw X3 variants come with Front & Rear USB charging ports.
+All Bmw X3 variants have Front & Rear power windows.
+All Bmw X3 variants come with Front & Rear cup holders.
+All Bmw X3 variants come with a Shark Fin antenna.
+All Bmw X3 variants feature a 12.3 inch digital cluster.
+All Bmw X3 variants have a With Guidedlines rear camera.
+All Bmw X3 variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Bmw X3 variants include Front & Rear speakers.
+All Bmw X3 variants have Front electric adjustable seats.
+All Bmw X3 variants have a 40:20:40 Split foldable rear seat.
+Bmw X3 variant with Central Console Armrest - xDrive 20 M Sport.
+All variants of Bmw X3 have Turbo Charger.
+All Bmw X3 variants come with Adjustable rear seat headrests.
+All Bmw X3 variants come with a Panoramic sunroof.

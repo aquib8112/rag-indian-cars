@@ -1,0 +1,143 @@
+﻿Maserati Grecale has 3 variants: GT, Modena & Trofeo.
+All variants of Maserati Grecale have Power Steering.
+All variants of Maserati Grecale have Air Conditioner.
+All variants of Maserati Grecale have Heater.
+All variants of Maserati Grecale have Automatic Climate Control.
+All variants of Maserati Grecale have Accessory Power Outlet.
+All variants of Maserati Grecale have Trunk Light.
+All variants of Maserati Grecale have Vanity Mirror.
+All variants of Maserati Grecale have Rear Reading Lamp.
+All variants of Maserati Grecale have Adjustable Headrest.
+All variants of Maserati Grecale have Rear Seat Centre Arm Rest.
+All variants of Maserati Grecale have Rear AC Vents.
+All variants of Maserati Grecale have Cruise Control.
+All variants of Maserati Grecale have Real-Time Vehicle Tracking.
+All variants of Maserati Grecale have Engine Start/Stop Button.
+All variants of Maserati Grecale have Voice Commands.
+All variants of Maserati Grecale do not have Hands-Free Tailgate.
+All variants of Maserati Grecale have KeyLess Entry.
+All variants of Maserati Grecale have Idle Start-Stop System.
+All variants of Maserati Grecale have Follow Me Home Headlamps.
+All variants of Maserati Grecale have Tachometer.
+All variants of Maserati Grecale do not have Wheel Covers.
+All variants of Maserati Grecale have Alloy Wheels.
+All variants of Maserati Grecale have Projector Headlamps.
+All variants of Maserati Grecale have Automatic Headlamps.
+All variants of Maserati Grecale have LED DRLs.
+All variants of Maserati Grecale have LED Headlamps.
+All variants of Maserati Grecale have Anti-lock Braking System (ABS).
+All variants of Maserati Grecale have Central Locking.
+All variants of Maserati Grecale have Driver Airbag.
+All variants of Maserati Grecale have Side Airbag.
+All variants of Maserati Grecale have Seat Belt Warning.
+All variants of Maserati Grecale have Engine Immobilizer.
+All variants of Maserati Grecale have Electronic Stability Control (ESC).
+All variants of Maserati Grecale have Anti-Theft Device.
+All variants of Maserati Grecale have Speed Alert.
+All variants of Maserati Grecale have Speed Sensing Auto Door Lock.
+All variants of Maserati Grecale have ISOFIX Child Seat Mounts.
+All variants of Maserati Grecale have Hill Assist.
+All variants of Maserati Grecale have Impact Sensing Auto Door Unlock.
+All variants of Maserati Grecale have 360 View Camera.
+All variants of Maserati Grecale have Radio.
+All variants of Maserati Grecale have Wireless Phone Charging.
+All variants of Maserati Grecale have Bluetooth Connectivity.
+All variants of Maserati Grecale have Android Auto.
+All variants of Maserati Grecale have Apple CarPlay.
+All variants of Maserati Grecale have Height Adjustable Front Seat Belts.
+All variants of Maserati Grecale have Lumbar Support.
+All variants of Maserati Grecale have Paddle Shifters.
+All variants of Maserati Grecale have LED Taillights.
+All variants of Maserati Grecale have Electronic Brakeforce Distribution (EBD).
+All variants of Maserati Grecale have Brake Assist.
+All variants of Maserati Grecale have Anti-Theft Alarm.
+All variants of Maserati Grecale have Door Ajar Warning.
+All variants of Maserati Grecale have Blind Spot Camera.
+All variants of Maserati Grecale have Cooled Glovebox.
+All variants of Maserati Grecale have Glove Box light.
+All variants of Maserati Grecale have Ventilated Seats.
+All variants of Maserati Grecale have Hill Descent Control.
+All variants of Maserati Grecale have Battery Saver.
+All variants of Maserati Grecale have Blind Spot Monitor.
+All variants of Maserati Grecale have Tailgate Ajar Warning.
+All variants of Maserati Grecale have Lane Change Indicator.
+All variants of Maserati Grecale have Traction Control.
+All variants of Maserati Grecale have Height Adjustable Driver Seat.
+All variants of Maserati Grecale have Rear Window Defogger.
+All variants of Maserati Grecale have Leather Wrapped Steering Wheel.
+All variants of Maserati Grecale have Glove Box.
+All variants of Maserati Grecale have Adjustable Headlamps.
+All variants of Maserati Grecale have Outside Rear View Mirror Turn Indicators.
+All variants of Maserati Grecale have Passenger Airbag.
+All variants of Maserati Grecale have Day & Night Rear View Mirror.
+All variants of Maserati Grecale have Tyre Pressure Monitoring System (TPMS).
+All variants of Maserati Grecale have Touchscreen.
+All variants of Maserati Grecale have Child Safety Locks.
+All variants of Maserati Grecale have Rain Sensing Wiper.
+All variants of Maserati Grecale have Air Quality Control.
+All variants of Maserati Grecale have Curtain Airbag.
+All variants of Maserati Grecale have Usb Ports.
+All variants of Maserati Grecale have Luggage Hook & Net.
+Maserati Grecale variants - GT & Modena share the L4 MHEV engine.
+Maserati Grecale variant Trofeo has the V6 90° engine.
+Maserati Grecale variants - GT & Modena share a displacement of 1995  cubic centimeters.
+Maserati Grecale variant Trofeo has a displacement of 3000  cubic centimeters.
+Maserati Grecale variants - GT & Modena have a max power of 296 Brake Horsepower (BHP) at 5750 Revolutions Per Minute (RPM).
+Maserati Grecale variant Trofeo delivers a max power of 523 Brake Horsepower (BHP) at 6500 Revolutions Per Minute (RPM).
+Maserati Grecale variants - GT & Modena share a max torque of 450 Newton meters at 2000 to 4000 Revolutions Per Minute (RPM).
+Maserati Grecale variant Trofeo has a max torque of 620 Newton meters at 3000 to 5500 Revolutions Per Minute (RPM).
+All Maserati Grecale variants have 4.0 valves per cylinder.
+All Maserati Grecale variants have a Automatic transmission.
+Maserati Grecale variants - GT & Modena have 4.0 cylinders.
+Maserati Grecale variant Trofeo has 6.0 cylinders.
+All Maserati Grecale variants come with a 8-Speed gearbox.
+All Maserati Grecale variants have a All-Wheel Drive (AWD) drive type.
+All Maserati Grecale variants run on Petrol.
+All Maserati Grecale variants comply with BS VI 2.0 emission norms.
+All Maserati Grecale variants come with Electric steering.
+All Maserati Grecale variants have a turning radius of 6.2m.
+All Maserati Grecale variants have Disc front brakes.
+All Maserati Grecale variants have Disc rear brakes.
+Maserati Grecale variant GT has a length of 4846 mm.
+Maserati Grecale variant Modena has a length of 4847 mm.
+Maserati Grecale variant Trofeo has a length of 4559 mm.
+All Maserati Grecale variants have a width of 2163 mm.
+Maserati Grecale variant GT has a height of 1670 mm.
+Maserati Grecale variant Modena has a height of 1667 mm.
+Maserati Grecale variant Trofeo has a height of 1659 mm.
+Maserati Grecale variants - GT & Modena share a boot space of 535 Litres.
+Maserati Grecale variant Trofeo offers 570 Litres of boot space.
+All Maserati Grecale variants have a seating capacity of 5.0.
+All Maserati Grecale variants have a wheelbase of 2901 mm.
+All Maserati Grecale variants have 5.0 doors.
+All Maserati Grecale variants come with Unknown tyres.
+All Maserati Grecale variants come equipped with 6.0 airbags.
+All Maserati Grecale variants come with a unknown touchscreen display.
+Maserati Grecale variants - GT & Modena use Electric as a secondary fuel type.
+All Maserati Grecale variants achieve 100-0 kmph braking in 40 s seconds.
+All Maserati Grecale variants feature a Full Digital digital cluster.
+All Maserati Grecale variants come with Leather upholstery.
+Maserati Grecale variants - GT & Modena have a top speed of 240 kmph.
+Maserati Grecale variant Trofeo has a top speed of 285 kmph.
+Maserati Grecale variant GT accelerates from 0-100 kmph in 5.6 s.
+Maserati Grecale variant Modena accelerates from 0-100 kmph in 5.3 s.
+Maserati Grecale variant Trofeo accelerates from 0-100 kmph in 3.8 s.
+Maserati Grecale variant GT accelerates from 0-100 kmph in 5.6 s.
+Maserati Grecale variant Modena accelerates from 0-100 kmph in 5.3 s.
+Maserati Grecale variant Trofeo accelerates from 0-100 kmph in 3.8 s.
+All Maserati Grecale variants have All Windows anti-pinch power windows.
+Maserati Grecale variants - GT & Modena have highway mileage figures of 9.2 kmpl.
+Maserati Grecale variant Trofeo has a highway mileage of 17.4 kmpl.
+All Maserati Grecale variants have a fuel tank capacity of 64 Litres.
+All Maserati Grecale variants have the Air suspension front suspension.
+All Maserati Grecale variants have the Air suspension rear suspension.
+All Maserati Grecale variants come with Tilt & Telescopic steering adjustment.
+All variants of Maserati Grecale have Adjustable Steering.
+All Maserati Grecale variants are equipped with Rear parking sensors.
+All Maserati Grecale variants come with Front & Rear USB charging ports.
+All Maserati Grecale variants have a With Guidedlines rear camera.
+All Maserati Grecale variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Maserati Grecale variants have Front electric adjustable seats.
+All Maserati Grecale variants have a With Storage central console armrest.
+All variants of Maserati Grecale have Rear Seat Headrest.
+All Maserati Grecale variants come with a Panoramic sunroof.

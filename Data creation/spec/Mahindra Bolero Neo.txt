@@ -1,0 +1,116 @@
+Mahindra Bolero Neo has 4 variants: N4, N8, N10 R & N10 Option.
+All variants of Mahindra Bolero Neo have Power Steering.
+All variants of Mahindra Bolero Neo have Air Conditioner.
+All variants of Mahindra Bolero Neo have Heater.
+All variants of Mahindra Bolero Neo have Accessory Power Outlet.
+Mahindra Bolero Neo variants with Rear Reading Lamp - N10 R & N10 Option.
+Mahindra Bolero Neo variants without Rear Reading Lamp - N4 & N8.
+All variants of Mahindra Bolero Neo have Adjustable Headrest.
+Mahindra Bolero Neo variants with Rear Seat Centre Arm Rest - N10 R & N10 Option.
+Mahindra Bolero Neo variants without Rear Seat Centre Arm Rest - N4 & N8.
+Mahindra Bolero Neo variants with Cruise Control - N10 R & N10 Option.
+Mahindra Bolero Neo variants without Cruise Control - N4 & N8.
+All variants of Mahindra Bolero Neo do not have Chrome Grille.
+Mahindra Bolero Neo variants with KeyLess Entry - N8, N10 R & N10 Option.
+Mahindra Bolero Neo variant without KeyLess Entry - N4.
+Mahindra Bolero Neo variants with Follow Me Home Headlamps - N10 R & N10 Option.
+Mahindra Bolero Neo variants without Follow Me Home Headlamps - N4 & N8.
+All variants of Mahindra Bolero Neo have Tachometer.
+Mahindra Bolero Neo variant with Wheel Covers - N8.
+Mahindra Bolero Neo variants without Wheel Covers - N4, N10 R & N10 Option.
+Mahindra Bolero Neo variants with Alloy Wheels - N10 R & N10 Option.
+Mahindra Bolero Neo variants without Alloy Wheels - N4 & N8.
+Mahindra Bolero Neo variants with Integrated Antenna - N8, N10 R & N10 Option.
+Mahindra Bolero Neo variant without Integrated Antenna - N4.
+Mahindra Bolero Neo variants with LED DRLs - N10 R & N10 Option.
+Mahindra Bolero Neo variants without LED DRLs - N4 & N8.
+All variants of Mahindra Bolero Neo do not have LED Headlamps.
+All variants of Mahindra Bolero Neo have Anti-lock Braking System (ABS).
+All variants of Mahindra Bolero Neo have Central Locking.
+All variants of Mahindra Bolero Neo have Driver Airbag.
+All variants of Mahindra Bolero Neo do not have Side Airbag.
+All variants of Mahindra Bolero Neo have Seat Belt Warning.
+All variants of Mahindra Bolero Neo have Engine Immobilizer.
+All variants of Mahindra Bolero Neo do not have Side Airbag-Rear.
+All variants of Mahindra Bolero Neo have Speed Alert.
+Mahindra Bolero Neo variants with ISOFIX Child Seat Mounts - N10 R & N10 Option.
+Mahindra Bolero Neo variants without ISOFIX Child Seat Mounts - N4 & N8.
+Mahindra Bolero Neo variants with Radio - N8, N10 R & N10 Option.
+Mahindra Bolero Neo variant without Radio - N4.
+Mahindra Bolero Neo variants with Bluetooth Connectivity - N8, N10 R & N10 Option.
+Mahindra Bolero Neo variant without Bluetooth Connectivity - N4.
+All variants of Mahindra Bolero Neo have Halogen Headlamps.
+All variants of Mahindra Bolero Neo do not have LED Taillights.
+All variants of Mahindra Bolero Neo have Electronic Brakeforce Distribution (EBD).
+Mahindra Bolero Neo variants with Height Adjustable Driver Seat - N4, N8, N10 R & N10 Option.
+Mahindra Bolero Neo variants with Rear Window Defogger - N4, N8, N10 R & N10 Option.
+All variants of Mahindra Bolero Neo have Glove Box.
+All variants of Mahindra Bolero Neo have Passenger Airbag.
+All variants of Mahindra Bolero Neo have Day & Night Rear View Mirror.
+Mahindra Bolero Neo variants with Touchscreen - N4, N8, N10 R & N10 Option.
+Mahindra Bolero Neo variants with Rear Window Wiper - N4, N8, N10 R & N10 Option.
+Mahindra Bolero Neo variants with Rear Spoiler - N4, N8, N10 R & N10 Option.
+Mahindra Bolero Neo variants with Side Stepper - N4, N8, N10 R & N10 Option.
+All variants of Mahindra Bolero Neo do not have Curtain Airbag.
+Mahindra Bolero Neo variants with Usb Ports - N8, N10 R & N10 Option.
+Mahindra Bolero Neo variant without Usb Ports - N4.
+Mahindra Bolero Neo variants with Integrated 2DIN Audio - N8, N10 R & N10 Option.
+Mahindra Bolero Neo variant without Integrated 2DIN Audio - N4.
+All Mahindra Bolero Neo variants use the mHAWk100 engine.
+All Mahindra Bolero Neo variants have a displacement of 1493  cubic centimeters.
+All Mahindra Bolero Neo variants produce a maximum power of 98.56 Brake Horsepower (BHP) at 3750 Revolutions Per Minute (RPM).
+All Mahindra Bolero Neo variants produce a maximum torque of 260 Newton meters at 1750 to 2250 Revolutions Per Minute (RPM).
+All Mahindra Bolero Neo variants have 4.0 valves per cylinder.
+All Mahindra Bolero Neo variants have a Manual transmission.
+All Mahindra Bolero Neo variants have 3.0 cylinders.
+All Mahindra Bolero Neo variants come with a 5-Speed gearbox.
+All Mahindra Bolero Neo variants have a Rear-Wheel Drive (RWD) drive type.
+All Mahindra Bolero Neo variants run on Diesel.
+All Mahindra Bolero Neo variants comply with BS VI 2.0 emission norms.
+All Mahindra Bolero Neo variants come with Power steering.
+All Mahindra Bolero Neo variants have a turning radius of 5.35m.
+All Mahindra Bolero Neo variants have Disc front brakes.
+All Mahindra Bolero Neo variants have Drum rear brakes.
+All Mahindra Bolero Neo variants have a length of 3995 mm.
+All Mahindra Bolero Neo variants have a width of 1795 mm.
+All Mahindra Bolero Neo variants have a height of 1817 mm.
+All Mahindra Bolero Neo variants offer 384 Litres of boot space.
+All Mahindra Bolero Neo variants have a seating capacity of 7.0.
+All Mahindra Bolero Neo variants have an unladen ground clearance of 160 mm.
+All Mahindra Bolero Neo variants have a wheelbase of 2680 mm.
+All Mahindra Bolero Neo variants have a gross weight of 2215 kg.
+All Mahindra Bolero Neo variants have 5.0 doors.
+All Mahindra Bolero Neo variants come with a Manual boot opening mechanism.
+All Mahindra Bolero Neo variants have tyres of size 215/75 R15.
+All Mahindra Bolero Neo variants come with Tubeless Radial tyres.
+Mahindra Bolero Neo variants - N4 & N8 feature 15 Inch wheels.
+All Mahindra Bolero Neo variants come equipped with 2.0 airbags.
+Mahindra Bolero Neo variant N8 has a Global NCAP rating of 1 Star.
+Mahindra Bolero Neo variant N8 has a Global NCAP child safety rating of 1 Star.
+Mahindra Bolero Neo variant N8 features a unknown touchscreen.
+Mahindra Bolero Neo variants - N10 R & N10 Option come with a 6.77 inch touchscreen display.
+Mahindra Bolero Neo variants - N8, N10 R & N10 Option come with 4.0 speakers.
+Mahindra Bolero Neo variants - N10 R & N10 Option have 15 Inch front alloy wheels.
+Mahindra Bolero Neo variants - N10 R & N10 Option have 15 Inch rear alloy wheels.
+Mahindra Bolero Neo variants - N8, N10 R & N10 Option have 2.0 tweeters.
+All Mahindra Bolero Neo variants feature a Semi Digital digital cluster.
+Mahindra Bolero Neo variants - N8, N10 R & N10 Option feature Fabric upholstery options.
+All Mahindra Bolero Neo variants have a top speed of 150 kmph.
+All Mahindra Bolero Neo variants offer a mileage of 17.29 kmpl.
+Mahindra Bolero Neo variants - N4, N8 & N10 Option have highway mileage figures of 16.16 kmpl.
+All Mahindra Bolero Neo variants have a fuel tank capacity of 50 Litres.
+All Mahindra Bolero Neo variants come with Tilt Steering steering adjustment.
+All variants of Mahindra Bolero Neo have Adjustable Steering.
+All Mahindra Bolero Neo variants are equipped with Rear parking sensors.
+All Mahindra Bolero Neo variants have Front & Rear power windows.
+Mahindra Bolero Neo variants without Fog Lights - N4 & N8.
+Mahindra Bolero Neo variants - N10 R & N10 Option share the Front fog light configuration.
+All Mahindra Bolero Neo variants feature a 3.5 inch digital cluster.
+Mahindra Bolero Neo variant without Speakers - N4.
+Mahindra Bolero Neo variants - N8, N10 R & N10 Option share the Front & Rear speaker configuration.
+Mahindra Bolero Neo variants without Central Console Armrest - N4 & N8.
+Mahindra Bolero Neo variants with Central Console Armrest - N10 R & N10 Option.
+All variants of Mahindra Bolero Neo have Turbo Charger.
+Mahindra Bolero Neo variant N4 offers X-Shaped body coloured bumpers, Signature Bolero side cladding, X type spare wheel cover Body coloured as additional features.
+Mahindra Bolero Neo variant N8 offers Music player 2-DIN (Bluetooth, USB, AUX) as additional features.
+Mahindra Bolero Neo variants - N10 R & N10 Option share Music player with USB + BT (touchscreen infotainment, bluetooth, USB & AUX) as additional features.

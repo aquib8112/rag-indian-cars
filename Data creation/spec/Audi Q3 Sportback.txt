@@ -1,0 +1,107 @@
+Audi Q3 Sportback has 2 variants: 40TFSI Quattro & Bold Edition.
+All variants of Audi Q3 Sportback have Power Steering.
+All variants of Audi Q3 Sportback have Air Conditioner.
+All variants of Audi Q3 Sportback have Heater.
+All variants of Audi Q3 Sportback have Automatic Climate Control.
+All variants of Audi Q3 Sportback have Accessory Power Outlet.
+All variants of Audi Q3 Sportback have Rear Reading Lamp.
+All variants of Audi Q3 Sportback have Adjustable Headrest.
+All variants of Audi Q3 Sportback have Rear Seat Centre Arm Rest.
+All variants of Audi Q3 Sportback have Rear AC Vents.
+All variants of Audi Q3 Sportback have Cruise Control.
+All variants of Audi Q3 Sportback have Engine Start/Stop Button.
+All variants of Audi Q3 Sportback have KeyLess Entry.
+All variants of Audi Q3 Sportback have Tachometer.
+All variants of Audi Q3 Sportback do not have Wheel Covers.
+All variants of Audi Q3 Sportback have Alloy Wheels.
+All variants of Audi Q3 Sportback have Integrated Antenna.
+All variants of Audi Q3 Sportback have LED DRLs.
+All variants of Audi Q3 Sportback have LED Headlamps.
+All variants of Audi Q3 Sportback have Anti-lock Braking System (ABS).
+All variants of Audi Q3 Sportback have Central Locking.
+All variants of Audi Q3 Sportback have Driver Airbag.
+All variants of Audi Q3 Sportback have Side Airbag.
+All variants of Audi Q3 Sportback have Seat Belt Warning.
+All variants of Audi Q3 Sportback have Engine Immobilizer.
+All variants of Audi Q3 Sportback do not have Side Airbag-Rear.
+All variants of Audi Q3 Sportback have Electronic Stability Control (ESC).
+All variants of Audi Q3 Sportback have Anti-Theft Device.
+All variants of Audi Q3 Sportback have Speed Alert.
+All variants of Audi Q3 Sportback have Speed Sensing Auto Door Lock.
+All variants of Audi Q3 Sportback have ISOFIX Child Seat Mounts.
+All variants of Audi Q3 Sportback have Hill Assist.
+All variants of Audi Q3 Sportback have Impact Sensing Auto Door Unlock.
+All variants of Audi Q3 Sportback have Radio.
+All variants of Audi Q3 Sportback have Wireless Phone Charging.
+All variants of Audi Q3 Sportback have Bluetooth Connectivity.
+All variants of Audi Q3 Sportback have Android Auto.
+All variants of Audi Q3 Sportback have Apple CarPlay.
+All variants of Audi Q3 Sportback have Lumbar Support.
+All variants of Audi Q3 Sportback have Electronic Multi-Tripmeter.
+All variants of Audi Q3 Sportback have Digital Clock.
+All variants of Audi Q3 Sportback have Dual Tone Dashboard.
+All variants of Audi Q3 Sportback do not have Power Antenna.
+All variants of Audi Q3 Sportback have LED Taillights.
+All variants of Audi Q3 Sportback have Door Ajar Warning.
+All variants of Audi Q3 Sportback have Digital Odometer.
+All variants of Audi Q3 Sportback have Tailgate Ajar Warning.
+All variants of Audi Q3 Sportback have Leather Seats.
+All variants of Audi Q3 Sportback have Height Adjustable Driver Seat.
+All variants of Audi Q3 Sportback have Leather Wrapped Steering Wheel.
+All variants of Audi Q3 Sportback have Glove Box.
+All variants of Audi Q3 Sportback have Adjustable Headlamps.
+All variants of Audi Q3 Sportback have Passenger Airbag.
+All variants of Audi Q3 Sportback have Tyre Pressure Monitoring System (TPMS).
+All variants of Audi Q3 Sportback have Touchscreen.
+All variants of Audi Q3 Sportback have Child Safety Locks.
+All variants of Audi Q3 Sportback have Rear Spoiler.
+All variants of Audi Q3 Sportback have Navigation System.
+All variants of Audi Q3 Sportback have Roof Rails.
+All variants of Audi Q3 Sportback have Usb Ports.
+All variants of Audi Q3 Sportback do not have Gear Shift Indicator.
+All variants of Audi Q3 Sportback do not have Luggage Hook & Net.
+All variants of Audi Q3 Sportback have Low Fuel Warning Light.
+All variants of Audi Q3 Sportback have Power Boot.
+All variants of Audi Q3 Sportback have Fog Lights - Front.
+All variants of Audi Q3 Sportback have Integrated 2DIN Audio.
+All variants of Audi Q3 Sportback have USB & Auxiliary input.
+All variants of Audi Q3 Sportback do not have Rear Curtain.
+All Audi Q3 Sportback variants use the 40 TFSI quattro engine.
+All Audi Q3 Sportback variants have a displacement of 1984  cubic centimeters.
+All Audi Q3 Sportback variants produce a maximum power of 187.74 Brake Horsepower (BHP) at 4200 to 6000 Revolutions Per Minute (RPM).
+All Audi Q3 Sportback variants produce a maximum torque of 320 Newton meters at 1500 to 4100 Revolutions Per Minute (RPM).
+All Audi Q3 Sportback variants have 4.0 valves per cylinder.
+All Audi Q3 Sportback variants have a Automatic transmission.
+All Audi Q3 Sportback variants have 4.0 cylinders.
+All Audi Q3 Sportback variants come with a 7-Speed gearbox.
+All Audi Q3 Sportback variants have a All-Wheel Drive (AWD) drive type.
+All Audi Q3 Sportback variants run on Petrol.
+All Audi Q3 Sportback variants comply with BS VI 2.0 emission norms.
+All Audi Q3 Sportback variants come with Electric steering.
+All Audi Q3 Sportback variants have a length of 4518 mm.
+All Audi Q3 Sportback variants have a width of 2022 mm.
+All Audi Q3 Sportback variants have a height of 1558 mm.
+All Audi Q3 Sportback variants offer 380 Litres of boot space.
+All Audi Q3 Sportback variants have a seating capacity of 5.0.
+All Audi Q3 Sportback variants have a wheelbase of 2651 mm.
+All Audi Q3 Sportback variants have a kerb weight of 1595 kg.
+All Audi Q3 Sportback variants have 5.0 doors.
+All Audi Q3 Sportback variants have tyres of size 235/55 R18.
+All Audi Q3 Sportback variants come with Tubeless Radial tyres.
+All Audi Q3 Sportback variants come equipped with 6.0 airbags.
+All Audi Q3 Sportback variants come with a 10 inch touchscreen display.
+All Audi Q3 Sportback variants come with 10.0 speakers.
+All Audi Q3 Sportback variants come with Android Auto, Apple CarPlay connectivity options.
+All Audi Q3 Sportback variants have a top speed of 220 kmph.
+All Audi Q3 Sportback variants accelerate from 0-100 kmph in 7.3 s.
+All Audi Q3 Sportback variants accelerate from 0-100 kmph in 7.3 s.
+All Audi Q3 Sportback variants provide a highway mileage of 14.93 kmpl.
+Audi Q3 Sportback variant 40TFSI Quattro features a fuel tank capacity of 62 Litres.
+All variants of Audi Q3 Sportback have Adjustable Steering.
+All Audi Q3 Sportback variants are equipped with Front & Rear parking sensors.
+All Audi Q3 Sportback variants come with Front USB charging ports.
+All Audi Q3 Sportback variants include Front & Rear speakers.
+All Audi Q3 Sportback variants have Front electric adjustable seats.
+All Audi Q3 Sportback variants have a With Storage central console armrest.
+All variants of Audi Q3 Sportback have Rear Seat Headrest.
+All variants of Audi Q3 Sportback have Sunroof.

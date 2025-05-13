@@ -1,0 +1,155 @@
+Audi Q5 has 3 variants: Premium Plus, Technology & Bold Edition.
+All variants of Audi Q5 have Power Steering.
+All variants of Audi Q5 have Air Conditioner.
+All variants of Audi Q5 have Heater.
+All variants of Audi Q5 have Automatic Climate Control.
+Audi Q5 variants with Accessory Power Outlet - Premium Plus & Technology.
+Audi Q5 variants with Trunk Light - Premium Plus & Technology.
+Audi Q5 variants with Vanity Mirror - Premium Plus & Technology.
+Audi Q5 variants with Rear Reading Lamp - Premium Plus & Technology.
+Audi Q5 variants with Adjustable Headrest - Premium Plus & Technology.
+Audi Q5 variants with Rear Seat Centre Arm Rest - Premium Plus & Technology.
+Audi Q5 variants with Rear AC Vents - Premium Plus & Technology.
+Audi Q5 variants with Cruise Control - Premium Plus & Technology.
+Audi Q5 variants with Engine Start/Stop Button - Premium Plus & Technology.
+All variants of Audi Q5 have Voice Commands.
+All variants of Audi Q5 have Chrome Grille.
+All variants of Audi Q5 have KeyLess Entry.
+Audi Q5 variants with Idle Start-Stop System - Premium Plus & Technology.
+All variants of Audi Q5 have Follow Me Home Headlamps.
+Audi Q5 variants with Tachometer - Premium Plus & Technology.
+All variants of Audi Q5 have Alloy Wheels.
+All variants of Audi Q5 have Integrated Antenna.
+All variants of Audi Q5 have Automatic Headlamps.
+All variants of Audi Q5 have LED DRLs.
+Audi Q5 variants with LED Headlamps - Premium Plus & Technology.
+All variants of Audi Q5 have Anti-lock Braking System (ABS).
+All variants of Audi Q5 have Central Locking.
+All variants of Audi Q5 have Driver Airbag.
+All variants of Audi Q5 have Side Airbag.
+All variants of Audi Q5 have Seat Belt Warning.
+All variants of Audi Q5 have Engine Immobilizer.
+All variants of Audi Q5 have Side Airbag-Rear.
+Audi Q5 variants with Electronic Stability Control (ESC) - Premium Plus & Technology.
+All variants of Audi Q5 have Anti-Theft Device.
+Audi Q5 variants with Speed Alert - Premium Plus & Technology.
+All variants of Audi Q5 have Speed Sensing Auto Door Lock.
+All variants of Audi Q5 have ISOFIX Child Seat Mounts.
+Audi Q5 variants with Hill Assist - Premium Plus & Technology.
+Audi Q5 variants with Impact Sensing Auto Door Unlock - Premium Plus & Technology.
+Audi Q5 variant with 360 View Camera - Technology.
+Audi Q5 variant without 360 View Camera - Premium Plus.
+Audi Q5 variants with Radio - Premium Plus & Technology.
+All variants of Audi Q5 have Wireless Phone Charging.
+Audi Q5 variants with Bluetooth Connectivity - Premium Plus & Technology.
+All variants of Audi Q5 have Android Auto.
+All variants of Audi Q5 have Apple CarPlay.
+Audi Q5 variants with Height Adjustable Front Seat Belts - Premium Plus & Technology.
+All variants of Audi Q5 have LED Taillights.
+All variants of Audi Q5 have Electronic Brakeforce Distribution (EBD).
+All variants of Audi Q5 have Brake Assist.
+All variants of Audi Q5 have Anti-Theft Alarm.
+All variants of Audi Q5 have Door Ajar Warning.
+Audi Q5 variant with Digital Odometer - Bold Edition.
+Audi Q5 variant with Heads-Up Display (HUD) - Bold Edition.
+Audi Q5 variants with Glove Box light - Premium Plus & Technology.
+Audi Q5 variants with Hill Descent Control - Premium Plus & Technology.
+Audi Q5 variant without Hill Descent Control - Bold Edition.
+Audi Q5 variant with Blind Spot Monitor - Bold Edition.
+Audi Q5 variants with Tailgate Ajar Warning - Premium Plus & Technology.
+All variants of Audi Q5 have Cornering Headlamps.
+All variants of Audi Q5 have Traction Control.
+All variants of Audi Q5 have Height Adjustable Driver Seat.
+All variants of Audi Q5 have Rear Window Defogger.
+Audi Q5 variants with Glove Box - Premium Plus & Technology.
+Audi Q5 variants with Adjustable Headlamps - Premium Plus & Technology.
+Audi Q5 variants with Outside Rear View Mirror Turn Indicators - Premium Plus & Technology.
+All variants of Audi Q5 have Passenger Airbag.
+All variants of Audi Q5 have Day & Night Rear View Mirror.
+All variants of Audi Q5 have Tyre Pressure Monitoring System (TPMS).
+All variants of Audi Q5 have Touchscreen.
+All variants of Audi Q5 have Rear Window Wiper.
+All variants of Audi Q5 have Rear Window Washer.
+All variants of Audi Q5 have Chrome Garnish.
+All variants of Audi Q5 have Child Safety Locks.
+All variants of Audi Q5 have Rear Spoiler.
+All variants of Audi Q5 have Rain Sensing Wiper.
+Audi Q5 variants with Air Quality Control - Premium Plus & Technology.
+All variants of Audi Q5 have Roof Rails.
+All variants of Audi Q5 have Curtain Airbag.
+All variants of Audi Q5 have Usb Ports.
+Audi Q5 variants with Luggage Hook & Net - Premium Plus & Technology.
+All Audi Q5 variants use the 2.0 L TFSI engine.
+All Audi Q5 variants have a displacement of 1984  cubic centimeters.
+All Audi Q5 variants produce a maximum power of 245.59 Brake Horsepower (BHP) at 5000 to 6000 Revolutions Per Minute (RPM).
+Audi Q5 variants - Premium Plus & Technology share a max torque of 370 Newton meters at 1600 to 4300bhp.
+Audi Q5 variant Bold Edition has a max torque of 370 Newton meters at 1600 to 4300 Revolutions Per Minute (RPM).
+All Audi Q5 variants have 4.0 valves per cylinder.
+All Audi Q5 variants have a Automatic transmission.
+All Audi Q5 variants have 4.0 cylinders.
+All Audi Q5 variants come with a 7-Speed AT gearbox.
+All Audi Q5 variants have a All-Wheel Drive (AWD) drive type.
+All Audi Q5 variants run on Petrol.
+All Audi Q5 variants comply with BS VI 2.0 emission norms.
+Audi Q5 variants - Premium Plus & Technology have Electric steering.
+Audi Q5 variants - Premium Plus & Technology feature Disc front brakes.
+Audi Q5 variants - Premium Plus & Technology feature Disc rear brakes.
+All Audi Q5 variants have a length of 4682 mm.
+All Audi Q5 variants have a width of 1893 mm.
+Audi Q5 variant Premium Plus has a height of 1655 mm.
+Audi Q5 variants - Technology & Bold Edition share a height of 1653 mm.
+All Audi Q5 variants offer 520 Litres of boot space.
+All Audi Q5 variants have a seating capacity of 5.0.
+Audi Q5 variants - Premium Plus & Technology share a wheelbase of 2827 mm.
+Audi Q5 variant Bold Edition has a wheelbase of 2500 mm.
+All Audi Q5 variants have a kerb weight of 1970 kg.
+All Audi Q5 variants have 5.0 doors.
+Audi Q5 variants - Premium Plus & Technology feature a Electronic boot opening mechanism.
+Audi Q5 variants - Premium Plus & Technology feature Powered & Folding Outside Rear View Mirror (ORVM).
+All Audi Q5 variants have tyres of size 235/55 R19.
+Audi Q5 variants - Premium Plus & Technology are fitted with Tyre Type tyres.
+Audi Q5 variant Bold Edition features Unknown tyres.
+All Audi Q5 variants come equipped with 8.0 airbags.
+Audi Q5 variant Premium Plus has a Global NCAP rating of 5 Star.
+Audi Q5 variant Premium Plus features a unknown touchscreen.
+Audi Q5 variants - Technology & Bold Edition come with a 10 inch touchscreen display.
+Audi Q5 variants - Technology & Bold Edition come with 19.0 speakers.
+Audi Q5 variants - Premium Plus & Technology have 19 Inch front alloy wheels.
+Audi Q5 variants - Premium Plus & Technology have 19 Inch rear alloy wheels.
+Audi Q5 variant Bold Edition includes Android Auto, Apple CarPlay connectivity features.
+Audi Q5 variants - Premium Plus & Technology feature a Full Digital digital cluster.
+Audi Q5 variants - Premium Plus & Technology feature Leather upholstery options.
+Audi Q5 variants - Premium Plus & Technology have a top speed of 240 kmph.
+Audi Q5 variant Bold Edition has a top speed of 237 kmph.
+Audi Q5 variants - Premium Plus & Technology have a 0-100 kmph acceleration time of 6.1 s.
+Audi Q5 variant Bold Edition accelerates from 0-100 kmph in 6.3 s.
+Audi Q5 variants - Premium Plus & Technology have a 0-100 kmph acceleration time of 6.1 s.
+Audi Q5 variant Bold Edition accelerates from 0-100 kmph in 6.3 s.
+Audi Q5 variants - Premium Plus & Technology come with Driver's Window anti-pinch power windows.
+Audi Q5 variant Bold Edition has All Windows anti-pinch power windows.
+All Audi Q5 variants offer a mileage of 13.47 kmpl.
+All Audi Q5 variants have a fuel tank capacity of 70 Litres.
+All Audi Q5 variants have the Multi-link suspension front suspension.
+All Audi Q5 variants have the Multi-link suspension rear suspension.
+Audi Q5 variants - Premium Plus & Technology share the Tilt & Telescopic steering adjustment type.
+Audi Q5 variants - Premium Plus & Technology share the Height & Reach steering adjustability option.
+All Audi Q5 variants are equipped with Front & Rear parking sensors.
+Audi Q5 variants - Premium Plus & Technology share the Front & Rear USB charging configuration.
+Audi Q5 variants - Premium Plus & Technology share the Front & Rear power window configuration.
+Audi Q5 variants - Premium Plus & Technology share the Front & Rear cup holder configuration.
+Audi Q5 variants - Premium Plus & Technology share the Shark Fin antenna type.
+Audi Q5 variants - Premium Plus & Technology share the 12.29 inch digital cluster size.
+All Audi Q5 variants have a With Guidedlines rear camera.
+Audi Q5 variants - Premium Plus & Technology share the Driver and Passenger seatbelt pretensioner and force limiter type.
+Audi Q5 variant Bold Edition has Driver seatbelt pretensioners and force limiters.
+All Audi Q5 variants include Front & Rear speakers.
+All Audi Q5 variants have Front electric adjustable seats.
+Audi Q5 variants - Premium Plus & Technology share the With Storage central console armrest type.
+Audi Q5 variant Bold Edition has Driver knee airbags.
+Audi Q5 variants - Premium Plus & Technology share the 30 ambient lighting configuration.
+Audi Q5 variants - Premium Plus & Technology share Adjustable rear seat headrests.
+Audi Q5 variants - Premium Plus & Technology share a Panoramic sunroof.
+Audi Q5 variant with Sunroof - Bold Edition.
+All Audi Q5 variants come with 6 drive modes.
+Audi Q5 variant Premium Plus offers Singleframe grille with vertical struts, as additional features.
+Audi Q5 variants - Technology & Bold Edition share 3D Premium Sound System, centre speaker and subwoofer, with a 16-channel amplifier the output of 755 watts as additional features.

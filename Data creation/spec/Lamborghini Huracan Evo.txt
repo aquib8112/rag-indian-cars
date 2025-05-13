@@ -1,0 +1,203 @@
+﻿Lamborghini Huracan Evo has 4 variants: Spyder, Tecnica, Sterrato & STO.
+All variants of Lamborghini Huracan Evo have Power Steering.
+All variants of Lamborghini Huracan Evo have Air Conditioner.
+All variants of Lamborghini Huracan Evo have Heater.
+All variants of Lamborghini Huracan Evo have Automatic Climate Control.
+All variants of Lamborghini Huracan Evo have Accessory Power Outlet.
+All variants of Lamborghini Huracan Evo do not have Trunk Light.
+All variants of Lamborghini Huracan Evo have Vanity Mirror.
+All variants of Lamborghini Huracan Evo have Rear Reading Lamp.
+All variants of Lamborghini Huracan Evo do not have Rear Seat Centre Arm Rest.
+All variants of Lamborghini Huracan Evo do not have Rear AC Vents.
+All variants of Lamborghini Huracan Evo have Cruise Control.
+All variants of Lamborghini Huracan Evo have Engine Start/Stop Button.
+All variants of Lamborghini Huracan Evo have Voice Commands.
+All variants of Lamborghini Huracan Evo do not have Chrome Grille.
+All variants of Lamborghini Huracan Evo have KeyLess Entry.
+All variants of Lamborghini Huracan Evo have Follow Me Home Headlamps.
+All variants of Lamborghini Huracan Evo have Tachometer.
+All variants of Lamborghini Huracan Evo do not have Wheel Covers.
+All variants of Lamborghini Huracan Evo have Alloy Wheels.
+All variants of Lamborghini Huracan Evo have Integrated Antenna.
+All variants of Lamborghini Huracan Evo do not have Automatic Headlamps.
+All variants of Lamborghini Huracan Evo have Anti-lock Braking System (ABS).
+All variants of Lamborghini Huracan Evo have Central Locking.
+All variants of Lamborghini Huracan Evo have Driver Airbag.
+All variants of Lamborghini Huracan Evo have Side Airbag.
+All variants of Lamborghini Huracan Evo have Seat Belt Warning.
+All variants of Lamborghini Huracan Evo have Engine Immobilizer.
+All variants of Lamborghini Huracan Evo do not have Side Airbag-Rear.
+Lamborghini Huracan Evo variants with Electronic Stability Control (ESC) - Tecnica, Sterrato & STO.
+All variants of Lamborghini Huracan Evo have Anti-Theft Device.
+Lamborghini Huracan Evo variant with Speed Alert - Tecnica.
+All variants of Lamborghini Huracan Evo have Speed Sensing Auto Door Lock.
+All variants of Lamborghini Huracan Evo do not have ISOFIX Child Seat Mounts.
+All variants of Lamborghini Huracan Evo have Hill Assist.
+Lamborghini Huracan Evo variant with Impact Sensing Auto Door Unlock - Sterrato.
+Lamborghini Huracan Evo variants without Impact Sensing Auto Door Unlock - Spyder, Tecnica & STO.
+All variants of Lamborghini Huracan Evo do not have 360 View Camera.
+All variants of Lamborghini Huracan Evo have Radio.
+All variants of Lamborghini Huracan Evo have Bluetooth Connectivity.
+Lamborghini Huracan Evo variant with Android Auto - Tecnica.
+Lamborghini Huracan Evo variant with Apple CarPlay - Tecnica.
+All variants of Lamborghini Huracan Evo do not have Height Adjustable Front Seat Belts.
+All variants of Lamborghini Huracan Evo have Lumbar Support.
+All variants of Lamborghini Huracan Evo have Paddle Shifters.
+All variants of Lamborghini Huracan Evo have Electronic Multi-Tripmeter.
+All variants of Lamborghini Huracan Evo have Digital Clock.
+All variants of Lamborghini Huracan Evo have Outside Temperature Display.
+All variants of Lamborghini Huracan Evo do not have Dual Tone Dashboard.
+All variants of Lamborghini Huracan Evo do not have Power Antenna.
+All variants of Lamborghini Huracan Evo do not have Halogen Headlamps.
+All variants of Lamborghini Huracan Evo have Brake Assist.
+All variants of Lamborghini Huracan Evo do not have Anti-Theft Alarm.
+All variants of Lamborghini Huracan Evo have Door Ajar Warning.
+All variants of Lamborghini Huracan Evo have Digital Odometer.
+All variants of Lamborghini Huracan Evo do not have Heads-Up Display (HUD).
+All variants of Lamborghini Huracan Evo have Cooled Glovebox.
+All variants of Lamborghini Huracan Evo have Ventilated Seats.
+All variants of Lamborghini Huracan Evo have Hill Descent Control.
+All variants of Lamborghini Huracan Evo do not have Battery Saver.
+All variants of Lamborghini Huracan Evo do not have Smoke Headlamps.
+All variants of Lamborghini Huracan Evo do not have Blind Spot Monitor.
+All variants of Lamborghini Huracan Evo have Tailgate Ajar Warning.
+All variants of Lamborghini Huracan Evo have Remote Trunk Opener.
+All variants of Lamborghini Huracan Evo have Remote Fuel Lid Opener.
+All variants of Lamborghini Huracan Evo do not have Lane Change Indicator.
+All variants of Lamborghini Huracan Evo have Xenon Headlamps.
+All variants of Lamborghini Huracan Evo have Traction Control.
+All variants of Lamborghini Huracan Evo do not have Rear Entertainment System.
+All variants of Lamborghini Huracan Evo have Leather Seats.
+All variants of Lamborghini Huracan Evo do not have Driving Experience Control Eco.
+All variants of Lamborghini Huracan Evo do not have Fog Lights - Rear.
+All variants of Lamborghini Huracan Evo do not have Internal Storage.
+All variants of Lamborghini Huracan Evo have Height Adjustable Driver Seat.
+All variants of Lamborghini Huracan Evo have Rear Window Defogger.
+All variants of Lamborghini Huracan Evo have Leather Wrapped Steering Wheel.
+All variants of Lamborghini Huracan Evo have Glove Box.
+All variants of Lamborghini Huracan Evo have Adjustable Headlamps.
+All variants of Lamborghini Huracan Evo have Outside Rear View Mirror Turn Indicators.
+All variants of Lamborghini Huracan Evo have Passenger Airbag.
+All variants of Lamborghini Huracan Evo have Day & Night Rear View Mirror.
+All variants of Lamborghini Huracan Evo have Tyre Pressure Monitoring System (TPMS).
+All variants of Lamborghini Huracan Evo have Touchscreen.
+All variants of Lamborghini Huracan Evo have Rear Window Wiper.
+All variants of Lamborghini Huracan Evo have Rear Window Washer.
+All variants of Lamborghini Huracan Evo have Chrome Garnish.
+All variants of Lamborghini Huracan Evo have Child Safety Locks.
+All variants of Lamborghini Huracan Evo have Rear Spoiler.
+All variants of Lamborghini Huracan Evo have Rain Sensing Wiper.
+All variants of Lamborghini Huracan Evo have Air Quality Control.
+All variants of Lamborghini Huracan Evo have Tinted Glass.
+All variants of Lamborghini Huracan Evo have Folding Table in The Rear.
+All variants of Lamborghini Huracan Evo have Navigation System.
+All variants of Lamborghini Huracan Evo have Smart Access Card Entry.
+All variants of Lamborghini Huracan Evo have Fabric Upholstery.
+Lamborghini Huracan Evo variants with Roof Rails - Spyder, Tecnica, Sterrato & STO.
+All variants of Lamborghini Huracan Evo have Cigarette Lighter.
+All variants of Lamborghini Huracan Evo have Roof Carrier.
+All variants of Lamborghini Huracan Evo have Side Stepper.
+Lamborghini Huracan Evo variants with Dual Tone Body Colour - Sterrato & STO.
+All variants of Lamborghini Huracan Evo have Usb Ports.
+All variants of Lamborghini Huracan Evo do not have Gear Shift Indicator.
+All variants of Lamborghini Huracan Evo do not have Luggage Hook & Net.
+All variants of Lamborghini Huracan Evo have Low Fuel Warning Light.
+Lamborghini Huracan Evo variants with Heated Wing Mirror - Tecnica, Sterrato & STO.
+All variants of Lamborghini Huracan Evo do not have Fog Lights - Front.
+All variants of Lamborghini Huracan Evo have Integrated 2DIN Audio.
+All variants of Lamborghini Huracan Evo have USB & Auxiliary input.
+All variants of Lamborghini Huracan Evo do not have Rear Curtain.
+All variants of Lamborghini Huracan Evo do not have Audio System Remote Control.
+Lamborghini Huracan Evo variants - Spyder & Tecnica share the 5.2 V10 Petrol Engine engine.
+Lamborghini Huracan Evo variant Sterrato has the V10 / V 90°, DGFB engine.
+Lamborghini Huracan Evo variant STO has the V10 cylinder 90°,dual injection engine.
+All Lamborghini Huracan Evo variants have a displacement of 5204  cubic centimeters.
+Lamborghini Huracan Evo variant Spyder delivers a max power of 630.3 Brake Horsepower (BHP) at 8000 Revolutions Per Minute (RPM).
+Lamborghini Huracan Evo variants - Tecnica & STO have a max power of 630.28 Brake Horsepower (BHP) at 8000 Revolutions Per Minute (RPM).
+Lamborghini Huracan Evo variant Sterrato delivers a max power of 602.11 Brake Horsepower (BHP) at 8000 Revolutions Per Minute (RPM).
+Lamborghini Huracan Evo variant Spyder has a max torque of 600 Newton meters at 6500 Revolutions Per Minute (RPM).
+Lamborghini Huracan Evo variants - Tecnica & STO share a max torque of 565 Newton meters at 6500 Revolutions Per Minute (RPM).
+Lamborghini Huracan Evo variant Sterrato has a max torque of 560 Newton meters at 6500 Revolutions Per Minute (RPM).
+All Lamborghini Huracan Evo variants have 4.0 valves per cylinder.
+All Lamborghini Huracan Evo variants have a Automatic transmission.
+All Lamborghini Huracan Evo variants have 10.0 cylinders.
+Lamborghini Huracan Evo variant Spyder comes with a 7-Speed-DTC gearbox.
+Lamborghini Huracan Evo variant Tecnica comes with a 7-Speed gearbox.
+Lamborghini Huracan Evo variants - Sterrato & STO share a 7-Speed LDF DCT gearbox.
+Lamborghini Huracan Evo variants - Spyder, Tecnica & STO share a Rear-Wheel Drive (RWD) drive type.
+Lamborghini Huracan Evo variant Sterrato has a All-Wheel Drive (AWD) drive type.
+All Lamborghini Huracan Evo variants run on Petrol.
+All Lamborghini Huracan Evo variants comply with BS VI 2.0 emission norms.
+Lamborghini Huracan Evo variant Spyder has Power steering.
+Lamborghini Huracan Evo variant Tecnica has Direct steering.
+Lamborghini Huracan Evo variants - Sterrato & STO have Electric steering.
+Lamborghini Huracan Evo variants - Sterrato & STO share a turning radius of 5.75m.
+Lamborghini Huracan Evo variant Spyder has Carbon Ceramic front brakes.
+Lamborghini Huracan Evo variants - Tecnica & STO feature Ventilated Disc front brakes.
+Lamborghini Huracan Evo variant Sterrato has Ventilated Carbon-ceramic Disc front brakes.
+Lamborghini Huracan Evo variant Spyder has Carbon Ceramic rear brakes.
+Lamborghini Huracan Evo variants - Tecnica, Sterrato & STO feature Ventilated Disc rear brakes.
+Lamborghini Huracan Evo variant Spyder has a length of 4520 mm.
+Lamborghini Huracan Evo variant Tecnica has a length of 4567 mm.
+Lamborghini Huracan Evo variants - Sterrato & STO share a length of 4549 mm.
+Lamborghini Huracan Evo variants - Spyder & Tecnica share a width of 1933 mm.
+Lamborghini Huracan Evo variants - Sterrato & STO share a width of 2236 mm.
+Lamborghini Huracan Evo variant Spyder has a height of 1180 mm.
+Lamborghini Huracan Evo variant Tecnica has a height of 1165 mm.
+Lamborghini Huracan Evo variants - Sterrato & STO share a height of 1220 mm.
+All Lamborghini Huracan Evo variants offer 150 Litres of boot space.
+All Lamborghini Huracan Evo variants have a seating capacity of 2.0.
+All Lamborghini Huracan Evo variants have a wheelbase of 2445 mm.
+Lamborghini Huracan Evo variant Spyder has a kerb weight of 1542 kg.
+Lamborghini Huracan Evo variant Tecnica has a kerb weight of 1379 kg.
+Lamborghini Huracan Evo variants - Sterrato & STO share a kerb weight of 1339 kg.
+All Lamborghini Huracan Evo variants have 2.0 doors.
+Lamborghini Huracan Evo variants - Spyder & Tecnica feature tyres of size 245/30 R20.
+Lamborghini Huracan Evo variant Sterrato comes with tyres of size F 235/40R19, R 285/40 R19.
+Lamborghini Huracan Evo variant STO comes with tyres of size 245/30R20 (F),305/30R20 (R).
+All Lamborghini Huracan Evo variants come with Tubeless Radial tyres.
+All Lamborghini Huracan Evo variants come equipped with 6.0 airbags.
+Lamborghini Huracan Evo variants - Spyder & Tecnica come with a 8.4 inch touchscreen display.
+All Lamborghini Huracan Evo variants come with 6.0 speakers.
+Lamborghini Huracan Evo variant Tecnica takes 31.5 s seconds to brake from 100-0 kmph.
+Lamborghini Huracan Evo variant Spyder includes Apple CarPlay connectivity features.
+Lamborghini Huracan Evo variants - Tecnica, Sterrato & STO have Android Auto, Apple CarPlay connectivity options.
+Lamborghini Huracan Evo variants - Spyder & Tecnica have a top speed of 325 kmph.
+Lamborghini Huracan Evo variant Sterrato has a top speed of 260 kmph.
+Lamborghini Huracan Evo variant STO has a top speed of 310 kmph.
+Lamborghini Huracan Evo variant Spyder accelerates from 0-100 kmph in 3.1 s.
+Lamborghini Huracan Evo variant Tecnica accelerates from 0-100 kmph in 3.2 s.
+Lamborghini Huracan Evo variant Sterrato accelerates from 0-100 kmph in 3.4 s.
+Lamborghini Huracan Evo variant STO accelerates from 0-100 kmph in 3.0 s.
+Lamborghini Huracan Evo variant Spyder accelerates from 0-100 kmph in 3.1 s.
+Lamborghini Huracan Evo variant Tecnica accelerates from 0-100 kmph in 3.2 s.
+Lamborghini Huracan Evo variant Sterrato accelerates from 0-100 kmph in 3.4 s.
+Lamborghini Huracan Evo variant STO accelerates from 0-100 kmph in 3.0 s.
+All Lamborghini Huracan Evo variants come with a DOHC valve configuration.
+All Lamborghini Huracan Evo variants have a rear tread of 1620 mm.
+All Lamborghini Huracan Evo variants use a Direct Injection (Di) fuel supply system.
+All Lamborghini Huracan Evo variants feature a Remote trunk opener.
+Lamborghini Huracan Evo variant Sterrato features Magnetorheological with coaxial spring shock absorbers.
+Lamborghini Huracan Evo variants - Spyder & Tecnica come with Driver's Window anti-pinch power windows.
+Lamborghini Huracan Evo variant Spyder has a highway mileage of 7.5 kmpl.
+Lamborghini Huracan Evo variant Tecnica has a highway mileage of 7.25 kmpl.
+Lamborghini Huracan Evo variant Sterrato has a highway mileage of 7.3 kmpl.
+Lamborghini Huracan Evo variant STO has a highway mileage of 7.1 kmpl.
+Lamborghini Huracan Evo variants - Sterrato & STO have fuel tank capacities of 80 Litres.
+All Lamborghini Huracan Evo variants have the Multi-link suspension front suspension.
+All Lamborghini Huracan Evo variants have the Multi-link suspension rear suspension.
+All Lamborghini Huracan Evo variants come with Tilt & Telescopic steering adjustment.
+All variants of Lamborghini Huracan Evo have Adjustable Steering.
+All Lamborghini Huracan Evo variants are equipped with Rear parking sensors.
+All Lamborghini Huracan Evo variants come with Front USB charging ports.
+All Lamborghini Huracan Evo variants include Front & Rear speakers.
+All Lamborghini Huracan Evo variants have Front electric adjustable seats.
+All variants of Lamborghini Huracan Evo do not have Foldable Rear Seat.
+All Lamborghini Huracan Evo variants have a With Storage central console armrest.
+Lamborghini Huracan Evo variant without Knee Airbags - Tecnica.
+Lamborghini Huracan Evo variants - Sterrato & STO share the Semi autonomous parking feature.
+All variants of Lamborghini Huracan Evo do not have Rear Seat Headrest.
+All variants of Lamborghini Huracan Evo do not have Sunroof.
+Lamborghini Huracan Evo variant Sterrato has 3 drive modes.
+Lamborghini Huracan Evo variants - Spyder, Sterrato & STO share 8.4” HMI capacitive touchscreen as additional features.
+Lamborghini Huracan Evo variant Tecnica offers Web Radio, Geofencing Alert, Amazon Alexa Integration, Over-the-Air Software Updates, Vehicle Status Report, Car Finder, What3words, 8.4” HMI capacitive touchscreen, Real-Time Traffic Information as additional features.

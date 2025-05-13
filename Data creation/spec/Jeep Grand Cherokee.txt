@@ -1,0 +1,151 @@
+Jeep Grand Cherokee has 1 variants: Limited Opt.
+Jeep Grand Cherokee has Power Steering.
+Jeep Grand Cherokee has Air Conditioner.
+Jeep Grand Cherokee has Heater.
+Jeep Grand Cherokee has Automatic Climate Control.
+Jeep Grand Cherokee has Accessory Power Outlet.
+Jeep Grand Cherokee has Trunk Light.
+Jeep Grand Cherokee has Vanity Mirror.
+Jeep Grand Cherokee has Rear Reading Lamp.
+Jeep Grand Cherokee has Adjustable Headrest.
+Jeep Grand Cherokee has Rear Seat Centre Arm Rest.
+Jeep Grand Cherokee has Rear AC Vents.
+Jeep Grand Cherokee has Cruise Control.
+Jeep Grand Cherokee has Real-Time Vehicle Tracking.
+Jeep Grand Cherokee has Engine Start/Stop Button.
+Jeep Grand Cherokee has Voice Commands.
+Jeep Grand Cherokee has Hands-Free Tailgate.
+Jeep Grand Cherokee has Chrome Grille.
+Jeep Grand Cherokee has KeyLess Entry.
+Jeep Grand Cherokee has Idle Start-Stop System.
+Jeep Grand Cherokee has Follow Me Home Headlamps.
+Jeep Grand Cherokee has Tachometer.
+Jeep Grand Cherokee has Alloy Wheels.
+Jeep Grand Cherokee has Integrated Antenna.
+Jeep Grand Cherokee has Automatic Headlamps.
+Jeep Grand Cherokee has LED DRLs.
+Jeep Grand Cherokee has LED Headlamps.
+Jeep Grand Cherokee has Anti-lock Braking System (ABS).
+Jeep Grand Cherokee has Central Locking.
+Jeep Grand Cherokee has Driver Airbag.
+Jeep Grand Cherokee has Side Airbag.
+Jeep Grand Cherokee has Seat Belt Warning.
+Jeep Grand Cherokee has Engine Immobilizer.
+Jeep Grand Cherokee has Side Airbag-Rear.
+Jeep Grand Cherokee has Electronic Stability Control (ESC).
+Jeep Grand Cherokee has Anti-Theft Device.
+Jeep Grand Cherokee has Speed Alert.
+Jeep Grand Cherokee has Speed Sensing Auto Door Lock.
+Jeep Grand Cherokee has ISOFIX Child Seat Mounts.
+Jeep Grand Cherokee has Hill Assist.
+Jeep Grand Cherokee has Impact Sensing Auto Door Unlock.
+Jeep Grand Cherokee has 360 View Camera.
+Jeep Grand Cherokee has Radio.
+Jeep Grand Cherokee has Wireless Phone Charging.
+Jeep Grand Cherokee has Bluetooth Connectivity.
+Jeep Grand Cherokee has Android Auto.
+Jeep Grand Cherokee has Apple CarPlay.
+Jeep Grand Cherokee has Driver Attention Warning.
+Jeep Grand Cherokee has Live Location.
+Jeep Grand Cherokee has Google / Alexa Connectivity.
+Jeep Grand Cherokee has Smartwatch App.
+Jeep Grand Cherokee has Remote Door Lock/Unlock.
+Jeep Grand Cherokee has Geo-fence Alert.
+Jeep Grand Cherokee has Height Adjustable Front Seat Belts.
+Jeep Grand Cherokee has Lumbar Support.
+Jeep Grand Cherokee has LED Taillights.
+Jeep Grand Cherokee has Electronic Brakeforce Distribution (EBD).
+Jeep Grand Cherokee has Brake Assist.
+Jeep Grand Cherokee has Anti-Theft Alarm.
+Jeep Grand Cherokee has Door Ajar Warning.
+Jeep Grand Cherokee has Digital Odometer.
+Jeep Grand Cherokee has SOS / Emergency Assistance.
+Jeep Grand Cherokee has Heads-Up Display (HUD).
+Jeep Grand Cherokee has Forward Collision Warning.
+Jeep Grand Cherokee has Lane Departure Warning.
+Jeep Grand Cherokee has Lane Keep Assist.
+Jeep Grand Cherokee has Adaptive Cruise Control.
+Jeep Grand Cherokee has Rear Cross Traffic Alert.
+Jeep Grand Cherokee has Glove Box light.
+Jeep Grand Cherokee has Ventilated Seats.
+Jeep Grand Cherokee has Active noise cancellation.
+Jeep Grand Cherokee has Blind Spot Monitor.
+Jeep Grand Cherokee has Tailgate Ajar Warning.
+Jeep Grand Cherokee has SOS Button.
+Jeep Grand Cherokee has Traction Control.
+Jeep Grand Cherokee has RSA.
+Jeep Grand Cherokee has Fog Lights - Rear.
+Jeep Grand Cherokee has Height Adjustable Driver Seat.
+Jeep Grand Cherokee has Rear Window Defogger.
+Jeep Grand Cherokee has Leather Wrapped Steering Wheel.
+Jeep Grand Cherokee has Glove Box.
+Jeep Grand Cherokee has Adjustable Headlamps.
+Jeep Grand Cherokee has Passenger Airbag.
+Jeep Grand Cherokee has Day & Night Rear View Mirror.
+Jeep Grand Cherokee has Tyre Pressure Monitoring System (TPMS).
+Jeep Grand Cherokee has Touchscreen.
+Jeep Grand Cherokee has Rear Window Wiper.
+Jeep Grand Cherokee has Rear Window Washer.
+Jeep Grand Cherokee has Chrome Garnish.
+Jeep Grand Cherokee has Child Safety Locks.
+Jeep Grand Cherokee has Rain Sensing Wiper.
+Jeep Grand Cherokee has Air Quality Control.
+Jeep Grand Cherokee has Roof Rails.
+Jeep Grand Cherokee has Curtain Airbag.
+Jeep Grand Cherokee has Usb Ports.
+Jeep Grand Cherokee has Luggage Hook & Net.
+Jeep Grand Cherokee has LED Fog Lamps.
+Jeep Grand Cherokee has Fog Lights - Front.
+The Jeep Grand Cherokee has the 2.0L GME T4 engine.
+The Jeep Grand Cherokee has a displacement of 1995  cubic centimeters.
+The Jeep Grand Cherokee generates 268.27 Brake Horsepower (BHP) at 5200 Revolutions Per Minute (RPM).
+The Jeep Grand Cherokee generates 400 Newton meters at 3000 Revolutions Per Minute (RPM).
+The Jeep Grand Cherokee has 4.0 valves per cylinder.
+The Jeep Grand Cherokee has a Automatic transmission.
+The Jeep Grand Cherokee has 4.0 cylinders.
+The Jeep Grand Cherokee has a 8-Speed-AT gearbox.
+The Jeep Grand Cherokee has a Four-Wheel Drive (4WD) drive type.
+The Jeep Grand Cherokee runs on Petrol.
+The Jeep Grand Cherokee complies with BS VI 2.0 emission norms.
+The Jeep Grand Cherokee has Disc front brakes.
+The Jeep Grand Cherokee has Disc rear brakes.
+The Jeep Grand Cherokee has a length of 4914 mm.
+The Jeep Grand Cherokee has a width of 1979 mm.
+The Jeep Grand Cherokee has a height of 1792 mm.
+The Jeep Grand Cherokee offers 1068 Litres of boot space.
+The Jeep Grand Cherokee has a seating capacity of 5.0.
+The Jeep Grand Cherokee has a wheelbase of 2964 mm.
+The Jeep Grand Cherokee has a kerb weight of 2097 kg.
+The Jeep Grand Cherokee has 5.0 doors.
+The Jeep Grand Cherokee is equipped with Tubeless Radial tyres.
+The Jeep Grand Cherokee is equipped with 8.0 airbags.
+The Jeep Grand Cherokee is equipped with a 10.1 inch touchscreen.
+The Jeep Grand Cherokee is equipped with 9.0 speakers.
+The Jeep Grand Cherokee features 20 Inch front alloy wheels.
+The Jeep Grand Cherokee features 20 Inch rear alloy wheels.
+The Jeep Grand Cherokee features Android Auto, Apple CarPlay connectivity options.
+The Jeep Grand Cherokee comes with a Full Digital digital cluster.
+The Jeep Grand Cherokee features Leather upholstery.
+The Jeep Grand Cherokee has a reported boot space of 1068 Litres.
+The Jeep Grand Cherokee achieves a top speed of 289 kmph.
+The Jeep Grand Cherokee features 1.0 subwoofer(s).
+The Jeep Grand Cherokee is equipped with a Smart trunk opener.
+The Jeep Grand Cherokee features All Windows anti-pinch power windows.
+The Jeep Grand Cherokee delivers a highway mileage of 10 kmpl.
+The Jeep Grand Cherokee comes with a fuel tank capacity of 87 Litres.
+The Jeep Grand Cherokee comes with the Multi-link suspension front suspension.
+The Jeep Grand Cherokee comes with the Multi-link suspension rear suspension.
+The Jeep Grand Cherokee features Tilt & Telescopic steering adjustment.
+Jeep Grand Cherokee has Adjustable Steering.
+The Jeep Grand Cherokee features Front & Rear parking sensors.
+The Jeep Grand Cherokee features Front & Rear USB charging ports.
+The Jeep Grand Cherokee has a 10.25 inch digital cluster.
+The Jeep Grand Cherokee has a With Guidedlines rear camera.
+The Jeep Grand Cherokee has Driver and Passenger seatbelt pretensioners and force limiters.
+The Jeep Grand Cherokee has Front & Rear speakers.
+The Jeep Grand Cherokee has Front electric adjustable seats.
+Jeep Grand Cherokee has Rear Seat Headrest.
+Jeep Grand Cherokee has Sunroof.
+The Jeep Grand Cherokee has 4 drive modes.
+The Jeep Grand Cherokee features Sand, Mud, Snow & Sport drive modes.
+The Jeep Grand Cherokee includes Front passenger interactive display,Alpine speaker amplified system with subwoofer as additional features.

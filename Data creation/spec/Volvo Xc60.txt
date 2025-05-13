@@ -1,0 +1,162 @@
+Volvo Xc60 has 1 variants: B5 Ultimate.
+Volvo Xc60 has Power Steering.
+Volvo Xc60 has Air Conditioner.
+Volvo Xc60 has Heater.
+Volvo Xc60 has Automatic Climate Control.
+Volvo Xc60 has Accessory Power Outlet.
+Volvo Xc60 has Trunk Light.
+Volvo Xc60 has Vanity Mirror.
+Volvo Xc60 has Rear Reading Lamp.
+Volvo Xc60 has Rear Seat Centre Arm Rest.
+Volvo Xc60 has Rear AC Vents.
+Volvo Xc60 has Cruise Control.
+Volvo Xc60 has Engine Start/Stop Button.
+Volvo Xc60 does not have Voice Commands.
+Volvo Xc60 has Chrome Grille.
+Volvo Xc60 has KeyLess Entry.
+Volvo Xc60 has Follow Me Home Headlamps.
+Volvo Xc60 has Tachometer.
+Volvo Xc60 does not have Wheel Covers.
+Volvo Xc60 has Alloy Wheels.
+Volvo Xc60 has Integrated Antenna.
+Volvo Xc60 has Projector Headlamps.
+Volvo Xc60 does not have Automatic Headlamps.
+Volvo Xc60 has LED DRLs.
+Volvo Xc60 has LED Headlamps.
+Volvo Xc60 has Anti-lock Braking System (ABS).
+Volvo Xc60 has Central Locking.
+Volvo Xc60 has Driver Airbag.
+Volvo Xc60 has Side Airbag.
+Volvo Xc60 has Seat Belt Warning.
+Volvo Xc60 has Engine Immobilizer.
+Volvo Xc60 does not have Side Airbag-Rear.
+Volvo Xc60 has Anti-Theft Device.
+Volvo Xc60 has Speed Alert.
+Volvo Xc60 has Speed Sensing Auto Door Lock.
+Volvo Xc60 has ISOFIX Child Seat Mounts.
+Volvo Xc60 has Hill Assist.
+Volvo Xc60 does not have Impact Sensing Auto Door Unlock.
+Volvo Xc60 has 360 View Camera.
+Volvo Xc60 has Radio.
+Volvo Xc60 has Wireless Phone Charging.
+Volvo Xc60 has Bluetooth Connectivity.
+Volvo Xc60 has Android Auto.
+Volvo Xc60 has Apple CarPlay.
+Volvo Xc60 does not have Height Adjustable Front Seat Belts.
+Volvo Xc60 has Lumbar Support.
+Volvo Xc60 has Paddle Shifters.
+Volvo Xc60 has Electronic Multi-Tripmeter.
+Volvo Xc60 has Digital Clock.
+Volvo Xc60 has Outside Temperature Display.
+Volvo Xc60 does not have Dual Tone Dashboard.
+Volvo Xc60 has LED Taillights.
+Volvo Xc60 has Brake Assist.
+Volvo Xc60 has Anti-Theft Alarm.
+Volvo Xc60 has Door Ajar Warning.
+Volvo Xc60 has Digital Odometer.
+Volvo Xc60 does not have Heads-Up Display (HUD).
+Volvo Xc60 does not have Cooled Glovebox.
+Volvo Xc60 has Ventilated Seats.
+Volvo Xc60 has Hill Descent Control.
+Volvo Xc60 does not have Battery Saver.
+Volvo Xc60 has Smoke Headlamps.
+Volvo Xc60 does not have Blind Spot Monitor.
+Volvo Xc60 does not have Tailgate Ajar Warning.
+Volvo Xc60 has Remote Fuel Lid Opener.
+Volvo Xc60 does not have Lane Change Indicator.
+Volvo Xc60 has Xenon Headlamps.
+Volvo Xc60 has Traction Control.
+Volvo Xc60 has Leather Seats.
+Volvo Xc60 has Driving Experience Control Eco.
+Volvo Xc60 has Fog Lights - Rear.
+Volvo Xc60 does not have Super Charge.
+Volvo Xc60 has Height Adjustable Driver Seat.
+Volvo Xc60 has Rear Window Defogger.
+Volvo Xc60 has Leather Wrapped Steering Wheel.
+Volvo Xc60 has Glove Box.
+Volvo Xc60 has Adjustable Headlamps.
+Volvo Xc60 has Outside Rear View Mirror Turn Indicators.
+Volvo Xc60 has Passenger Airbag.
+Volvo Xc60 has Day & Night Rear View Mirror.
+Volvo Xc60 has Tyre Pressure Monitoring System (TPMS).
+Volvo Xc60 has Touchscreen.
+Volvo Xc60 has Rear Window Wiper.
+Volvo Xc60 has Rear Window Washer.
+Volvo Xc60 has Chrome Garnish.
+Volvo Xc60 has Child Safety Locks.
+Volvo Xc60 has Rear Spoiler.
+Volvo Xc60 has Rain Sensing Wiper.
+Volvo Xc60 has Air Quality Control.
+Volvo Xc60 has Tinted Glass.
+Volvo Xc60 has Folding Table in The Rear.
+Volvo Xc60 has Smart Access Card Entry.
+Volvo Xc60 has Fabric Upholstery.
+Volvo Xc60 has Roof Rails.
+Volvo Xc60 has Cigarette Lighter.
+Volvo Xc60 has Roof Carrier.
+Volvo Xc60 has Side Stepper.
+Volvo Xc60 has Usb Ports.
+Volvo Xc60 does not have Gear Shift Indicator.
+Volvo Xc60 does not have Luggage Hook & Net.
+Volvo Xc60 does not have Heated Wing Mirror.
+Volvo Xc60 has Fog Lights - Front.
+Volvo Xc60 has Integrated 2DIN Audio.
+Volvo Xc60 has USB & Auxiliary input.
+Volvo Xc60 does not have Rear Curtain.
+Volvo Xc60 has Audio System Remote Control.
+The Volvo Xc60 has the Turbo Petrol Engine engine.
+The Volvo Xc60 has a displacement of 1969  cubic centimeters.
+The Volvo Xc60 generates 250 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+The Volvo Xc60 generates 350 Newton meters at 1500 to 3000 Revolutions Per Minute (RPM).
+The Volvo Xc60 has 4.0 valves per cylinder.
+The Volvo Xc60 has a Automatic transmission.
+The Volvo Xc60 has 4.0 cylinders.
+The Volvo Xc60 has a 8-Speed gearbox.
+The Volvo Xc60 has a All-Wheel Drive (AWD) drive type.
+The Volvo Xc60 runs on Petrol.
+The Volvo Xc60 complies with BS VI 2.0 emission norms.
+The Volvo Xc60 has Power steering.
+The Volvo Xc60 has a turning radius of 5.8m.
+The Volvo Xc60 has Disc front brakes.
+The Volvo Xc60 has Disc rear brakes.
+The Volvo Xc60 has a length of 4708 mm.
+The Volvo Xc60 has a width of 1902 mm.
+The Volvo Xc60 has a height of 1653 mm.
+The Volvo Xc60 offers 483 Litres of boot space.
+The Volvo Xc60 has a seating capacity of 5.0.
+The Volvo Xc60 has an unladen ground clearance of 230 mm.
+The Volvo Xc60 has a wheelbase of 2620 mm.
+The Volvo Xc60 has a kerb weight of 1945 kg.
+The Volvo Xc60 has 5.0 doors.
+The Volvo Xc60 is fitted with tyres of size 235/55 R19.
+The Volvo Xc60 is equipped with Tubeless Radial tyres.
+The Volvo Xc60 is equipped with 6.0 airbags.
+The Volvo Xc60 has been rated 5 Star by Global NCAP.
+The Volvo Xc60 is equipped with 15.0 speakers.
+The Volvo Xc60 has Electric as a secondary fuel type.
+The Volvo Xc60 reaches 0-100 kmph in 7.78 s seconds.
+The Volvo Xc60 features Android Auto, Apple CarPlay connectivity options.
+The Volvo Xc60 achieves a top speed of 180 kmph.
+The Volvo Xc60 achieves 0-100 kmph acceleration in 8.3 s.
+The Volvo Xc60 achieves 0-100 kmph in 8.3 s.
+The Volvo Xc60 takes 5.38 s for city driveability (20-80 kmph).
+The Volvo Xc60 is equipped with a Rack & Pinion steering gear type.
+The Volvo Xc60 features a rear tread of 1586 mm.
+The Volvo Xc60 is equipped with a Remote trunk opener.
+The Volvo Xc60 has a battery capacity of 48 kWh.
+The Volvo Xc60 features Driver's Window anti-pinch power windows.
+The Volvo Xc60 delivers a mileage of 11.2 kmpl.
+The Volvo Xc60 comes with a fuel tank capacity of 70 Litres.
+The Volvo Xc60 features Adjustable Steering steering adjustment.
+Volvo Xc60 has Adjustable Steering.
+The Volvo Xc60 features Front & Rear parking sensors.
+Volvo Xc60 does not have Pretensioners & Force Limiter Seatbelts.
+The Volvo Xc60 has Front & Rear speakers.
+The Volvo Xc60 has Front electric adjustable seats.
+The Volvo Xc60 has a 60:40 Split foldable rear seat.
+Volvo Xc60 does not have Central Console Armrest.
+Volvo Xc60 has Turbo Charger.
+Volvo Xc60 does not have Knee Airbags.
+Volvo Xc60 has Rear Seat Headrest.
+Volvo Xc60 has Sunroof.
+The Volvo Xc60 includes Intelligent Driver Information System,Premium Sound by Bowers and Wilkins,2 USB Typ-C connections, Subwoofer,Digital Service package, Volvo cars app,Android powered infotainment system including google services,Speech function, Inductive Charging for smartphone, Apple Carplay (iPhone with wire) as additional features.

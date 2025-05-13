@@ -1,0 +1,279 @@
+Kia Seltos has 13 variants: HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+All variants of Kia Seltos have Power Steering.
+All variants of Kia Seltos have Air Conditioner.
+All variants of Kia Seltos have Heater.
+Kia Seltos variants with Automatic Climate Control - HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Automatic Climate Control - HTE, HTK & HTK Diesel.
+All variants of Kia Seltos have Accessory Power Outlet.
+Kia Seltos variants with Trunk Light - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variant without Trunk Light - HTE.
+All variants of Kia Seltos have Vanity Mirror.
+All variants of Kia Seltos have Rear Reading Lamp.
+All variants of Kia Seltos have Adjustable Headrest.
+Kia Seltos variants with Rear Seat Centre Arm Rest - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Rear Seat Centre Arm Rest - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+All variants of Kia Seltos have Rear AC Vents.
+Kia Seltos variants with Cruise Control - HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Cruise Control - HTE, HTK & HTK Diesel.
+Kia Seltos variants with Real-Time Vehicle Tracking - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Real-Time Vehicle Tracking - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants with Engine Start/Stop Button - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variant without Engine Start/Stop Button - HTE.
+Kia Seltos variants with Voice Commands - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Voice Commands - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variant without Hands-Free Tailgate - X-Line Diesel AT.
+All variants of Kia Seltos have KeyLess Entry.
+All variants of Kia Seltos have Idle Start-Stop System.
+All variants of Kia Seltos have Follow Me Home Headlamps.
+All variants of Kia Seltos have Tachometer.
+Kia Seltos variants with Wheel Covers - HTE, HTK & HTK Diesel.
+Kia Seltos variants without Wheel Covers - HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants with Alloy Wheels - HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Alloy Wheels - HTE, HTK & HTK Diesel.
+All variants of Kia Seltos have Integrated Antenna.
+Kia Seltos variants with Projector Headlamps - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants without Projector Headlamps - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants with LED DRLs - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variant without LED DRLs - HTE.
+Kia Seltos variants with LED Headlamps - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without LED Headlamps - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+All variants of Kia Seltos have Anti-lock Braking System (ABS).
+All variants of Kia Seltos have Central Locking.
+All variants of Kia Seltos have Driver Airbag.
+All variants of Kia Seltos have Side Airbag.
+All variants of Kia Seltos have Seat Belt Warning.
+All variants of Kia Seltos have Engine Immobilizer.
+Kia Seltos variants with E-Call & I-Call - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without E-Call & I-Call - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants with Remote AC On/Off - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Remote AC On/Off - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+All variants of Kia Seltos do not have Side Airbag-Rear.
+All variants of Kia Seltos have Electronic Stability Control (ESC).
+All variants of Kia Seltos have Speed Alert.
+All variants of Kia Seltos have Speed Sensing Auto Door Lock.
+Kia Seltos variants with ISOFIX Child Seat Mounts - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without ISOFIX Child Seat Mounts - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+All variants of Kia Seltos have Hill Assist.
+All variants of Kia Seltos have Impact Sensing Auto Door Unlock.
+Kia Seltos variants with 360 View Camera - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without 360 View Camera - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Radio - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variant without Radio - HTE.
+Kia Seltos variants with Wireless Phone Charging - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Wireless Phone Charging - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Bluetooth Connectivity - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variant without Bluetooth Connectivity - HTE.
+Kia Seltos variants with Android Auto - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variant without Android Auto - HTE.
+Kia Seltos variants with Apple CarPlay - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variant without Apple CarPlay - HTE.
+Kia Seltos variants with Driver Attention Warning - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Driver Attention Warning - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Live Location - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Live Location - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants with Over the Air (OTA) Updates - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Over the Air (OTA) Updates - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants with Google / Alexa Connectivity - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Google / Alexa Connectivity - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants with Over Speeding Alert - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT & X-Line Diesel AT.
+Kia Seltos variants with Smartwatch App - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Smartwatch App - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants with Remote Door Lock/Unlock - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Remote Door Lock/Unlock - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+All variants of Kia Seltos have Height Adjustable Front Seat Belts.
+Kia Seltos variants with Paddle Shifters - HTX IVT, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Paddle Shifters - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT & HTX Diesel.
+Kia Seltos variants with Halogen Headlamps - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants without Halogen Headlamps - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants with LED Taillights - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variant without LED Taillights - HTE.
+All variants of Kia Seltos have Electronic Brakeforce Distribution (EBD).
+All variants of Kia Seltos have Brake Assist.
+Kia Seltos variant with Anti-Theft Alarm - HTX.
+All variants of Kia Seltos have Door Ajar Warning.
+Kia Seltos variants with Remote Immobiliser - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Remote Immobiliser - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants with Heads-Up Display (HUD) - X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Heads-Up Display (HUD) - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT & GTX Plus Diesel AT.
+Kia Seltos variants with Forward Collision Warning - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Forward Collision Warning - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Blind Spot Collision Avoidance Assist - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Blind Spot Collision Avoidance Assist - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Lane Departure Warning - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Lane Departure Warning - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Lane Keep Assist - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Lane Keep Assist - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Adaptive Cruise Control - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Adaptive Cruise Control - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Leading Vehicle Departure Alert - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Leading Vehicle Departure Alert - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Adaptive High Beam Assist - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Adaptive High Beam Assist - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Rear Cross Traffic Alert - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Rear Cross Traffic Alert - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Rear Cross Traffic Collision-Avoidance Assist - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Rear Cross Traffic Collision-Avoidance Assist - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Navigation with Live Traffic - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Navigation with Live Traffic - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants with Send POI to Vehicle From App - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Send POI to Vehicle From App - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants with Ventilated Seats - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Ventilated Seats - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+All variants of Kia Seltos have Rear Window Sunblind.
+Kia Seltos variants with Leather wrap gear-shift selector - HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Leather wrap gear-shift selector - HTE, HTK & HTK Diesel.
+Kia Seltos variant without Heated Outside Rear View Mirror - X-Line Diesel AT.
+Kia Seltos variants with Blind Spot Monitor - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Blind Spot Monitor - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants with Live Weather - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Live Weather - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+All variants of Kia Seltos have Tailgate Ajar Warning.
+Kia Seltos variants with Remote Vehicle Status Check - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Remote Vehicle Status Check - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants with Engine Start Alarm - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Engine Start Alarm - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants with Traction Control - HTX IVT, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Traction Control - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT & HTX Diesel.
+All variants of Kia Seltos have Height Adjustable Driver Seat.
+Kia Seltos variants with Rear Window Defogger - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants with Leather Wrapped Steering Wheel - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+All variants of Kia Seltos have Glove Box.
+All variants of Kia Seltos have Adjustable Headlamps.
+Kia Seltos variants with Outside Rear View Mirror Turn Indicators - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+All variants of Kia Seltos have Passenger Airbag.
+All variants of Kia Seltos have Day & Night Rear View Mirror.
+All variants of Kia Seltos have Tyre Pressure Monitoring System (TPMS).
+Kia Seltos variants with Touchscreen - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants with Rear Window Wiper - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants with Rear Window Washer - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+All variants of Kia Seltos have Child Safety Locks.
+Kia Seltos variants with Rear Spoiler - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants with Rain Sensing Wiper - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants with Air Quality Control - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+All variants of Kia Seltos have Roof Rails.
+Kia Seltos variant with Roof Carrier - HTE.
+All variants of Kia Seltos have Curtain Airbag.
+Kia Seltos variants with Usb Ports - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variant without Usb Ports - HTE.
+Kia Seltos variants with Gear Shift Indicator - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT & HTX Diesel.
+Kia Seltos variants without Gear Shift Indicator - HTX IVT, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+All variants of Kia Seltos have Luggage Hook & Net.
+Kia Seltos variants with LED Fog Lamps - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without LED Fog Lamps - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants - HTE, HTX & HTX IVT share the SmartStream G1.5 engine.
+Kia Seltos variants - HTK & HTK Plus share the Smartstream G1.5 engine.
+Kia Seltos variants - HTK Diesel, HTX Diesel, HTX Diesel AT & GTX Plus Diesel AT share the 1.5 T-GRDi VGT engine.
+Kia Seltos variants - HTK Plus Turbo iMT & X-Line Turbo DCT share the Smartstream G1.5 T-GDi engine.
+Kia Seltos variant GTX Plus Turbo DCT has the SmartStream G1.5 T-GDi engine.
+Kia Seltos variant X-Line Diesel AT has the 1.5l CRDi VGT engine.
+Kia Seltos variants - HTE, HTK, HTK Plus, HTX & HTX IVT share a displacement of 1497  cubic centimeters.
+Kia Seltos variants - HTK Diesel, HTX Diesel, HTX Diesel AT, GTX Plus Diesel AT & X-Line Diesel AT share a displacement of 1493  cubic centimeters.
+Kia Seltos variants - HTK Plus Turbo iMT, GTX Plus Turbo DCT & X-Line Turbo DCT share a displacement of 1482  cubic centimeters.
+Kia Seltos variants - HTE, HTK, HTK Plus, HTX & HTX IVT have a max power of 113.42 Brake Horsepower (BHP) at 6300 Revolutions Per Minute (RPM).
+Kia Seltos variants - HTK Diesel, HTX Diesel, HTX Diesel AT, GTX Plus Diesel AT & X-Line Diesel AT have a max power of 114.41 Brake Horsepower (BHP) at 4000 Revolutions Per Minute (RPM).
+Kia Seltos variants - HTK Plus Turbo iMT, GTX Plus Turbo DCT & X-Line Turbo DCT have a max power of 157.81 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Kia Seltos variants - HTE, HTK, HTK Plus, HTX & HTX IVT share a max torque of 144 Newton meters at 4500 Revolutions Per Minute (RPM).
+Kia Seltos variants - HTK Diesel, HTX Diesel, HTX Diesel AT, GTX Plus Diesel AT & X-Line Diesel AT share a max torque of 250 Newton meters at 1500 to 2750 Revolutions Per Minute (RPM).
+Kia Seltos variants - HTK Plus Turbo iMT, GTX Plus Turbo DCT & X-Line Turbo DCT share a max torque of 253 Newton meters at 1500 to 3500 Revolutions Per Minute (RPM).
+All Kia Seltos variants have 4.0 valves per cylinder.
+Kia Seltos variants - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT & HTX Diesel share a Manual transmission.
+Kia Seltos variants - HTX IVT, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share a Automatic transmission.
+All Kia Seltos variants have 4.0 cylinders.
+Kia Seltos variants - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTX Diesel, HTX Diesel AT, GTX Plus Diesel AT & X-Line Diesel AT share a 6-Speed gearbox.
+Kia Seltos variant HTK Plus Turbo iMT comes with a 6-Speed iMT gearbox.
+Kia Seltos variant HTX IVT comes with a IVT gearbox.
+Kia Seltos variants - GTX Plus Turbo DCT & X-Line Turbo DCT share a 7-Speed-DCT gearbox.
+All Kia Seltos variants have a Two-Wheel Drive (2WD) drive type.
+Kia Seltos variants - HTE, HTK, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, GTX Plus Turbo DCT & X-Line Turbo DCT use Petrol as fuel.
+Kia Seltos variants - HTK Diesel, HTX Diesel, HTX Diesel AT, GTX Plus Diesel AT & X-Line Diesel AT use Diesel as fuel.
+All Kia Seltos variants comply with BS VI 2.0 emission norms.
+All Kia Seltos variants come with Electric steering.
+All Kia Seltos variants have Disc front brakes.
+All Kia Seltos variants have Disc rear brakes.
+All Kia Seltos variants have a length of 4365 mm.
+All Kia Seltos variants have a width of 1800 mm.
+All Kia Seltos variants have a height of 1645 mm.
+All Kia Seltos variants offer 433 Litres of boot space.
+All Kia Seltos variants have a seating capacity of 5.0.
+All Kia Seltos variants have a wheelbase of 2610 mm.
+All Kia Seltos variants have 5.0 doors.
+Kia Seltos variant HTE is equipped with a Manual boot opening mechanism.
+Kia Seltos variants - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT feature a Electronic boot opening mechanism.
+Kia Seltos variant HTE has Manual Outside Rear View Mirror (ORVM).
+Kia Seltos variants - HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT feature Powered Outside Rear View Mirror (ORVM).
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT feature Powered & Folding Outside Rear View Mirror (ORVM).
+Kia Seltos variants - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT feature tyres of size 205/65 R16.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel & HTX Diesel AT feature tyres of size 215/60 R17.
+Kia Seltos variants - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT feature tyres of size 215/55 R18.
+All Kia Seltos variants come with Tyre Type tyres.
+Kia Seltos variants - HTE, HTK & HTK Diesel feature 16 Inch wheels.
+All Kia Seltos variants come equipped with 6.0 airbags.
+Kia Seltos variant HTK has a Global NCAP rating of 3 Star.
+Kia Seltos variant HTK has a Global NCAP child safety rating of 2 Star.
+Kia Seltos variant HTE features a unknown touchscreen.
+Kia Seltos variants - HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT come with a 8 inch touchscreen display.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT come with a 10.25 inch touchscreen display.
+Kia Seltos variants - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT come with 4.0 speakers.
+Kia Seltos variants - HTK Plus & HTK Plus Turbo iMT have 16 Inch front alloy wheels.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel & HTX Diesel AT have 17 Inch front alloy wheels.
+Kia Seltos variants - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT have 18 Inch front alloy wheels.
+Kia Seltos variants - HTK Plus & HTK Plus Turbo iMT have 16 Inch rear alloy wheels.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel & HTX Diesel AT have 17 Inch rear alloy wheels.
+Kia Seltos variants - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT have 18 Inch rear alloy wheels.
+Kia Seltos variants - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT have 2.0 tweeters.
+Kia Seltos variants - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT have 4.0 tweeters.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT have Android Auto, Apple CarPlay connectivity options.
+All Kia Seltos variants feature a Full Digital digital cluster.
+Kia Seltos variants - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT feature Fabric upholstery options.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT feature Leatherette upholstery options.
+Kia Seltos variants - HTE, HTK, HTK Plus, HTX & HTX IVT have the same fuel supply system of Multi-Point Fuel Injection (MPFi).
+Kia Seltos variants - HTK Diesel, HTX Diesel, HTX Diesel AT, GTX Plus Diesel AT & X-Line Diesel AT have the same fuel supply system of Common Rail Direct Injection (CRDi).
+Kia Seltos variants - HTK Plus Turbo iMT, GTX Plus Turbo DCT & X-Line Turbo DCT have the same fuel supply system of Gasoline Direct Injection (GDi).
+Kia Seltos variants - HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT come with Driver's Window anti-pinch power windows.
+Kia Seltos variants - HTE, HTK, HTK Plus, HTX & HTX Diesel have mileage figures of 17 kmpl.
+Kia Seltos variant HTK Diesel provides a mileage of 20.7 kmpl.
+Kia Seltos variants - HTK Plus Turbo iMT & HTX IVT have mileage figures of 17.7 kmpl.
+Kia Seltos variants - HTX Diesel AT, GTX Plus Diesel AT & X-Line Diesel AT have mileage figures of 19.1 kmpl.
+Kia Seltos variants - GTX Plus Turbo DCT & X-Line Turbo DCT have mileage figures of 17.9 kmpl.
+All Kia Seltos variants have a fuel tank capacity of 50 Litres.
+All Kia Seltos variants have the MacPherson Strut suspension front suspension.
+All Kia Seltos variants have the Rear twist beam rear suspension.
+Kia Seltos variants - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT share the Tilt Steering steering adjustment type.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the Tilt & Telescopic steering adjustment type.
+All variants of Kia Seltos have Adjustable Steering.
+Kia Seltos variant HTE has Rear parking sensors.
+Kia Seltos variants - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the Front & Rear parking sensor configuration.
+All Kia Seltos variants come with Front & Rear USB charging ports.
+All Kia Seltos variants have Front & Rear power windows.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the Front & Rear cup holder configuration.
+Kia Seltos variants without Fog Lights - HTE, HTK & HTK Diesel.
+Kia Seltos variants - HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the Front fog light configuration.
+All Kia Seltos variants come with a Shark Fin antenna.
+Kia Seltos variants - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT share the 4.2 inch digital cluster size.
+Kia Seltos variants - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the 10.25 inch digital cluster size.
+Kia Seltos variant without Rear Camera - HTE.
+Kia Seltos variants - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the With Guidedlines rear camera type.
+All Kia Seltos variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Kia Seltos variant without Speakers - HTE.
+Kia Seltos variants - HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the Front & Rear speaker configuration.
+Kia Seltos variants without Electric Adjustable Seats - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel & HTX Diesel AT.
+Kia Seltos variants - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the Front electric seat adjustment type.
+Kia Seltos variants - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT share the Bench Folding foldable rear seat type.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the 60:40 Split foldable rear seat type.
+Kia Seltos variants without Central Console Armrest - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the With Storage central console armrest type.
+Kia Seltos variants without Turbo Charger - HTE, HTK, HTK Plus, HTX & HTX IVT.
+Kia Seltos variants with Turbo Charger - HTK Diesel, HTK Plus Turbo iMT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT.
+Kia Seltos variants without Inbuilt_Apps - HTE, HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the Amazon Alexa inbuilt apps.
+Kia Seltos variant without Autonomous Parking - GTX Plus Turbo DCT.
+Kia Seltos variants without Sunroof - HTE, HTK & HTK Diesel.
+Kia Seltos variants - HTK Plus, HTX, HTK Plus Turbo iMT, HTX IVT, HTX Diesel, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share a Panoramic sunroof.
+Kia Seltos variants without Drive Modes - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT & HTX Diesel.
+Kia Seltos variants - HTX IVT, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the 3 drive mode configuration.
+Kia Seltos variants without Drive Mode Types - HTE, HTK, HTK Diesel, HTK Plus, HTX, HTK Plus Turbo iMT & HTX Diesel.
+Kia Seltos variants - HTX IVT, HTX Diesel AT, GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share the Eco, Normal & Sport drive mode options.
+Kia Seltos variant HTE offers Grey Front & Rear Skid Plates as additional features.
+Kia Seltos variants - HTK, HTK Diesel, HTK Plus & HTK Plus Turbo iMT share Wireless Android Auto & Apple Carplay as additional features.
+Kia Seltos variants - HTX, HTX IVT, HTX Diesel & HTX Diesel AT share Auto Light Control,Crown Jewel LED Headlamps with Star Map LED Sweeping Light Guide,Chrome Outside Door Handle,Silver Roof Rack,Front & Rear Mud Guard,Sequential LED Turn Indicators,Glossy Black Radiator Grille with Knurled Chrome Surround,Chrome Beltline Garnish,Metal Scuff Plates with Seltos Logo,Grey Front & Rear Skid Plates as additional features.
+Kia Seltos variants - GTX Plus Turbo DCT, GTX Plus Diesel AT, X-Line Turbo DCT & X-Line Diesel AT share BOSE Premium Sound system with 8 Speakers as additional features.

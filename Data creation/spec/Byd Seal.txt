@@ -1,0 +1,161 @@
+Byd Seal has 3 variants: Dynamic Range, Premium Range & Performance.
+All variants of Byd Seal have Power Steering.
+All variants of Byd Seal have Air Conditioner.
+All variants of Byd Seal have Heater.
+All variants of Byd Seal have Automatic Climate Control.
+All variants of Byd Seal have Accessory Power Outlet.
+All variants of Byd Seal have Trunk Light.
+All variants of Byd Seal have Vanity Mirror.
+All variants of Byd Seal have Rear Reading Lamp.
+Byd Seal variants with Adjustable Headrest - Premium Range & Performance.
+All variants of Byd Seal have Rear Seat Centre Arm Rest.
+All variants of Byd Seal have Rear AC Vents.
+All variants of Byd Seal have Cruise Control.
+All variants of Byd Seal have Engine Start/Stop Button.
+All variants of Byd Seal have Voice Commands.
+Byd Seal variants with Hands-Free Tailgate - Premium Range & Performance.
+Byd Seal variant without Hands-Free Tailgate - Dynamic Range.
+All variants of Byd Seal have KeyLess Entry.
+All variants of Byd Seal have Follow Me Home Headlamps.
+All variants of Byd Seal have Alloy Wheels.
+All variants of Byd Seal have Integrated Antenna.
+All variants of Byd Seal have LED DRLs.
+All variants of Byd Seal have LED Headlamps.
+All variants of Byd Seal have Anti-lock Braking System (ABS).
+All variants of Byd Seal have Central Locking.
+All variants of Byd Seal have Driver Airbag.
+All variants of Byd Seal have Side Airbag.
+All variants of Byd Seal have Seat Belt Warning.
+All variants of Byd Seal do not have E-Call & I-Call.
+All variants of Byd Seal have Side Airbag-Rear.
+All variants of Byd Seal have Speed Sensing Auto Door Lock.
+All variants of Byd Seal have ISOFIX Child Seat Mounts.
+All variants of Byd Seal have Hill Assist.
+All variants of Byd Seal have Impact Sensing Auto Door Unlock.
+All variants of Byd Seal have 360 View Camera.
+All variants of Byd Seal have Radio.
+All variants of Byd Seal have Wireless Phone Charging.
+All variants of Byd Seal have Bluetooth Connectivity.
+All variants of Byd Seal have Android Auto.
+All variants of Byd Seal have Apple CarPlay.
+All variants of Byd Seal have Driver Attention Warning.
+All variants of Byd Seal have Remote Door Lock/Unlock.
+All variants of Byd Seal have Height Adjustable Front Seat Belts.
+All variants of Byd Seal have Lumbar Support.
+All variants of Byd Seal have Dual Tone Dashboard.
+All variants of Byd Seal have LED Taillights.
+All variants of Byd Seal have Electronic Brakeforce Distribution (EBD).
+All variants of Byd Seal have Anti-Theft Alarm.
+All variants of Byd Seal have Door Ajar Warning.
+All variants of Byd Seal have Digital Odometer.
+All variants of Byd Seal have Remote Immobiliser.
+Byd Seal variants with Heads-Up Display (HUD) - Premium Range & Performance.
+Byd Seal variant without Heads-Up Display (HUD) - Dynamic Range.
+All variants of Byd Seal have Forward Collision Warning.
+All variants of Byd Seal have Automatic Emergency Braking.
+All variants of Byd Seal have Traffic Sign Recognition.
+All variants of Byd Seal have Lane Departure Warning.
+All variants of Byd Seal have Lane Keep Assist.
+All variants of Byd Seal have Lane Departure Prevention Assist.
+All variants of Byd Seal have Adaptive Cruise Control.
+All variants of Byd Seal have Adaptive High Beam Assist.
+All variants of Byd Seal have Rear Cross Traffic Alert.
+All variants of Byd Seal have Rear Cross Traffic Collision-Avoidance Assist.
+All variants of Byd Seal have Glove Box light.
+All variants of Byd Seal have Navigation with Live Traffic.
+All variants of Byd Seal have Ventilated Seats.
+All variants of Byd Seal have Active noise cancellation.
+All variants of Byd Seal have Heated Outside Rear View Mirror.
+All variants of Byd Seal have Blind Spot Monitor.
+All variants of Byd Seal have Remote Boot Open.
+All variants of Byd Seal have Tailgate Ajar Warning.
+Byd Seal variant with Lane Change Indicator - Dynamic Range.
+All variants of Byd Seal have Regenerative Braking.
+All variants of Byd Seal have Fast Charging.
+All variants of Byd Seal have Traction Control.
+All variants of Byd Seal have Height Adjustable Driver Seat.
+All variants of Byd Seal have Rear Window Defogger.
+All variants of Byd Seal have Leather Wrapped Steering Wheel.
+All variants of Byd Seal have Glove Box.
+All variants of Byd Seal have Adjustable Headlamps.
+All variants of Byd Seal have Passenger Airbag.
+All variants of Byd Seal have Day & Night Rear View Mirror.
+All variants of Byd Seal have Touchscreen.
+All variants of Byd Seal have Child Safety Locks.
+All variants of Byd Seal have Rain Sensing Wiper.
+All variants of Byd Seal have Air Quality Control.
+All variants of Byd Seal have Smart Access Card Entry.
+All variants of Byd Seal have Curtain Airbag.
+All variants of Byd Seal have Usb Ports.
+All variants of Byd Seal have Luggage Hook & Net.
+All variants of Byd Seal have LED Fog Lamps.
+Byd Seal variant Dynamic Range delivers a max power of 201.15 Brake Horsepower (BHP).
+Byd Seal variant Premium Range delivers a max power of 308.43 Brake Horsepower (BHP).
+Byd Seal variant Performance delivers a max power of 523 Brake Horsepower (BHP).
+Byd Seal variant Dynamic Range has a max torque of 310 Newton meters.
+Byd Seal variant Premium Range has a max torque of 360 Newton meters.
+Byd Seal variant Performance has a max torque of 670 Newton meters.
+All Byd Seal variants have a Automatic transmission.
+Byd Seal variants - Dynamic Range & Premium Range share a Rear-Wheel Drive (RWD) drive type.
+Byd Seal variant Performance has a All-Wheel Drive (AWD) drive type.
+All Byd Seal variants run on Electric.
+All Byd Seal variants comply with ZEV emission norms.
+All Byd Seal variants come with Electric steering.
+All Byd Seal variants have a turning radius of 5.7m.
+All Byd Seal variants have Ventilated Disc front brakes.
+All Byd Seal variants have Ventilated Disc rear brakes.
+All Byd Seal variants have a length of 4800 mm.
+All Byd Seal variants have a width of 1875 mm.
+All Byd Seal variants have a height of 1460 mm.
+All Byd Seal variants offer 400 Litres of boot space.
+All Byd Seal variants have a seating capacity of 5.0.
+All Byd Seal variants have a wheelbase of 2920 mm.
+Byd Seal variant Dynamic Range has a kerb weight of 1922 kg.
+Byd Seal variant Premium Range has a kerb weight of 2055 kg.
+Byd Seal variant Performance has a kerb weight of 2185 kg.
+Byd Seal variant Dynamic Range has a gross weight of 2344 kg.
+Byd Seal variant Premium Range has a gross weight of 2501 kg.
+Byd Seal variant Performance has a gross weight of 2631 kg.
+All Byd Seal variants have 4.0 doors.
+All Byd Seal variants come with a Automatic boot opening mechanism.
+Byd Seal variant Dynamic Range comes with tyres of size 225/50 R18.
+Byd Seal variants - Premium Range & Performance feature tyres of size 235/45 R19.
+All Byd Seal variants come with Unknown tyres.
+All Byd Seal variants come equipped with 9.0 airbags.
+All Byd Seal variants have received a 5 Star Global NCAP safety rating.
+All Byd Seal variants have a 5 Star Global NCAP child safety rating.
+All Byd Seal variants come with a 15.6 inch touchscreen display.
+All Byd Seal variants come with 12.0 speakers.
+All Byd Seal variants come with Android Auto, Apple CarPlay connectivity options.
+All Byd Seal variants feature a LCD Digital Cluster digital cluster.
+Byd Seal variant Dynamic Range is equipped with Leatherette upholstery.
+Byd Seal variants - Premium Range & Performance feature Leather upholstery options.
+All Byd Seal variants are equipped with a Permanent Magnet Synchronous Motor motor type.
+All Byd Seal variants are powered by a Lithium-Ion Battery battery.
+Byd Seal variant Dynamic Range features a 61.44 kWh battery capacity.
+Byd Seal variants - Premium Range & Performance have the same battery capacity of 82.56 kWh
+Byd Seal variant Dynamic Range has a driving range of 510 km.
+Byd Seal variant Premium Range has a driving range of 650 km.
+Byd Seal variant Performance has a driving range of 580 km.
+All Byd Seal variants come with a CCS-II charging port.
+All Byd Seal variants take 12-16 H (0-100%) to charge with a 7.2 kW AC fast charger.
+Byd Seal variant Dynamic Range accelerates from 0-100 km/h in 7.5 s.
+Byd Seal variant Premium Range accelerates from 0-100 km/h in 5.9 s.
+Byd Seal variant Performance accelerates from 0-100 km/h in 3.8 s.
+All Byd Seal variants take 45Min (0-80%) to charge using a 50 kW DC fast charger.
+All Byd Seal variants have the Multi-link suspension front suspension.
+All Byd Seal variants have the Multi-link suspension rear suspension.
+All variants of Byd Seal have Adjustable Steering.
+All Byd Seal variants are equipped with Front & Rear parking sensors.
+All Byd Seal variants come with Front & Rear USB charging ports.
+All Byd Seal variants are equipped with Front & Rear fog lights.
+All Byd Seal variants come with a rear Glasss mount antenna antenna.
+All Byd Seal variants feature a 10.25 inch digital cluster.
+All Byd Seal variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Byd Seal variants include Front & Rear speakers.
+All Byd Seal variants have Front electric adjustable seats.
+All Byd Seal variants have a 60:40 Split foldable rear seat.
+All Byd Seal variants have a With Storage central console armrest.
+All Byd Seal variants come with Driver knee airbags.
+Byd Seal variants with Rear Seat Headrest - Dynamic Range & Performance.
+All Byd Seal variants come with 2 Wireless phone charger,2V accessory socket,intelligent rotating touch screen display,DYNAUDIO speakers,Android Auto (wireless),Apple CarPlay(USB), as additional features.

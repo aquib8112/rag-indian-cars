@@ -1,0 +1,94 @@
+Mercedes-AMG C 63 S E Performance Review
+
+Mercedes-AMG C 63 S E Performance Pros
+Savage performance from the 671 BHP and 1020 Nm powertrain
+Complex technology but seamless application
+Agile despite its bulk. High levels of grip
+Aggressive looks. AMG-specific bits like wheels, grille, exhaust, steering wheel, etc. differentiate it from the regular C-Class and make it stand out in a crowd
+
+Mercedes-AMG C 63 S E Performance Cons
+Expensive at Rs. 1.95 crore. Typical CBU pricing
+Brakes bite very late
+Clinical compared to its peers and predecessor
+Complexity means it depends on AMG support forever
+
+Introduction
+The Mercedes-AMG C 63 S E Performance (W206) has been launched in India at a price of Rs. 1.95 crore (ex-showroom). Far from an evolution, the W206 based C 63 S is meant to be a revolution! Originally, AMG shoehorned either V8 or highly tuned 6-cylinder engines into existing Mercedes cars and tweaked things about the car. In this latest avatar, Mercedes has applied as much of the technology as it has used in F1 into its road-going car.
+The AMG One was the first road car to be based completely on an evolution of the Project One 2017 concept. Rainer Berger, our AMG instructor for the day, was actually responsible for the final customer validation for the AMG One.
+The Mercedes C 63 S is probably the first series production car (in a relative sense) to incorporate major elements of F1 technology with 3 motors (one ICE + 2 electric), a battery and two gearboxes. On paper, the technology is amazing, but yes, you've seen the press comments. I was mindful about this and kept an open mind on this. This is a bold step up after the old W205 C 63 S with its large hearted 4.0-litre twin-turbo V8. The growl of Dr Jekyll turning into Mr Hyde was something to be experienced.
+Some numbers to ponder.
+Reduction in engine size from a twin-turbo 4.0-litre V8 to the M139 4-cylinder
+Increase in total power and torque from 503 BHP and 700 Nm to 670 BHP and 1,020 Nm, respectively
+Increase in weight - From  1,715 kg to 2,200 kg
+My drive of the C 63 S was limited to a couple of laps driven by the AMG instructor followed by driving 4 laps under his guidance. My AMG instructor was Rainer Berger. The session began with a presentation followed by a product walkaround by Rahul, the AMG India Product Manager.
+A quick walkaround guide of the car
+This is the F1 edition. It is more of a visual edition which comes with unique stickering, wheels, red embellishments and the additional wind trimmers. Except for the stickers and the wind trimmers, the remaining elements can be ordered. These are the only two units allocated for India. After 3 days of press days and also customer previews, when they end up in Big Boys Toys, you know where they have been! All C 63 S cars will come with the Drivers Performance Package which includes the top speed increased to 280 km/h, performance seats instead of the normal leather ventilated seats, Y spoke alloy wheels and an instruction course at the Nurbugring.
+
+Exterior
+The front bumper is unique. The inlets are much larger to accommodate two large radiators and for better thermal management. I can testify that up as after 5 hard laps, the engine heat detected outside the car was not as intense. My old Skoda vRS was like a furnace.
+Panamericana AMG grille with large three-pointed star in the middle.
+Unique to the C 63 S is the bonnet vent for thermal management and heat dissipation from the turbo.
+Side profile is almost identical to the regular car, but the length has increased by 83 mm due to the bumper redesign and the wheelbase is 1 cm longer due the relocation of the rear transaxle. The battery gives it the 50:50 weight distribution that is beloved of the M3. Unlike BMW who create the balance but locating the engine as far back as possible, Mercedes created the balance by weighing up the rear.
+Side vents are fake. Badges can be ordered in matte black only if you want.
+This lightweight wheel design for the F1 edition design will be optional. Normal cars will get the Y spoke 20" alloy wheels. Our test car came with Michelin Pilot Sport tyres. The brakes were normal steel discs. Carbon fibre discs are an option, but one really needs to be doing sustained track days for this. An interesting fact was that on the third day, the pads were changed as a precaution even though there was 70 mm left. The rear wheels steer a modest 2.5 degrees in the opposite direction (up to 100 km/h), and up to 0.7 degrees in the same direction at speeds higher than that.
+AMG decals on the sides.
+Rear Profile is identical to the regular car except for the rear diffuser, badges and spoiler.
+Lip spoiler is prominent. Bumpers get vents on both sides.
+Rear diffuser with larger splitters and red embellishments is unique to the F1 Edition.
+Unique are the trapezoid fake quad exhausts.
+This car has a slow 3.7 kW charging port. Considering the extremely high battery recuperation rate, this is not totally necessary unless one is determined not to wake the neighbours up after a hard night of battery depletion or needs to start the day with a full boost.
+
+Interior
+AMG Performance Seats with Microcut (another word for Alcantara) upholstery. These are non-leather. They hold you in firmly in place when on track.
+Driving Modes
+The C63S comes with the following eight drive modes.
+Electric- This keeps the car in electric only until battery depletes and switches back after recuperation
+Comfort - Normal driving
+Battery Hold - ICE engine is used in case one needs to preserve battery power
+Sport and Sport+ - These modes have more sensitive weighted settings for more aggressive driving on the road.
+Race - Specifically for the track
+Slippery - Ensure higher gears to avoid wheel spin
+Individual - where one would want to tune the engine, steering and damping to their needs.
+There are three levels for the adaptive damping system  Comfort, Sport, and Sport+.
+We drove only in Race Mode.
+At the Instrument Binnacle
+In addition to the usual themes, the C 63 S comes with a Track theme which provides info on the G force, track map and battery power capacity on tap, in addition to speed and rpm.
+Select Race Mode on the central control screen. You have the option to select Track. There are 70 tracks programmed into the C 63 S. These provide data on when to apply the optimum boost and also guide you around the track using the GPS and head-up display (I did not use the heads-up display - there was so much to process).
+Passenger side of the dashboard gets an "F1 E Performance: badge. Notice the red and grey detailing on the dashboard.
+Boot space is slightly compromised due to the battery and electric powertrain unit.
+
+Powertrain
+Note that this is not been labelled as the engine as we have three motors, two gearboxes and a battery to deal with.
+Motor 1 + Gearbox 1
+The M139 engine seen in the A 43, C 43 and GLC 43 normally developed 450 BHP but in the C 63 S E Performance, it develops 476 BHP due to the larger turbocharger and better thermal management. These are built in Affalterbach, using the "One Man, One Machine" method. This engine was built by Marcel Keller.
+The gearbox is the AMG Speedshift 9G  DCT.
+Motor 2
+This motor powers the Garret turbocharger. This was developed jointly by Garret and AMG. It totally eliminates lag and ensures a more tractable engine. This motor is a 400 V unit unlike the 48 V one in the A 45 / C 43 applications. It receives power from the hybrid battery and ensures a more sustained boost.
+Motor 3 + Gearbox 2 + Battery
+This is integrated as one unit. The rear motor generates 210 BHP @ 20,000 rpm. Beyond 20,000 rpm (feeling dizzy?), the power tapers off. Hence, it is coupled to a 2-speed rear gearbox which shifts into a higher gear at speeds beyond 120 km/h.
+All this is powered by a 6.1 kWh battery. It might sound small, but it is heavy enough! The 400 V battery is configured to charge and discharge rapidly, the recuperation rate is 100 kw. It discharges at around 70 kw and at 150 kw in boost mode - call it 10 seconds of boost. It has its own direct cooling system to ensure a constant temperature of 45 degrees C. This allow high performance cells (560 of them) to remain stable and perform consistently.
+The purpose of the rear transaxle is to provide the supplementary power boost for peak performance. At high speeds, in strong recuperation mode, the battery is fully replenished within a lap. I observed that the cars had around 80% battery power back in the pits. Based on F1 data, Rainer explained that peak boost power is only used for rapid acceleration situations and powering out of corners. The system differs from a normal hybrid in the sense that it does not substitute the normal engine power, it supplants it. All this comes with a total weight penalty of 250 kg of which, 89 kg is accounted for by the battery. That includes 30 litres of its coolant too.
+Summoning the peak power is not merely by depressing the accelerator rapidly. One needs to press down beyond the equivalent of a kickdown switch. Press down and the vindaloo effect happens! Rainer made sure that I understood the difference by pressing my arm signifying normal driving and a strong tap on my arm for kick applying boost.
+Coming to the elephant in the room! Why the rapid step down from 8 cylinders to 4? Why not just add this rear hybrid transaxle to a V8 or a 6-cylinder engine?
+The response was that the V8 with the added weight would be too heavy, lack balance and not achieve the emission objectives. The 6-cylinder would also be almost as ponderous and the performance / emission gains would be minimal for the cost. It was important to maintain the 50:50 weight balance and the M139 was most capable both performance and system capability wise.
+
+Driving the Mercedes-AMG C 63 S E Performance
+We first brought up the track mode on the screen. The GPS selected Buddh.
+On the left, you get temperature readouts of the tyres, brakes, coolant and engine. On the right, you can decide on the time recording mode. I believe it also displays a replica of an IWC stopwatch. I did not get time to try this.
+We focused on the Boost Strategy.
+One had a choice of a hot lap (for qualifying!) or Endurance for normal track or race day. On the  drivers console. The Boost sign appears and flashes when you need to go beyond kickdown.
+On the Track, The first couple of laps saw Rainer demonstrating the boost. One's kidneys could feel how the boost propelled the car out of the curves. On the longer straights, he took the car up to 270 km/h and braked hard. However, the maximum braking force seemed to happen at the last minute. Hold onto that thought! The AMG held its line well and it seared through BIC like a knife through butter in skilled hands. As the engine sound is piped in, it was difficult to figure it was under a lot of strain.
+In the right hands, the cornering forces are immense considering the weight of the car. As a passenger, you are not totally unaware about its weight; you know the mass is there. Around tight corners, it was nimble where most road cars would break traction. A lot had to do with the weight over the rear axle as well as the rear steering (only 2 degrees, but I guess it would compensate for excess loading on the sidewall).
+After a couple of laps, we returned to the pits and I got behind the wheel. Adjusting to the correct driving position was a cinch. Those AMG performance seats hug you tight. We again activated the track settings and as we approached T1, the Boost light flashed. Floored it beyond the kickdown switch and it took off like a scalded cat! Approached the next corner and slowed down and it did, but my senses told me that and not my right foot!
+We were on the straight, I must have touched around 240 km/h and braked. It slowed down but I really was not getting any feedback or feel from the brakes. It handled the turns with aplomb. The steering is accurate and turn in is precise, but you don’t get as much feedback as you'd get in the previous-gen C 63 in a relative sense. In the previous gen, you knew the point when the rear end breaks away, in this carl, it keeps on sticking. Comparatively, a Cayman tells you exactly what you want and encourages you, the Ferrari 458 gives you feedback and is very precise. With the C 63 S, things are so stable that you don’t get that feedback.
+Let's just say that this car lets you attain impressive speed and makes you overconfident and we came to the final turn. Two things worked against me - a little bit of smog (this was 7.45 am) and my lack of familiarity of the track. As we approached turn, I underestimated the curvature and braked. Yes, I braked but felt nothing. Rainer stated, I was not braking. Perhaps I did not, but my foot was depressed. We nearly landed in the run-off area, but recovered in time.
+On a side note, the C 63 S barely understeered and the rear never broke away. I barely missed the limits of physics and adhesion.
+What happened?
+The brakes seem to be bi-polar. For around 60% of the braking power, they work progressively, but without any feel. When you want 80%+ of the power, it comes at the 95th percent of the travel. You have to stomp and stomp hard. It's a bit like those unassisted brakes in a Formula Renault car.
+The next few laps saw my taking corners with aplomb (or rather most of them). It was easy to be over-confident and then my too-late braking messed up the odd corner. Yes, it's me and my lack of familiarity with the braking progression. Given more time, we would understand each other.
+The gearshifts are smooth and not as violent as in an M3 in track mode. The handling is well balanced considering the weight of the car. The steering is precise and obeys the laws of gravity and roadcraft. What is missing is that the last 25% of feedback as the steering weight does not feel natural. It is far from feeling wooly like in older Audis and Jags, but it is just that the C 63 S wants to perform and not involve you too much.
+From a technological standpoint, despite its complex underpinnings, the way the C 63 S puts down the power seamlessly is amazing. With the exception of the boost phase, one cannot really detect the rear gearbox shifting gears or any power transitions between the different units. It's like that employee who does everything efficiently without question. It does not give feedback or even bite back… and continues without stopping.
+The powertrain is an extremely well executed system for reason of emissions compliance. I do not have data on real time fuel efficiency gains as the WLTP figures are not always realistic. Mercedes has been very brave to introduce this, but the cylinder stepdown has rankled many. No one criticized the BMW F92 stepping down from a V8 to an I6. Closer to home, the C 43 moving from a 6 pot to a 4 has not rankled many although, people think M340i.
+If you are looking for an evolution of the traditional AMG with the monstrous soundtrack, large engines and an engaging character, you will be disappointed. The new C 63 S decimates all parameters at the expense of character and weight, but that seems to be how the emissions driven ecosystem is moving forward.
+The technology is impressive and makes this a formidable track weapon. Most buyers might very well see value in possessing a piece of this technology. It works quite well on a race track, but would the system work well or even be relevant on roads lesser than an autobahn? I guess Mercedes will improve on this. Our time with the car was on track so in real time usage, where its high kerb weight comes into play, was not experienced.
+In this case, Mercedes had the first-mover's disadvantage. It will take a while for people to come to terms with the new breed of performance cars. Other rivals will also need to comply with emissions. It remains to be seen how they match up. Another aspect is the cost. The C 43 costs exactly half and does most of what the C 63 S does except for the savage acceleration which can be experienced mostly on track.

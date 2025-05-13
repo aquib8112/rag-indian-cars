@@ -1,0 +1,161 @@
+Toyota Fortuner has 7 variants: 4X2, 4X2 AT, 4X2 Diesel, 4X2 Diesel AT, 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT.
+All variants of Toyota Fortuner have Power Steering.
+All variants of Toyota Fortuner have Air Conditioner.
+All variants of Toyota Fortuner have Heater.
+All variants of Toyota Fortuner have Automatic Climate Control.
+All variants of Toyota Fortuner have Accessory Power Outlet.
+All variants of Toyota Fortuner have Trunk Light.
+All variants of Toyota Fortuner have Vanity Mirror.
+All variants of Toyota Fortuner have Rear Reading Lamp.
+All variants of Toyota Fortuner have Adjustable Headrest.
+All variants of Toyota Fortuner have Rear Seat Centre Arm Rest.
+All variants of Toyota Fortuner have Rear AC Vents.
+All variants of Toyota Fortuner have Cruise Control.
+All variants of Toyota Fortuner have Real-Time Vehicle Tracking.
+All variants of Toyota Fortuner have Engine Start/Stop Button.
+All variants of Toyota Fortuner have Voice Commands.
+All variants of Toyota Fortuner have Hands-Free Tailgate.
+All variants of Toyota Fortuner have Chrome Grille.
+All variants of Toyota Fortuner have KeyLess Entry.
+Toyota Fortuner variants with Idle Start-Stop System - 4X2 Diesel AT, 4X4 Diesel AT & GR S 4X4 Diesel AT.
+Toyota Fortuner variants without Idle Start-Stop System - 4X2, 4X2 AT, 4X2 Diesel & 4X4 Diesel.
+All variants of Toyota Fortuner have Tachometer.
+All variants of Toyota Fortuner do not have Wheel Covers.
+All variants of Toyota Fortuner have Alloy Wheels.
+All variants of Toyota Fortuner have Integrated Antenna.
+All variants of Toyota Fortuner have LED DRLs.
+All variants of Toyota Fortuner have LED Headlamps.
+All variants of Toyota Fortuner have Anti-lock Braking System (ABS).
+All variants of Toyota Fortuner have Central Locking.
+All variants of Toyota Fortuner have Driver Airbag.
+All variants of Toyota Fortuner have Side Airbag.
+All variants of Toyota Fortuner have Seat Belt Warning.
+All variants of Toyota Fortuner have Engine Immobilizer.
+All variants of Toyota Fortuner do not have Side Airbag-Rear.
+All variants of Toyota Fortuner have Electronic Stability Control (ESC).
+All variants of Toyota Fortuner have Anti-Theft Device.
+All variants of Toyota Fortuner have Speed Alert.
+All variants of Toyota Fortuner have Speed Sensing Auto Door Lock.
+All variants of Toyota Fortuner have ISOFIX Child Seat Mounts.
+All variants of Toyota Fortuner have Hill Assist.
+All variants of Toyota Fortuner have Impact Sensing Auto Door Unlock.
+All variants of Toyota Fortuner have Radio.
+All variants of Toyota Fortuner have Bluetooth Connectivity.
+All variants of Toyota Fortuner have Android Auto.
+All variants of Toyota Fortuner have Apple CarPlay.
+All variants of Toyota Fortuner have Height Adjustable Front Seat Belts.
+All variants of Toyota Fortuner have Lumbar Support.
+All variants of Toyota Fortuner have Paddle Shifters.
+All variants of Toyota Fortuner have LED Taillights.
+All variants of Toyota Fortuner have Electronic Brakeforce Distribution (EBD).
+All variants of Toyota Fortuner have Brake Assist.
+All variants of Toyota Fortuner have Anti-Theft Alarm.
+All variants of Toyota Fortuner have Door Ajar Warning.
+All variants of Toyota Fortuner have Digital Odometer.
+All variants of Toyota Fortuner have Cooled Glovebox.
+All variants of Toyota Fortuner have Ventilated Seats.
+All variants of Toyota Fortuner have Puddle Lamps.
+All variants of Toyota Fortuner have Tailgate Ajar Warning.
+All variants of Toyota Fortuner have Traction Control.
+All variants of Toyota Fortuner have Height Adjustable Driver Seat.
+All variants of Toyota Fortuner have Rear Window Defogger.
+All variants of Toyota Fortuner have Glove Box.
+All variants of Toyota Fortuner have Adjustable Headlamps.
+All variants of Toyota Fortuner have Outside Rear View Mirror Turn Indicators.
+All variants of Toyota Fortuner have Passenger Airbag.
+All variants of Toyota Fortuner have Day & Night Rear View Mirror.
+All variants of Toyota Fortuner have Touchscreen.
+All variants of Toyota Fortuner have Rear Window Wiper.
+All variants of Toyota Fortuner have Rear Window Washer.
+All variants of Toyota Fortuner have Chrome Garnish.
+All variants of Toyota Fortuner have Child Safety Locks.
+All variants of Toyota Fortuner have Rear Spoiler.
+All variants of Toyota Fortuner have Roof Rails.
+Toyota Fortuner variant with Side Stepper - 4X2 Diesel AT.
+All variants of Toyota Fortuner have Usb Ports.
+All variants of Toyota Fortuner have Luggage Hook & Net.
+All variants of Toyota Fortuner have LED Fog Lamps.
+All variants of Toyota Fortuner have Integrated 2DIN Audio.
+Toyota Fortuner variants - 4X2 & 4X2 AT share the 2.7L Petrol Engine engine.
+Toyota Fortuner variants - 4X2 Diesel, 4X2 Diesel AT, 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT share the 2.8 L Diesel engine engine.
+Toyota Fortuner variants - 4X2 & 4X2 AT share a displacement of 2694  cubic centimeters.
+Toyota Fortuner variants - 4X2 Diesel, 4X2 Diesel AT, 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT share a displacement of 2755  cubic centimeters.
+Toyota Fortuner variants - 4X2 & 4X2 AT have a max power of 163.60 Brake Horsepower (BHP) at 5220 Revolutions Per Minute (RPM).
+Toyota Fortuner variants - 4X2 Diesel & 4X4 Diesel have a max power of 201.15 Brake Horsepower (BHP) at 3420 Revolutions Per Minute (RPM).
+Toyota Fortuner variants - 4X2 Diesel AT, 4X4 Diesel AT & GR S 4X4 Diesel AT have a max power of 201.15 Brake Horsepower (BHP) at 3000 to 3420 Revolutions Per Minute (RPM).
+Toyota Fortuner variants - 4X2 & 4X2 AT share a max torque of 245 Newton meters at 4020 Revolutions Per Minute (RPM).
+Toyota Fortuner variants - 4X2 Diesel & 4X4 Diesel share a max torque of 420 Newton meters at 1380 to 3420 Revolutions Per Minute (RPM).
+Toyota Fortuner variants - 4X2 Diesel AT, 4X4 Diesel AT & GR S 4X4 Diesel AT share a max torque of 500 Newton meters at 1620 to 2820 Revolutions Per Minute (RPM).
+All Toyota Fortuner variants have 4.0 valves per cylinder.
+Toyota Fortuner variants - 4X2, 4X2 Diesel & 4X4 Diesel share a Manual transmission.
+Toyota Fortuner variants - 4X2 AT, 4X2 Diesel AT, 4X4 Diesel AT & GR S 4X4 Diesel AT share a Automatic transmission.
+All Toyota Fortuner variants have 4.0 cylinders.
+Toyota Fortuner variant 4X2 comes with a 5-Speed gearbox.
+Toyota Fortuner variants - 4X2 AT, 4X2 Diesel AT, 4X4 Diesel AT & GR S 4X4 Diesel AT share a 6-Speed with Sequential Shift gearbox.
+Toyota Fortuner variants - 4X2 Diesel & 4X4 Diesel share a 6-Speed iMT gearbox.
+Toyota Fortuner variants - 4X2, 4X2 AT, 4X2 Diesel & 4X2 Diesel AT share a Two-Wheel Drive (2WD) drive type.
+Toyota Fortuner variants - 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT share a Four-Wheel Drive (4WD) drive type.
+Toyota Fortuner variants - 4X2 & 4X2 AT use Petrol as fuel.
+Toyota Fortuner variants - 4X2 Diesel, 4X2 Diesel AT, 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT use Diesel as fuel.
+All Toyota Fortuner variants comply with BS VI 2.0 emission norms.
+All Toyota Fortuner variants come with Electric steering.
+All Toyota Fortuner variants have a turning radius of 5.8m.
+All Toyota Fortuner variants have Ventilated Disc front brakes.
+All Toyota Fortuner variants have Ventilated Disc rear brakes.
+All Toyota Fortuner variants have a length of 4795 mm.
+All Toyota Fortuner variants have a width of 1855 mm.
+All Toyota Fortuner variants have a height of 1835 mm.
+All Toyota Fortuner variants offer 296 Litres of boot space.
+All Toyota Fortuner variants have a seating capacity of 7.0.
+All Toyota Fortuner variants have a wheelbase of 2745 mm.
+Toyota Fortuner variants - 4X2 & 4X2 AT share a gross weight of 2510 kg.
+Toyota Fortuner variants - 4X2 Diesel & 4X2 Diesel AT share a gross weight of 2610 kg.
+Toyota Fortuner variants - 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT share a gross weight of 2735 kg.
+All Toyota Fortuner variants have 5.0 doors.
+All Toyota Fortuner variants come with a Electronic boot opening mechanism.
+Toyota Fortuner variants - 4X2, 4X2 AT, 4X2 Diesel & 4X2 Diesel AT feature tyres of size 265/65 R17.
+Toyota Fortuner variants - 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT feature tyres of size 265/60 R18.
+All Toyota Fortuner variants come with Tubeless Radial tyres.
+All Toyota Fortuner variants come equipped with 7.0 airbags.
+Toyota Fortuner variant 4X2 Diesel has a Global NCAP rating of 5 Star.
+All Toyota Fortuner variants come with a 8 inch touchscreen display.
+Toyota Fortuner variants - 4X2, 4X2 AT, 4X2 Diesel & 4X2 Diesel AT come with 6.0 speakers.
+Toyota Fortuner variants - 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT come with 11.0 speakers.
+Toyota Fortuner variants - 4X2, 4X2 AT, 4X2 Diesel & 4X2 Diesel AT have 17 Inch front alloy wheels.
+Toyota Fortuner variants - 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT have 18 Inch front alloy wheels.
+Toyota Fortuner variants - 4X2, 4X2 AT, 4X2 Diesel & 4X2 Diesel AT have 17 Inch rear alloy wheels.
+Toyota Fortuner variants - 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT have 18 Inch rear alloy wheels.
+All Toyota Fortuner variants come with Android Auto, Apple CarPlay connectivity options.
+All Toyota Fortuner variants feature a Full Digital digital cluster.
+All Toyota Fortuner variants come with Leatherette upholstery.
+All Toyota Fortuner variants offer a boot space of 296 Litres.
+All Toyota Fortuner variants have a top speed of 190 kmph.
+All Toyota Fortuner variants come with a DOHC valve configuration.
+All Toyota Fortuner variants use a Direct Injection (Di) fuel supply system.
+All Toyota Fortuner variants have All Windows anti-pinch power windows.
+Toyota Fortuner variants - 4X2 Diesel & 4X2 Diesel AT have highway mileage figures of 15.54 kmpl.
+Toyota Fortuner variants - 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT have highway mileage figures of 14.2 kmpl.
+All Toyota Fortuner variants have a fuel tank capacity of 80 Litres.
+All Toyota Fortuner variants have the Double wishbone suspension front suspension.
+All Toyota Fortuner variants have the Multi-link suspension rear suspension.
+All Toyota Fortuner variants come with Tilt & Telescopic steering adjustment.
+All variants of Toyota Fortuner have Adjustable Steering.
+All Toyota Fortuner variants are equipped with Front & Rear parking sensors.
+All Toyota Fortuner variants come with Front USB charging ports.
+All Toyota Fortuner variants are equipped with Front & Rear fog lights.
+All Toyota Fortuner variants have a With Guidedlines rear camera.
+All Toyota Fortuner variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Toyota Fortuner variants include Front & Rear speakers.
+All Toyota Fortuner variants have Front electric adjustable seats.
+All Toyota Fortuner variants have a 60:40 Split foldable rear seat.
+All variants of Toyota Fortuner have Central Console Armrest.
+Toyota Fortuner variants without Turbo Charger - 4X2 & 4X2 AT.
+Toyota Fortuner variants with Turbo Charger - 4X2 Diesel, 4X2 Diesel AT, 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT.
+Toyota Fortuner variants - 4X2, 4X2 AT, 4X2 Diesel, 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT share the Driver knee airbag configuration.
+All variants of Toyota Fortuner have Rear Seat Headrest.
+Toyota Fortuner variants - 4X2 & 4X2 AT share the 2 drive mode configuration.
+Toyota Fortuner variants - 4X2 Diesel, 4X2 Diesel AT, 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT share the 3 drive mode configuration.
+Toyota Fortuner variant 4X2 includes Eco & Power drive modes.
+Toyota Fortuner variants - 4X2 Diesel, 4X2 Diesel AT, 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT share the Eco, Normal & Sport drive mode options.
+Toyota Fortuner variants - 4X2, 4X2 AT, 4X2 Diesel & 4X2 Diesel AT share Dusk Sensing LED Headlamps with LED Line-Guide,New Design Split LED Rear Combination Lamps,New Design Front DRL with Integrated Turn Indicators,New Design Front Bumper with Skid Plate,Bold New Trapezoid Shaped Grille with Chrome Highlights,Illuminated Entry System - Puddle Lamps Under Outside Mirror,Chrome Plated Door Handles and Window Beltline,Machine Finish Alloy Wheels,Fully Automatic Power Back Door with Height Adjust Memory and Jam Protection,Aero-Stabilising Fins on ORVM Base and Rear Combination Lamps as additional features.
+Toyota Fortuner variants - 4X4 Diesel, 4X4 Diesel AT & GR S 4X4 Diesel AT share Premium JBL Speakers (11 Speakers Including Subwoofer & Amplifier) as additional features.

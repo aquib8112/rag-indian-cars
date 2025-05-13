@@ -1,0 +1,165 @@
+Hyundai I20 N Line has 8 variants: N6, N6 Dual Tone, N6 DCT, N8, N6 DCT Dual Tone, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Power Steering.
+All variants of Hyundai I20 N Line have Air Conditioner.
+All variants of Hyundai I20 N Line have Heater.
+All variants of Hyundai I20 N Line have Automatic Climate Control.
+All variants of Hyundai I20 N Line have Accessory Power Outlet.
+Hyundai I20 N Line variants with Trunk Light - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without Trunk Light - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Vanity Mirror.
+All variants of Hyundai I20 N Line have Rear Reading Lamp.
+All variants of Hyundai I20 N Line have Adjustable Headrest.
+All variants of Hyundai I20 N Line have Rear AC Vents.
+All variants of Hyundai I20 N Line have Cruise Control.
+Hyundai I20 N Line variants with Engine Start/Stop Button - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without Engine Start/Stop Button - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Voice Commands.
+All variants of Hyundai I20 N Line have KeyLess Entry.
+All variants of Hyundai I20 N Line have Follow Me Home Headlamps.
+All variants of Hyundai I20 N Line have Tachometer.
+All variants of Hyundai I20 N Line do not have Wheel Covers.
+All variants of Hyundai I20 N Line have Alloy Wheels.
+All variants of Hyundai I20 N Line have Integrated Antenna.
+All variants of Hyundai I20 N Line have Automatic Headlamps.
+Hyundai I20 N Line variants with LED DRLs - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without LED DRLs - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+Hyundai I20 N Line variants with LED Headlamps - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without LED Headlamps - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Anti-lock Braking System (ABS).
+All variants of Hyundai I20 N Line have Central Locking.
+All variants of Hyundai I20 N Line have Driver Airbag.
+All variants of Hyundai I20 N Line have Side Airbag.
+All variants of Hyundai I20 N Line have Seat Belt Warning.
+All variants of Hyundai I20 N Line have Engine Immobilizer.
+All variants of Hyundai I20 N Line do not have Side Airbag-Rear.
+All variants of Hyundai I20 N Line have Electronic Stability Control (ESC).
+Hyundai I20 N Line variants with Anti-Theft Device - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without Anti-Theft Device - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Speed Alert.
+All variants of Hyundai I20 N Line have Speed Sensing Auto Door Lock.
+All variants of Hyundai I20 N Line have ISOFIX Child Seat Mounts.
+All variants of Hyundai I20 N Line have Hill Assist.
+All variants of Hyundai I20 N Line have Impact Sensing Auto Door Unlock.
+All variants of Hyundai I20 N Line have Radio.
+Hyundai I20 N Line variants with Wireless Phone Charging - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without Wireless Phone Charging - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Bluetooth Connectivity.
+All variants of Hyundai I20 N Line have Android Auto.
+All variants of Hyundai I20 N Line have Apple CarPlay.
+Hyundai I20 N Line variants with Over the Air (OTA) Updates - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without Over the Air (OTA) Updates - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+Hyundai I20 N Line variants with Smartwatch App - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without Smartwatch App - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+Hyundai I20 N Line variants with Height Adjustable Front Seat Belts - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without Height Adjustable Front Seat Belts - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+Hyundai I20 N Line variants with Paddle Shifters - N6 DCT, N6 DCT Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without Paddle Shifters - N6, N6 Dual Tone, N8 & N8 Dual Tone.
+Hyundai I20 N Line variants with Halogen Headlamps - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+Hyundai I20 N Line variants without Halogen Headlamps - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+All variants of Hyundai I20 N Line have LED Taillights.
+All variants of Hyundai I20 N Line have Electronic Brakeforce Distribution (EBD).
+Hyundai I20 N Line variants with Anti-Theft Alarm - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without Anti-Theft Alarm - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Door Ajar Warning.
+Hyundai I20 N Line variants with SOS / Emergency Assistance - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without SOS / Emergency Assistance - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Cooled Glovebox.
+Hyundai I20 N Line variants with Puddle Lamps - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without Puddle Lamps - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Battery Saver.
+All variants of Hyundai I20 N Line have Tailgate Ajar Warning.
+Hyundai I20 N Line variants with SOS Button - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without SOS Button - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+Hyundai I20 N Line variants with Voice assisted sunroof - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without Voice assisted sunroof - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Lane Change Indicator.
+Hyundai I20 N Line variant without Regenerative Braking - N6 Dual Tone.
+Hyundai I20 N Line variants with RSA - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants without RSA - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Height Adjustable Driver Seat.
+All variants of Hyundai I20 N Line have Rear Window Defogger.
+All variants of Hyundai I20 N Line have Glove Box.
+All variants of Hyundai I20 N Line have Adjustable Headlamps.
+All variants of Hyundai I20 N Line have Outside Rear View Mirror Turn Indicators.
+All variants of Hyundai I20 N Line have Passenger Airbag.
+All variants of Hyundai I20 N Line have Day & Night Rear View Mirror.
+All variants of Hyundai I20 N Line have Tyre Pressure Monitoring System (TPMS).
+All variants of Hyundai I20 N Line have Touchscreen.
+Hyundai I20 N Line variants with Rear Window Wiper - N6, N6 Dual Tone, N6 DCT, N8, N6 DCT Dual Tone, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+Hyundai I20 N Line variants with Rear Window Washer - N6, N6 Dual Tone, N6 DCT, N8, N6 DCT Dual Tone, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Rear Spoiler.
+All variants of Hyundai I20 N Line have Curtain Airbag.
+All variants of Hyundai I20 N Line have Usb Ports.
+Hyundai I20 N Line variants with Gear Shift Indicator - N6, N6 Dual Tone, N8 & N8 Dual Tone.
+Hyundai I20 N Line variants without Gear Shift Indicator - N6 DCT, N6 DCT Dual Tone, N8 DCT & N8 DCT Dual Tone.
+All variants of Hyundai I20 N Line have Luggage Hook & Net.
+All variants of Hyundai I20 N Line have LED Fog Lamps.
+All Hyundai I20 N Line variants use the 1.0 l Turbo GDi petrol engine.
+All Hyundai I20 N Line variants have a displacement of 998  cubic centimeters.
+All Hyundai I20 N Line variants produce a maximum power of 118 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Hyundai I20 N Line variants produce a maximum torque of 172 Newton meters at 1500 to 4000 Revolutions Per Minute (RPM).
+All Hyundai I20 N Line variants have 4.0 valves per cylinder.
+Hyundai I20 N Line variants - N6, N6 Dual Tone, N8 & N8 Dual Tone share a Manual transmission.
+Hyundai I20 N Line variants - N6 DCT, N6 DCT Dual Tone, N8 DCT & N8 DCT Dual Tone share a Automatic transmission.
+All Hyundai I20 N Line variants have 3.0 cylinders.
+Hyundai I20 N Line variants - N6, N6 Dual Tone, N8 & N8 Dual Tone share a 6-Speed gearbox.
+Hyundai I20 N Line variants - N6 DCT, N6 DCT Dual Tone, N8 DCT & N8 DCT Dual Tone share a 7-Speed-DCT gearbox.
+All Hyundai I20 N Line variants have a Front-Wheel Drive (FWD) drive type.
+All Hyundai I20 N Line variants run on Petrol.
+All Hyundai I20 N Line variants comply with BS VI 2.0 emission norms.
+All Hyundai I20 N Line variants come with Electric steering.
+All Hyundai I20 N Line variants have Disc front brakes.
+All Hyundai I20 N Line variants have Disc rear brakes.
+All Hyundai I20 N Line variants have a length of 3995 mm.
+All Hyundai I20 N Line variants have a width of 1775 mm.
+All Hyundai I20 N Line variants have a height of 1505 mm.
+All Hyundai I20 N Line variants offer 311 Litres of boot space.
+All Hyundai I20 N Line variants have a seating capacity of 5.0.
+All Hyundai I20 N Line variants have a wheelbase of 2580 mm.
+All Hyundai I20 N Line variants have 5.0 doors.
+All Hyundai I20 N Line variants come with a Manual boot opening mechanism.
+All Hyundai I20 N Line variants have Powered & Folding Outside Rear View Mirror (ORVM).
+All Hyundai I20 N Line variants have tyres of size 195/55 R16.
+All Hyundai I20 N Line variants come with Tyre Type tyres.
+All Hyundai I20 N Line variants come equipped with 6.0 airbags.
+Hyundai I20 N Line variants - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone come with a 8 inch touchscreen display.
+Hyundai I20 N Line variants - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone come with a 10.25 inch touchscreen display.
+All Hyundai I20 N Line variants come with 4.0 speakers.
+All Hyundai I20 N Line variants come with 16 Inch front alloy wheels.
+All Hyundai I20 N Line variants come with 16 Inch rear alloy wheels.
+All Hyundai I20 N Line variants come with 2.0 tweeters.
+All Hyundai I20 N Line variants feature a Full Digital digital cluster.
+All Hyundai I20 N Line variants come with Leatherette upholstery.
+All Hyundai I20 N Line variants have a top speed of 160 kmph.
+Hyundai I20 N Line variants - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone have the same subwoofer setup with 1.0.
+All Hyundai I20 N Line variants come with Gas shock absorbers.
+Hyundai I20 N Line variants - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone come with Driver's Window anti-pinch power windows.
+Hyundai I20 N Line variants - N6 & N6 Dual Tone have mileage figures of 16 kmpl.
+Hyundai I20 N Line variants - N6 DCT, N6 DCT Dual Tone, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone have mileage figures of 20 kmpl.
+Hyundai I20 N Line variants - N8, N8 Dual Tone & N8 DCT Dual Tone have highway mileage figures of 14.6 kmpl.
+All Hyundai I20 N Line variants have a fuel tank capacity of 37 Litres.
+All Hyundai I20 N Line variants have the MacPherson Strut suspension front suspension.
+All Hyundai I20 N Line variants have the Rear twist beam rear suspension.
+All Hyundai I20 N Line variants come with Tilt & Telescopic steering adjustment.
+All Hyundai I20 N Line variants have Height & Reach steering adjustability.
+All Hyundai I20 N Line variants are equipped with Rear parking sensors.
+All Hyundai I20 N Line variants come with Front & Rear USB charging ports.
+All Hyundai I20 N Line variants have Front & Rear power windows.
+All Hyundai I20 N Line variants are equipped with Front fog lights.
+All Hyundai I20 N Line variants come with a Shark Fin antenna.
+All Hyundai I20 N Line variants have a With Guidedlines rear camera.
+All Hyundai I20 N Line variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Hyundai I20 N Line variants include Front & Rear speakers.
+All Hyundai I20 N Line variants have a Bench Folding foldable rear seat.
+All Hyundai I20 N Line variants have a With Storage central console armrest.
+All variants of Hyundai I20 N Line have Turbo Charger.
+Hyundai I20 N Line variants without Inbuilt_Apps - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone.
+Hyundai I20 N Line variants - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone share the Bluelink inbuilt apps.
+Hyundai I20 N Line variants - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone share Adjustable rear seat headrests.
+All Hyundai I20 N Line variants come with a Single Pane sunroof.
+Hyundai I20 N Line variants without Drive Modes - N6, N8 & N8 Dual Tone.
+Hyundai I20 N Line variants - N6 DCT, N6 DCT Dual Tone, N8 DCT & N8 DCT Dual Tone share the 3 drive mode configuration.
+Hyundai I20 N Line variants without Drive Mode Types - N6, N6 Dual Tone, N8 & N8 Dual Tone.
+Hyundai I20 N Line variants - N6 DCT, N6 DCT Dual Tone, N8 DCT & N8 DCT Dual Tone share the Eco, Normal & Sport drive mode options.
+Hyundai I20 N Line variants - N6, N6 Dual Tone, N6 DCT & N6 DCT Dual Tone share Disc brakes(Front disc brakes with red caliper),Z-shaped LED tail lamps,Dark chrome connecting tail lamp garnish,diamond cut alloy wheels with N Logo,Sporty twin tip muffler,Sporty tailgate spoiler with side wings,(Athletic red highlights Front skid plate,Side sill garnish),Front fog lamp chrome garnish,High gloss painted black finish(Tailgate garnish,Front & rear skid plates,Outside rear view mirror),Body coloured outside door handles,N Line emblem(Front radiator grille,Side fenders (left & right),Tailgate,B-pillar black out tape as additional features.
+Hyundai I20 N Line variants - N8, N8 Dual Tone, N8 DCT & N8 DCT Dual Tone share Ambient sounds of nature as additional features.

@@ -1,0 +1,156 @@
+﻿Ferrari Roma has 1 variants: Coupe V8.
+Ferrari Roma has Power Steering.
+Ferrari Roma has Air Conditioner.
+Ferrari Roma has Heater.
+Ferrari Roma has Automatic Climate Control.
+Ferrari Roma has Accessory Power Outlet.
+Ferrari Roma does not have Trunk Light.
+Ferrari Roma has Vanity Mirror.
+Ferrari Roma does not have Adjustable Headrest.
+Ferrari Roma does not have Rear Seat Centre Arm Rest.
+Ferrari Roma does not have Rear AC Vents.
+Ferrari Roma has Cruise Control.
+Ferrari Roma does not have Real-Time Vehicle Tracking.
+Ferrari Roma has Engine Start/Stop Button.
+Ferrari Roma has Voice Commands.
+Ferrari Roma does not have Chrome Grille.
+Ferrari Roma has KeyLess Entry.
+Ferrari Roma has Tachometer.
+Ferrari Roma does not have Wheel Covers.
+Ferrari Roma has Integrated Antenna.
+Ferrari Roma does not have Projector Headlamps.
+Ferrari Roma has Automatic Headlamps.
+Ferrari Roma has LED DRLs.
+Ferrari Roma has LED Headlamps.
+Ferrari Roma has Anti-lock Braking System (ABS).
+Ferrari Roma has Central Locking.
+Ferrari Roma has Driver Airbag.
+Ferrari Roma has Side Airbag.
+Ferrari Roma does not have Seat Belt Warning.
+Ferrari Roma has Engine Immobilizer.
+Ferrari Roma does not have Side Airbag-Rear.
+Ferrari Roma has Electronic Stability Control (ESC).
+Ferrari Roma has Anti-Theft Device.
+Ferrari Roma has Speed Alert.
+Ferrari Roma has Speed Sensing Auto Door Lock.
+Ferrari Roma has Impact Sensing Auto Door Unlock.
+Ferrari Roma has Radio.
+Ferrari Roma has Bluetooth Connectivity.
+Ferrari Roma has Android Auto.
+Ferrari Roma has Apple CarPlay.
+Ferrari Roma does not have Remote Climate Control (A/C).
+Ferrari Roma has Height Adjustable Front Seat Belts.
+Ferrari Roma has Lumbar Support.
+Ferrari Roma has Paddle Shifters.
+Ferrari Roma has Electronic Multi-Tripmeter.
+Ferrari Roma has Digital Clock.
+Ferrari Roma has Outside Temperature Display.
+Ferrari Roma has Dual Tone Dashboard.
+Ferrari Roma does not have Power Antenna.
+Ferrari Roma does not have Halogen Headlamps.
+Ferrari Roma has LED Taillights.
+Ferrari Roma has Door Ajar Warning.
+Ferrari Roma has Digital Odometer.
+Ferrari Roma has Ventilated Seats.
+Ferrari Roma does not have Active noise cancellation.
+Ferrari Roma does not have Cornering Foglamps.
+Ferrari Roma has Leather wrap gear-shift selector.
+Ferrari Roma does not have Headlamp Washers.
+Ferrari Roma does not have Smoke Headlamps.
+Ferrari Roma has Blind Spot Monitor.
+Ferrari Roma has Tailgate Ajar Warning.
+Ferrari Roma has Remote Trunk Opener.
+Ferrari Roma does not have Remote Fuel Lid Opener.
+Ferrari Roma has Compass.
+Ferrari Roma does not have Cornering Headlamps.
+Ferrari Roma has Traction Control.
+Ferrari Roma has Leather Seats.
+Ferrari Roma does not have Driving Experience Control Eco.
+Ferrari Roma does not have Fog Lights - Rear.
+Ferrari Roma does not have Internal Storage.
+Ferrari Roma has Find My Car location.
+Ferrari Roma has Height Adjustable Driver Seat.
+Ferrari Roma has Rear Window Defogger.
+Ferrari Roma has Leather Wrapped Steering Wheel.
+Ferrari Roma has Adjustable Headlamps.
+Ferrari Roma has Outside Rear View Mirror Turn Indicators.
+Ferrari Roma has Passenger Airbag.
+Ferrari Roma has Day & Night Rear View Mirror.
+Ferrari Roma has Tyre Pressure Monitoring System (TPMS).
+Ferrari Roma has Touchscreen.
+Ferrari Roma has Rear Window Wiper.
+Ferrari Roma has Rear Window Washer.
+Ferrari Roma has Chrome Garnish.
+Ferrari Roma has Child Safety Locks.
+Ferrari Roma has Rear Spoiler.
+Ferrari Roma has Rain Sensing Wiper.
+Ferrari Roma has Air Quality Control.
+Ferrari Roma has Tinted Glass.
+Ferrari Roma has Folding Table in The Rear.
+Ferrari Roma has Navigation System.
+Ferrari Roma has Smart Access Card Entry.
+Ferrari Roma has Fabric Upholstery.
+Ferrari Roma has Roof Rails.
+Ferrari Roma has Cigarette Lighter.
+Ferrari Roma has Roof Carrier.
+Ferrari Roma has Side Stepper.
+Ferrari Roma has Dual Tone Body Colour.
+Ferrari Roma has Usb Ports.
+Ferrari Roma has Gear Shift Indicator.
+Ferrari Roma has Luggage Hook & Net.
+Ferrari Roma does not have LED Fog Lamps.
+Ferrari Roma does not have Low Fuel Warning Light.
+Ferrari Roma has Heated Wing Mirror.
+Ferrari Roma has Power Boot.
+Ferrari Roma does not have Fog Lights - Front.
+Ferrari Roma has Integrated 2DIN Audio.
+Ferrari Roma has USB & Auxiliary input.
+Ferrari Roma does not have Rear Curtain.
+Ferrari Roma does not have Audio System Remote Control.
+The Ferrari Roma has the V8 90° Turbo engine.
+The Ferrari Roma has a displacement of 3855  cubic centimeters.
+The Ferrari Roma generates 611.50 Brake Horsepower (BHP) at 5750 to 7500 Revolutions Per Minute (RPM).
+The Ferrari Roma generates 760 Newton meters at 3000 to 5750 Revolutions Per Minute (RPM).
+The Ferrari Roma has 4.0 valves per cylinder.
+The Ferrari Roma has a Automatic transmission.
+The Ferrari Roma has 8.0 cylinders.
+The Ferrari Roma has a 8-Speed gearbox.
+The Ferrari Roma has a Rear-Wheel Drive (RWD) drive type.
+The Ferrari Roma runs on Petrol.
+The Ferrari Roma complies with BS VI emission norms.
+The Ferrari Roma has Power steering.
+The Ferrari Roma has Ventilated Disc front brakes.
+The Ferrari Roma has Ventilated Disc rear brakes.
+The Ferrari Roma has a length of 4656 mm.
+The Ferrari Roma has a width of 1974 mm.
+The Ferrari Roma has a height of 1301 mm.
+The Ferrari Roma offers 272 Litres of boot space.
+The Ferrari Roma has a seating capacity of 2.0.
+The Ferrari Roma has a wheelbase of 2670 mm.
+The Ferrari Roma has a kerb weight of 1570 kg.
+The Ferrari Roma has 2.0 doors.
+The Ferrari Roma is equipped with Unknown tyres.
+The Ferrari Roma is equipped with 6.0 airbags.
+The Ferrari Roma is equipped with a 8.4 inch touchscreen.
+The Ferrari Roma features Android Auto connectivity options.
+The Ferrari Roma achieves a top speed of 320 kmph.
+The Ferrari Roma has a front tread of 1605 mm.
+The Ferrari Roma achieves 0-100 kmph acceleration in 3.4 s.
+The Ferrari Roma achieves 0-100 kmph in 3.4 s.
+The Ferrari Roma is equipped with a Rack & Pinion steering gear type.
+The Ferrari Roma is equipped with a Lever trunk opener.
+The Ferrari Roma delivers a highway mileage of 8.9 kmpl.
+The Ferrari Roma comes with a fuel tank capacity of 80 Litres.
+The Ferrari Roma comes with the Multi-link suspension front suspension.
+The Ferrari Roma comes with the Multi-link suspension rear suspension.
+The Ferrari Roma features Tilt & Telescopic steering adjustment.
+Ferrari Roma has Adjustable Steering.
+The Ferrari Roma features Front & Rear parking sensors.
+The Ferrari Roma features Front USB charging ports.
+The Ferrari Roma has Front & Rear speakers.
+The Ferrari Roma has Front electric adjustable seats.
+Ferrari Roma does not have Foldable Rear Seat.
+Ferrari Roma does not have Central Console Armrest.
+Ferrari Roma has Turbo Charger.
+Ferrari Roma does not have Rear Seat Headrest.
+Ferrari Roma does not have Sunroof.

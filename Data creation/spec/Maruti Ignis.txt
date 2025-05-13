@@ -1,0 +1,139 @@
+Maruti Ignis has 7 variants: Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+All variants of Maruti Ignis have Power Steering.
+All variants of Maruti Ignis have Air Conditioner.
+All variants of Maruti Ignis have Heater.
+Maruti Ignis variants with Automatic Climate Control - Alpha & Alpha AMT.
+Maruti Ignis variants without Automatic Climate Control - Sigma, Delta, Delta AMT, Zeta & Zeta AMT.
+All variants of Maruti Ignis have Accessory Power Outlet.
+Maruti Ignis variants with Trunk Light - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variant without Trunk Light - Sigma.
+Maruti Ignis variants with Vanity Mirror - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variant without Vanity Mirror - Sigma.
+All variants of Maruti Ignis have Adjustable Headrest.
+Maruti Ignis variants with Engine Start/Stop Button - Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variants without Engine Start/Stop Button - Sigma, Delta & Delta AMT.
+Maruti Ignis variants with Voice Commands - Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variants without Voice Commands - Sigma, Delta & Delta AMT.
+Maruti Ignis variants with KeyLess Entry - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variant without KeyLess Entry - Sigma.
+Maruti Ignis variants with Tachometer - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variant without Tachometer - Sigma.
+Maruti Ignis variants with Wheel Covers - Delta & Delta AMT.
+Maruti Ignis variants without Wheel Covers - Sigma, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variants with Alloy Wheels - Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variants without Alloy Wheels - Sigma, Delta & Delta AMT.
+All variants of Maruti Ignis have Integrated Antenna.
+Maruti Ignis variants with Projector Headlamps - Alpha & Alpha AMT.
+Maruti Ignis variants without Projector Headlamps - Sigma, Delta, Delta AMT, Zeta & Zeta AMT.
+Maruti Ignis variants with LED DRLs - Alpha & Alpha AMT.
+Maruti Ignis variants without LED DRLs - Sigma, Delta, Delta AMT, Zeta & Zeta AMT.
+All variants of Maruti Ignis have Anti-lock Braking System (ABS).
+Maruti Ignis variants with Central Locking - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variant without Central Locking - Sigma.
+All variants of Maruti Ignis have Driver Airbag.
+All variants of Maruti Ignis have Seat Belt Warning.
+All variants of Maruti Ignis have Engine Immobilizer.
+Maruti Ignis variants without E-Call & I-Call - Sigma, Delta & Delta AMT.
+All variants of Maruti Ignis have Electronic Stability Control (ESC).
+All variants of Maruti Ignis have Anti-Theft Device.
+All variants of Maruti Ignis have Speed Alert.
+All variants of Maruti Ignis have Speed Sensing Auto Door Lock.
+All variants of Maruti Ignis have ISOFIX Child Seat Mounts.
+Maruti Ignis variants with Hill Assist - Delta AMT, Zeta AMT & Alpha AMT.
+Maruti Ignis variants without Hill Assist - Sigma, Delta, Zeta & Alpha.
+Maruti Ignis variants with Radio - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variant without Radio - Sigma.
+Maruti Ignis variants with Bluetooth Connectivity - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variant without Bluetooth Connectivity - Sigma.
+All variants of Maruti Ignis have Over Speeding Alert.
+Maruti Ignis variants with Dual Tone Dashboard - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variant without Dual Tone Dashboard - Sigma.
+Maruti Ignis variants with Halogen Headlamps - Sigma, Delta, Delta AMT, Zeta & Zeta AMT.
+Maruti Ignis variants without Halogen Headlamps - Alpha & Alpha AMT.
+All variants of Maruti Ignis have Electronic Brakeforce Distribution (EBD).
+All variants of Maruti Ignis have Anti-Theft Alarm.
+Maruti Ignis variants with Navigation with Live Traffic - Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variants with Puddle Lamps - Sigma, Alpha & Alpha AMT.
+Maruti Ignis variants without Puddle Lamps - Delta, Delta AMT, Zeta & Zeta AMT.
+Maruti Ignis variants with Height Adjustable Driver Seat - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variants with Rear Window Defogger - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+All variants of Maruti Ignis have Glove Box.
+All variants of Maruti Ignis have Adjustable Headlamps.
+Maruti Ignis variants with Outside Rear View Mirror Turn Indicators - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+All variants of Maruti Ignis have Passenger Airbag.
+Maruti Ignis variants with Day & Night Rear View Mirror - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variants with Touchscreen - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variants with Rear Window Wiper - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+All variants of Maruti Ignis have Child Safety Locks.
+Maruti Ignis variants with Rear Spoiler - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variants with Roof Rails - Sigma, Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variants with Usb Ports - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variant without Usb Ports - Sigma.
+All variants of Maruti Ignis have Gear Shift Indicator.
+Maruti Ignis variants with Integrated 2DIN Audio - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT.
+Maruti Ignis variant without Integrated 2DIN Audio - Sigma.
+All Maruti Ignis variants use the VVT engine.
+All Maruti Ignis variants have a displacement of 1197  cubic centimeters.
+All Maruti Ignis variants produce a maximum power of 81.80 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Maruti Ignis variants produce a maximum torque of 113 Newton meters at 4200 Revolutions Per Minute (RPM).
+All Maruti Ignis variants have 4.0 valves per cylinder.
+Maruti Ignis variants - Sigma, Delta, Zeta & Alpha share a Manual transmission.
+Maruti Ignis variants - Delta AMT, Zeta AMT & Alpha AMT share a Automatic transmission.
+All Maruti Ignis variants have 4.0 cylinders.
+Maruti Ignis variants - Sigma, Delta, Zeta & Alpha share a 5-Speed gearbox.
+Maruti Ignis variants - Delta AMT, Zeta AMT & Alpha AMT share a 5-Speed-AMT gearbox.
+All Maruti Ignis variants have a Front-Wheel Drive (FWD) drive type.
+All Maruti Ignis variants run on Petrol.
+All Maruti Ignis variants comply with BS VI 2.0 emission norms.
+All Maruti Ignis variants come with Electric steering.
+All Maruti Ignis variants have a turning radius of 4.7m.
+All Maruti Ignis variants have Disc front brakes.
+All Maruti Ignis variants have Drum rear brakes.
+All Maruti Ignis variants have a length of 3700 mm.
+All Maruti Ignis variants have a width of 1690 mm.
+All Maruti Ignis variants have a height of 1595 mm.
+All Maruti Ignis variants offer 260 Litres of boot space.
+All Maruti Ignis variants have a seating capacity of 5.0.
+All Maruti Ignis variants have a wheelbase of 2435 mm.
+All Maruti Ignis variants have a kerb weight of 840-865 kg.
+All Maruti Ignis variants have 5.0 doors.
+All Maruti Ignis variants come with a Manual boot opening mechanism.
+Maruti Ignis variant Sigma has Manual Outside Rear View Mirror (ORVM).
+Maruti Ignis variants - Delta & Delta AMT feature Powered Outside Rear View Mirror (ORVM).
+Maruti Ignis variants - Zeta, Zeta AMT, Alpha & Alpha AMT feature Powered & Folding Outside Rear View Mirror (ORVM).
+All Maruti Ignis variants have tyres of size 175/65 R15.
+All Maruti Ignis variants come with Tubeless Radial tyres.
+Maruti Ignis variants - Sigma, Delta & Delta AMT feature 15 Inch wheels.
+All Maruti Ignis variants come equipped with 2.0 airbags.
+Maruti Ignis variant Delta has a Global NCAP rating of 1 Star.
+Maruti Ignis variants - Zeta, Zeta AMT, Alpha & Alpha AMT come with a 7 inch touchscreen display.
+Maruti Ignis variants - Delta & Delta AMT come with 2.0 speakers.
+Maruti Ignis variants - Zeta, Zeta AMT, Alpha & Alpha AMT come with 4.0 speakers.
+Maruti Ignis variants - Zeta, Zeta AMT, Alpha & Alpha AMT have 15 Inch front alloy wheels.
+Maruti Ignis variants - Zeta, Zeta AMT, Alpha & Alpha AMT have 15 Inch rear alloy wheels.
+Maruti Ignis variants - Zeta, Zeta AMT, Alpha & Alpha AMT have 2.0 tweeters.
+All Maruti Ignis variants come with Fabric upholstery.
+All Maruti Ignis variants offer a mileage of 20.89 kmpl.
+All Maruti Ignis variants provide a highway mileage of 23 kmpl.
+All Maruti Ignis variants have a fuel tank capacity of 32 Litres.
+All Maruti Ignis variants have the MacPherson Strut suspension front suspension.
+All Maruti Ignis variants have the Rear twist beam rear suspension.
+All Maruti Ignis variants come with Tilt Steering steering adjustment.
+All variants of Maruti Ignis have Adjustable Steering.
+All Maruti Ignis variants are equipped with Rear parking sensors.
+Maruti Ignis variant Sigma has Front Only power windows.
+Maruti Ignis variants - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT share the Front & Rear power window configuration.
+All Maruti Ignis variants come with Front Only cup holders.
+Maruti Ignis variants without Fog Lights - Sigma, Delta & Delta AMT.
+Maruti Ignis variants - Zeta, Zeta AMT, Alpha & Alpha AMT share the Front fog light configuration.
+Maruti Ignis variants without Rear Camera - Sigma, Delta, Delta AMT, Zeta & Zeta AMT.
+Maruti Ignis variants - Alpha & Alpha AMT share the With Guidedlines rear camera type.
+All Maruti Ignis variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Maruti Ignis variant without Speakers - Sigma.
+Maruti Ignis variants - Delta & Delta AMT share the Front Only speaker configuration.
+Maruti Ignis variants - Zeta, Zeta AMT, Alpha & Alpha AMT share the Front & Rear speaker configuration.
+Maruti Ignis variant Sigma has a Bench Folding foldable rear seat.
+Maruti Ignis variants - Delta, Delta AMT, Zeta, Zeta AMT, Alpha & Alpha AMT share the 60:40 Split foldable rear seat type.
+Maruti Ignis variant Sigma offers Body Coloured Door Handles,Body Coloured ORVMs,Front Wiper and Washer,High-mount LED Stop Lamp, as additional features.
+Maruti Ignis variants - Delta & Delta AMT share Body Coloured Door Handles,Body Coloured ORVMs,Door Sash Black-out,Fender Arch Moulding,Side Sill Moulding,Front Wiper and Washer,High-mount LED Stop Lamp, as additional features.
+Maruti Ignis variants - Zeta, Zeta AMT, Alpha & Alpha AMT share Body Coloured Door Handles,Body Coloured ORVMs,Door Sash Black-out,Fender Arch Moulding,Side Sill Moulding,Front Grille With Chrome Accents,Front Wiper and Washer,High-mount LED Stop Lamp, as additional features.

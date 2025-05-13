@@ -1,0 +1,157 @@
+﻿Lexus Lm has 2 variants: 350h 7 Seater VIP & 350h 4 Seater Ultra Luxury.
+All variants of Lexus Lm have Power Steering.
+All variants of Lexus Lm have Air Conditioner.
+All variants of Lexus Lm have Heater.
+All variants of Lexus Lm have Automatic Climate Control.
+All variants of Lexus Lm have Accessory Power Outlet.
+All variants of Lexus Lm have Vanity Mirror.
+All variants of Lexus Lm have Rear Reading Lamp.
+All variants of Lexus Lm have Adjustable Headrest.
+All variants of Lexus Lm have Rear Seat Centre Arm Rest.
+All variants of Lexus Lm have Rear AC Vents.
+All variants of Lexus Lm have Cruise Control.
+All variants of Lexus Lm have Real-Time Vehicle Tracking.
+All variants of Lexus Lm have Engine Start/Stop Button.
+All variants of Lexus Lm have Voice Commands.
+All variants of Lexus Lm do not have Hands-Free Tailgate.
+All variants of Lexus Lm have KeyLess Entry.
+All variants of Lexus Lm have Idle Start-Stop System.
+All variants of Lexus Lm have Follow Me Home Headlamps.
+All variants of Lexus Lm have Tachometer.
+All variants of Lexus Lm have Automatic Headlamps.
+All variants of Lexus Lm have LED DRLs.
+All variants of Lexus Lm have LED Headlamps.
+All variants of Lexus Lm have Anti-lock Braking System (ABS).
+All variants of Lexus Lm have Central Locking.
+All variants of Lexus Lm have Driver Airbag.
+All variants of Lexus Lm have Side Airbag.
+All variants of Lexus Lm have Seat Belt Warning.
+All variants of Lexus Lm have Engine Immobilizer.
+All variants of Lexus Lm have E-Call & I-Call.
+All variants of Lexus Lm have Remote AC On/Off.
+All variants of Lexus Lm have Side Airbag-Rear.
+All variants of Lexus Lm have Electronic Stability Control (ESC).
+All variants of Lexus Lm have Anti-Theft Device.
+All variants of Lexus Lm have Speed Alert.
+All variants of Lexus Lm have Speed Sensing Auto Door Lock.
+All variants of Lexus Lm have ISOFIX Child Seat Mounts.
+All variants of Lexus Lm have Hill Assist.
+All variants of Lexus Lm have Impact Sensing Auto Door Unlock.
+All variants of Lexus Lm have Radio.
+All variants of Lexus Lm have Wireless Phone Charging.
+All variants of Lexus Lm have Bluetooth Connectivity.
+All variants of Lexus Lm have Android Auto.
+All variants of Lexus Lm have Apple CarPlay.
+All variants of Lexus Lm have Driver Attention Warning.
+All variants of Lexus Lm have Live Location.
+All variants of Lexus Lm have Over the Air (OTA) Updates.
+All variants of Lexus Lm have Google / Alexa Connectivity.
+All variants of Lexus Lm have Over Speeding Alert.
+All variants of Lexus Lm have Smartwatch App.
+All variants of Lexus Lm have Valet Mode.
+All variants of Lexus Lm have Remote Door Lock/Unlock.
+All variants of Lexus Lm have Geo-fence Alert.
+All variants of Lexus Lm have Height Adjustable Front Seat Belts.
+All variants of Lexus Lm have Lumbar Support.
+All variants of Lexus Lm have Tow Away Alert.
+All variants of Lexus Lm have LED Taillights.
+All variants of Lexus Lm have Electronic Brakeforce Distribution (EBD).
+All variants of Lexus Lm have Brake Assist.
+All variants of Lexus Lm have Anti-Theft Alarm.
+All variants of Lexus Lm have Door Ajar Warning.
+All variants of Lexus Lm have SOS / Emergency Assistance.
+All variants of Lexus Lm have Forward Collision Warning.
+All variants of Lexus Lm have Lane Keep Assist.
+All variants of Lexus Lm have Adaptive High Beam Assist.
+All variants of Lexus Lm have Unauthorised Vehicle entry.
+All variants of Lexus Lm have Cooled Glovebox.
+All variants of Lexus Lm have Glove Box light.
+All variants of Lexus Lm have Ventilated Seats.
+All variants of Lexus Lm have Heated Outside Rear View Mirror.
+All variants of Lexus Lm have Blind Spot Monitor.
+All variants of Lexus Lm have Live Weather.
+All variants of Lexus Lm have Tailgate Ajar Warning.
+All variants of Lexus Lm have SOS Button.
+All variants of Lexus Lm have Lane Change Indicator.
+All variants of Lexus Lm have Cornering Headlamps.
+All variants of Lexus Lm have RSA.
+All variants of Lexus Lm have Rear Entertainment System.
+All variants of Lexus Lm have Height Adjustable Driver Seat.
+All variants of Lexus Lm have Rear Window Defogger.
+All variants of Lexus Lm have Leather Wrapped Steering Wheel.
+All variants of Lexus Lm have Glove Box.
+All variants of Lexus Lm have Adjustable Headlamps.
+All variants of Lexus Lm have Outside Rear View Mirror Turn Indicators.
+All variants of Lexus Lm have Passenger Airbag.
+All variants of Lexus Lm have Day & Night Rear View Mirror.
+All variants of Lexus Lm have Tyre Pressure Monitoring System (TPMS).
+All variants of Lexus Lm have Touchscreen.
+All variants of Lexus Lm have Child Safety Locks.
+All variants of Lexus Lm have Rear Spoiler.
+All variants of Lexus Lm have Rain Sensing Wiper.
+All variants of Lexus Lm have Air Quality Control.
+All variants of Lexus Lm have Rear Touchscreen.
+All variants of Lexus Lm have Curtain Airbag.
+All variants of Lexus Lm have Usb Ports.
+All Lexus Lm variants use the Inline With Dual VVT-i engine.
+All Lexus Lm variants have a displacement of 2487  cubic centimeters.
+All Lexus Lm variants produce a maximum power of 190.42 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Lexus Lm variants produce a maximum torque of 242 Newton meters at 4300  to  4500 Revolutions Per Minute (RPM).
+All Lexus Lm variants have 4.0 valves per cylinder.
+All Lexus Lm variants have a Automatic transmission.
+All Lexus Lm variants have 4.0 cylinders.
+All Lexus Lm variants have a All-Wheel Drive (AWD) drive type.
+All Lexus Lm variants run on Petrol.
+All Lexus Lm variants comply with BS VI 2.0 emission norms.
+All Lexus Lm variants come with Electric steering.
+All Lexus Lm variants have a turning radius of 5.9m.
+All Lexus Lm variants have ventilated discs front brakes.
+All Lexus Lm variants have Ventilated Disc rear brakes.
+All Lexus Lm variants have a length of 5125 mm.
+All Lexus Lm variants have a width of 1890 mm.
+All Lexus Lm variants have a height of 1940 mm.
+All Lexus Lm variants offer 752 Litres of boot space.
+Lexus Lm variant 350h 7 Seater VIP has a seating capacity of 7.0.
+Lexus Lm variant 350h 4 Seater Ultra Luxury has a seating capacity of 4.0.
+All Lexus Lm variants have a wheelbase of 3000 mm.
+All Lexus Lm variants have a kerb weight of 2315 kg.
+Lexus Lm variant 350h 7 Seater VIP has a gross weight of 2880 kg.
+Lexus Lm variant 350h 4 Seater Ultra Luxury has a gross weight of 2870 kg.
+All Lexus Lm variants have 5.0 doors.
+All Lexus Lm variants have tyres of size 225/55 R19.
+All Lexus Lm variants come with Tubeless Radial tyres.
+All Lexus Lm variants come equipped with 14.0 airbags.
+All Lexus Lm variants come with a 14 inch touchscreen display.
+Lexus Lm variant 350h 7 Seater VIP features 21.0 speakers.
+Lexus Lm variant 350h 4 Seater Ultra Luxury features 23.0 speakers.
+All Lexus Lm variants use Electric as a secondary fuel type.
+All Lexus Lm variants come with 19 Inch front alloy wheels.
+All Lexus Lm variants come with 19 Inch rear alloy wheels.
+All Lexus Lm variants come with Android Auto, Apple CarPlay connectivity options.
+All Lexus Lm variants feature a Full Digital digital cluster.
+All Lexus Lm variants offer a boot space of 752 Litres.
+All Lexus Lm variants have a front tread of 1615 mm.
+All Lexus Lm variants come with a DOHC valve configuration.
+All Lexus Lm variants have a rear tread of 1620 mm.
+All Lexus Lm variants use a SFI (D-4S) fuel supply system.
+All Lexus Lm variants are equipped with a Permanent Magnet Synchronous Motor motor type.
+All Lexus Lm variants are powered by a Nickel Metal Hydride Battery battery.
+All Lexus Lm variants have All Windows anti-pinch power windows.
+All Lexus Lm variants have a fuel tank capacity of 60 Litres.
+All Lexus Lm variants have the MacPherson Strut suspension front suspension.
+All Lexus Lm variants have the Double wishbone suspension rear suspension.
+All Lexus Lm variants come with Tilt & Telescopic steering adjustment.
+All variants of Lexus Lm have Adjustable Steering.
+All Lexus Lm variants are equipped with Front & Rear parking sensors.
+All Lexus Lm variants come with Front & Rear USB charging ports.
+All Lexus Lm variants come with a Shark Fin antenna.
+All Lexus Lm variants feature a 12 inch digital cluster.
+All Lexus Lm variants have a With Guidedlines rear camera.
+All Lexus Lm variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Lexus Lm variants have Front electric adjustable seats.
+All variants of Lexus Lm have Central Console Armrest.
+All Lexus Lm variants come with Driver and Passenger knee airbags.
+All Lexus Lm variants feature ambient lighting with 64 color options.
+All variants of Lexus Lm have Rear Seat Headrest.
+All Lexus Lm variants come with a Panoramic sunroof.
+All Lexus Lm variants come with Windshield glass; UV (Ultraviolet)-cut/IR (Infrared Ray)-cut green-Laminated glass,Front door and sliding door window glass; acoustic glass, IR- and UV-cut function,Rear quarter window and back door window glass; UV-cut green-tinted glass,Left/right independent glass roof,LED High Mount stop lamp as additional features.

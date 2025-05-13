@@ -1,0 +1,135 @@
+Hyundai Ioniq 5 has 1 variants: Long Range RWD.
+Hyundai Ioniq 5 has Power Steering.
+Hyundai Ioniq 5 has Air Conditioner.
+Hyundai Ioniq 5 has Heater.
+Hyundai Ioniq 5 has Automatic Climate Control.
+Hyundai Ioniq 5 has Accessory Power Outlet.
+Hyundai Ioniq 5 has Trunk Light.
+Hyundai Ioniq 5 has Rear Reading Lamp.
+Hyundai Ioniq 5 has Adjustable Headrest.
+Hyundai Ioniq 5 has Rear Seat Centre Arm Rest.
+Hyundai Ioniq 5 has Rear AC Vents.
+Hyundai Ioniq 5 has Cruise Control.
+Hyundai Ioniq 5 has Hands-Free Tailgate.
+Hyundai Ioniq 5 has KeyLess Entry.
+Hyundai Ioniq 5 has Idle Start-Stop System.
+Hyundai Ioniq 5 has Tachometer.
+Hyundai Ioniq 5 has Alloy Wheels.
+Hyundai Ioniq 5 has Integrated Antenna.
+Hyundai Ioniq 5 has LED DRLs.
+Hyundai Ioniq 5 has LED Headlamps.
+Hyundai Ioniq 5 has Anti-lock Braking System (ABS).
+Hyundai Ioniq 5 has Central Locking.
+Hyundai Ioniq 5 has Driver Airbag.
+Hyundai Ioniq 5 has Side Airbag.
+Hyundai Ioniq 5 has Seat Belt Warning.
+Hyundai Ioniq 5 has Engine Immobilizer.
+Hyundai Ioniq 5 does not have E-Call & I-Call.
+Hyundai Ioniq 5 has Electronic Stability Control (ESC).
+Hyundai Ioniq 5 has ISOFIX Child Seat Mounts.
+Hyundai Ioniq 5 has Hill Assist.
+Hyundai Ioniq 5 has 360 View Camera.
+Hyundai Ioniq 5 has Radio.
+Hyundai Ioniq 5 has Wireless Phone Charging.
+Hyundai Ioniq 5 has Bluetooth Connectivity.
+Hyundai Ioniq 5 has Android Auto.
+Hyundai Ioniq 5 has Apple CarPlay.
+Hyundai Ioniq 5 has Driver Attention Warning.
+Hyundai Ioniq 5 has Over the Air (OTA) Updates.
+Hyundai Ioniq 5 has Google / Alexa Connectivity.
+Hyundai Ioniq 5 has Lumbar Support.
+Hyundai Ioniq 5 has LED Taillights.
+Hyundai Ioniq 5 has Electronic Brakeforce Distribution (EBD).
+Hyundai Ioniq 5 has Door Ajar Warning.
+Hyundai Ioniq 5 has Forward Collision Warning.
+Hyundai Ioniq 5 has Blind Spot Collision Avoidance Assist.
+Hyundai Ioniq 5 has Lane Departure Warning.
+Hyundai Ioniq 5 has Lane Keep Assist.
+Hyundai Ioniq 5 has Adaptive Cruise Control.
+Hyundai Ioniq 5 has Leading Vehicle Departure Alert.
+Hyundai Ioniq 5 has Adaptive High Beam Assist.
+Hyundai Ioniq 5 has Rear Cross Traffic Alert.
+Hyundai Ioniq 5 has Rear Cross Traffic Collision-Avoidance Assist.
+Hyundai Ioniq 5 has Ventilated Seats.
+Hyundai Ioniq 5 has Rear Window Sunblind.
+Hyundai Ioniq 5 has Heated Outside Rear View Mirror.
+Hyundai Ioniq 5 has Blind Spot Monitor.
+Hyundai Ioniq 5 has Tailgate Ajar Warning.
+Hyundai Ioniq 5 has Regenerative Braking.
+Hyundai Ioniq 5 has Fast Charging.
+Hyundai Ioniq 5 has Vehicle to Load Charging.
+Hyundai Ioniq 5 has Height Adjustable Driver Seat.
+Hyundai Ioniq 5 has Rear Window Defogger.
+Hyundai Ioniq 5 has Glove Box.
+Hyundai Ioniq 5 has Adjustable Headlamps.
+Hyundai Ioniq 5 has Outside Rear View Mirror Turn Indicators.
+Hyundai Ioniq 5 has Passenger Airbag.
+Hyundai Ioniq 5 has Day & Night Rear View Mirror.
+Hyundai Ioniq 5 has Tyre Pressure Monitoring System (TPMS).
+Hyundai Ioniq 5 has Touchscreen.
+Hyundai Ioniq 5 has Child Safety Locks.
+Hyundai Ioniq 5 has Rear Spoiler.
+Hyundai Ioniq 5 has Rain Sensing Wiper.
+Hyundai Ioniq 5 has Curtain Airbag.
+Hyundai Ioniq 5 has Usb Ports.
+Hyundai Ioniq 5 has Luggage Hook & Net.
+Hyundai Ioniq 5 has Integrated 2DIN Audio.
+The Hyundai Ioniq 5 generates 214.56 Brake Horsepower (BHP).
+The Hyundai Ioniq 5 generates 350 Newton meters.
+The Hyundai Ioniq 5 has a Automatic transmission.
+The Hyundai Ioniq 5 has a 1-Speed gearbox.
+The Hyundai Ioniq 5 has a Rear-Wheel Drive (RWD) drive type.
+The Hyundai Ioniq 5 runs on Electric.
+The Hyundai Ioniq 5 complies with ZEV emission norms.
+The Hyundai Ioniq 5 has Electric steering.
+The Hyundai Ioniq 5 has Disc front brakes.
+The Hyundai Ioniq 5 has Disc rear brakes.
+The Hyundai Ioniq 5 has a length of 4635 mm.
+The Hyundai Ioniq 5 has a width of 1890 mm.
+The Hyundai Ioniq 5 has a height of 1625 mm.
+The Hyundai Ioniq 5 offers 584 Litres of boot space.
+The Hyundai Ioniq 5 has a seating capacity of 5.0.
+The Hyundai Ioniq 5 has a wheelbase of 3000 mm.
+The Hyundai Ioniq 5 has 5.0 doors.
+The Hyundai Ioniq 5 features a Electronic boot opening mechanism.
+The Hyundai Ioniq 5 is fitted with tyres of size 255/45 R20.
+The Hyundai Ioniq 5 is equipped with Tubeless Radial tyres.
+The Hyundai Ioniq 5 is equipped with 6.0 airbags.
+The Hyundai Ioniq 5 is equipped with a 12.3 inch touchscreen.
+The Hyundai Ioniq 5 is equipped with 8.0 speakers.
+The Hyundai Ioniq 5 achieves 100-0 kmph braking in 38.59 s seconds.
+The Hyundai Ioniq 5 features Android Auto, Apple CarPlay connectivity options.
+The Hyundai Ioniq 5 comes with a Full Digital digital cluster.
+The Hyundai Ioniq 5 features Leather upholstery.
+The Hyundai Ioniq 5 takes 4.33 s for city driveability (20-80 kmph).
+The Hyundai Ioniq 5 features a Permanent Magnet Synchronous Motor motor type.
+The Hyundai Ioniq 5 comes with a Lithium-Ion Battery battery.
+The Hyundai Ioniq 5 has a battery capacity of 72.6 kWh.
+The Hyundai Ioniq 5 features a motor with 160 kW power.
+The Hyundai Ioniq 5 provides a range of 631 km.
+The Hyundai Ioniq 5 charges in 6 Hours 55Min at 11kW (0-100%) using an A.C charger.
+The Hyundai Ioniq 5 charges in 18 Min at 350kW (10-80%) using a D.C charger.
+The Hyundai Ioniq 5 is equipped with a CCS-I charging port.
+The Hyundai Ioniq 5 supports 11 kW AC | 50 kW DC | 350 kW DC as charging options.
+The Hyundai Ioniq 5 includes a 3.3 kW AC | 11 kW AC Wall Box Charger charger type.
+The Hyundai Ioniq 5 charges in 6H 10Min(0-100%) using a 7.2 kW AC fast charger.
+The Hyundai Ioniq 5 requires 6 Hours 55 Min at 11kW for a full charge.
+The Hyundai Ioniq 5 has a tested range of 432 km.
+The Hyundai Ioniq 5 charges in 57min (10-80%) using a 50 kW DC fast charger.
+The Hyundai Ioniq 5 offers a battery warranty of 8 Years or 160000 km.
+The Hyundai Ioniq 5 comes with the MacPherson Strut suspension front suspension.
+The Hyundai Ioniq 5 comes with the Multi-link suspension rear suspension.
+The Hyundai Ioniq 5 features Tilt & Telescopic steering adjustment.
+Hyundai Ioniq 5 has Adjustable Steering.
+The Hyundai Ioniq 5 features Front & Rear parking sensors.
+The Hyundai Ioniq 5 features Front USB charging ports.
+The Hyundai Ioniq 5 features a Shark Fin antenna.
+The Hyundai Ioniq 5 has a 12.3 inch digital cluster.
+The Hyundai Ioniq 5 has a With Guidedlines rear camera.
+The Hyundai Ioniq 5 has Front & Rear speakers.
+The Hyundai Ioniq 5 has Front electric adjustable seats.
+The Hyundai Ioniq 5 has a With Storage central console armrest.
+The Hyundai Ioniq 5 features inbuilt apps such as Bluelink.
+Hyundai Ioniq 5 has Rear Seat Headrest.
+The Hyundai Ioniq 5 includes a Panoramic sunroof.
+The Hyundai Ioniq 5 includes Ambient sounds of nature as additional features.

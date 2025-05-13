@@ -1,0 +1,108 @@
+Tata Tiago Nrg has 2 variants: XZ & XZ CNG.
+All variants of Tata Tiago Nrg have Power Steering.
+All variants of Tata Tiago Nrg have Air Conditioner.
+All variants of Tata Tiago Nrg have Heater.
+All variants of Tata Tiago Nrg have Accessory Power Outlet.
+All variants of Tata Tiago Nrg have Vanity Mirror.
+All variants of Tata Tiago Nrg have Adjustable Headrest.
+Tata Tiago Nrg variant with Cruise Control - XZ.
+All variants of Tata Tiago Nrg have Engine Start/Stop Button.
+All variants of Tata Tiago Nrg have KeyLess Entry.
+All variants of Tata Tiago Nrg have Follow Me Home Headlamps.
+All variants of Tata Tiago Nrg have Tachometer.
+All variants of Tata Tiago Nrg have Wheel Covers.
+All variants of Tata Tiago Nrg have Projector Headlamps.
+All variants of Tata Tiago Nrg have Automatic Headlamps.
+All variants of Tata Tiago Nrg have Anti-lock Braking System (ABS).
+All variants of Tata Tiago Nrg have Central Locking.
+All variants of Tata Tiago Nrg have Driver Airbag.
+All variants of Tata Tiago Nrg have Seat Belt Warning.
+All variants of Tata Tiago Nrg have Engine Immobilizer.
+All variants of Tata Tiago Nrg do not have Side Airbag-Rear.
+All variants of Tata Tiago Nrg have Electronic Stability Control (ESC).
+Tata Tiago Nrg variant with Speed Sensing Auto Door Lock - XZ.
+Tata Tiago Nrg variant with ISOFIX Child Seat Mounts - XZ.
+All variants of Tata Tiago Nrg have Radio.
+All variants of Tata Tiago Nrg have Bluetooth Connectivity.
+All variants of Tata Tiago Nrg have Android Auto.
+All variants of Tata Tiago Nrg have Apple CarPlay.
+All variants of Tata Tiago Nrg have Electronic Brakeforce Distribution (EBD).
+All variants of Tata Tiago Nrg have Cooled Glovebox.
+All variants of Tata Tiago Nrg have Height Adjustable Driver Seat.
+All variants of Tata Tiago Nrg have Rear Window Defogger.
+All variants of Tata Tiago Nrg have Glove Box.
+All variants of Tata Tiago Nrg have Outside Rear View Mirror Turn Indicators.
+All variants of Tata Tiago Nrg have Passenger Airbag.
+All variants of Tata Tiago Nrg have Day & Night Rear View Mirror.
+All variants of Tata Tiago Nrg have Touchscreen.
+All variants of Tata Tiago Nrg have Rear Window Wiper.
+All variants of Tata Tiago Nrg have Rear Window Washer.
+All variants of Tata Tiago Nrg have Rear Spoiler.
+All variants of Tata Tiago Nrg have Rain Sensing Wiper.
+All variants of Tata Tiago Nrg have Roof Rails.
+All variants of Tata Tiago Nrg have Usb Ports.
+All variants of Tata Tiago Nrg have Gear Shift Indicator.
+Tata Tiago Nrg variant XZ has the 1.2L Revotron engine.
+Tata Tiago Nrg variant XZ CNG has the 1.2 l i-CNG engine.
+All Tata Tiago Nrg variants have a displacement of 1199  cubic centimeters.
+Tata Tiago Nrg variant XZ delivers a max power of 84.82 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Tata Tiago Nrg variant XZ CNG delivers a max power of 72 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Tata Tiago Nrg variant XZ has a max torque of 113 Newton meters at 3300 Revolutions Per Minute (RPM).
+Tata Tiago Nrg variant XZ CNG has a max torque of 95 Newton meters at 3500 Revolutions Per Minute (RPM).
+All Tata Tiago Nrg variants have 4.0 valves per cylinder.
+All Tata Tiago Nrg variants have a Manual transmission.
+All Tata Tiago Nrg variants have 3.0 cylinders.
+All Tata Tiago Nrg variants come with a 5-Speed gearbox.
+All Tata Tiago Nrg variants have a Front-Wheel Drive (FWD) drive type.
+Tata Tiago Nrg variant XZ runs on Petrol.
+Tata Tiago Nrg variant XZ CNG runs on CNG.
+All Tata Tiago Nrg variants comply with BS VI 2.0 emission norms.
+All Tata Tiago Nrg variants come with Electric steering.
+All Tata Tiago Nrg variants have Disc front brakes.
+All Tata Tiago Nrg variants have Drum rear brakes.
+All Tata Tiago Nrg variants have a length of 3802 mm.
+All Tata Tiago Nrg variants have a width of 1677 mm.
+All Tata Tiago Nrg variants have a height of 1537 mm.
+Tata Tiago Nrg variant XZ offers 242 Litres of boot space.
+Tata Tiago Nrg variant XZ CNG offers 240 Litres of boot space.
+All Tata Tiago Nrg variants have a seating capacity of 5.0.
+Tata Tiago Nrg variant XZ has an unladen ground clearance of 181 mm.
+Tata Tiago Nrg variant XZ CNG has an unladen ground clearance of 177 mm.
+All Tata Tiago Nrg variants have a wheelbase of 2400 mm.
+Tata Tiago Nrg variant XZ has a kerb weight of 990-1006 kg.
+Tata Tiago Nrg variant XZ CNG has a kerb weight of 1097-1100 kg.
+All Tata Tiago Nrg variants have 5.0 doors.
+All Tata Tiago Nrg variants come with a Electronic boot opening mechanism.
+All Tata Tiago Nrg variants have Powered & Folding Outside Rear View Mirror (ORVM).
+Tata Tiago Nrg variant XZ comes with tyres of size 175/60 R15.
+Tata Tiago Nrg variant XZ CNG comes with tyres of size 175/65 R14.
+All Tata Tiago Nrg variants come with Tubeless Radial tyres.
+Tata Tiago Nrg variant XZ is equipped with 15 Inch wheels.
+Tata Tiago Nrg variant XZ CNG is equipped with 14 Inch wheels.
+All Tata Tiago Nrg variants come equipped with 2.0 airbags.
+All Tata Tiago Nrg variants have received a 4 Star Global NCAP safety rating.
+All Tata Tiago Nrg variants have a 3 Star Global NCAP child safety rating.
+All Tata Tiago Nrg variants come with a 7 inch touchscreen display.
+All Tata Tiago Nrg variants come with 4.0 speakers.
+All Tata Tiago Nrg variants come with 4.0 tweeters.
+All Tata Tiago Nrg variants feature a Semi Digital digital cluster.
+All Tata Tiago Nrg variants come with Fabric upholstery.
+Tata Tiago Nrg variant XZ CNG provides 240 Litres boot space.
+All Tata Tiago Nrg variants have a top speed of 150 kmph.
+Tata Tiago Nrg variant XZ provides a mileage of 20.09 kmpl.
+Tata Tiago Nrg variant XZ CNG provides a mileage of 26.49 km/kg.
+Tata Tiago Nrg variant XZ features a fuel tank capacity of 35 Litres.
+Tata Tiago Nrg variant XZ CNG features a fuel tank capacity of 60 Litres.
+All Tata Tiago Nrg variants have the MacPherson Strut suspension front suspension.
+All Tata Tiago Nrg variants have the Rear twist beam rear suspension.
+All Tata Tiago Nrg variants come with Tilt Steering steering adjustment.
+All variants of Tata Tiago Nrg have Adjustable Steering.
+All Tata Tiago Nrg variants are equipped with Rear parking sensors.
+All Tata Tiago Nrg variants come with Front USB charging ports.
+All Tata Tiago Nrg variants have Front & Rear power windows.
+All Tata Tiago Nrg variants are equipped with Front fog lights.
+All Tata Tiago Nrg variants feature a 2.5 inch digital cluster.
+All Tata Tiago Nrg variants have a With Guidedlines rear camera.
+All Tata Tiago Nrg variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Tata Tiago Nrg variants include Front & Rear speakers.
+All Tata Tiago Nrg variants come with Speed Dependent Volume Control.Phone Book Access & Audio Streaming,Call Rejected with SMS Feature,Image and Video Playback,Bluetooth Connectivity with,Incoming SMS Notifications & Read-outs,Phonebook Access & Audio Streaming,Call Reject with SMS as additional features.

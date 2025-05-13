@@ -1,0 +1,148 @@
+﻿Skoda Kodiaq has 1 variants: L & K.
+Skoda Kodiaq has Power Steering.
+Skoda Kodiaq has Air Conditioner.
+Skoda Kodiaq has Heater.
+Skoda Kodiaq has Automatic Climate Control.
+Skoda Kodiaq has Accessory Power Outlet.
+Skoda Kodiaq has Trunk Light.
+Skoda Kodiaq has Vanity Mirror.
+Skoda Kodiaq has Rear Reading Lamp.
+Skoda Kodiaq has Adjustable Headrest.
+Skoda Kodiaq has Rear Seat Centre Arm Rest.
+Skoda Kodiaq has Rear AC Vents.
+Skoda Kodiaq has Cruise Control.
+Skoda Kodiaq has Engine Start/Stop Button.
+Skoda Kodiaq has Voice Commands.
+Skoda Kodiaq has Hands-Free Tailgate.
+Skoda Kodiaq has KeyLess Entry.
+Skoda Kodiaq has Follow Me Home Headlamps.
+Skoda Kodiaq has Tachometer.
+Skoda Kodiaq has Alloy Wheels.
+Skoda Kodiaq has Integrated Antenna.
+Skoda Kodiaq has LED DRLs.
+Skoda Kodiaq has LED Headlamps.
+Skoda Kodiaq has Anti-lock Braking System (ABS).
+Skoda Kodiaq has Central Locking.
+Skoda Kodiaq has Driver Airbag.
+Skoda Kodiaq has Side Airbag.
+Skoda Kodiaq has Seat Belt Warning.
+Skoda Kodiaq has Engine Immobilizer.
+Skoda Kodiaq does not have E-Call & I-Call.
+Skoda Kodiaq has Side Airbag-Rear.
+Skoda Kodiaq has Electronic Stability Control (ESC).
+Skoda Kodiaq has Speed Alert.
+Skoda Kodiaq has ISOFIX Child Seat Mounts.
+Skoda Kodiaq has Hill Assist.
+Skoda Kodiaq has 360 View Camera.
+Skoda Kodiaq has Radio.
+Skoda Kodiaq has Wireless Phone Charging.
+Skoda Kodiaq has Bluetooth Connectivity.
+Skoda Kodiaq has Android Auto.
+Skoda Kodiaq has Apple CarPlay.
+Skoda Kodiaq has Over Speeding Alert.
+Skoda Kodiaq has Remote Door Lock/Unlock.
+Skoda Kodiaq has Height Adjustable Front Seat Belts.
+Skoda Kodiaq has Lumbar Support.
+Skoda Kodiaq has Paddle Shifters.
+Skoda Kodiaq has LED Taillights.
+Skoda Kodiaq has Electronic Brakeforce Distribution (EBD).
+Skoda Kodiaq has Brake Assist.
+Skoda Kodiaq has Anti-Theft Alarm.
+Skoda Kodiaq has Door Ajar Warning.
+Skoda Kodiaq has Cooled Glovebox.
+Skoda Kodiaq has Glove Box light.
+Skoda Kodiaq has Ventilated Seats.
+Skoda Kodiaq has Hill Descent Control.
+Skoda Kodiaq has Active noise cancellation.
+Skoda Kodiaq has Rear Window Sunblind.
+Skoda Kodiaq has Leather wrap gear-shift selector.
+Skoda Kodiaq has Headlamp Washers.
+Skoda Kodiaq has Heated Outside Rear View Mirror.
+Skoda Kodiaq has Remote Boot Open.
+Skoda Kodiaq has Tailgate Ajar Warning.
+Skoda Kodiaq has Traction Control.
+Skoda Kodiaq has Acoustic Vehicle Alert System.
+Skoda Kodiaq has Height Adjustable Driver Seat.
+Skoda Kodiaq has Rear Window Defogger.
+Skoda Kodiaq has Leather Wrapped Steering Wheel.
+Skoda Kodiaq has Glove Box.
+Skoda Kodiaq has Adjustable Headlamps.
+Skoda Kodiaq has Outside Rear View Mirror Turn Indicators.
+Skoda Kodiaq has Passenger Airbag.
+Skoda Kodiaq has Day & Night Rear View Mirror.
+Skoda Kodiaq has Tyre Pressure Monitoring System (TPMS).
+Skoda Kodiaq has Touchscreen.
+Skoda Kodiaq has Child Safety Locks.
+Skoda Kodiaq has Rear Spoiler.
+Skoda Kodiaq has Rain Sensing Wiper.
+Skoda Kodiaq has Air Quality Control.
+Skoda Kodiaq has Roof Rails.
+Skoda Kodiaq has Curtain Airbag.
+Skoda Kodiaq has Usb Ports.
+Skoda Kodiaq has Luggage Hook & Net.
+Skoda Kodiaq has Integrated 2DIN Audio.
+The Skoda Kodiaq has the Turbocharged Petrol Engine engine.
+The Skoda Kodiaq has a displacement of 1984  cubic centimeters.
+The Skoda Kodiaq generates 187.74 Brake Horsepower (BHP) at 4200 to 6000 Revolutions Per Minute (RPM).
+The Skoda Kodiaq generates 320 Newton meters at 1500 to 4100 Revolutions Per Minute (RPM).
+The Skoda Kodiaq has 4.0 valves per cylinder.
+The Skoda Kodiaq has a Automatic transmission.
+The Skoda Kodiaq has 4.0 cylinders.
+The Skoda Kodiaq has a 7-Speed-DSG gearbox.
+The Skoda Kodiaq has a Four-Wheel Drive (4WD) drive type.
+The Skoda Kodiaq runs on Petrol.
+The Skoda Kodiaq complies with BS VI 2.0 emission norms.
+The Skoda Kodiaq has Electric steering.
+The Skoda Kodiaq has Disc front brakes.
+The Skoda Kodiaq has Disc rear brakes.
+The Skoda Kodiaq has a length of 4699 mm.
+The Skoda Kodiaq has a width of 1882 mm.
+The Skoda Kodiaq has a height of 1685 mm.
+The Skoda Kodiaq offers 270 Litres of boot space.
+The Skoda Kodiaq has a seating capacity of 7.0.
+The Skoda Kodiaq has a wheelbase of 2791 mm.
+The Skoda Kodiaq has a kerb weight of 1793 kg.
+The Skoda Kodiaq has a gross weight of 2493 kg.
+The Skoda Kodiaq has 5.0 doors.
+The Skoda Kodiaq features a Electronic boot opening mechanism.
+The Skoda Kodiaq is fitted with tyres of size 235/55 R18.
+The Skoda Kodiaq is equipped with Tubeless Radial tyres.
+The Skoda Kodiaq is equipped with 9.0 airbags.
+The Skoda Kodiaq has been rated 5 Star by Global NCAP.
+The Skoda Kodiaq is equipped with a 8 inch touchscreen.
+The Skoda Kodiaq is equipped with 12.0 speakers.
+The Skoda Kodiaq features 18 Inch front alloy wheels.
+The Skoda Kodiaq features 18 Inch rear alloy wheels.
+The Skoda Kodiaq features Android Auto, Apple CarPlay connectivity options.
+The Skoda Kodiaq comes with a Full Digital digital cluster.
+The Skoda Kodiaq features Leather upholstery.
+The Skoda Kodiaq achieves a top speed of 210 kmph.
+The Skoda Kodiaq is equipped with a Rack & Pinion steering gear type.
+The Skoda Kodiaq features 1.0 subwoofer(s).
+The Skoda Kodiaq provides 2005 Litres of boot space when the rear seats are folded.
+The Skoda Kodiaq features All Windows anti-pinch power windows.
+The Skoda Kodiaq has a laden ground clearance of 140 mm mm.
+The Skoda Kodiaq delivers a mileage of 13.32 kmpl.
+The Skoda Kodiaq comes with a fuel tank capacity of 58 Litres.
+The Skoda Kodiaq comes with the McPherson suspension with lower triangular links and torsion stabiliser front suspension.
+The Skoda Kodiaq comes with the Multi-element axle, with longitudinal and transverse links, with torsion stabiliser rear suspension.
+The Skoda Kodiaq features Tilt & Telescopic steering adjustment.
+Skoda Kodiaq has Adjustable Steering.
+The Skoda Kodiaq features Front & Rear parking sensors.
+The Skoda Kodiaq features Front USB charging ports.
+The Skoda Kodiaq features Front & Rear fog lights.
+The Skoda Kodiaq features a Shark Fin antenna.
+The Skoda Kodiaq has a 10.24 inch digital cluster.
+The Skoda Kodiaq has a With Guidedlines rear camera.
+The Skoda Kodiaq has Driver and Passenger seatbelt pretensioners and force limiters.
+The Skoda Kodiaq has Front & Rear speakers.
+The Skoda Kodiaq has Front electric adjustable seats.
+The Skoda Kodiaq has a 40:20:40 Split foldable rear seat.
+The Skoda Kodiaq has a With Storage central console armrest.
+Skoda Kodiaq has Turbo Charger.
+The Skoda Kodiaq features inbuilt apps such as MySkoda.
+The Skoda Kodiaq has Driver knee airbags.
+Skoda Kodiaq has Rear Seat Headrest.
+The Skoda Kodiaq includes a Panoramic sunroof.
+The Skoda Kodiaq has 6 drive modes.
+The Skoda Kodiaq includes 20.32 cm ŠKODA Infotainment System with Proximity Sensor & navigation System,CANTON Sound System with 12 high performance speakers & subwoofer with 625W output as additional features.

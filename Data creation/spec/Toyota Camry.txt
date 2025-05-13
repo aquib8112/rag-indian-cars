@@ -1,0 +1,171 @@
+Toyota Camry has 1 variants: Elegance.
+Toyota Camry has Power Steering.
+Toyota Camry has Air Conditioner.
+Toyota Camry has Heater.
+Toyota Camry has Automatic Climate Control.
+Toyota Camry has Accessory Power Outlet.
+Toyota Camry has Trunk Light.
+Toyota Camry has Vanity Mirror.
+Toyota Camry has Rear Reading Lamp.
+Toyota Camry has Adjustable Headrest.
+Toyota Camry has Rear Seat Centre Arm Rest.
+Toyota Camry has Rear AC Vents.
+Toyota Camry has Cruise Control.
+Toyota Camry has Real-Time Vehicle Tracking.
+Toyota Camry has Engine Start/Stop Button.
+Toyota Camry has Voice Commands.
+Toyota Camry does not have Hands-Free Tailgate.
+Toyota Camry has KeyLess Entry.
+Toyota Camry has Idle Start-Stop System.
+Toyota Camry has Follow Me Home Headlamps.
+Toyota Camry has Tachometer.
+Toyota Camry does not have Wheel Covers.
+Toyota Camry has Alloy Wheels.
+Toyota Camry has Integrated Antenna.
+Toyota Camry has Projector Headlamps.
+Toyota Camry has Automatic Headlamps.
+Toyota Camry has LED DRLs.
+Toyota Camry has LED Headlamps.
+Toyota Camry has Anti-lock Braking System (ABS).
+Toyota Camry has Central Locking.
+Toyota Camry has Driver Airbag.
+Toyota Camry has Side Airbag.
+Toyota Camry has Seat Belt Warning.
+Toyota Camry has Engine Immobilizer.
+Toyota Camry has E-Call & I-Call.
+Toyota Camry has Side Airbag-Rear.
+Toyota Camry has Electronic Stability Control (ESC).
+Toyota Camry has Anti-Theft Device.
+Toyota Camry has Speed Alert.
+Toyota Camry has Speed Sensing Auto Door Lock.
+Toyota Camry has ISOFIX Child Seat Mounts.
+Toyota Camry has Hill Assist.
+Toyota Camry has Impact Sensing Auto Door Unlock.
+Toyota Camry has 360 View Camera.
+Toyota Camry has Radio.
+Toyota Camry has Wireless Phone Charging.
+Toyota Camry has Bluetooth Connectivity.
+Toyota Camry has Android Auto.
+Toyota Camry has Apple CarPlay.
+Toyota Camry has Driver Attention Warning.
+Toyota Camry has Live Location.
+Toyota Camry has Over the Air (OTA) Updates.
+Toyota Camry has Google / Alexa Connectivity.
+Toyota Camry has Over Speeding Alert.
+Toyota Camry has Smartwatch App.
+Toyota Camry has Valet Mode.
+Toyota Camry has Remote Door Lock/Unlock.
+Toyota Camry has Height Adjustable Front Seat Belts.
+Toyota Camry has Lumbar Support.
+Toyota Camry has Tow Away Alert.
+Toyota Camry has LED Taillights.
+Toyota Camry has Electronic Brakeforce Distribution (EBD).
+Toyota Camry has Brake Assist.
+Toyota Camry has Anti-Theft Alarm.
+Toyota Camry has Door Ajar Warning.
+Toyota Camry has Remote Immobiliser.
+Toyota Camry has SOS / Emergency Assistance.
+Toyota Camry has Heads-Up Display (HUD).
+Toyota Camry has Forward Collision Warning.
+Toyota Camry has Automatic Emergency Braking.
+Toyota Camry has Speed Assist System.
+Toyota Camry has Lane Departure Warning.
+Toyota Camry has Lane Keep Assist.
+Toyota Camry has Adaptive Cruise Control.
+Toyota Camry has Adaptive High Beam Assist.
+Toyota Camry has Cooled Glovebox.
+Toyota Camry has Glove Box light.
+Toyota Camry has Inbuilt Assistant.
+Toyota Camry has Navigation with Live Traffic.
+Toyota Camry has Send POI to Vehicle From App.
+Toyota Camry has Ventilated Seats.
+Toyota Camry has Rear Window Sunblind.
+Toyota Camry has Rear Windscreen Sunblind.
+Toyota Camry has Live Weather.
+Toyota Camry has Tailgate Ajar Warning.
+Toyota Camry has Remote Vehicle Status Check.
+Toyota Camry has SOS Button.
+Toyota Camry has Engine Start Alarm.
+Toyota Camry has Regenerative Braking.
+Toyota Camry has Traction Control.
+Toyota Camry has RSA.
+Toyota Camry has Hinglish Voice Commands.
+Toyota Camry has Height Adjustable Driver Seat.
+Toyota Camry has Rear Window Defogger.
+Toyota Camry has Leather Wrapped Steering Wheel.
+Toyota Camry has Glove Box.
+Toyota Camry has Adjustable Headlamps.
+Toyota Camry has Outside Rear View Mirror Turn Indicators.
+Toyota Camry has Passenger Airbag.
+Toyota Camry has Day & Night Rear View Mirror.
+Toyota Camry has Tyre Pressure Monitoring System (TPMS).
+Toyota Camry has Touchscreen.
+Toyota Camry has Child Safety Locks.
+Toyota Camry has Rain Sensing Wiper.
+Toyota Camry has Air Quality Control.
+Toyota Camry has Curtain Airbag.
+Toyota Camry has Usb Ports.
+Toyota Camry has Luggage Hook & Net.
+Toyota Camry has LED Fog Lamps.
+The Toyota Camry has the 2.5L Dynamic Force Engine engine.
+The Toyota Camry has a displacement of 2487  cubic centimeters.
+The Toyota Camry generates 227 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+The Toyota Camry generates 221 Newton meters at 3600 to 5200 Revolutions Per Minute (RPM).
+The Toyota Camry has 4.0 valves per cylinder.
+The Toyota Camry has a Automatic transmission.
+The Toyota Camry has 4.0 cylinders.
+The Toyota Camry has a E-CVT gearbox.
+The Toyota Camry has a All-Wheel Drive (AWD) drive type.
+The Toyota Camry runs on Petrol.
+The Toyota Camry complies with BS VI 2.0 emission norms.
+The Toyota Camry has Electric steering.
+The Toyota Camry has a turning radius of 5.7m.
+The Toyota Camry has Disc front brakes.
+The Toyota Camry has Disc rear brakes.
+The Toyota Camry has a length of 4920 mm.
+The Toyota Camry has a width of 1840 mm.
+The Toyota Camry has a height of 1455 mm.
+The Toyota Camry has a seating capacity of 5.0.
+The Toyota Camry has a wheelbase of 2825 mm.
+The Toyota Camry has a kerb weight of 1645 kg.
+The Toyota Camry has a gross weight of 2100 kg.
+The Toyota Camry has 4.0 doors.
+The Toyota Camry features a Electronic boot opening mechanism.
+The Toyota Camry is equipped with Powered & Folding Outside Rear View Mirror (ORVM).
+The Toyota Camry is fitted with tyres of size 235/45 R18.
+The Toyota Camry is equipped with Tyre Type tyres.
+The Toyota Camry is equipped with 9.0 airbags.
+The Toyota Camry is equipped with a 12.3 inch touchscreen.
+The Toyota Camry is equipped with 9.0 speakers.
+The Toyota Camry features 18 Inch front alloy wheels.
+The Toyota Camry features 18 Inch rear alloy wheels.
+The Toyota Camry comes with a Full Digital digital cluster.
+The Toyota Camry features Leather upholstery.
+The Toyota Camry has a front tread of 1580 mm.
+The Toyota Camry features a rear tread of 1590 mm.
+The Toyota Camry features a Permanent Magnet Synchronous Motor motor type.
+The Toyota Camry comes with a Lithium-Ion Battery battery.
+The Toyota Camry features All Windows anti-pinch power windows.
+The Toyota Camry delivers a mileage of 25.49 kmpl.
+The Toyota Camry comes with a fuel tank capacity of 50 Litres.
+The Toyota Camry comes with the MacPherson Strut suspension front suspension.
+The Toyota Camry comes with the Double wishbone suspension rear suspension.
+The Toyota Camry features Tilt & Telescopic steering adjustment.
+The Toyota Camry features Height & Reach steering adjustability.
+The Toyota Camry features Front & Rear parking sensors.
+The Toyota Camry features Front & Rear USB charging ports.
+The Toyota Camry features Front & Rear power windows.
+The Toyota Camry features Front & Rear cup holders.
+The Toyota Camry features Front & Rear fog lights.
+The Toyota Camry has a 12.3 inch digital cluster.
+The Toyota Camry has a With Guidedlines rear camera.
+The Toyota Camry has Driver and Passenger seatbelt pretensioners and force limiters.
+The Toyota Camry has Front & Rear speakers.
+The Toyota Camry has Front electric adjustable seats.
+The Toyota Camry has a With Storage central console armrest.
+The Toyota Camry has Driver knee airbags.
+The Toyota Camry includes Adjustable rear seat headrests.
+The Toyota Camry includes a Single Pane sunroof.
+The Toyota Camry has 3 drive modes.
+The Toyota Camry features Eco, Normal & Sport drive modes.
+The Toyota Camry includes premium JBL audio system as additional features.

@@ -1,0 +1,176 @@
+Toyota Rumion has 7 variants: S, S CNG, G, S AT, V, G AT & V AT.
+All variants of Toyota Rumion have Power Steering.
+All variants of Toyota Rumion have Air Conditioner.
+All variants of Toyota Rumion have Heater.
+Toyota Rumion variants with Automatic Climate Control - G, V, G AT & V AT.
+Toyota Rumion variants without Automatic Climate Control - S, S CNG & S AT.
+All variants of Toyota Rumion have Accessory Power Outlet.
+All variants of Toyota Rumion have Vanity Mirror.
+All variants of Toyota Rumion have Rear Reading Lamp.
+All variants of Toyota Rumion have Adjustable Headrest.
+All variants of Toyota Rumion have Rear Seat Centre Arm Rest.
+All variants of Toyota Rumion have Rear AC Vents.
+Toyota Rumion variants with Cruise Control - V & V AT.
+Toyota Rumion variants without Cruise Control - S, S CNG, G, S AT & G AT.
+Toyota Rumion variants with Engine Start/Stop Button - G, V, G AT & V AT.
+Toyota Rumion variants without Engine Start/Stop Button - S, S CNG & S AT.
+All variants of Toyota Rumion have Chrome Grille.
+All variants of Toyota Rumion have KeyLess Entry.
+Toyota Rumion variants with Idle Start-Stop System - S, G, S AT, V, G AT & V AT.
+Toyota Rumion variant without Idle Start-Stop System - S CNG.
+Toyota Rumion variants with Follow Me Home Headlamps - V & V AT.
+Toyota Rumion variants without Follow Me Home Headlamps - S, S CNG, G, S AT & G AT.
+All variants of Toyota Rumion have Tachometer.
+Toyota Rumion variants with Wheel Covers - S, S CNG & S AT.
+Toyota Rumion variants without Wheel Covers - G, V, G AT & V AT.
+Toyota Rumion variants with Alloy Wheels - G, V, G AT & V AT.
+Toyota Rumion variants without Alloy Wheels - S, S CNG & S AT.
+All variants of Toyota Rumion have Integrated Antenna.
+All variants of Toyota Rumion have Projector Headlamps.
+Toyota Rumion variants with Automatic Headlamps - V & V AT.
+Toyota Rumion variants without Automatic Headlamps - S, S CNG, G, S AT & G AT.
+All variants of Toyota Rumion have Anti-lock Braking System (ABS).
+All variants of Toyota Rumion have Central Locking.
+All variants of Toyota Rumion have Driver Airbag.
+Toyota Rumion variants with Side Airbag - V & V AT.
+Toyota Rumion variants without Side Airbag - S, S CNG, G, S AT & G AT.
+All variants of Toyota Rumion have Seat Belt Warning.
+All variants of Toyota Rumion have Engine Immobilizer.
+Toyota Rumion variants without E-Call & I-Call - S, S CNG, G, S AT, V & V AT.
+Toyota Rumion variant with Remote AC On/Off - V AT.
+Toyota Rumion variants without Remote AC On/Off - S, S CNG, G, S AT, V & G AT.
+All variants of Toyota Rumion do not have Side Airbag-Rear.
+All variants of Toyota Rumion have Electronic Stability Control (ESC).
+All variants of Toyota Rumion have Anti-Theft Device.
+All variants of Toyota Rumion have Speed Alert.
+All variants of Toyota Rumion have Speed Sensing Auto Door Lock.
+All variants of Toyota Rumion have ISOFIX Child Seat Mounts.
+All variants of Toyota Rumion have Hill Assist.
+All variants of Toyota Rumion have Radio.
+All variants of Toyota Rumion have Bluetooth Connectivity.
+Toyota Rumion variants with Android Auto - G, V, G AT & V AT.
+Toyota Rumion variants without Android Auto - S, S CNG & S AT.
+Toyota Rumion variants with Apple CarPlay - G, V, G AT & V AT.
+Toyota Rumion variants without Apple CarPlay - S, S CNG & S AT.
+Toyota Rumion variants with Live Location - G, V, G AT & V AT.
+Toyota Rumion variants without Live Location - S, S CNG & S AT.
+Toyota Rumion variants with Google / Alexa Connectivity - G, V, G AT & V AT.
+Toyota Rumion variants without Google / Alexa Connectivity - S, S CNG & S AT.
+Toyota Rumion variants with Valet Mode - G, V, G AT & V AT.
+Toyota Rumion variants without Valet Mode - S, S CNG & S AT.
+Toyota Rumion variants with Remote Door Lock/Unlock - G, V, G AT & V AT.
+Toyota Rumion variants without Remote Door Lock/Unlock - S, S CNG & S AT.
+Toyota Rumion variants with Height Adjustable Front Seat Belts - G, V, G AT & V AT.
+Toyota Rumion variants without Height Adjustable Front Seat Belts - S, S CNG & S AT.
+Toyota Rumion variants with Paddle Shifters - S AT & V AT.
+Toyota Rumion variants without Paddle Shifters - S, S CNG, G, V & G AT.
+Toyota Rumion variants with Tow Away Alert - G, V, G AT & V AT.
+Toyota Rumion variants without Tow Away Alert - S, S CNG & S AT.
+All variants of Toyota Rumion have Dual Tone Dashboard.
+All variants of Toyota Rumion have Halogen Headlamps.
+All variants of Toyota Rumion have LED Taillights.
+All variants of Toyota Rumion have Electronic Brakeforce Distribution (EBD).
+All variants of Toyota Rumion have Brake Assist.
+All variants of Toyota Rumion have Anti-Theft Alarm.
+All variants of Toyota Rumion have Door Ajar Warning.
+All variants of Toyota Rumion have Digital Odometer.
+Toyota Rumion variants with Navigation with Live Traffic - G, V, G AT & V AT.
+Toyota Rumion variants without Navigation with Live Traffic - S, S CNG & S AT.
+Toyota Rumion variants with Send POI to Vehicle From App - G, V, G AT & V AT.
+Toyota Rumion variants without Send POI to Vehicle From App - S, S CNG & S AT.
+Toyota Rumion variants with Remote Vehicle Status Check - G, V, G AT & V AT.
+Toyota Rumion variants without Remote Vehicle Status Check - S, S CNG & S AT.
+Toyota Rumion variants with Regenerative Braking - V & V AT.
+Toyota Rumion variants with Height Adjustable Driver Seat - S, S CNG, G, S AT, V, G AT & V AT.
+Toyota Rumion variants with Rear Window Defogger - S, S CNG, G, S AT, V, G AT & V AT.
+Toyota Rumion variants with Leather Wrapped Steering Wheel - S, S CNG, G, S AT, V, G AT & V AT.
+All variants of Toyota Rumion have Glove Box.
+All variants of Toyota Rumion have Outside Rear View Mirror Turn Indicators.
+All variants of Toyota Rumion have Passenger Airbag.
+All variants of Toyota Rumion have Day & Night Rear View Mirror.
+Toyota Rumion variants with Touchscreen - S, S CNG, G, S AT, V, G AT & V AT.
+Toyota Rumion variants with Rear Window Wiper - S, S CNG, G, S AT, V, G AT & V AT.
+Toyota Rumion variants with Rear Window Washer - S, S CNG, G, S AT, V, G AT & V AT.
+All variants of Toyota Rumion have Child Safety Locks.
+All variants of Toyota Rumion do not have Curtain Airbag.
+All variants of Toyota Rumion have Usb Ports.
+Toyota Rumion variants with Gear Shift Indicator - S, S CNG, G, V & G AT.
+Toyota Rumion variants without Gear Shift Indicator - S AT & V AT.
+All variants of Toyota Rumion have Integrated 2DIN Audio.
+Toyota Rumion variants - S, G, S AT, V, G AT & V AT share the K15C HYBRID engine.
+Toyota Rumion variant S CNG has the K15C engine.
+All Toyota Rumion variants have a displacement of 1462  cubic centimeters.
+Toyota Rumion variants - S, G, S AT, V, G AT & V AT have a max power of 101.64 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Toyota Rumion variant S CNG delivers a max power of 86.63 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Toyota Rumion variants - S, G, S AT, V, G AT & V AT share a max torque of 136.8 Newton meters at 4400 Revolutions Per Minute (RPM).
+Toyota Rumion variant S CNG has a max torque of 121.5 Newton meters at 4200 Revolutions Per Minute (RPM).
+All Toyota Rumion variants have 4.0 valves per cylinder.
+Toyota Rumion variants - S, S CNG, G & V share a Manual transmission.
+Toyota Rumion variants - S AT, G AT & V AT share a Automatic transmission.
+All Toyota Rumion variants have 4.0 cylinders.
+Toyota Rumion variants - S, S CNG, G & V share a 5-Speed gearbox.
+Toyota Rumion variants - S AT, G AT & V AT share a 6-Speed gearbox.
+All Toyota Rumion variants have a Front-Wheel Drive (FWD) drive type.
+Toyota Rumion variants - S, G, S AT, V, G AT & V AT use Petrol as fuel.
+Toyota Rumion variant S CNG runs on CNG.
+All Toyota Rumion variants comply with BS VI 2.0 emission norms.
+All Toyota Rumion variants come with Power steering.
+All Toyota Rumion variants have a turning radius of 5.2m.
+All Toyota Rumion variants have Disc front brakes.
+All Toyota Rumion variants have Drum rear brakes.
+All Toyota Rumion variants have a length of 4420 mm.
+All Toyota Rumion variants have a width of 1735 mm.
+All Toyota Rumion variants have a height of 1690 mm.
+All Toyota Rumion variants offer 209 Litres of boot space.
+All Toyota Rumion variants have a seating capacity of 7.0.
+All Toyota Rumion variants have a wheelbase of 2740 mm.
+Toyota Rumion variants - S, G & V share a kerb weight of 1170-1180 kg.
+Toyota Rumion variant S CNG has a kerb weight of 1250 kg.
+Toyota Rumion variants - S AT, G AT & V AT share a kerb weight of 1195-1205 kg.
+Toyota Rumion variants - S, G & V share a gross weight of 1760 kg.
+Toyota Rumion variant S CNG has a gross weight of 1820 kg.
+Toyota Rumion variants - S AT, G AT & V AT share a gross weight of 1785 kg.
+All Toyota Rumion variants have 5.0 doors.
+All Toyota Rumion variants come with a Manual boot opening mechanism.
+All Toyota Rumion variants have tyres of size 185/65 R15.
+All Toyota Rumion variants come with Tyre Type tyres.
+Toyota Rumion variants - S, S CNG & S AT feature 15 Inch wheels.
+Toyota Rumion variants - S, S CNG, G, S AT & G AT offer 2.0 airbags.
+Toyota Rumion variants - V & V AT offer 4.0 airbags.
+Toyota Rumion variant S AT has a Global NCAP rating of 5 Star.
+Toyota Rumion variants - G, V, G AT & V AT come with a 7 inch touchscreen display.
+All Toyota Rumion variants come with 4.0 speakers.
+Toyota Rumion variant S CNG features Petrol as a secondary fuel type.
+Toyota Rumion variant S CNG has a secondary fuel tank capacity of 45.0 liters.
+Toyota Rumion variants - G, V, G AT & V AT have 15 Inch front alloy wheels.
+Toyota Rumion variants - G, V, G AT & V AT have 15 Inch rear alloy wheels.
+Toyota Rumion variants - G, V, G AT & V AT have 2.0 tweeters.
+Toyota Rumion variants - G, V, G AT & V AT have Android Auto, Apple CarPlay connectivity options.
+All Toyota Rumion variants feature a Semi Digital digital cluster.
+All Toyota Rumion variants come with Fabric upholstery.
+Toyota Rumion variant S CNG provides 209 Litres boot space.
+All Toyota Rumion variants have a top speed of 166.75 kmph.
+All Toyota Rumion variants have Driver's Window anti-pinch power windows.
+Toyota Rumion variants - S, G & V have mileage figures of 20.51 kmpl.
+Toyota Rumion variant S CNG provides a mileage of 26.11 km/kg.
+Toyota Rumion variants - S AT, G AT & V AT have mileage figures of 20.11 kmpl.
+Toyota Rumion variants - S, G, S AT, V, G AT & V AT have fuel tank capacities of 45 Litres.
+Toyota Rumion variant S CNG features a fuel tank capacity of 60 Litres.
+All Toyota Rumion variants have the MacPherson Strut suspension front suspension.
+All Toyota Rumion variants have the Rear twist beam rear suspension.
+All Toyota Rumion variants come with Tilt Steering steering adjustment.
+All variants of Toyota Rumion have Adjustable Steering.
+All Toyota Rumion variants are equipped with Rear parking sensors.
+Toyota Rumion variants without Fog Lights - S, S CNG & S AT.
+Toyota Rumion variants - G, V, G AT & V AT share the Front fog light configuration.
+All Toyota Rumion variants come with a Shark Fin antenna.
+Toyota Rumion variants without Rear Camera - S, S CNG, G, S AT & G AT.
+Toyota Rumion variants - V & V AT share the With Guidedlines rear camera type.
+All Toyota Rumion variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Toyota Rumion variants include Front & Rear speakers.
+All Toyota Rumion variants have a 60:40 Split foldable rear seat.
+Toyota Rumion variants without Central Console Armrest - S, S CNG & S AT.
+Toyota Rumion variants - G, V, G AT & V AT share the With Storage central console armrest type.
+All variants of Toyota Rumion have Rear Seat Headrest.
+Toyota Rumion variants - S, S CNG & S AT share Audio Screen with Touch Buttons as additional features.
+Toyota Rumion variants - G, V, G AT & V AT share Smartplay Cast Touch Screen Infotainment Sytem With Arkamys Surround Sense, Android Auto & Apple CarPlay (Wireless) as additional features.

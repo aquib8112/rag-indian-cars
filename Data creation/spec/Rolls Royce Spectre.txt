@@ -1,0 +1,136 @@
+﻿Rolls Royce Spectre has 1 variants: Electric.
+Rolls Royce Spectre has Power Steering.
+Rolls Royce Spectre has Air Conditioner.
+Rolls Royce Spectre has Heater.
+Rolls Royce Spectre has Automatic Climate Control.
+Rolls Royce Spectre has Accessory Power Outlet.
+Rolls Royce Spectre has Trunk Light.
+Rolls Royce Spectre has Vanity Mirror.
+Rolls Royce Spectre has Rear Reading Lamp.
+Rolls Royce Spectre has Adjustable Headrest.
+Rolls Royce Spectre has Rear Seat Centre Arm Rest.
+Rolls Royce Spectre has Rear AC Vents.
+Rolls Royce Spectre has Cruise Control.
+Rolls Royce Spectre has Real-Time Vehicle Tracking.
+Rolls Royce Spectre has Engine Start/Stop Button.
+Rolls Royce Spectre has Voice Commands.
+Rolls Royce Spectre does not have Hands-Free Tailgate.
+Rolls Royce Spectre has Chrome Grille.
+Rolls Royce Spectre has KeyLess Entry.
+Rolls Royce Spectre has Idle Start-Stop System.
+Rolls Royce Spectre has Follow Me Home Headlamps.
+Rolls Royce Spectre has Tachometer.
+Rolls Royce Spectre has Alloy Wheels.
+Rolls Royce Spectre has Integrated Antenna.
+Rolls Royce Spectre has Automatic Headlamps.
+Rolls Royce Spectre has LED DRLs.
+Rolls Royce Spectre has LED Headlamps.
+Rolls Royce Spectre has Anti-lock Braking System (ABS).
+Rolls Royce Spectre has Central Locking.
+Rolls Royce Spectre has Driver Airbag.
+Rolls Royce Spectre has Side Airbag.
+Rolls Royce Spectre has Seat Belt Warning.
+Rolls Royce Spectre has Engine Immobilizer.
+Rolls Royce Spectre has Side Airbag-Rear.
+Rolls Royce Spectre has Electronic Stability Control (ESC).
+Rolls Royce Spectre has Anti-Theft Device.
+Rolls Royce Spectre has Speed Alert.
+Rolls Royce Spectre has Speed Sensing Auto Door Lock.
+Rolls Royce Spectre has ISOFIX Child Seat Mounts.
+Rolls Royce Spectre has Hill Assist.
+Rolls Royce Spectre has Impact Sensing Auto Door Unlock.
+Rolls Royce Spectre has 360 View Camera.
+Rolls Royce Spectre has Radio.
+Rolls Royce Spectre has Wireless Phone Charging.
+Rolls Royce Spectre has Bluetooth Connectivity.
+Rolls Royce Spectre has Android Auto.
+Rolls Royce Spectre has Apple CarPlay.
+Rolls Royce Spectre has Height Adjustable Front Seat Belts.
+Rolls Royce Spectre has Lumbar Support.
+Rolls Royce Spectre has Dual Tone Dashboard.
+Rolls Royce Spectre has LED Taillights.
+Rolls Royce Spectre has Electronic Brakeforce Distribution (EBD).
+Rolls Royce Spectre does not have Brake Assist.
+Rolls Royce Spectre has Anti-Theft Alarm.
+Rolls Royce Spectre has Door Ajar Warning.
+Rolls Royce Spectre has Digital Odometer.
+Rolls Royce Spectre has Cooled Glovebox.
+Rolls Royce Spectre has Glove Box light.
+Rolls Royce Spectre has Ventilated Seats.
+Rolls Royce Spectre has Active noise cancellation.
+Rolls Royce Spectre has Leather wrap gear-shift selector.
+Rolls Royce Spectre has Heated Outside Rear View Mirror.
+Rolls Royce Spectre has Blind Spot Monitor.
+Rolls Royce Spectre has Tailgate Ajar Warning.
+Rolls Royce Spectre has Wi-Fi Connectivity.
+Rolls Royce Spectre has Cornering Headlamps.
+Rolls Royce Spectre has Regenerative Braking.
+Rolls Royce Spectre does not have Fast Charging.
+Rolls Royce Spectre has Traction Control.
+Rolls Royce Spectre has Acoustic Vehicle Alert System.
+Rolls Royce Spectre has Rear Entertainment System.
+Rolls Royce Spectre has Internal Storage.
+Rolls Royce Spectre has Height Adjustable Driver Seat.
+Rolls Royce Spectre has Rear Window Defogger.
+Rolls Royce Spectre has Leather Wrapped Steering Wheel.
+Rolls Royce Spectre has Glove Box.
+Rolls Royce Spectre has Adjustable Headlamps.
+Rolls Royce Spectre has Outside Rear View Mirror Turn Indicators.
+Rolls Royce Spectre has Passenger Airbag.
+Rolls Royce Spectre has Day & Night Rear View Mirror.
+Rolls Royce Spectre has Tyre Pressure Monitoring System (TPMS).
+Rolls Royce Spectre has Touchscreen.
+Rolls Royce Spectre has Chrome Garnish.
+Rolls Royce Spectre has Child Safety Locks.
+Rolls Royce Spectre has Air Quality Control.
+Rolls Royce Spectre has Folding Table in The Rear.
+Rolls Royce Spectre has Rear Touchscreen.
+Rolls Royce Spectre has Curtain Airbag.
+Rolls Royce Spectre has Usb Ports.
+Rolls Royce Spectre has Luggage Hook & Net.
+Rolls Royce Spectre has LED Fog Lamps.
+Rolls Royce Spectre has Integrated 2DIN Audio.
+Rolls Royce Spectre has Rear Curtain.
+The Rolls Royce Spectre generates 576.63 Brake Horsepower (BHP).
+The Rolls Royce Spectre generates 900 Newton meters.
+The Rolls Royce Spectre has a Automatic transmission.
+The Rolls Royce Spectre has a All-Wheel Drive (AWD) drive type.
+The Rolls Royce Spectre runs on Electric.
+The Rolls Royce Spectre complies with ZEV emission norms.
+The Rolls Royce Spectre has Ventilated Disc front brakes.
+The Rolls Royce Spectre has Ventilated Disc rear brakes.
+The Rolls Royce Spectre has a length of 5475 mm.
+The Rolls Royce Spectre has a width of 2144 mm.
+The Rolls Royce Spectre has a height of 1573 mm.
+The Rolls Royce Spectre offers 490 Litres of boot space.
+The Rolls Royce Spectre has a seating capacity of 4.0.
+The Rolls Royce Spectre has a wheelbase of 2636 mm.
+The Rolls Royce Spectre has a kerb weight of 2890 kg.
+The Rolls Royce Spectre has 2.0 doors.
+The Rolls Royce Spectre features a Automatic boot opening mechanism.
+The Rolls Royce Spectre is equipped with Unknown tyres.
+The Rolls Royce Spectre is equipped with 8.0 airbags.
+The Rolls Royce Spectre features Android Auto, Apple CarPlay connectivity options.
+The Rolls Royce Spectre features Leather upholstery.
+The Rolls Royce Spectre has a reported boot space of 490 Litres.
+The Rolls Royce Spectre features a Separately Excited Synchronous Motor motor type.
+The Rolls Royce Spectre comes with a Lithium-Ion Battery battery.
+The Rolls Royce Spectre has a battery capacity of 102 kWh.
+The Rolls Royce Spectre features a motor with F 190kW,R 360kW power.
+The Rolls Royce Spectre provides a range of 530 km.
+The Rolls Royce Spectre reaches 0-100 km/h in 4.5 s.
+The Rolls Royce Spectre features All Windows anti-pinch power windows.
+The Rolls Royce Spectre charges in 95Min using a 50 kW DC fast charger.
+Rolls Royce Spectre has Adjustable Steering.
+The Rolls Royce Spectre features Front & Rear parking sensors.
+The Rolls Royce Spectre features Front & Rear USB charging ports.
+The Rolls Royce Spectre features Front fog lights.
+The Rolls Royce Spectre has a With Guidedlines rear camera.
+The Rolls Royce Spectre has Driver and Passenger seatbelt pretensioners and force limiters.
+The Rolls Royce Spectre has Front & Rear speakers.
+The Rolls Royce Spectre has Front electric adjustable seats.
+The Rolls Royce Spectre has a 40:20:40 Split foldable rear seat.
+Rolls Royce Spectre has Central Console Armrest.
+The Rolls Royce Spectre has Full autonomous parking.
+Rolls Royce Spectre has Rear Seat Headrest.
+The Rolls Royce Spectre includes a Optional sunroof.

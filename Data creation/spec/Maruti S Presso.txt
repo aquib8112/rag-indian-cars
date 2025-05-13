@@ -1,0 +1,111 @@
+Maruti S Presso has 8 variants: STD, LXi, VXI, VXi Plus, VXi Opt AT, LXI CNG, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variants with Power Steering - LXi, VXI, VXi Plus, VXi Opt AT, LXI CNG, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variant without Power Steering - STD.
+Maruti S Presso variants with Air Conditioner - LXi, VXI, VXi Plus, VXi Opt AT, LXI CNG, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variant without Air Conditioner - STD.
+Maruti S Presso variants with Heater - LXi, VXI, VXi Plus, VXi Opt AT, LXI CNG, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variant without Heater - STD.
+Maruti S Presso variants with Accessory Power Outlet - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variants without Accessory Power Outlet - STD, LXi & LXI CNG.
+Maruti S Presso variants with KeyLess Entry - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variants without KeyLess Entry - STD, LXi & LXI CNG.
+Maruti S Presso variants with Idle Start-Stop System - STD, LXi, VXI, VXi Plus, VXi Opt AT & VXi Plus Opt AT.
+Maruti S Presso variants without Idle Start-Stop System - LXI CNG & VXI CNG.
+Maruti S Presso variants with Wheel Covers - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variants without Wheel Covers - STD, LXi & LXI CNG.
+Maruti S Presso variants with Integrated Antenna - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variants without Integrated Antenna - STD, LXi & LXI CNG.
+All variants of Maruti S Presso have Anti-lock Braking System (ABS).
+Maruti S Presso variants with Central Locking - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variants without Central Locking - STD, LXi & LXI CNG.
+All variants of Maruti S Presso have Driver Airbag.
+All variants of Maruti S Presso have Seat Belt Warning.
+All variants of Maruti S Presso have Engine Immobilizer.
+Maruti S Presso variants with Electronic Stability Control (ESC) - VXi Opt AT & VXi Plus Opt AT.
+Maruti S Presso variants without Electronic Stability Control (ESC) - STD, LXi, VXI, VXi Plus, LXI CNG & VXI CNG.
+All variants of Maruti S Presso have Speed Alert.
+Maruti S Presso variants with Speed Sensing Auto Door Lock - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variants without Speed Sensing Auto Door Lock - STD, LXi & LXI CNG.
+Maruti S Presso variants with Hill Assist - VXi Opt AT & VXi Plus Opt AT.
+Maruti S Presso variants without Hill Assist - STD, LXi, VXI, VXi Plus, LXI CNG & VXI CNG.
+Maruti S Presso variants with Radio - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variants without Radio - STD, LXi & LXI CNG.
+Maruti S Presso variants with Bluetooth Connectivity - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variants without Bluetooth Connectivity - STD, LXi & LXI CNG.
+Maruti S Presso variants with Android Auto - VXi Plus & VXi Plus Opt AT.
+Maruti S Presso variants without Android Auto - STD, LXi, VXI, VXi Opt AT, LXI CNG & VXI CNG.
+Maruti S Presso variants with Apple CarPlay - VXi Plus & VXi Plus Opt AT.
+Maruti S Presso variants without Apple CarPlay - STD, LXi, VXI, VXi Opt AT, LXI CNG & VXI CNG.
+All variants of Maruti S Presso have Halogen Headlamps.
+All variants of Maruti S Presso have LED Taillights.
+All variants of Maruti S Presso have Electronic Brakeforce Distribution (EBD).
+Maruti S Presso variants with Door Ajar Warning - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variants without Door Ajar Warning - STD, LXi & LXI CNG.
+All variants of Maruti S Presso have Glove Box.
+All variants of Maruti S Presso have Adjustable Headlamps.
+All variants of Maruti S Presso have Passenger Airbag.
+Maruti S Presso variants with Touchscreen - STD, LXi, VXI, VXi Plus, VXi Opt AT, LXI CNG, VXi Plus Opt AT & VXI CNG.
+All variants of Maruti S Presso have Child Safety Locks.
+Maruti S Presso variants with Gear Shift Indicator - VXI, VXi Plus, VXi Opt AT & VXi Plus Opt AT.
+Maruti S Presso variants without Gear Shift Indicator - STD, LXi, LXI CNG & VXI CNG.
+Maruti S Presso variants with Integrated 2DIN Audio - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG.
+Maruti S Presso variants without Integrated 2DIN Audio - STD, LXi & LXI CNG.
+Maruti S Presso variants - STD, LXi, VXI, VXi Plus, VXi Opt AT & VXi Plus Opt AT share the K10C engine.
+Maruti S Presso variants - LXI CNG & VXI CNG share the K1OC CNG engine.
+All Maruti S Presso variants have a displacement of 998  cubic centimeters.
+Maruti S Presso variants - STD, LXi, VXI, VXi Plus, VXi Opt AT & VXi Plus Opt AT have a max power of 65.71 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+Maruti S Presso variants - LXI CNG & VXI CNG have a max power of 55.92 Brake Horsepower (BHP) at 5300 Revolutions Per Minute (RPM).
+Maruti S Presso variants - STD, LXi, VXI, VXi Plus, VXi Opt AT & VXi Plus Opt AT share a max torque of 89 Newton meters at 3500 Revolutions Per Minute (RPM).
+Maruti S Presso variants - LXI CNG & VXI CNG share a max torque of 82.1 Newton meters at 3400 Revolutions Per Minute (RPM).
+All Maruti S Presso variants have 4.0 valves per cylinder.
+Maruti S Presso variants - STD, LXi, VXI, VXi Plus, LXI CNG & VXI CNG share a Manual transmission.
+Maruti S Presso variants - VXi Opt AT & VXi Plus Opt AT share a Automatic transmission.
+All Maruti S Presso variants have 3.0 cylinders.
+Maruti S Presso variants - STD, LXi, VXI, VXi Plus, LXI CNG & VXI CNG share a 5-Speed gearbox.
+Maruti S Presso variants - VXi Opt AT & VXi Plus Opt AT share a 5-Speed-AMT gearbox.
+All Maruti S Presso variants have a Front-Wheel Drive (FWD) drive type.
+Maruti S Presso variants - STD, LXi, VXI, VXi Plus, VXi Opt AT & VXi Plus Opt AT use Petrol as fuel.
+Maruti S Presso variants - LXI CNG & VXI CNG use CNG as fuel.
+All Maruti S Presso variants comply with BS VI 2.0 emission norms.
+All Maruti S Presso variants have a turning radius of 4.5m.
+All Maruti S Presso variants have Ventilated Disc front brakes.
+All Maruti S Presso variants have Drum rear brakes.
+All Maruti S Presso variants have a length of 3565 mm.
+All Maruti S Presso variants have a width of 1520 mm.
+Maruti S Presso variants - STD, LXi & LXI CNG share a height of 1553 mm.
+Maruti S Presso variants - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG share a height of 1567 mm.
+All Maruti S Presso variants offer 240 Litres of boot space.
+Maruti S Presso variants - STD, LXi, VXI, VXi Plus, VXi Opt AT & VXi Plus Opt AT share a seating capacity of 5.0.
+Maruti S Presso variants - LXI CNG & VXI CNG share a seating capacity of 4.0.
+All Maruti S Presso variants have a wheelbase of 2380 mm.
+Maruti S Presso variants - STD, LXi, VXI, VXi Plus, VXi Opt AT & VXi Plus Opt AT share a kerb weight of 736-775 kg.
+Maruti S Presso variants - LXI CNG & VXI CNG share a kerb weight of 834-854 kg.
+All Maruti S Presso variants have a gross weight of 1170 kg.
+All Maruti S Presso variants have 5.0 doors.
+All Maruti S Presso variants come with a Manual boot opening mechanism.
+Maruti S Presso variants - STD, LXi & LXI CNG feature tyres of size 145/80 R13.
+Maruti S Presso variants - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG feature tyres of size 165/70 R14.
+All Maruti S Presso variants come with Tubeless Radial tyres.
+Maruti S Presso variants - STD, LXi & LXI CNG feature 13 Inch wheels.
+Maruti S Presso variants - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG feature 14 Inch wheels.
+All Maruti S Presso variants come equipped with 2.0 airbags.
+Maruti S Presso variant VXi Opt AT has a Global NCAP rating of 1 Star.
+Maruti S Presso variants - VXi Plus & VXi Plus Opt AT come with a 7 inch touchscreen display.
+Maruti S Presso variants - VXI, VXi Plus, VXi Opt AT, VXi Plus Opt AT & VXI CNG come with 2.0 speakers.
+Maruti S Presso variants - VXi Plus & VXi Plus Opt AT have Android Auto, Apple CarPlay connectivity options.
+All Maruti S Presso variants feature a Full Digital digital cluster.
+Maruti S Presso variants - LXI CNG & VXI CNG come with boot space of 240 Litres.
+Maruti S Presso variants - STD, LXi, VXI, VXi Plus, VXi Opt AT & VXi Plus Opt AT have a top speed of 148 kmph.
+Maruti S Presso variants - STD & LXi have mileage figures of 24.12 kmpl.
+Maruti S Presso variants - VXI & VXi Plus have mileage figures of 24.76 kmpl.
+Maruti S Presso variants - VXi Opt AT & VXi Plus Opt AT have mileage figures of 25.3 kmpl.
+Maruti S Presso variants - LXI CNG & VXI CNG have mileage figures of 32.73 km/kg.
+Maruti S Presso variants - STD, LXi, VXI, VXi Plus, VXi Opt AT & VXi Plus Opt AT have fuel tank capacities of 27 Litres.
+Maruti S Presso variants - LXI CNG & VXI CNG have fuel tank capacities of 55 Litres.
+All Maruti S Presso variants have the MacPherson Strut suspension front suspension.
+All Maruti S Presso variants have the Rear twist beam rear suspension.
+All Maruti S Presso variants are equipped with Rear parking sensors.
+All Maruti S Presso variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Maruti S Presso variants - STD, LXi & LXI CNG share SUV Inspired Bold Front Fascia,Twin Chamber Headlamps,Signature C Shaped Tail Lamps,Side Body Cladding as additional features.
+Maruti S Presso variants - VXI, VXi Opt AT & VXI CNG share SmartPlay Dock,USB Connectivity as additional features.
+Maruti S Presso variants - VXi Plus & VXi Plus Opt AT share USB Connectivity as additional features.

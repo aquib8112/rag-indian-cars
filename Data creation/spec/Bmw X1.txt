@@ -1,0 +1,140 @@
+﻿Bmw X1 has 2 variants: sDrive18i M Sport & sDrive18d M Sport.
+All variants of Bmw X1 have Power Steering.
+All variants of Bmw X1 have Air Conditioner.
+All variants of Bmw X1 have Heater.
+All variants of Bmw X1 have Automatic Climate Control.
+All variants of Bmw X1 have Accessory Power Outlet.
+All variants of Bmw X1 have Trunk Light.
+All variants of Bmw X1 have Vanity Mirror.
+All variants of Bmw X1 have Adjustable Headrest.
+All variants of Bmw X1 have Rear Seat Centre Arm Rest.
+All variants of Bmw X1 have Rear AC Vents.
+All variants of Bmw X1 have Cruise Control.
+All variants of Bmw X1 have Engine Start/Stop Button.
+All variants of Bmw X1 have Voice Commands.
+All variants of Bmw X1 have Hands-Free Tailgate.
+All variants of Bmw X1 have Chrome Grille.
+All variants of Bmw X1 have KeyLess Entry.
+All variants of Bmw X1 have Follow Me Home Headlamps.
+All variants of Bmw X1 have Tachometer.
+All variants of Bmw X1 have Alloy Wheels.
+All variants of Bmw X1 have Automatic Headlamps.
+All variants of Bmw X1 have LED DRLs.
+All variants of Bmw X1 have LED Headlamps.
+All variants of Bmw X1 have Anti-lock Braking System (ABS).
+All variants of Bmw X1 have Central Locking.
+All variants of Bmw X1 have Driver Airbag.
+All variants of Bmw X1 have Side Airbag.
+All variants of Bmw X1 have Seat Belt Warning.
+All variants of Bmw X1 have Engine Immobilizer.
+All variants of Bmw X1 have Side Airbag-Rear.
+All variants of Bmw X1 have Electronic Stability Control (ESC).
+All variants of Bmw X1 have Speed Alert.
+All variants of Bmw X1 have Speed Sensing Auto Door Lock.
+All variants of Bmw X1 have ISOFIX Child Seat Mounts.
+All variants of Bmw X1 have Impact Sensing Auto Door Unlock.
+All variants of Bmw X1 have Radio.
+All variants of Bmw X1 have Wireless Phone Charging.
+All variants of Bmw X1 have Bluetooth Connectivity.
+All variants of Bmw X1 have Android Auto.
+All variants of Bmw X1 have Apple CarPlay.
+All variants of Bmw X1 have Height Adjustable Front Seat Belts.
+All variants of Bmw X1 have Lumbar Support.
+All variants of Bmw X1 have Paddle Shifters.
+All variants of Bmw X1 have Electronic Multi-Tripmeter.
+All variants of Bmw X1 have Digital Clock.
+All variants of Bmw X1 have Outside Temperature Display.
+All variants of Bmw X1 have Dual Tone Dashboard.
+All variants of Bmw X1 have LED Taillights.
+All variants of Bmw X1 have Brake Assist.
+All variants of Bmw X1 have Anti-Theft Alarm.
+All variants of Bmw X1 have Door Ajar Warning.
+All variants of Bmw X1 have Digital Odometer.
+All variants of Bmw X1 have Adaptive Cruise Control.
+All variants of Bmw X1 have Adaptive High Beam Assist.
+All variants of Bmw X1 have Cooled Glovebox.
+All variants of Bmw X1 have Active noise cancellation.
+All variants of Bmw X1 have Cornering Foglamps.
+All variants of Bmw X1 have Tailgate Ajar Warning.
+All variants of Bmw X1 have Compass.
+All variants of Bmw X1 have Cornering Headlamps.
+All variants of Bmw X1 have Traction Control.
+All variants of Bmw X1 have Driving Experience Control Eco.
+All variants of Bmw X1 have Height Adjustable Driver Seat.
+All variants of Bmw X1 have Rear Window Defogger.
+All variants of Bmw X1 have Leather Wrapped Steering Wheel.
+All variants of Bmw X1 have Glove Box.
+All variants of Bmw X1 have Outside Rear View Mirror Turn Indicators.
+All variants of Bmw X1 have Passenger Airbag.
+All variants of Bmw X1 have Touchscreen.
+All variants of Bmw X1 have Chrome Garnish.
+All variants of Bmw X1 have Rear Spoiler.
+All variants of Bmw X1 have Rain Sensing Wiper.
+All variants of Bmw X1 have Navigation System.
+All variants of Bmw X1 have Smart Access Card Entry.
+All variants of Bmw X1 have Roof Rails.
+All variants of Bmw X1 have Usb Ports.
+Bmw X1 variant with Gear Shift Indicator - sDrive18i M Sport.
+Bmw X1 variant without Gear Shift Indicator - sDrive18d M Sport.
+Bmw X1 variant with Luggage Hook & Net - sDrive18i M Sport.
+Bmw X1 variant without Luggage Hook & Net - sDrive18d M Sport.
+All variants of Bmw X1 have Power Boot.
+All variants of Bmw X1 have Integrated 2DIN Audio.
+All variants of Bmw X1 have USB & Auxiliary input.
+Bmw X1 variant without Rear Curtain - sDrive18d M Sport.
+Bmw X1 variant sDrive18i M Sport has the B38 turbo I3 engine.
+Bmw X1 variant sDrive18d M Sport has the B47 twin-turbo I4 engine.
+Bmw X1 variant sDrive18i M Sport has a displacement of 1499  cubic centimeters.
+Bmw X1 variant sDrive18d M Sport has a displacement of 1995  cubic centimeters.
+Bmw X1 variant sDrive18i M Sport delivers a max power of 134.10 Brake Horsepower (BHP) at 4400 to 6500 Revolutions Per Minute (RPM).
+Bmw X1 variant sDrive18d M Sport delivers a max power of 147.51 Brake Horsepower (BHP) at 3750 to 4000 Revolutions Per Minute (RPM).
+Bmw X1 variant sDrive18i M Sport has a max torque of 230 Newton meters at 1500 to 4000 Revolutions Per Minute (RPM).
+Bmw X1 variant sDrive18d M Sport has a max torque of 360 Newton meters at 1500 to 2500 Revolutions Per Minute (RPM).
+All Bmw X1 variants have 4.0 valves per cylinder.
+All Bmw X1 variants have a Automatic transmission.
+Bmw X1 variant sDrive18i M Sport has 3.0 cylinders.
+Bmw X1 variant sDrive18d M Sport has 4.0 cylinders.
+All Bmw X1 variants come with a 7-Speed Steptronic gearbox.
+All Bmw X1 variants have a Front-Wheel Drive (FWD) drive type.
+Bmw X1 variant sDrive18i M Sport runs on Petrol.
+Bmw X1 variant sDrive18d M Sport runs on Diesel.
+All Bmw X1 variants comply with BS VI 2.0 emission norms.
+All Bmw X1 variants have Disc front brakes.
+All Bmw X1 variants have Disc rear brakes.
+All Bmw X1 variants have a length of 4429 mm.
+Bmw X1 variant sDrive18i M Sport has a width of 1827 mm.
+Bmw X1 variant sDrive18d M Sport has a width of 1845 mm.
+All Bmw X1 variants have a height of 1598 mm.
+Bmw X1 variant sDrive18i M Sport offers 500 Litres of boot space.
+Bmw X1 variant sDrive18d M Sport offers 476 Litres of boot space.
+All Bmw X1 variants have a seating capacity of 5.0.
+Bmw X1 variant sDrive18i M Sport has a wheelbase of 2755 mm.
+Bmw X1 variant sDrive18d M Sport has a wheelbase of 2679 mm.
+Bmw X1 variant sDrive18i M Sport has a kerb weight of 1535 kg.
+Bmw X1 variant sDrive18d M Sport has a kerb weight of 1515 kg.
+All Bmw X1 variants have 4.0 doors.
+All Bmw X1 variants have Powered & Folding Outside Rear View Mirror (ORVM).
+All Bmw X1 variants come with Tubeless tyres.
+All Bmw X1 variants come equipped with 10.0 airbags.
+Bmw X1 variant sDrive18i M Sport has a Global NCAP rating of 5 Star.
+All Bmw X1 variants come with a 10.7 inch touchscreen display.
+All Bmw X1 variants come with 12.0 speakers.
+All Bmw X1 variants come with Android Auto, Apple CarPlay connectivity options.
+All Bmw X1 variants have a top speed of 219 kmph.
+Bmw X1 variant sDrive18i M Sport accelerates from 0-100 kmph in 9.2 s.
+Bmw X1 variant sDrive18d M Sport accelerates from 0-100 kmph in 8.9 s.
+Bmw X1 variant sDrive18i M Sport accelerates from 0-100 kmph in 9.2 s.
+Bmw X1 variant sDrive18d M Sport accelerates from 0-100 kmph in 8.9 s.
+All Bmw X1 variants offer a mileage of 20.37 kmpl.
+All Bmw X1 variants have a fuel tank capacity of 51 Litres.
+All variants of Bmw X1 have Adjustable Steering.
+All Bmw X1 variants are equipped with Front & Rear parking sensors.
+All Bmw X1 variants come with Front & Rear USB charging ports.
+All Bmw X1 variants include Front & Rear speakers.
+All Bmw X1 variants have Front electric adjustable seats.
+All Bmw X1 variants have a 40:20:40 Split foldable rear seat.
+All Bmw X1 variants have a With Storage central console armrest.
+All Bmw X1 variants come with a Twin turbocharger.
+All variants of Bmw X1 have Rear Seat Headrest.
+All variants of Bmw X1 have Sunroof.
+All Bmw X1 variants come with BMW Live Cockpit Plus (Widescreen Curved Display, Fully Digital 10.25” Instrument Display, High-resolution 10.7” Control Display, BMW Operating System 8.0 with variable configurable widgets, Navigation function with real-time traffic information, Touch Functionality), Wireless Smartphone Integration, Comfort Access System with HiFi loudspeaker system by Harman Kardon with:(12 speakers and digital amplifier with Tweeter bezels in stainless steel with illuminated ‘Harman Kardon’ inscription), Bluetooth with audio streaming, handsfree and USB connectivity, BMW Connected Package Professional(Teleservices, Intelligent E-call, Remote Software Upgrade, MyBMW App with Remote Services, Intelligent Personal Assistant, MyModes) as additional features.

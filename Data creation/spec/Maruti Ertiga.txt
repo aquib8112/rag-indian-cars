@@ -1,0 +1,207 @@
+Maruti Ertiga has 8 variants: Lxi, VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+All variants of Maruti Ertiga have Power Steering.
+All variants of Maruti Ertiga have Air Conditioner.
+All variants of Maruti Ertiga have Heater.
+Maruti Ertiga variants with Automatic Climate Control - Zxi, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants without Automatic Climate Control - Lxi, VXi & VXI AT.
+All variants of Maruti Ertiga have Accessory Power Outlet.
+Maruti Ertiga variants with Vanity Mirror - VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Vanity Mirror - Lxi.
+All variants of Maruti Ertiga have Rear Reading Lamp.
+All variants of Maruti Ertiga have Adjustable Headrest.
+Maruti Ertiga variants with Rear Seat Centre Arm Rest - VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Rear Seat Centre Arm Rest - Lxi.
+Maruti Ertiga variants with Rear AC Vents - VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Rear AC Vents - Lxi.
+Maruti Ertiga variants with Cruise Control - ZXI Plus & ZXI Plus AT.
+Maruti Ertiga variants without Cruise Control - Lxi, VXi, Zxi, VXI AT, ZXI & ZXI AT.
+Maruti Ertiga variants with Engine Start/Stop Button - Zxi, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants without Engine Start/Stop Button - Lxi, VXi & VXI AT.
+Maruti Ertiga variants with Chrome Grille - VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Chrome Grille - Lxi.
+Maruti Ertiga variants with KeyLess Entry - VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without KeyLess Entry - Lxi.
+Maruti Ertiga variants with Idle Start-Stop System - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Follow Me Home Headlamps - ZXI Plus & ZXI Plus AT.
+Maruti Ertiga variants without Follow Me Home Headlamps - Lxi, VXi, Zxi, VXI AT, ZXI & ZXI AT.
+All variants of Maruti Ertiga have Tachometer.
+Maruti Ertiga variants with Wheel Covers - Lxi, VXi & VXI AT.
+Maruti Ertiga variants without Wheel Covers - Zxi, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Alloy Wheels - Zxi, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants without Alloy Wheels - Lxi, VXi & VXI AT.
+Maruti Ertiga variants with Integrated Antenna - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT.
+All variants of Maruti Ertiga have Projector Headlamps.
+Maruti Ertiga variants with Automatic Headlamps - ZXI Plus & ZXI Plus AT.
+Maruti Ertiga variants without Automatic Headlamps - Lxi, VXi, Zxi, VXI AT, ZXI & ZXI AT.
+All variants of Maruti Ertiga have Anti-lock Braking System (ABS).
+All variants of Maruti Ertiga have Central Locking.
+All variants of Maruti Ertiga have Driver Airbag.
+Maruti Ertiga variants with Side Airbag - ZXI Plus & ZXI Plus AT.
+Maruti Ertiga variants without Side Airbag - Lxi, VXi, Zxi, VXI AT, ZXI & ZXI AT.
+All variants of Maruti Ertiga have Seat Belt Warning.
+All variants of Maruti Ertiga have Engine Immobilizer.
+Maruti Ertiga variants without E-Call & I-Call - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Remote AC On/Off - ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants without Remote AC On/Off - VXI AT & ZXI Plus.
+Maruti Ertiga variants without Side Airbag-Rear - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT.
+All variants of Maruti Ertiga have Electronic Stability Control (ESC).
+Maruti Ertiga variants with Anti-Theft Device - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT.
+All variants of Maruti Ertiga have Speed Alert.
+All variants of Maruti Ertiga have Speed Sensing Auto Door Lock.
+All variants of Maruti Ertiga have ISOFIX Child Seat Mounts.
+All variants of Maruti Ertiga have Hill Assist.
+Maruti Ertiga variants with Radio - VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Radio - Lxi.
+Maruti Ertiga variants with Bluetooth Connectivity - VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Bluetooth Connectivity - Lxi.
+Maruti Ertiga variants with Android Auto - Zxi, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants without Android Auto - Lxi, VXi & VXI AT.
+Maruti Ertiga variants with Apple CarPlay - Zxi, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants without Apple CarPlay - Lxi, VXi & VXI AT.
+Maruti Ertiga variants with Live Location - ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Live Location - VXI AT.
+Maruti Ertiga variants with Google / Alexa Connectivity - ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Google / Alexa Connectivity - VXI AT.
+Maruti Ertiga variants with Smartwatch App - ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Smartwatch App - VXI AT.
+Maruti Ertiga variants with Valet Mode - ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Valet Mode - VXI AT.
+Maruti Ertiga variants with Remote Door Lock/Unlock - ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Remote Door Lock/Unlock - VXI AT.
+Maruti Ertiga variants with Geo-fence Alert - ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Geo-fence Alert - VXI AT.
+Maruti Ertiga variants without Remote Climate Control (A/C) - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with Height Adjustable Front Seat Belts - Zxi, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants without Height Adjustable Front Seat Belts - Lxi, VXi & VXI AT.
+Maruti Ertiga variants with Lumbar Support - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with Paddle Shifters - VXI AT, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants without Paddle Shifters - Lxi, VXi, Zxi, ZXI Plus & ZXI.
+Maruti Ertiga variants with Tow Away Alert - ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Tow Away Alert - VXI AT.
+Maruti Ertiga variants with Electronic Multi-Tripmeter - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with Digital Clock - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with Outside Temperature Display - Zxi & ZXI.
+Maruti Ertiga variants without Outside Temperature Display - Lxi & VXi.
+All variants of Maruti Ertiga have Dual Tone Dashboard.
+Maruti Ertiga variants with Power Antenna - Lxi, VXi, Zxi & ZXI.
+All variants of Maruti Ertiga have Halogen Headlamps.
+All variants of Maruti Ertiga have LED Taillights.
+Maruti Ertiga variants with Electronic Brakeforce Distribution (EBD) - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT.
+All variants of Maruti Ertiga have Brake Assist.
+Maruti Ertiga variants with Power Door Locks - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with Anti-Theft Alarm - VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Anti-Theft Alarm - Lxi.
+Maruti Ertiga variants with Passenger Side Rear View Mirror - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with Rear Seat Belts - Lxi, VXi, Zxi & ZXI.
+All variants of Maruti Ertiga have Door Ajar Warning.
+Maruti Ertiga variants with Adjustable Seats - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with Crash Sensor - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with EBD - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with Digital Odometer - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Remote Immobiliser - ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Remote Immobiliser - VXI AT.
+Maruti Ertiga variants with SOS / Emergency Assistance - ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without SOS / Emergency Assistance - VXI AT.
+Maruti Ertiga variants with Height Adjustable Driver Seat - Lxi, VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Rear Window Defogger - Lxi, VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Leather Wrapped Steering Wheel - Lxi, VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+All variants of Maruti Ertiga have Glove Box.
+Maruti Ertiga variants with Adjustable Headlamps - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with Outside Rear View Mirror Turn Indicators - Lxi, VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+All variants of Maruti Ertiga have Passenger Airbag.
+Maruti Ertiga variants with Day & Night Rear View Mirror - Lxi, VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Touchscreen - Lxi, VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Rear Window Wiper - Lxi, VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Rear Window Washer - Lxi, VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Chrome Garnish - Lxi, VXi, Zxi & ZXI.
+All variants of Maruti Ertiga have Child Safety Locks.
+Maruti Ertiga variants with Smart Access Card Entry - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with Fabric Upholstery - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants with Usb Ports - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Gear Shift Indicator - Lxi, VXi, Zxi, ZXI Plus & ZXI.
+Maruti Ertiga variants without Gear Shift Indicator - VXI AT, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variants with Low Fuel Warning Light - Zxi & ZXI.
+Maruti Ertiga variants without Low Fuel Warning Light - Lxi & VXi.
+Maruti Ertiga variants with Fog Lights - Front - Zxi & ZXI.
+Maruti Ertiga variants without Fog Lights - Front - Lxi & VXi.
+Maruti Ertiga variants with Integrated 2DIN Audio - VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+Maruti Ertiga variant without Integrated 2DIN Audio - Lxi.
+Maruti Ertiga variants with USB & Auxiliary input - VXi, Zxi & ZXI.
+Maruti Ertiga variant without USB & Auxiliary input - Lxi.
+All Maruti Ertiga variants use the K15C Smart Hybrid engine.
+All Maruti Ertiga variants have a displacement of 1462  cubic centimeters.
+Maruti Ertiga variants - Lxi, VXi, Zxi & ZXI have a max power of 101.65 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT have a max power of 101.64 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Maruti Ertiga variants produce a maximum torque of 136.8 Newton meters at 4400 Revolutions Per Minute (RPM).
+All Maruti Ertiga variants have 4.0 valves per cylinder.
+Maruti Ertiga variants - Lxi, VXi, Zxi, ZXI Plus & ZXI share a Manual transmission.
+Maruti Ertiga variants - VXI AT, ZXI AT & ZXI Plus AT share a Automatic transmission.
+All Maruti Ertiga variants have 4.0 cylinders.
+Maruti Ertiga variants - Lxi, VXi, Zxi, ZXI Plus & ZXI share a 5-Speed gearbox.
+Maruti Ertiga variants - VXI AT, ZXI AT & ZXI Plus AT share a 6-Speed gearbox.
+Maruti Ertiga variants - Lxi, VXi, Zxi & ZXI share a Two-Wheel Drive (2WD) drive type.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT share a Front-Wheel Drive (FWD) drive type.
+All Maruti Ertiga variants run on Petrol.
+Maruti Ertiga variants - Lxi, VXi, Zxi & ZXI comply with BS VI emission norms.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT comply with BS VI 2.0 emission norms.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT have Power steering.
+All Maruti Ertiga variants have a turning radius of 5.2m.
+All Maruti Ertiga variants have Disc front brakes.
+All Maruti Ertiga variants have Drum rear brakes.
+All Maruti Ertiga variants have a length of 4395 mm.
+All Maruti Ertiga variants have a width of 1735 mm.
+All Maruti Ertiga variants have a height of 1690 mm.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT share a boot space of 209 Litres.
+All Maruti Ertiga variants have a seating capacity of 7.0.
+Maruti Ertiga variants - Lxi, VXi, Zxi & ZXI share a wheelbase of 2740 mm.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT share a wheelbase of 2380 mm.
+All Maruti Ertiga variants have a kerb weight of 1150-1205 kg.
+Maruti Ertiga variants - Lxi, VXi, Zxi, ZXI Plus & ZXI share a gross weight of 1760 kg.
+Maruti Ertiga variants - VXI AT, ZXI AT & ZXI Plus AT share a gross weight of 1785 kg.
+All Maruti Ertiga variants have 5.0 doors.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT feature a Manual boot opening mechanism.
+All Maruti Ertiga variants have tyres of size 185/65 R15.
+All Maruti Ertiga variants come with Tubeless Radial tyres.
+Maruti Ertiga variants - Lxi, VXi & VXI AT feature 15 Inch wheels.
+Maruti Ertiga variants - Lxi, VXi, Zxi, VXI AT, ZXI & ZXI AT offer 2.0 airbags.
+Maruti Ertiga variants - ZXI Plus & ZXI Plus AT offer 4.0 airbags.
+Maruti Ertiga variant ZXI AT has a Global NCAP rating of 3 Star.
+Maruti Ertiga variant ZXI AT has a Global NCAP child safety rating of 3 Star.
+Maruti Ertiga variants - Zxi, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT come with a 7 inch touchscreen display.
+Maruti Ertiga variants - VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT come with 4.0 speakers.
+Maruti Ertiga variants - ZXI Plus, ZXI AT & ZXI Plus AT have 15 Inch front alloy wheels.
+Maruti Ertiga variants - ZXI Plus, ZXI AT & ZXI Plus AT have 15 Inch rear alloy wheels.
+Maruti Ertiga variants - ZXI Plus, ZXI AT & ZXI Plus AT have 2.0 tweeters.
+Maruti Ertiga variants - Lxi, VXi, Zxi & ZXI have a 100-0 kmph braking time of 45.77 s seconds.
+Maruti Ertiga variants - Lxi, VXi, Zxi & ZXI have a 0-100 kmph acceleration time of 13.73s seconds.
+Maruti Ertiga variants - Zxi, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT have Android Auto, Apple CarPlay connectivity options.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT feature a Semi Digital digital cluster.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT feature Fabric upholstery options.
+Maruti Ertiga variants - VXi, Zxi, VXI AT, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT come with Driver's Window anti-pinch power windows.
+Maruti Ertiga variants - Lxi, VXi, Zxi, ZXI Plus & ZXI have mileage figures of 20.51 kmpl.
+Maruti Ertiga variants - VXI AT, ZXI AT & ZXI Plus AT have mileage figures of 20.3 kmpl.
+All Maruti Ertiga variants have a fuel tank capacity of 45 Litres.
+Maruti Ertiga variants - Lxi, VXi, Zxi & ZXI share the Mac Pherson Strut & Coil Spring front suspension type.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT share the MacPherson Strut suspension front suspension type.
+Maruti Ertiga variants - Lxi, VXi, Zxi & ZXI share the Torsion Beam & Coil Spring rear suspension type.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT share the Rear twist beam rear suspension type.
+All Maruti Ertiga variants come with Tilt Steering steering adjustment.
+All variants of Maruti Ertiga have Adjustable Steering.
+All Maruti Ertiga variants are equipped with Rear parking sensors.
+Maruti Ertiga variant without Fog Lights - VXI AT.
+Maruti Ertiga variants - ZXI Plus, ZXI AT & ZXI Plus AT share the Front fog light configuration.
+Maruti Ertiga variants without Rear Camera - Lxi, VXi, Zxi, VXI AT, ZXI & ZXI AT.
+Maruti Ertiga variants - ZXI Plus & ZXI Plus AT share the With Guidedlines rear camera type.
+Maruti Ertiga variants with Pretensioners & Force Limiter Seatbelts - Lxi, VXi, Zxi & ZXI.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT share the Driver and Passenger seatbelt pretensioner and force limiter type.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT share the Front & Rear speaker configuration.
+Maruti Ertiga variants - Lxi, VXi, Zxi & ZXI share the 50:50 Split foldable rear seat type.
+Maruti Ertiga variants - VXI AT, ZXI Plus, ZXI AT & ZXI Plus AT share the 60:40 Split foldable rear seat type.
+Maruti Ertiga variants without Central Console Armrest - Lxi, VXi & VXI AT.
+Maruti Ertiga variants with Central Console Armrest - Zxi, ZXI Plus, ZXI, ZXI AT & ZXI Plus AT.
+All variants of Maruti Ertiga have Rear Seat Headrest.
+Maruti Ertiga variant Lxi offers 3D Origami Style LED Tail Lamps,Painted Dynamic Winged Front Grille,Floating Type Roof Design in Rear as additional features.
+Maruti Ertiga variants - VXi & VXI AT share Audio System with Electrostatic Touch Buttons as additional features.
+Maruti Ertiga variants - Zxi & ZXI share 17.78cm Smartplay Studio Touch Screen Infotainment System,2 Tweeters as additional features.
+Maruti Ertiga variants - ZXI Plus & ZXI Plus AT share SmartPlay Pro Touch Screen Infotainment System, Premium Sound System, Wireless android auto & apple carplay as additional features.
+Maruti Ertiga variant ZXI AT offers SmartPlay Studio Touch Screen Infotainment System as additional features.

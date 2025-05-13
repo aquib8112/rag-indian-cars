@@ -1,0 +1,136 @@
+Bmw I4 has 2 variants: eDrive35 M Sport & eDrive40 M Sport.
+All variants of Bmw I4 have Power Steering.
+All variants of Bmw I4 have Air Conditioner.
+All variants of Bmw I4 have Heater.
+All variants of Bmw I4 have Automatic Climate Control.
+All variants of Bmw I4 have Accessory Power Outlet.
+All variants of Bmw I4 have Trunk Light.
+All variants of Bmw I4 have Vanity Mirror.
+All variants of Bmw I4 have Adjustable Headrest.
+All variants of Bmw I4 have Rear Seat Centre Arm Rest.
+All variants of Bmw I4 have Rear AC Vents.
+All variants of Bmw I4 have Cruise Control.
+Bmw I4 variant with Engine Start/Stop Button - eDrive35 M Sport.
+Bmw I4 variant without Engine Start/Stop Button - eDrive40 M Sport.
+All variants of Bmw I4 have Voice Commands.
+All variants of Bmw I4 have Hands-Free Tailgate.
+All variants of Bmw I4 have Chrome Grille.
+All variants of Bmw I4 have KeyLess Entry.
+All variants of Bmw I4 have Follow Me Home Headlamps.
+All variants of Bmw I4 have Tachometer.
+All variants of Bmw I4 have Alloy Wheels.
+All variants of Bmw I4 have Integrated Antenna.
+All variants of Bmw I4 have Automatic Headlamps.
+All variants of Bmw I4 have LED DRLs.
+All variants of Bmw I4 have LED Headlamps.
+All variants of Bmw I4 have Anti-lock Braking System (ABS).
+All variants of Bmw I4 have Driver Airbag.
+All variants of Bmw I4 have Side Airbag.
+All variants of Bmw I4 have Side Airbag-Rear.
+All variants of Bmw I4 have Electronic Stability Control (ESC).
+All variants of Bmw I4 have ISOFIX Child Seat Mounts.
+All variants of Bmw I4 have Wireless Phone Charging.
+All variants of Bmw I4 have Bluetooth Connectivity.
+All variants of Bmw I4 have Android Auto.
+All variants of Bmw I4 have Apple CarPlay.
+All variants of Bmw I4 have Height Adjustable Front Seat Belts.
+All variants of Bmw I4 have Lumbar Support.
+All variants of Bmw I4 have Electronic Multi-Tripmeter.
+All variants of Bmw I4 have Digital Clock.
+All variants of Bmw I4 have Outside Temperature Display.
+All variants of Bmw I4 have Dual Tone Dashboard.
+All variants of Bmw I4 have LED Taillights.
+All variants of Bmw I4 have Brake Assist.
+All variants of Bmw I4 have Digital Odometer.
+All variants of Bmw I4 have Cooled Glovebox.
+All variants of Bmw I4 have Active noise cancellation.
+Bmw I4 variant with Leather wrap gear-shift selector - eDrive40 M Sport.
+All variants of Bmw I4 have Tailgate Ajar Warning.
+All variants of Bmw I4 have Remote Trunk Opener.
+All variants of Bmw I4 have Cornering Headlamps.
+All variants of Bmw I4 have Regenerative Braking.
+All variants of Bmw I4 do not have Fast Charging.
+All variants of Bmw I4 have Traction Control.
+All variants of Bmw I4 have Leather Seats.
+All variants of Bmw I4 have Driving Experience Control Eco.
+All variants of Bmw I4 have Height Adjustable Driver Seat.
+All variants of Bmw I4 have Rear Window Defogger.
+All variants of Bmw I4 have Leather Wrapped Steering Wheel.
+All variants of Bmw I4 have Glove Box.
+All variants of Bmw I4 have Adjustable Headlamps.
+All variants of Bmw I4 have Outside Rear View Mirror Turn Indicators.
+All variants of Bmw I4 have Passenger Airbag.
+All variants of Bmw I4 have Day & Night Rear View Mirror.
+All variants of Bmw I4 have Tyre Pressure Monitoring System (TPMS).
+All variants of Bmw I4 have Touchscreen.
+All variants of Bmw I4 have Chrome Garnish.
+All variants of Bmw I4 have Rain Sensing Wiper.
+All variants of Bmw I4 have Navigation System.
+All variants of Bmw I4 have Smart Access Card Entry.
+All variants of Bmw I4 have Usb Ports.
+Bmw I4 variant with Gear Shift Indicator - eDrive40 M Sport.
+Bmw I4 variant without Gear Shift Indicator - eDrive35 M Sport.
+Bmw I4 variant with Luggage Hook & Net - eDrive40 M Sport.
+Bmw I4 variant without Luggage Hook & Net - eDrive35 M Sport.
+All variants of Bmw I4 have Low Fuel Warning Light.
+All variants of Bmw I4 have Heated Wing Mirror.
+All variants of Bmw I4 have Power Boot.
+All variants of Bmw I4 have USB & Auxiliary input.
+Bmw I4 variant without Rear Curtain - eDrive35 M Sport.
+All Bmw I4 variants produce a maximum power of 335.25 Brake Horsepower (BHP).
+All Bmw I4 variants produce a maximum torque of 430 Newton meters.
+All Bmw I4 variants have a Automatic transmission.
+All Bmw I4 variants come with a 1-Speed gearbox.
+All Bmw I4 variants have a Rear-Wheel Drive (RWD) drive type.
+All Bmw I4 variants run on Electric.
+All Bmw I4 variants comply with ZEV emission norms.
+All Bmw I4 variants have a length of 4783 mm.
+All Bmw I4 variants have a width of 2073 mm.
+All Bmw I4 variants have a height of 1448 mm.
+All Bmw I4 variants offer 470 Litres of boot space.
+All Bmw I4 variants have a seating capacity of 5.0.
+Bmw I4 variant eDrive35 M Sport has a wheelbase of 2741 mm.
+Bmw I4 variant eDrive40 M Sport has a wheelbase of 2540 mm.
+All Bmw I4 variants have a kerb weight of 1920 kg.
+All Bmw I4 variants have 4.0 doors.
+Bmw I4 variant eDrive35 M Sport comes with tyres of size 225/55 R17.
+Bmw I4 variant eDrive40 M Sport comes with tyres of size F:245/45 R18;R:255/45 R18.
+All Bmw I4 variants come with Unknown tyres.
+All Bmw I4 variants come equipped with 8.0 airbags.
+All Bmw I4 variants come with a 14.9 inch touchscreen display.
+Bmw I4 variant eDrive35 M Sport features 17.0 speakers.
+Bmw I4 variant eDrive40 M Sport features 18.0 speakers.
+All Bmw I4 variants come with Android Auto, Apple CarPlay connectivity options.
+All Bmw I4 variants have a top speed of 190 kmph.
+Bmw I4 variant eDrive40 M Sport features a front tread of 1531 mm.
+Bmw I4 variant eDrive40 M Sport comes with a Permanent Magnet Synchronous Motor motor type.
+Bmw I4 variant eDrive40 M Sport features a Lithium-Ion Battery battery.
+All Bmw I4 variants feature a Smart trunk opener.
+Bmw I4 variant eDrive35 M Sport features a 70.2 kWh battery capacity.
+Bmw I4 variant eDrive40 M Sport features a 83.9 kWh battery capacity.
+Bmw I4 variant eDrive40 M Sport has a 210 kW motor power.
+Bmw I4 variant eDrive35 M Sport has a driving range of 483 km.
+Bmw I4 variant eDrive40 M Sport has a driving range of 590 km.
+Bmw I4 variant eDrive40 M Sport requires 8 Hours 20Min at 11kW (0-100%) for A.C charging.
+Bmw I4 variant eDrive40 M Sport requires 31 Min at 200kW (0-80%) for D.C charging.
+All Bmw I4 variants come with a CCS-II charging port.
+Bmw I4 variant eDrive40 M Sport includes 11 kW AC | 205 kW DC as charging options.
+Bmw I4 variant eDrive40 M Sport comes with a 11 kW AC Wall Box Charger charger type.
+All Bmw I4 variants accelerate from 0-100 km/h in 5.7 s.
+Bmw I4 variant eDrive40 M Sport takes 31 Min at 200kW (0-80%) to charge.
+Bmw I4 variant eDrive40 M Sport requires 18Min (up to 100km) for charging with a 50 kW DC fast charger.
+Bmw I4 variant eDrive40 M Sport has a battery warranty of 8 Years or 160000 km.
+All Bmw I4 variants have the Air suspension front suspension.
+All Bmw I4 variants have the Air suspension rear suspension.
+All variants of Bmw I4 have Adjustable Steering.
+All Bmw I4 variants are equipped with Front & Rear parking sensors.
+All Bmw I4 variants come with Front & Rear USB charging ports.
+All Bmw I4 variants include Front & Rear speakers.
+All Bmw I4 variants have Front electric adjustable seats.
+All Bmw I4 variants have a 40:20:40 Split foldable rear seat.
+All variants of Bmw I4 have Central Console Armrest.
+Bmw I4 variant eDrive40 M Sport has Semi autonomous parking.
+All variants of Bmw I4 have Rear Seat Headrest.
+All variants of Bmw I4 have Sunroof.
+All Bmw I4 variants come with 3 drive modes.
+All Bmw I4 variants come with 17 speakers with 464 W Harman Kardon Surround Sound System, Bluetooth with audio streaming, handsfree and USB connectivity, BMW Live Cockpit Plus:- (Fully Digital 12.3" Instrument Display, High-resolution 14.9" Curved Display, BMW Operating System 8.0 with variable configurable widgets, Navigation Function with map view in navigation widget, iDrive Controller, Touch functionality on the Curved Display, Voice control with personal assistance - "Hey BMW"), Smartphone Integration - Apple CarPlay & Android Auto with wireless functionality, 2x dual USB Type C 3A charging function in the rear centre console, High-resolution 14.9" Curved Display, Operating System 8.0 with variable configurable widgets, Navigation Function with map view in navigation widget, Voice control with personal assistance - "Hey BMW", Harman Kardon Surround Sound System (464 W, 17 speakers), Fine-wood Trim oak grain open-pored, as additional features.

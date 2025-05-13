@@ -1,0 +1,90 @@
+﻿Mercedes Benz Amg Sl has 1 variants: 55 4Matic Plus Roadster.
+Mercedes Benz Amg Sl has Power Steering.
+Mercedes Benz Amg Sl has Air Conditioner.
+Mercedes Benz Amg Sl has Heater.
+Mercedes Benz Amg Sl has Automatic Climate Control.
+Mercedes Benz Amg Sl has Accessory Power Outlet.
+Mercedes Benz Amg Sl has Adjustable Headrest.
+Mercedes Benz Amg Sl has Rear AC Vents.
+Mercedes Benz Amg Sl has Cruise Control.
+Mercedes Benz Amg Sl has Engine Start/Stop Button.
+Mercedes Benz Amg Sl has Voice Commands.
+Mercedes Benz Amg Sl does not have Hands-Free Tailgate.
+Mercedes Benz Amg Sl has KeyLess Entry.
+Mercedes Benz Amg Sl has Follow Me Home Headlamps.
+Mercedes Benz Amg Sl has Tachometer.
+Mercedes Benz Amg Sl has Automatic Headlamps.
+Mercedes Benz Amg Sl has Anti-lock Braking System (ABS).
+Mercedes Benz Amg Sl has Central Locking.
+Mercedes Benz Amg Sl has Driver Airbag.
+Mercedes Benz Amg Sl has Side Airbag.
+Mercedes Benz Amg Sl has Seat Belt Warning.
+Mercedes Benz Amg Sl has Engine Immobilizer.
+Mercedes Benz Amg Sl has Side Airbag-Rear.
+Mercedes Benz Amg Sl has Electronic Stability Control (ESC).
+Mercedes Benz Amg Sl has Anti-Theft Device.
+Mercedes Benz Amg Sl has Speed Alert.
+Mercedes Benz Amg Sl has Speed Sensing Auto Door Lock.
+Mercedes Benz Amg Sl has Impact Sensing Auto Door Unlock.
+Mercedes Benz Amg Sl has Radio.
+Mercedes Benz Amg Sl has Bluetooth Connectivity.
+Mercedes Benz Amg Sl has Android Auto.
+Mercedes Benz Amg Sl has Apple CarPlay.
+Mercedes Benz Amg Sl has Height Adjustable Front Seat Belts.
+Mercedes Benz Amg Sl has Lumbar Support.
+Mercedes Benz Amg Sl has Paddle Shifters.
+Mercedes Benz Amg Sl has Brake Assist.
+Mercedes Benz Amg Sl has Anti-Theft Alarm.
+Mercedes Benz Amg Sl has Door Ajar Warning.
+Mercedes Benz Amg Sl has Digital Odometer.
+Mercedes Benz Amg Sl has Ventilated Seats.
+Mercedes Benz Amg Sl has Traction Control.
+Mercedes Benz Amg Sl has Height Adjustable Driver Seat.
+Mercedes Benz Amg Sl has Leather Wrapped Steering Wheel.
+Mercedes Benz Amg Sl has Glove Box.
+Mercedes Benz Amg Sl has Passenger Airbag.
+Mercedes Benz Amg Sl has Day & Night Rear View Mirror.
+Mercedes Benz Amg Sl has Tyre Pressure Monitoring System (TPMS).
+Mercedes Benz Amg Sl has Touchscreen.
+Mercedes Benz Amg Sl has Air Quality Control.
+Mercedes Benz Amg Sl has Curtain Airbag.
+Mercedes Benz Amg Sl has Usb Ports.
+The Mercedes Benz Amg Sl has the 4.0-litre biturbo V8 engine.
+The Mercedes Benz Amg Sl has a displacement of 3982  cubic centimeters.
+The Mercedes Benz Amg Sl generates 469.35 Brake Horsepower (BHP).
+The Mercedes Benz Amg Sl generates 700 Newton meters.
+The Mercedes Benz Amg Sl has 4.0 valves per cylinder.
+The Mercedes Benz Amg Sl has a Automatic transmission.
+The Mercedes Benz Amg Sl has 8.0 cylinders.
+The Mercedes Benz Amg Sl has a 9-Speed gearbox.
+The Mercedes Benz Amg Sl has a All-Wheel Drive (AWD) drive type.
+The Mercedes Benz Amg Sl runs on Petrol.
+The Mercedes Benz Amg Sl complies with BS VI 2.0 emission norms.
+The Mercedes Benz Amg Sl has Electric steering.
+The Mercedes Benz Amg Sl has Disc front brakes.
+The Mercedes Benz Amg Sl has Disc rear brakes.
+The Mercedes Benz Amg Sl has a length of 4705 mm.
+The Mercedes Benz Amg Sl has a width of 1915 mm.
+The Mercedes Benz Amg Sl has a height of 1359 mm.
+The Mercedes Benz Amg Sl offers 213 Litres of boot space.
+The Mercedes Benz Amg Sl has a seating capacity of 4.0.
+The Mercedes Benz Amg Sl has a kerb weight of 1950 kg.
+The Mercedes Benz Amg Sl has 2.0 doors.
+The Mercedes Benz Amg Sl is equipped with Unknown tyres.
+The Mercedes Benz Amg Sl is equipped with 10.0 airbags.
+The Mercedes Benz Amg Sl is equipped with a unknown touchscreen.
+The Mercedes Benz Amg Sl features Android Auto, Apple CarPlay connectivity options.
+The Mercedes Benz Amg Sl achieves a top speed of 295 kmph.
+The Mercedes Benz Amg Sl achieves 0-100 kmph acceleration in 3.9 s.
+The Mercedes Benz Amg Sl achieves 0-100 kmph in 3.9 s.
+The Mercedes Benz Amg Sl features Driver's Window anti-pinch power windows.
+The Mercedes Benz Amg Sl delivers a highway mileage of 11 kmpl.
+The Mercedes Benz Amg Sl comes with the Multi-link suspension front suspension.
+The Mercedes Benz Amg Sl comes with the Multi-link suspension rear suspension.
+The Mercedes Benz Amg Sl features Tilt & Telescopic steering adjustment.
+The Mercedes Benz Amg Sl features Rear parking sensors.
+The Mercedes Benz Amg Sl has Front & Rear speakers.
+The Mercedes Benz Amg Sl has Front electric adjustable seats.
+The Mercedes Benz Amg Sl has a With Storage central console armrest.
+The Mercedes Benz Amg Sl has Driver and Passenger knee airbags.
+The Mercedes Benz Amg Sl has 3 drive modes.

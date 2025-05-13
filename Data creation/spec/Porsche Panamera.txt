@@ -1,0 +1,115 @@
+Porsche Panamera has 2 variants: STD Hybrid & GTS.
+All variants of Porsche Panamera have Power Steering.
+All variants of Porsche Panamera have Air Conditioner.
+All variants of Porsche Panamera have Heater.
+All variants of Porsche Panamera have Automatic Climate Control.
+All variants of Porsche Panamera have Accessory Power Outlet.
+All variants of Porsche Panamera have Trunk Light.
+All variants of Porsche Panamera have Vanity Mirror.
+All variants of Porsche Panamera have Cruise Control.
+All variants of Porsche Panamera have Engine Start/Stop Button.
+All variants of Porsche Panamera have Voice Commands.
+All variants of Porsche Panamera do not have Hands-Free Tailgate.
+All variants of Porsche Panamera have KeyLess Entry.
+All variants of Porsche Panamera have Follow Me Home Headlamps.
+All variants of Porsche Panamera have Tachometer.
+All variants of Porsche Panamera have Alloy Wheels.
+All variants of Porsche Panamera have Integrated Antenna.
+All variants of Porsche Panamera have Automatic Headlamps.
+All variants of Porsche Panamera have LED DRLs.
+All variants of Porsche Panamera have LED Headlamps.
+All variants of Porsche Panamera have Anti-lock Braking System (ABS).
+All variants of Porsche Panamera have Central Locking.
+All variants of Porsche Panamera have Driver Airbag.
+All variants of Porsche Panamera have Side Airbag.
+All variants of Porsche Panamera have Seat Belt Warning.
+All variants of Porsche Panamera have Engine Immobilizer.
+All variants of Porsche Panamera have Side Airbag-Rear.
+All variants of Porsche Panamera have Electronic Stability Control (ESC).
+All variants of Porsche Panamera have Speed Alert.
+All variants of Porsche Panamera have Speed Sensing Auto Door Lock.
+All variants of Porsche Panamera have ISOFIX Child Seat Mounts.
+All variants of Porsche Panamera have Impact Sensing Auto Door Unlock.
+All variants of Porsche Panamera have Radio.
+All variants of Porsche Panamera have Wireless Phone Charging.
+All variants of Porsche Panamera have Bluetooth Connectivity.
+All variants of Porsche Panamera have Android Auto.
+All variants of Porsche Panamera have Apple CarPlay.
+All variants of Porsche Panamera have Height Adjustable Front Seat Belts.
+All variants of Porsche Panamera have Dual Tone Dashboard.
+All variants of Porsche Panamera have LED Taillights.
+All variants of Porsche Panamera have Brake Assist.
+All variants of Porsche Panamera have Anti-Theft Alarm.
+All variants of Porsche Panamera have Door Ajar Warning.
+All variants of Porsche Panamera have Digital Odometer.
+All variants of Porsche Panamera have Ventilated Seats.
+All variants of Porsche Panamera have Hill Descent Control.
+All variants of Porsche Panamera have Leather wrap gear-shift selector.
+All variants of Porsche Panamera have Blind Spot Monitor.
+All variants of Porsche Panamera have Tailgate Ajar Warning.
+All variants of Porsche Panamera have Cornering Headlamps.
+All variants of Porsche Panamera have Traction Control.
+All variants of Porsche Panamera have Height Adjustable Driver Seat.
+All variants of Porsche Panamera have Leather Wrapped Steering Wheel.
+All variants of Porsche Panamera have Glove Box.
+All variants of Porsche Panamera have Adjustable Headlamps.
+All variants of Porsche Panamera have Passenger Airbag.
+All variants of Porsche Panamera have Day & Night Rear View Mirror.
+All variants of Porsche Panamera have Tyre Pressure Monitoring System (TPMS).
+All variants of Porsche Panamera have Touchscreen.
+All variants of Porsche Panamera have Child Safety Locks.
+All variants of Porsche Panamera have Rear Spoiler.
+All variants of Porsche Panamera have Usb Ports.
+Porsche Panamera variant without Gear Shift Indicator - GTS.
+Porsche Panamera variant with Luggage Hook & Net - STD Hybrid.
+Porsche Panamera variant without Luggage Hook & Net - GTS.
+All variants of Porsche Panamera have LED Fog Lamps.
+All variants of Porsche Panamera have Integrated 2DIN Audio.
+Porsche Panamera variant without Rear Curtain - GTS.
+All Porsche Panamera variants use the 2.9-litre V6 bi-turbo engine engine.
+Porsche Panamera variant STD Hybrid has a displacement of 2897  cubic centimeters.
+Porsche Panamera variant GTS has a displacement of 3996  cubic centimeters.
+All Porsche Panamera variants produce a maximum power of 670.51 Brake Horsepower (BHP).
+All Porsche Panamera variants produce a maximum torque of 930 Newton meters.
+All Porsche Panamera variants have 4.0 valves per cylinder.
+All Porsche Panamera variants have a Automatic transmission.
+All Porsche Panamera variants have 6.0 cylinders.
+All Porsche Panamera variants come with a 8-Speed gearbox.
+All Porsche Panamera variants have a All-Wheel Drive (AWD) drive type.
+All Porsche Panamera variants run on Petrol.
+All Porsche Panamera variants comply with BS VI 2.0 emission norms.
+All Porsche Panamera variants come with Electric steering.
+All Porsche Panamera variants have Disc front brakes.
+All Porsche Panamera variants have Disc rear brakes.
+All Porsche Panamera variants have a length of 5049 mm.
+All Porsche Panamera variants have a width of 1937 mm.
+All Porsche Panamera variants have a height of 1423 mm.
+All Porsche Panamera variants offer 494 Litres of boot space.
+All Porsche Panamera variants have a seating capacity of 4.0.
+All Porsche Panamera variants have 4.0 doors.
+All Porsche Panamera variants come with a Electronic boot opening mechanism.
+All Porsche Panamera variants come with Unknown tyres.
+All Porsche Panamera variants come equipped with 10.0 airbags.
+All Porsche Panamera variants come with 10.0 speakers.
+All Porsche Panamera variants feature a Full Digital digital cluster.
+All Porsche Panamera variants come with Leather upholstery.
+All Porsche Panamera variants have a top speed of 310 kmph.
+All Porsche Panamera variants have Driver's Window anti-pinch power windows.
+All Porsche Panamera variants provide a highway mileage of 20 kmpl.
+Porsche Panamera variant STD Hybrid features a fuel tank capacity of 50 Litres.
+All Porsche Panamera variants have the Air suspension front suspension.
+All Porsche Panamera variants have the Air suspension rear suspension.
+All Porsche Panamera variants come with Tilt & Telescopic steering adjustment.
+Porsche Panamera variant with Adjustable Steering - STD Hybrid.
+Porsche Panamera variant without Adjustable Steering - GTS.
+All Porsche Panamera variants are equipped with Rear parking sensors.
+All Porsche Panamera variants come with Front USB charging ports.
+All Porsche Panamera variants are equipped with Front fog lights.
+All Porsche Panamera variants feature a 12.6 inch digital cluster.
+All Porsche Panamera variants have a With Guidedlines rear camera.
+All Porsche Panamera variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Porsche Panamera variants include Front & Rear speakers.
+All Porsche Panamera variants have Front & Rear electric adjustable seats.
+All variants of Porsche Panamera have Central Console Armrest.
+All variants of Porsche Panamera have Turbo Charger.
+All Porsche Panamera variants come with Front end with active air intake flaps as additional features.

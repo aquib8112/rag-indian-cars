@@ -1,0 +1,113 @@
+Bmw M4 Competition has 1 variants: xDrive.
+Bmw M4 Competition has Power Steering.
+Bmw M4 Competition has Air Conditioner.
+Bmw M4 Competition has Heater.
+Bmw M4 Competition has Automatic Climate Control.
+Bmw M4 Competition has Accessory Power Outlet.
+Bmw M4 Competition has Vanity Mirror.
+Bmw M4 Competition has Rear Reading Lamp.
+Bmw M4 Competition has Adjustable Headrest.
+Bmw M4 Competition has Rear Seat Centre Arm Rest.
+Bmw M4 Competition has Rear AC Vents.
+Bmw M4 Competition has Cruise Control.
+Bmw M4 Competition has Engine Start/Stop Button.
+Bmw M4 Competition does not have Hands-Free Tailgate.
+Bmw M4 Competition has KeyLess Entry.
+Bmw M4 Competition has Idle Start-Stop System.
+Bmw M4 Competition has Follow Me Home Headlamps.
+Bmw M4 Competition has Tachometer.
+Bmw M4 Competition has Alloy Wheels.
+Bmw M4 Competition has Automatic Headlamps.
+Bmw M4 Competition has LED DRLs.
+Bmw M4 Competition has LED Headlamps.
+Bmw M4 Competition has Anti-lock Braking System (ABS).
+Bmw M4 Competition has Central Locking.
+Bmw M4 Competition has Driver Airbag.
+Bmw M4 Competition has Side Airbag.
+Bmw M4 Competition has Seat Belt Warning.
+Bmw M4 Competition has Engine Immobilizer.
+Bmw M4 Competition does not have Side Airbag-Rear.
+Bmw M4 Competition has Electronic Stability Control (ESC).
+Bmw M4 Competition has Anti-Theft Device.
+Bmw M4 Competition has Speed Alert.
+Bmw M4 Competition has Speed Sensing Auto Door Lock.
+Bmw M4 Competition has Hill Assist.
+Bmw M4 Competition has Impact Sensing Auto Door Unlock.
+Bmw M4 Competition has Radio.
+Bmw M4 Competition has Wireless Phone Charging.
+Bmw M4 Competition has Bluetooth Connectivity.
+Bmw M4 Competition has Android Auto.
+Bmw M4 Competition has Apple CarPlay.
+Bmw M4 Competition has Height Adjustable Front Seat Belts.
+Bmw M4 Competition has Lumbar Support.
+Bmw M4 Competition has LED Taillights.
+Bmw M4 Competition has Electronic Brakeforce Distribution (EBD).
+Bmw M4 Competition has Brake Assist.
+Bmw M4 Competition has Door Ajar Warning.
+Bmw M4 Competition has Heads-Up Display (HUD).
+Bmw M4 Competition has Adaptive High Beam Assist.
+Bmw M4 Competition has Glove Box light.
+Bmw M4 Competition has Ventilated Seats.
+Bmw M4 Competition has Blind Spot Monitor.
+Bmw M4 Competition has Traction Control.
+Bmw M4 Competition has Rear Window Defogger.
+Bmw M4 Competition has Leather Wrapped Steering Wheel.
+Bmw M4 Competition has Glove Box.
+Bmw M4 Competition has Passenger Airbag.
+Bmw M4 Competition has Day & Night Rear View Mirror.
+Bmw M4 Competition has Tyre Pressure Monitoring System (TPMS).
+Bmw M4 Competition has Touchscreen.
+Bmw M4 Competition has Rain Sensing Wiper.
+Bmw M4 Competition has Curtain Airbag.
+Bmw M4 Competition has Usb Ports.
+The Bmw M4 Competition has the B58 Twin-Turbocharged I6 engine.
+The Bmw M4 Competition has a displacement of 2993  cubic centimeters.
+The Bmw M4 Competition generates 503 Brake Horsepower (BHP) at 6250 Revolutions Per Minute (RPM).
+The Bmw M4 Competition generates 650 Newton meters at 2750 Revolutions Per Minute (RPM).
+The Bmw M4 Competition has 4.0 valves per cylinder.
+The Bmw M4 Competition has a Automatic transmission.
+The Bmw M4 Competition has 6.0 cylinders.
+The Bmw M4 Competition has a All-Wheel Drive (AWD) drive type.
+The Bmw M4 Competition runs on Petrol.
+The Bmw M4 Competition complies with BS VI 2.0 emission norms.
+The Bmw M4 Competition has Electric steering.
+The Bmw M4 Competition has a turning radius of 6.1m.
+The Bmw M4 Competition has Ventilated Disc front brakes.
+The Bmw M4 Competition has Ventilated Disc rear brakes.
+The Bmw M4 Competition has a length of 4794 mm.
+The Bmw M4 Competition has a width of 1887 mm.
+The Bmw M4 Competition has a height of 1393 mm.
+The Bmw M4 Competition offers 440 Litres of boot space.
+The Bmw M4 Competition has a seating capacity of 4.0.
+The Bmw M4 Competition has an unladen ground clearance of 120 mm.
+The Bmw M4 Competition has a wheelbase of 2857 mm.
+The Bmw M4 Competition has a kerb weight of 1725 kg.
+The Bmw M4 Competition has 2.0 doors.
+The Bmw M4 Competition is fitted with tyres of size FF:275/35 RR:285/30.
+The Bmw M4 Competition is equipped with Unknown tyres.
+The Bmw M4 Competition is equipped with 6.0 airbags.
+The Bmw M4 Competition is equipped with a 10.25 inch touchscreen.
+The Bmw M4 Competition is equipped with 16.0 speakers.
+The Bmw M4 Competition features 19 Inch front alloy wheels.
+The Bmw M4 Competition features 20 Inch rear alloy wheels.
+The Bmw M4 Competition comes with a Full Digital digital cluster.
+The Bmw M4 Competition features Leather upholstery.
+The Bmw M4 Competition achieves a top speed of 250 kmph.
+The Bmw M4 Competition achieves 0-100 kmph acceleration in 3.5 s.
+The Bmw M4 Competition achieves 0-100 kmph in 3.5 s.
+The Bmw M4 Competition features a DOHC valve configuration.
+The Bmw M4 Competition features All Windows anti-pinch power windows.
+The Bmw M4 Competition delivers a mileage of 9.7 kmpl.
+The Bmw M4 Competition comes with a fuel tank capacity of 60 Litres.
+The Bmw M4 Competition comes with the Multi-link suspension front suspension.
+The Bmw M4 Competition comes with the Multi-link suspension rear suspension.
+The Bmw M4 Competition features Tilt & Telescopic steering adjustment.
+Bmw M4 Competition has Adjustable Steering.
+The Bmw M4 Competition features Front & Rear parking sensors.
+The Bmw M4 Competition has a With Guidedlines rear camera.
+The Bmw M4 Competition has Driver and Passenger seatbelt pretensioners and force limiters.
+The Bmw M4 Competition has Front electric adjustable seats.
+The Bmw M4 Competition has a Bench Folding foldable rear seat.
+Bmw M4 Competition has Central Console Armrest.
+The Bmw M4 Competition has a Twin turbocharger.
+Bmw M4 Competition has Rear Seat Headrest.

@@ -1,0 +1,131 @@
+﻿Bmw Z4 has 1 variants: M40i.
+Bmw Z4 has Power Steering.
+Bmw Z4 has Air Conditioner.
+Bmw Z4 has Heater.
+Bmw Z4 has Automatic Climate Control.
+Bmw Z4 has Accessory Power Outlet.
+Bmw Z4 has Trunk Light.
+Bmw Z4 has Vanity Mirror.
+Bmw Z4 does not have Rear Reading Lamp.
+Bmw Z4 has Rear Seat Centre Arm Rest.
+Bmw Z4 has Cruise Control.
+Bmw Z4 has Engine Start/Stop Button.
+Bmw Z4 has Voice Commands.
+Bmw Z4 has Chrome Grille.
+Bmw Z4 has KeyLess Entry.
+Bmw Z4 has Follow Me Home Headlamps.
+Bmw Z4 has Tachometer.
+Bmw Z4 has Alloy Wheels.
+Bmw Z4 has Integrated Antenna.
+Bmw Z4 has Automatic Headlamps.
+Bmw Z4 has LED DRLs.
+Bmw Z4 has LED Headlamps.
+Bmw Z4 has Anti-lock Braking System (ABS).
+Bmw Z4 has Central Locking.
+Bmw Z4 has Driver Airbag.
+Bmw Z4 has Side Airbag.
+Bmw Z4 has Seat Belt Warning.
+Bmw Z4 has Engine Immobilizer.
+Bmw Z4 does not have Side Airbag-Rear.
+Bmw Z4 has Anti-Theft Device.
+Bmw Z4 has Speed Alert.
+Bmw Z4 has Speed Sensing Auto Door Lock.
+Bmw Z4 has Hill Assist.
+Bmw Z4 has Impact Sensing Auto Door Unlock.
+Bmw Z4 has 360 View Camera.
+Bmw Z4 has Radio.
+Bmw Z4 has Bluetooth Connectivity.
+Bmw Z4 has Android Auto.
+Bmw Z4 has Apple CarPlay.
+Bmw Z4 has Height Adjustable Front Seat Belts.
+Bmw Z4 has Lumbar Support.
+Bmw Z4 has Paddle Shifters.
+Bmw Z4 has Electronic Multi-Tripmeter.
+Bmw Z4 has Digital Clock.
+Bmw Z4 has LED Taillights.
+Bmw Z4 has Brake Assist.
+Bmw Z4 has Anti-Theft Alarm.
+Bmw Z4 has Door Ajar Warning.
+Bmw Z4 has Digital Odometer.
+Bmw Z4 has Hill Descent Control.
+Bmw Z4 has Blind Spot Monitor.
+Bmw Z4 has Tailgate Ajar Warning.
+Bmw Z4 does not have Remote Trunk Opener.
+Bmw Z4 does not have Remote Fuel Lid Opener.
+Bmw Z4 has Lane Change Indicator.
+Bmw Z4 does not have Regenerative Braking.
+Bmw Z4 has Traction Control.
+Bmw Z4 does not have Rear Entertainment System.
+Bmw Z4 has Leather Seats.
+Bmw Z4 has Driving Experience Control Eco.
+Bmw Z4 has Internal Storage.
+Bmw Z4 does not have Super Charge.
+Bmw Z4 has Height Adjustable Driver Seat.
+Bmw Z4 has Leather Wrapped Steering Wheel.
+Bmw Z4 has Glove Box.
+Bmw Z4 has Adjustable Headlamps.
+Bmw Z4 has Outside Rear View Mirror Turn Indicators.
+Bmw Z4 has Passenger Airbag.
+Bmw Z4 has Day & Night Rear View Mirror.
+Bmw Z4 has Tyre Pressure Monitoring System (TPMS).
+Bmw Z4 has Touchscreen.
+Bmw Z4 has Air Quality Control.
+Bmw Z4 has Navigation System.
+Bmw Z4 has Smart Access Card Entry.
+Bmw Z4 has Usb Ports.
+Bmw Z4 has Gear Shift Indicator.
+Bmw Z4 has Low Fuel Warning Light.
+Bmw Z4 has Integrated 2DIN Audio.
+Bmw Z4 has USB & Auxiliary input.
+Bmw Z4 has Audio System Remote Control.
+The Bmw Z4 has the TwinPower Turbo 6-cylinder engine.
+The Bmw Z4 has a displacement of 2998  cubic centimeters.
+The Bmw Z4 generates 335 Brake Horsepower (BHP) at 5000 to 6500 Revolutions Per Minute (RPM).
+The Bmw Z4 generates 500 Newton meters at 1600 to 4500 Revolutions Per Minute (RPM).
+The Bmw Z4 has 4.0 valves per cylinder.
+The Bmw Z4 has a Automatic transmission.
+The Bmw Z4 has 6.0 cylinders.
+The Bmw Z4 has a 8-Speed Steptronic gearbox.
+The Bmw Z4 has a Rear-Wheel Drive (RWD) drive type.
+The Bmw Z4 runs on Petrol.
+The Bmw Z4 complies with BS VI 2.0 emission norms.
+The Bmw Z4 has a turning radius of 5.5m.
+The Bmw Z4 has Ventilated Disc front brakes.
+The Bmw Z4 has Ventilated Disc rear brakes.
+The Bmw Z4 has a length of 4324 mm.
+The Bmw Z4 has a width of 1864 mm.
+The Bmw Z4 has a height of 1304 mm.
+The Bmw Z4 offers 281 Litres of boot space.
+The Bmw Z4 has a seating capacity of 2.0.
+The Bmw Z4 has an unladen ground clearance of 114 mm.
+The Bmw Z4 has a wheelbase of 2740 mm.
+The Bmw Z4 has a kerb weight of 1610 kg.
+The Bmw Z4 has a gross weight of 1860 kg.
+The Bmw Z4 has 5.0 doors.
+The Bmw Z4 is fitted with tyres of size 255/35 ZR19.
+The Bmw Z4 is equipped with Runflat Radial tyres.
+The Bmw Z4 is equipped with 4.0 airbags.
+The Bmw Z4 is equipped with a 10.25 inch touchscreen.
+The Bmw Z4 is equipped with 12.0 speakers.
+The Bmw Z4 features Android Auto, Apple CarPlay connectivity options.
+The Bmw Z4 achieves a top speed of 250 kmph.
+The Bmw Z4 achieves 0-100 kmph acceleration in 4.5 s.
+The Bmw Z4 achieves 0-100 kmph in 4.5 s.
+The Bmw Z4 features a rear tread of 1616 mm.
+The Bmw Z4 is equipped with a Smart trunk opener.
+The Bmw Z4 delivers a highway mileage of 12.09 kmpl.
+The Bmw Z4 comes with a fuel tank capacity of 52 Litres.
+The Bmw Z4 comes with the Multi-link suspension front suspension.
+The Bmw Z4 comes with the Multi-link suspension rear suspension.
+Bmw Z4 has Adjustable Steering.
+The Bmw Z4 features Front & Rear parking sensors.
+The Bmw Z4 features Front USB charging ports.
+The Bmw Z4 has Front & Rear speakers.
+The Bmw Z4 has Front electric adjustable seats.
+The Bmw Z4 has a 60:40 Split foldable rear seat.
+Bmw Z4 has Central Console Armrest.
+The Bmw Z4 has a Twin turbocharger.
+The Bmw Z4 has Full autonomous parking.
+Bmw Z4 has Rear Seat Headrest.
+The Bmw Z4 has 3 drive modes.
+The Bmw Z4 includes Optional (Harman Kardon Surround system (408 W, 7 channels, 12 loudspeakers), Wireless Charging), HiFi Loudspeaker system (205 W), iDrive Controller, BMW Live Cockpit Professional (BMW Operating System 7.0, Navigation with 3D Maps, 10.25” Display screen with touch functionality, Configurable user interface), Wireless Apple CarPlay, Bluetooth with audio streaming, hands-free and USB connectivity as additional features.

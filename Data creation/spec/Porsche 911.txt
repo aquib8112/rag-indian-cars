@@ -1,0 +1,223 @@
+Porsche 911 has 6 variants: Carrera, Carrera 4 GTS, Turbo S, GT3 RS, Turbo 50 Years & ST.
+All variants of Porsche 911 have Power Steering.
+All variants of Porsche 911 have Air Conditioner.
+All variants of Porsche 911 have Heater.
+All variants of Porsche 911 have Automatic Climate Control.
+Porsche 911 variant with Accessory Power Outlet - ST.
+Porsche 911 variants without Accessory Power Outlet - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Trunk Light - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have Vanity Mirror.
+Porsche 911 variants without Rear Reading Lamp - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variant with Adjustable Headrest - ST.
+Porsche 911 variants with Rear Seat Centre Arm Rest - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants without Rear AC Vents - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have Cruise Control.
+Porsche 911 variant with Real-Time Vehicle Tracking - ST.
+All variants of Porsche 911 have Engine Start/Stop Button.
+All variants of Porsche 911 have Voice Commands.
+Porsche 911 variant without Hands-Free Tailgate - ST.
+Porsche 911 variants without Chrome Grille - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have KeyLess Entry.
+Porsche 911 variant with Idle Start-Stop System - ST.
+Porsche 911 variant with Follow Me Home Headlamps - ST.
+Porsche 911 variants without Follow Me Home Headlamps - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have Tachometer.
+Porsche 911 variants without Wheel Covers - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have Alloy Wheels.
+Porsche 911 variants without Integrated Antenna - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variant with Projector Headlamps - ST.
+All variants of Porsche 911 have Automatic Headlamps.
+Porsche 911 variant with LED DRLs - ST.
+Porsche 911 variant with LED Headlamps - ST.
+Porsche 911 variants without LED Headlamps - Turbo S & Turbo 50 Years.
+All variants of Porsche 911 have Anti-lock Braking System (ABS).
+All variants of Porsche 911 have Central Locking.
+All variants of Porsche 911 have Driver Airbag.
+Porsche 911 variants with Side Airbag - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+All variants of Porsche 911 have Seat Belt Warning.
+All variants of Porsche 911 have Engine Immobilizer.
+Porsche 911 variants without Side Airbag-Rear - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants with Electronic Stability Control (ESC) - Carrera, Carrera 4 GTS, GT3 RS & ST.
+All variants of Porsche 911 have Anti-Theft Device.
+Porsche 911 variants with Speed Alert - Carrera, Carrera 4 GTS, GT3 RS & ST.
+All variants of Porsche 911 have Speed Sensing Auto Door Lock.
+All variants of Porsche 911 have ISOFIX Child Seat Mounts.
+All variants of Porsche 911 have Hill Assist.
+All variants of Porsche 911 have Impact Sensing Auto Door Unlock.
+All variants of Porsche 911 have 360 View Camera.
+All variants of Porsche 911 have Radio.
+Porsche 911 variant with Wireless Phone Charging - ST.
+All variants of Porsche 911 have Bluetooth Connectivity.
+Porsche 911 variant with Android Auto - ST.
+Porsche 911 variant with Apple CarPlay - ST.
+All variants of Porsche 911 have Height Adjustable Front Seat Belts.
+Porsche 911 variants with Lumbar Support - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants without Paddle Shifters - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants without Electronic Multi-Tripmeter - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants with Digital Clock - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants without Outside Temperature Display - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants with Dual Tone Dashboard - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants without Power Antenna - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants without Halogen Headlamps - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variant with LED Taillights - ST.
+Porsche 911 variant with Electronic Brakeforce Distribution (EBD) - ST.
+All variants of Porsche 911 have Brake Assist.
+All variants of Porsche 911 have Anti-Theft Alarm.
+All variants of Porsche 911 have Door Ajar Warning.
+Porsche 911 variants with Digital Odometer - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants without Heads-Up Display (HUD) - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants without Cooled Glovebox - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have Ventilated Seats.
+Porsche 911 variants with Hill Descent Control - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants without Battery Saver - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants without Smoke Headlamps - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Blind Spot Monitor - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Tailgate Ajar Warning - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Remote Trunk Opener - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants with Remote Fuel Lid Opener - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Lane Change Indicator - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Wi-Fi Connectivity - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants without Xenon Headlamps - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have Traction Control.
+Porsche 911 variants without Rear Entertainment System - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Leather Seats - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants with Driving Experience Control Eco - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants without Fog Lights - Rear - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants without Internal Storage - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have Height Adjustable Driver Seat.
+Porsche 911 variants with Rear Window Defogger - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Leather Wrapped Steering Wheel - Carrera, Carrera 4 GTS, Turbo S, GT3 RS, Turbo 50 Years & ST.
+Porsche 911 variants with Glove Box - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Adjustable Headlamps - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have Outside Rear View Mirror Turn Indicators.
+All variants of Porsche 911 have Passenger Airbag.
+All variants of Porsche 911 have Day & Night Rear View Mirror.
+All variants of Porsche 911 have Tyre Pressure Monitoring System (TPMS).
+All variants of Porsche 911 have Touchscreen.
+Porsche 911 variants with Rear Window Wiper - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Rear Window Washer - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Chrome Garnish - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have Child Safety Locks.
+Porsche 911 variants with Rear Spoiler - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Rain Sensing Wiper - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Air Quality Control - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Tinted Glass - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Folding Table in The Rear - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Navigation System - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants with Smart Access Card Entry - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Fabric Upholstery - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants with Roof Rails - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Cigarette Lighter - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Roof Carrier - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Side Stepper - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have Usb Ports.
+Porsche 911 variant with Gear Shift Indicator - Turbo 50 Years.
+Porsche 911 variants without Gear Shift Indicator - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variant with Luggage Hook & Net - Turbo 50 Years.
+Porsche 911 variants without Luggage Hook & Net - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variant with LED Fog Lamps - ST.
+Porsche 911 variants without LED Fog Lamps - Turbo S & Turbo 50 Years.
+Porsche 911 variants with Low Fuel Warning Light - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants without Fog Lights - Front - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants with Integrated 2DIN Audio - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with USB & Auxiliary input - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants without Rear Curtain - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants with Audio System Remote Control - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variant Carrera has the Twin Turbo 6 Cylinder engine.
+Porsche 911 variants - Carrera 4 GTS, GT3 RS & ST share the 4.0 L 6-cylinder engine.
+Porsche 911 variants - Turbo S & Turbo 50 Years share the 6-cylinder boxer engine.
+Porsche 911 variants - Carrera & Turbo S share a displacement of 2981  cubic centimeters.
+Porsche 911 variants - Carrera 4 GTS, GT3 RS & ST share a displacement of 3996  cubic centimeters.
+Porsche 911 variant Turbo 50 Years has a displacement of 3745  cubic centimeters.
+Porsche 911 variants - Carrera, Carrera 4 GTS & GT3 RS have a max power of 379.50 Brake Horsepower (BHP) at 6500 Revolutions Per Minute (RPM).
+Porsche 911 variants - Turbo S & Turbo 50 Years have a max power of 641.00 Brake Horsepower (BHP) at 6500 Revolutions Per Minute (RPM).
+Porsche 911 variant ST delivers a max power of 517.63 Brake Horsepower (BHP) at 8500 to 9000 Revolutions Per Minute (RPM).
+Porsche 911 variants - Carrera, Turbo S & Turbo 50 Years share a max torque of 450 Newton meters at 1950 to 5000 Revolutions Per Minute (RPM).
+Porsche 911 variants - Carrera 4 GTS, GT3 RS & ST share a max torque of 465 Newton meters at 6300 Revolutions Per Minute (RPM).
+All Porsche 911 variants have 4.0 valves per cylinder.
+All Porsche 911 variants have a Automatic transmission.
+All Porsche 911 variants have 6.0 cylinders.
+Porsche 911 variants - Carrera, Carrera 4 GTS & GT3 RS share a 8-Speed gearbox.
+Porsche 911 variants - Turbo S & Turbo 50 Years share a 8-Speed Porsche Doppelkupplung gearbox.
+Porsche 911 variants - Carrera, Carrera 4 GTS & GT3 RS share a Rear-Wheel Drive (RWD) drive type.
+Porsche 911 variants - Turbo S, Turbo 50 Years & ST share a All-Wheel Drive (AWD) drive type.
+All Porsche 911 variants run on Petrol.
+All Porsche 911 variants comply with BS VI 2.0 emission norms.
+Porsche 911 variants - Carrera, Turbo S & Turbo 50 Years share a turning radius of 5.6m.
+Porsche 911 variants - Carrera 4 GTS & GT3 RS share a turning radius of 10.5m.
+Porsche 911 variant ST has a turning radius of 10.4m.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years feature Disc front brakes.
+Porsche 911 variant ST has Ventilated Disc front brakes.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years feature Disc rear brakes.
+Porsche 911 variant ST has Ventilated Disc rear brakes.
+Porsche 911 variants - Carrera, Turbo S & Turbo 50 Years share a length of 4519 mm.
+Porsche 911 variants - Carrera 4 GTS & GT3 RS share a length of 4572 mm.
+Porsche 911 variant ST has a length of 4573 mm.
+Porsche 911 variants - Carrera, Turbo S, Turbo 50 Years & ST share a width of 1852 mm.
+Porsche 911 variants - Carrera 4 GTS & GT3 RS share a width of 1900 mm.
+Porsche 911 variants - Carrera, Turbo S & Turbo 50 Years share a height of 1298 mm.
+Porsche 911 variants - Carrera 4 GTS & GT3 RS share a height of 1322 mm.
+Porsche 911 variant ST has a height of 1279 mm.
+All Porsche 911 variants offer 132 Litres of boot space.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years share a seating capacity of 4.0.
+Porsche 911 variant ST has a seating capacity of 2.0.
+Porsche 911 variants - Carrera, Turbo S & Turbo 50 Years share an unladen ground clearance of 109 mm.
+Porsche 911 variants - Carrera 4 GTS & GT3 RS share an unladen ground clearance of 100 mm.
+Porsche 911 variant Carrera has a wheelbase of 2928 mm.
+Porsche 911 variants - Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years share a wheelbase of 2740 mm.
+Porsche 911 variant ST has a wheelbase of 2457 mm.
+Porsche 911 variant Carrera has a kerb weight of 1400 kg.
+Porsche 911 variants - Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years share a kerb weight of 1580 kg.
+Porsche 911 variant ST has a kerb weight of 1380 kg.
+Porsche 911 variants - Carrera, Turbo S & Turbo 50 Years share a gross weight of 1985 kg.
+Porsche 911 variants - Carrera 4 GTS & GT3 RS share a gross weight of 1450 kg.
+Porsche 911 variant ST has a gross weight of 1695 kg.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years share 2.0 doors.
+Porsche 911 variant ST has 5.0 doors.
+Porsche 911 variant ST has Powered & Folding Outside Rear View Mirror (ORVM).
+Porsche 911 variants - Carrera, Carrera 4 GTS & GT3 RS feature tyres of size 235/40 ZR19.
+Porsche 911 variants - Turbo S & Turbo 50 Years feature tyres of size F:255/35ZR20,R:315/30Z 21.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years are fitted with Radial tyres.
+Porsche 911 variant ST features Unknown tyres.
+Porsche 911 variants - Carrera, Carrera 4 GTS & GT3 RS feature 19 Inch wheels.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S & GT3 RS offer 4.0 airbags.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years come with a 10.9 inch touchscreen display.
+Porsche 911 variant ST features a unknown touchscreen.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years come with 12.0 speakers.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years have Android Auto, Apple CarPlay connectivity options.
+Porsche 911 variant ST includes a Full Digital digital cluster.
+Porsche 911 variants - Carrera, Carrera 4 GTS & GT3 RS have a top speed of 293 kmph.
+Porsche 911 variants - Turbo S & Turbo 50 Years have a top speed of 330 kmph.
+Porsche 911 variant Carrera accelerates from 0-100 kmph in 4.2 s.
+Porsche 911 variants - Carrera 4 GTS & GT3 RS have a 0-100 kmph acceleration time of 3.0 s.
+Porsche 911 variants - Turbo S & Turbo 50 Years have a 0-100 kmph acceleration time of 2.7 s.
+Porsche 911 variant Carrera accelerates from 0-100 kmph in 4.2 s.
+Porsche 911 variants - Carrera 4 GTS & GT3 RS have a 0-100 kmph acceleration time of 3.0 s.
+Porsche 911 variants - Turbo S & Turbo 50 Years have a 0-100 kmph acceleration time of 2.7 s.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years come with the same steering gear type of Rack & Pinion.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S & GT3 RS offer the same trunk opening mechanism, which is Smart.
+Porsche 911 variant ST has Driver's Window anti-pinch power windows.
+Porsche 911 variant Carrera provides a mileage of 9.17 kmpl.
+Porsche 911 variant Carrera 4 GTS has a highway mileage of 11.1 kmpl.
+Porsche 911 variants - Turbo S & Turbo 50 Years have highway mileage figures of 9 kmpl.
+Porsche 911 variant GT3 RS has a highway mileage of 7.4 kmpl.
+All Porsche 911 variants have a fuel tank capacity of 64 Litres.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years share the Rack & Pinion steering adjustment type.
+Porsche 911 variants with Adjustable Steering - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+All Porsche 911 variants are equipped with Front & Rear parking sensors.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years share the Front USB charging configuration.
+Porsche 911 variant ST has Front & Rear USB charging ports.
+Porsche 911 variant ST has Front & Rear power windows.
+Porsche 911 variant ST has a With Guidedlines rear camera.
+Porsche 911 variants without Pretensioners & Force Limiter Seatbelts - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variant ST has Driver and Passenger seatbelt pretensioners and force limiters.
+All Porsche 911 variants include Front & Rear speakers.
+All Porsche 911 variants have Front electric adjustable seats.
+Porsche 911 variants without Foldable Rear Seat - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+All variants of Porsche 911 have Central Console Armrest.
+All variants of Porsche 911 have Turbo Charger.
+Porsche 911 variants without Knee Airbags - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variant Turbo 50 Years has Full autonomous parking.
+Porsche 911 variants without Rear Seat Headrest - Carrera, Carrera 4 GTS, Turbo S & GT3 RS.
+Porsche 911 variants with Sunroof - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years.
+Porsche 911 variants - Carrera, Carrera 4 GTS, Turbo S, GT3 RS & Turbo 50 Years share the 5 drive mode configuration.

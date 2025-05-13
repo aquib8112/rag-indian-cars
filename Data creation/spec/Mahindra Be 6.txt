@@ -1,0 +1,131 @@
+Mahindra Be 6 has 2 variants: Pack One & Pack Three 79kWh.
+All variants of Mahindra Be 6 have Power Steering.
+All variants of Mahindra Be 6 have Air Conditioner.
+All variants of Mahindra Be 6 have Heater.
+All variants of Mahindra Be 6 have Automatic Climate Control.
+All variants of Mahindra Be 6 have Accessory Power Outlet.
+All variants of Mahindra Be 6 have Trunk Light.
+All variants of Mahindra Be 6 have Vanity Mirror.
+All variants of Mahindra Be 6 have Rear Reading Lamp.
+All variants of Mahindra Be 6 have Adjustable Headrest.
+All variants of Mahindra Be 6 have Cruise Control.
+All variants of Mahindra Be 6 have Engine Start/Stop Button.
+All variants of Mahindra Be 6 do not have Hands-Free Tailgate.
+All variants of Mahindra Be 6 have Tachometer.
+All variants of Mahindra Be 6 have Integrated Antenna.
+All variants of Mahindra Be 6 have LED DRLs.
+All variants of Mahindra Be 6 have LED Headlamps.
+All variants of Mahindra Be 6 have Anti-lock Braking System (ABS).
+All variants of Mahindra Be 6 have Central Locking.
+All variants of Mahindra Be 6 have Driver Airbag.
+All variants of Mahindra Be 6 have Side Airbag.
+All variants of Mahindra Be 6 have Seat Belt Warning.
+All variants of Mahindra Be 6 do not have Side Airbag-Rear.
+All variants of Mahindra Be 6 have Electronic Stability Control (ESC).
+All variants of Mahindra Be 6 have Anti-Theft Device.
+All variants of Mahindra Be 6 have Speed Alert.
+All variants of Mahindra Be 6 have Speed Sensing Auto Door Lock.
+All variants of Mahindra Be 6 have ISOFIX Child Seat Mounts.
+All variants of Mahindra Be 6 have Hill Assist.
+All variants of Mahindra Be 6 have Impact Sensing Auto Door Unlock.
+All variants of Mahindra Be 6 have Radio.
+All variants of Mahindra Be 6 have Wireless Phone Charging.
+All variants of Mahindra Be 6 have Bluetooth Connectivity.
+All variants of Mahindra Be 6 have Android Auto.
+All variants of Mahindra Be 6 have Apple CarPlay.
+All variants of Mahindra Be 6 have Height Adjustable Front Seat Belts.
+All variants of Mahindra Be 6 have LED Taillights.
+All variants of Mahindra Be 6 have Electronic Brakeforce Distribution (EBD).
+All variants of Mahindra Be 6 have Anti-Theft Alarm.
+All variants of Mahindra Be 6 have Door Ajar Warning.
+All variants of Mahindra Be 6 have Glove Box light.
+All variants of Mahindra Be 6 have Battery Saver.
+All variants of Mahindra Be 6 have Tailgate Ajar Warning.
+All variants of Mahindra Be 6 have Regenerative Braking.
+All variants of Mahindra Be 6 have Fast Charging.
+All variants of Mahindra Be 6 have Height Adjustable Driver Seat.
+All variants of Mahindra Be 6 have Rear Window Defogger.
+All variants of Mahindra Be 6 have Glove Box.
+All variants of Mahindra Be 6 have Adjustable Headlamps.
+All variants of Mahindra Be 6 have Outside Rear View Mirror Turn Indicators.
+All variants of Mahindra Be 6 have Passenger Airbag.
+All variants of Mahindra Be 6 have Day & Night Rear View Mirror.
+All variants of Mahindra Be 6 have Tyre Pressure Monitoring System (TPMS).
+All variants of Mahindra Be 6 have Touchscreen.
+All variants of Mahindra Be 6 have Child Safety Locks.
+All variants of Mahindra Be 6 have Rear Spoiler.
+All variants of Mahindra Be 6 have Rain Sensing Wiper.
+All variants of Mahindra Be 6 have Curtain Airbag.
+All variants of Mahindra Be 6 have Usb Ports.
+Mahindra Be 6 variant without Gear Shift Indicator - Pack Three 79kWh.
+Mahindra Be 6 variant without Luggage Hook & Net - Pack Three 79kWh.
+Mahindra Be 6 variant without Rear Curtain - Pack Three 79kWh.
+Mahindra Be 6 variant Pack One delivers a max power of 228 Brake Horsepower (BHP).
+Mahindra Be 6 variant Pack Three 79kWh delivers a max power of 282 Brake Horsepower (BHP).
+All Mahindra Be 6 variants produce a maximum torque of 380 Newton meters.
+All Mahindra Be 6 variants have a Automatic transmission.
+All Mahindra Be 6 variants come with a 1-Speed gearbox.
+All Mahindra Be 6 variants have a Rear-Wheel Drive (RWD) drive type.
+All Mahindra Be 6 variants run on Electric.
+All Mahindra Be 6 variants comply with ZEV emission norms.
+All Mahindra Be 6 variants come with Electric steering.
+All Mahindra Be 6 variants have a turning radius of 10m.
+All Mahindra Be 6 variants have Disc front brakes.
+All Mahindra Be 6 variants have Disc rear brakes.
+All Mahindra Be 6 variants have a length of 4371 mm.
+All Mahindra Be 6 variants have a width of 1907 mm.
+All Mahindra Be 6 variants have a height of 1627 mm.
+All Mahindra Be 6 variants offer 455 Litres of boot space.
+All Mahindra Be 6 variants have a seating capacity of 5.0.
+All Mahindra Be 6 variants have an unladen ground clearance of 207 mm.
+All Mahindra Be 6 variants have a wheelbase of 2775 mm.
+All Mahindra Be 6 variants have 5.0 doors.
+All Mahindra Be 6 variants come with a Electronic boot opening mechanism.
+Mahindra Be 6 variant Pack One has Powered & Folding Outside Rear View Mirror (ORVM).
+All Mahindra Be 6 variants have tyres of size 245/55 R19.
+Mahindra Be 6 variant Pack One features Unknown tyres.
+Mahindra Be 6 variant Pack Three 79kWh features Tubeless Radial tyres.
+All Mahindra Be 6 variants come equipped with 7.0 airbags.
+All Mahindra Be 6 variants come with a 12.3 inch touchscreen display.
+All Mahindra Be 6 variants come with 16.0 speakers.
+All Mahindra Be 6 variants feature a Full Digital digital cluster.
+All Mahindra Be 6 variants come with Fabric upholstery.
+All Mahindra Be 6 variants are equipped with a Permanent Magnet Synchronous Motor motor type.
+All Mahindra Be 6 variants are powered by a Lithium-Ion Battery battery.
+All Mahindra Be 6 variants come with Intelligent Semi Active shock absorbers.
+Mahindra Be 6 variant Pack One features a 59 kWh battery capacity.
+Mahindra Be 6 variant Pack Three 79kWh features a 79 kWh battery capacity.
+Mahindra Be 6 variant Pack One has a 170 kW motor power.
+Mahindra Be 6 variant Pack Three 79kWh has a 210 kW motor power.
+Mahindra Be 6 variant Pack One has a driving range of 535 km.
+Mahindra Be 6 variant Pack Three 79kWh has a driving range of 682 km.
+Mahindra Be 6 variant Pack One requires 6 Hours at 11kW (0-100%) for A.C charging.
+Mahindra Be 6 variant Pack Three 79kWh requires 8 Hours at 11kW (0-100%) for A.C charging.
+Mahindra Be 6 variant Pack One requires 20 Min at 140kW (20-80%) for D.C charging.
+Mahindra Be 6 variant Pack Three 79kWh requires 20 Min at 175kW (20-80%) for D.C charging.
+All Mahindra Be 6 variants come with a CCS-II charging port.
+All Mahindra Be 6 variants offer 11 kW AC Wall Box, 7.2 kW AC Wall Box, DC Fast Charger as charging options.
+All Mahindra Be 6 variants come with a 11 kW AC Wall Box Charger charger type.
+Mahindra Be 6 variant Pack One requires 8.7H-(0-100%) for charging with a 7.2 kW AC fast charger.
+Mahindra Be 6 variant Pack Three 79kWh requires 11.7H-(0-100%) for charging with a 7.2 kW AC fast charger.
+All Mahindra Be 6 variants accelerate from 0-100 km/h in 6.7 s.
+Mahindra Be 6 variant Pack One takes 20 Min at 140kW (20-80%) to charge.
+Mahindra Be 6 variant Pack Three 79kWh takes 20 Min at 175kW (20-80%) to charge.
+All Mahindra Be 6 variants have Driver's Window anti-pinch power windows.
+All Mahindra Be 6 variants have a Bharat NCAP safety rating of 5 Star.
+All Mahindra Be 6 variants have a Bharat NCAP child safety rating of 5 Star.
+All Mahindra Be 6 variants have the MacPherson Strut suspension front suspension.
+All Mahindra Be 6 variants have the Multi-link suspension rear suspension.
+All Mahindra Be 6 variants come with Tilt & Telescopic steering adjustment.
+All Mahindra Be 6 variants have Height & Reach steering adjustability.
+All Mahindra Be 6 variants are equipped with Rear parking sensors.
+All Mahindra Be 6 variants come with Front & Rear USB charging ports.
+Mahindra Be 6 variant Pack One has Front & Rear power windows.
+Mahindra Be 6 variant Pack One has Front & Rear cup holders.
+All Mahindra Be 6 variants have a With Guidedlines rear camera.
+All Mahindra Be 6 variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Mahindra Be 6 variants include Front & Rear speakers.
+All Mahindra Be 6 variants have a 60:40 Split foldable rear seat.
+All variants of Mahindra Be 6 have Central Console Armrest.
+All Mahindra Be 6 variants come with Driver knee airbags.
+All Mahindra Be 6 variants come with Adjustable rear seat headrests.

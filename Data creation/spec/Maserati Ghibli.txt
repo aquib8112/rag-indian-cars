@@ -1,0 +1,193 @@
+Maserati Ghibli has 6 variants: Hybrid Base, Hybrid GranSport, Hybrid GranLusso, V6 GranSport, V6 GranLusso & V8 TROFEO.
+All variants of Maserati Ghibli have Power Steering.
+All variants of Maserati Ghibli have Air Conditioner.
+All variants of Maserati Ghibli have Heater.
+All variants of Maserati Ghibli have Automatic Climate Control.
+All variants of Maserati Ghibli have Accessory Power Outlet.
+All variants of Maserati Ghibli have Trunk Light.
+All variants of Maserati Ghibli have Vanity Mirror.
+All variants of Maserati Ghibli have Rear Reading Lamp.
+All variants of Maserati Ghibli have Adjustable Headrest.
+All variants of Maserati Ghibli have Rear Seat Centre Arm Rest.
+All variants of Maserati Ghibli have Rear AC Vents.
+All variants of Maserati Ghibli have Cruise Control.
+All variants of Maserati Ghibli have Engine Start/Stop Button.
+All variants of Maserati Ghibli have Voice Commands.
+All variants of Maserati Ghibli have Hands-Free Tailgate.
+Maserati Ghibli variants with Chrome Grille - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+Maserati Ghibli variants without Chrome Grille - V6 GranSport, V6 GranLusso & V8 TROFEO.
+All variants of Maserati Ghibli have KeyLess Entry.
+All variants of Maserati Ghibli have Follow Me Home Headlamps.
+All variants of Maserati Ghibli have Tachometer.
+All variants of Maserati Ghibli do not have Wheel Covers.
+All variants of Maserati Ghibli have Alloy Wheels.
+All variants of Maserati Ghibli have Integrated Antenna.
+Maserati Ghibli variants without Projector Headlamps - V6 GranSport, V6 GranLusso & V8 TROFEO.
+All variants of Maserati Ghibli have Automatic Headlamps.
+All variants of Maserati Ghibli have LED DRLs.
+All variants of Maserati Ghibli have LED Headlamps.
+All variants of Maserati Ghibli have Anti-lock Braking System (ABS).
+All variants of Maserati Ghibli have Central Locking.
+All variants of Maserati Ghibli have Driver Airbag.
+All variants of Maserati Ghibli have Side Airbag.
+All variants of Maserati Ghibli have Seat Belt Warning.
+All variants of Maserati Ghibli have Engine Immobilizer.
+All variants of Maserati Ghibli do not have Side Airbag-Rear.
+Maserati Ghibli variants with Electronic Stability Control (ESC) - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+All variants of Maserati Ghibli have Anti-Theft Device.
+All variants of Maserati Ghibli have Speed Alert.
+All variants of Maserati Ghibli have Speed Sensing Auto Door Lock.
+All variants of Maserati Ghibli have ISOFIX Child Seat Mounts.
+All variants of Maserati Ghibli have Hill Assist.
+All variants of Maserati Ghibli have Impact Sensing Auto Door Unlock.
+Maserati Ghibli variants with 360 View Camera - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+All variants of Maserati Ghibli have Radio.
+All variants of Maserati Ghibli have Wireless Phone Charging.
+All variants of Maserati Ghibli have Bluetooth Connectivity.
+All variants of Maserati Ghibli have Android Auto.
+All variants of Maserati Ghibli have Apple CarPlay.
+All variants of Maserati Ghibli have Height Adjustable Front Seat Belts.
+All variants of Maserati Ghibli have Lumbar Support.
+Maserati Ghibli variants with Paddle Shifters - V6 GranSport, V6 GranLusso & V8 TROFEO.
+Maserati Ghibli variants without Paddle Shifters - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+All variants of Maserati Ghibli have Electronic Multi-Tripmeter.
+All variants of Maserati Ghibli have Digital Clock.
+Maserati Ghibli variants with Outside Temperature Display - V6 GranSport, V6 GranLusso & V8 TROFEO.
+Maserati Ghibli variants without Outside Temperature Display - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+All variants of Maserati Ghibli have Dual Tone Dashboard.
+All variants of Maserati Ghibli do not have Power Antenna.
+Maserati Ghibli variants without Halogen Headlamps - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+All variants of Maserati Ghibli have LED Taillights.
+All variants of Maserati Ghibli have Brake Assist.
+All variants of Maserati Ghibli have Anti-Theft Alarm.
+All variants of Maserati Ghibli have Door Ajar Warning.
+All variants of Maserati Ghibli have Digital Odometer.
+Maserati Ghibli variants without Blind Spot Camera - V6 GranSport, V6 GranLusso & V8 TROFEO.
+All variants of Maserati Ghibli have Cooled Glovebox.
+All variants of Maserati Ghibli have Ventilated Seats.
+All variants of Maserati Ghibli have Active noise cancellation.
+All variants of Maserati Ghibli have Cornering Foglamps.
+All variants of Maserati Ghibli have Leather wrap gear-shift selector.
+Maserati Ghibli variants without Headlamp Washers - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+Maserati Ghibli variants without Smoke Headlamps - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+All variants of Maserati Ghibli have Blind Spot Monitor.
+All variants of Maserati Ghibli have Tailgate Ajar Warning.
+Maserati Ghibli variants with Remote Trunk Opener - V6 GranSport, V6 GranLusso & V8 TROFEO.
+Maserati Ghibli variants without Remote Trunk Opener - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+All variants of Maserati Ghibli have Compass.
+Maserati Ghibli variants with Lane Change Indicator - V6 GranSport, V6 GranLusso & V8 TROFEO.
+Maserati Ghibli variants with Wi-Fi Connectivity - V6 GranSport, V6 GranLusso & V8 TROFEO.
+Maserati Ghibli variants without Wi-Fi Connectivity - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+Maserati Ghibli variants with Cornering Headlamps - V6 GranSport, V6 GranLusso & V8 TROFEO.
+Maserati Ghibli variants without Cornering Headlamps - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+Maserati Ghibli variants without Traction Control - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+Maserati Ghibli variants with Rear Entertainment System - V6 GranSport, V6 GranLusso & V8 TROFEO.
+All variants of Maserati Ghibli have Leather Seats.
+All variants of Maserati Ghibli have Driving Experience Control Eco.
+All variants of Maserati Ghibli do not have MirrorLink.
+All variants of Maserati Ghibli do not have Fog Lights - Rear.
+Maserati Ghibli variants without Internal Storage - V6 GranSport, V6 GranLusso & V8 TROFEO.
+All variants of Maserati Ghibli have Height Adjustable Driver Seat.
+Maserati Ghibli variants with Rear Window Defogger - Hybrid Base, Hybrid GranSport, Hybrid GranLusso, V6 GranSport, V6 GranLusso & V8 TROFEO.
+All variants of Maserati Ghibli have Leather Wrapped Steering Wheel.
+All variants of Maserati Ghibli have Glove Box.
+All variants of Maserati Ghibli have Adjustable Headlamps.
+Maserati Ghibli variants with Outside Rear View Mirror Turn Indicators - Hybrid Base, Hybrid GranSport, Hybrid GranLusso, V6 GranSport, V6 GranLusso & V8 TROFEO.
+All variants of Maserati Ghibli have Passenger Airbag.
+All variants of Maserati Ghibli have Day & Night Rear View Mirror.
+All variants of Maserati Ghibli have Tyre Pressure Monitoring System (TPMS).
+All variants of Maserati Ghibli have Touchscreen.
+Maserati Ghibli variants with Rear Window Wiper - Hybrid Base, Hybrid GranSport, Hybrid GranLusso, V6 GranSport & V8 TROFEO.
+Maserati Ghibli variants with Rear Window Washer - V6 GranSport, V6 GranLusso & V8 TROFEO.
+All variants of Maserati Ghibli have Chrome Garnish.
+All variants of Maserati Ghibli have Child Safety Locks.
+All variants of Maserati Ghibli have Rear Spoiler.
+All variants of Maserati Ghibli have Rain Sensing Wiper.
+All variants of Maserati Ghibli have Air Quality Control.
+All variants of Maserati Ghibli have Tinted Glass.
+All variants of Maserati Ghibli have Folding Table in The Rear.
+All variants of Maserati Ghibli have Navigation System.
+All variants of Maserati Ghibli have Smart Access Card Entry.
+All variants of Maserati Ghibli have Fabric Upholstery.
+Maserati Ghibli variants with Roof Rails - V6 GranSport, V6 GranLusso & V8 TROFEO.
+All variants of Maserati Ghibli have Cigarette Lighter.
+Maserati Ghibli variants with Roof Carrier - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+All variants of Maserati Ghibli have Side Stepper.
+All variants of Maserati Ghibli have Dual Tone Body Colour.
+All variants of Maserati Ghibli have Usb Ports.
+All variants of Maserati Ghibli have Gear Shift Indicator.
+All variants of Maserati Ghibli have Luggage Hook & Net.
+All variants of Maserati Ghibli have LED Fog Lamps.
+All variants of Maserati Ghibli have Low Fuel Warning Light.
+All variants of Maserati Ghibli have Heated Wing Mirror.
+All variants of Maserati Ghibli have Power Boot.
+All variants of Maserati Ghibli have Fog Lights - Front.
+All variants of Maserati Ghibli have Integrated 2DIN Audio.
+All variants of Maserati Ghibli have USB & Auxiliary input.
+All variants of Maserati Ghibli have Audio System Remote Control.
+Maserati Ghibli variant Hybrid GranSport has the 4 Cylinders Inline engine.
+Maserati Ghibli variant V6 GranSport has the V6 GranSport engine.
+Maserati Ghibli variant V6 GranLusso has the V6 GranLusso engine.
+Maserati Ghibli variant V8 TROFEO has the 3.8L Twin-Turbocharged V8 engine.
+Maserati Ghibli variants - Hybrid Base, Hybrid GranSport & Hybrid GranLusso share a displacement of 1999  cubic centimeters.
+Maserati Ghibli variants - V6 GranSport & V6 GranLusso share a displacement of 2979  cubic centimeters.
+Maserati Ghibli variant V8 TROFEO has a displacement of 3799  cubic centimeters.
+Maserati Ghibli variants - Hybrid Base, Hybrid GranSport & Hybrid GranLusso have a max power of 325.48 Brake Horsepower (BHP).
+Maserati Ghibli variants - V6 GranSport & V6 GranLusso have a max power of 430.67 Brake Horsepower (BHP).
+Maserati Ghibli variant V8 TROFEO delivers a max power of 572.06 Brake Horsepower (BHP).
+Maserati Ghibli variants - Hybrid Base, Hybrid GranSport & Hybrid GranLusso share a max torque of 450 Newton meters.
+Maserati Ghibli variants - V6 GranSport & V6 GranLusso share a max torque of 580 Newton meters.
+Maserati Ghibli variant V8 TROFEO has a max torque of 730 Newton meters.
+All Maserati Ghibli variants have 4.0 valves per cylinder.
+All Maserati Ghibli variants have a Automatic transmission.
+Maserati Ghibli variants - Hybrid Base, Hybrid GranSport & Hybrid GranLusso have 4.0 cylinders.
+Maserati Ghibli variants - V6 GranSport & V6 GranLusso have 6.0 cylinders.
+Maserati Ghibli variant V8 TROFEO has 8.0 cylinders.
+All Maserati Ghibli variants come with a 8-Speed-AT gearbox.
+All Maserati Ghibli variants have a Rear-Wheel Drive (RWD) drive type.
+All Maserati Ghibli variants run on Petrol.
+All Maserati Ghibli variants comply with BS VI emission norms.
+All Maserati Ghibli variants have a length of 4970 mm.
+All Maserati Ghibli variants have a width of 1950 mm.
+All Maserati Ghibli variants have a height of 1679 mm.
+All Maserati Ghibli variants offer 500 Litres of boot space.
+All Maserati Ghibli variants have a seating capacity of 5.0.
+Maserati Ghibli variant Hybrid Base has a wheelbase of 2903 mm.
+Maserati Ghibli variants - Hybrid GranSport & V6 GranLusso share a wheelbase of 2928 mm.
+Maserati Ghibli variant Hybrid GranLusso has a wheelbase of 2850 mm.
+Maserati Ghibli variant V6 GranSport has a wheelbase of 2690 mm.
+Maserati Ghibli variant V8 TROFEO has a wheelbase of 3210 mm.
+Maserati Ghibli variants - Hybrid Base, Hybrid GranSport, Hybrid GranLusso & V8 TROFEO share a kerb weight of 1940 kg.
+Maserati Ghibli variants - V6 GranSport & V6 GranLusso share a kerb weight of 1910 kg.
+All Maserati Ghibli variants have 4.0 doors.
+All Maserati Ghibli variants come with Unknown tyres.
+All Maserati Ghibli variants come equipped with 6.0 airbags.
+Maserati Ghibli variants - Hybrid Base & Hybrid GranLusso come with a 8.4 inch touchscreen display.
+Maserati Ghibli variants - V6 GranSport, V6 GranLusso & V8 TROFEO come with a 10.1 inch touchscreen display.
+Maserati Ghibli variants - Hybrid Base, Hybrid GranSport & Hybrid GranLusso use Electric as a secondary fuel type.
+Maserati Ghibli variants - Hybrid Base, Hybrid GranSport & Hybrid GranLusso have a 0-100 kmph acceleration time of 5.7 s seconds.
+Maserati Ghibli variants - V6 GranSport, V6 GranLusso & V8 TROFEO have a 0-100 kmph acceleration time of 4.9 s seconds.
+Maserati Ghibli variants - V6 GranSport, V6 GranLusso & V8 TROFEO have Android Auto, Apple CarPlay connectivity options.
+Maserati Ghibli variants - Hybrid Base, Hybrid GranSport & Hybrid GranLusso have a top speed of 255 kmph.
+Maserati Ghibli variants - V6 GranSport, V6 GranLusso & V8 TROFEO have a top speed of 286 kmph.
+Maserati Ghibli variants - Hybrid Base & V8 TROFEO have a front tread of 1550 mm.
+Maserati Ghibli variants - Hybrid GranSport, V6 GranSport & V6 GranLusso have a front tread of 1570 mm.
+Maserati Ghibli variant Hybrid GranLusso features a front tread of 1605 mm.
+All Maserati Ghibli variants feature a Remote trunk opener.
+Maserati Ghibli variant Hybrid GranLusso features a 48v kWh battery capacity.
+Maserati Ghibli variants - Hybrid Base, Hybrid GranSport & Hybrid GranLusso have highway mileage figures of 11.4 kmpl.
+Maserati Ghibli variants - V6 GranSport & V6 GranLusso have highway mileage figures of 8.9 kmpl.
+Maserati Ghibli variant V8 TROFEO has a highway mileage of 8 kmpl.
+All Maserati Ghibli variants have a fuel tank capacity of 80 Litres.
+All Maserati Ghibli variants have the Multi-link suspension front suspension.
+All Maserati Ghibli variants have the Multi-link suspension rear suspension.
+All variants of Maserati Ghibli have Adjustable Steering.
+All Maserati Ghibli variants are equipped with Rear parking sensors.
+All Maserati Ghibli variants come with Front & Rear USB charging ports.
+All Maserati Ghibli variants include Front & Rear speakers.
+Maserati Ghibli variants without Foldable Rear Seat - Hybrid Base, Hybrid GranSport & Hybrid GranLusso.
+All variants of Maserati Ghibli have Central Console Armrest.
+Maserati Ghibli variants without Knee Airbags - V6 GranSport, V6 GranLusso & V8 TROFEO.
+Maserati Ghibli variants without Autonomous Parking - V6 GranSport, V6 GranLusso & V8 TROFEO.
+All variants of Maserati Ghibli have Rear Seat Headrest.
+All variants of Maserati Ghibli have Sunroof.

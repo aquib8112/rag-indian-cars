@@ -1,0 +1,108 @@
+﻿Ferrari Sf90 Stradale has 1 variants: Coupe V8.
+Ferrari Sf90 Stradale has Power Steering.
+Ferrari Sf90 Stradale has Air Conditioner.
+Ferrari Sf90 Stradale has Heater.
+Ferrari Sf90 Stradale does not have Adjustable Headrest.
+Ferrari Sf90 Stradale does not have Real-Time Vehicle Tracking.
+Ferrari Sf90 Stradale has Hands-Free Tailgate.
+Ferrari Sf90 Stradale has KeyLess Entry.
+Ferrari Sf90 Stradale does not have Follow Me Home Headlamps.
+Ferrari Sf90 Stradale has Tachometer.
+Ferrari Sf90 Stradale does not have Wheel Covers.
+Ferrari Sf90 Stradale has Alloy Wheels.
+Ferrari Sf90 Stradale has Integrated Antenna.
+Ferrari Sf90 Stradale has Automatic Headlamps.
+Ferrari Sf90 Stradale has Anti-lock Braking System (ABS).
+Ferrari Sf90 Stradale has Central Locking.
+Ferrari Sf90 Stradale has Driver Airbag.
+Ferrari Sf90 Stradale has Side Airbag.
+Ferrari Sf90 Stradale has Seat Belt Warning.
+Ferrari Sf90 Stradale has Engine Immobilizer.
+Ferrari Sf90 Stradale does not have Side Airbag-Rear.
+Ferrari Sf90 Stradale has Electronic Stability Control (ESC).
+Ferrari Sf90 Stradale has Anti-Theft Device.
+Ferrari Sf90 Stradale has Speed Alert.
+Ferrari Sf90 Stradale has Speed Sensing Auto Door Lock.
+Ferrari Sf90 Stradale has Impact Sensing Auto Door Unlock.
+Ferrari Sf90 Stradale has Radio.
+Ferrari Sf90 Stradale has Bluetooth Connectivity.
+Ferrari Sf90 Stradale has Android Auto.
+Ferrari Sf90 Stradale has Apple CarPlay.
+Ferrari Sf90 Stradale has Electronic Multi-Tripmeter.
+Ferrari Sf90 Stradale has Digital Clock.
+Ferrari Sf90 Stradale has Outside Temperature Display.
+Ferrari Sf90 Stradale has Dual Tone Dashboard.
+Ferrari Sf90 Stradale does not have Power Antenna.
+Ferrari Sf90 Stradale has Brake Assist.
+Ferrari Sf90 Stradale has Anti-Theft Alarm.
+Ferrari Sf90 Stradale has Door Ajar Warning.
+Ferrari Sf90 Stradale has Digital Odometer.
+Ferrari Sf90 Stradale has Heads-Up Display (HUD).
+Ferrari Sf90 Stradale has Ventilated Seats.
+Ferrari Sf90 Stradale does not have Active noise cancellation.
+Ferrari Sf90 Stradale has Leather wrap gear-shift selector.
+Ferrari Sf90 Stradale has Blind Spot Monitor.
+Ferrari Sf90 Stradale has Compass.
+Ferrari Sf90 Stradale has Traction Control.
+Ferrari Sf90 Stradale does not have Rear Entertainment System.
+Ferrari Sf90 Stradale has Leather Seats.
+Ferrari Sf90 Stradale does not have Driving Experience Control Eco.
+Ferrari Sf90 Stradale does not have Fog Lights - Rear.
+Ferrari Sf90 Stradale has Height Adjustable Driver Seat.
+Ferrari Sf90 Stradale has Rear Window Defogger.
+Ferrari Sf90 Stradale has Leather Wrapped Steering Wheel.
+Ferrari Sf90 Stradale has Adjustable Headlamps.
+Ferrari Sf90 Stradale has Passenger Airbag.
+Ferrari Sf90 Stradale has Day & Night Rear View Mirror.
+Ferrari Sf90 Stradale has Tyre Pressure Monitoring System (TPMS).
+Ferrari Sf90 Stradale has Touchscreen.
+Ferrari Sf90 Stradale has Rear Window Wiper.
+Ferrari Sf90 Stradale has Rear Window Washer.
+Ferrari Sf90 Stradale has Child Safety Locks.
+Ferrari Sf90 Stradale has Rear Spoiler.
+Ferrari Sf90 Stradale has Rain Sensing Wiper.
+Ferrari Sf90 Stradale has Folding Table in The Rear.
+Ferrari Sf90 Stradale has Fabric Upholstery.
+Ferrari Sf90 Stradale has Cigarette Lighter.
+Ferrari Sf90 Stradale has Usb Ports.
+Ferrari Sf90 Stradale does not have Fog Lights - Front.
+Ferrari Sf90 Stradale has Integrated 2DIN Audio.
+Ferrari Sf90 Stradale has USB & Auxiliary input.
+Ferrari Sf90 Stradale does not have Audio System Remote Control.
+The Ferrari Sf90 Stradale has the V8 90° Turbo engine.
+The Ferrari Sf90 Stradale has a displacement of 3990  cubic centimeters.
+The Ferrari Sf90 Stradale generates 769.31 Brake Horsepower (BHP) at 7500 Revolutions Per Minute (RPM).
+The Ferrari Sf90 Stradale generates 800 Newton meters at 6000 Revolutions Per Minute (RPM).
+The Ferrari Sf90 Stradale has 8.0 valves per cylinder.
+The Ferrari Sf90 Stradale has a Automatic transmission.
+The Ferrari Sf90 Stradale has 8.0 cylinders.
+The Ferrari Sf90 Stradale has a 8-Speed gearbox.
+The Ferrari Sf90 Stradale has a All-Wheel Drive (AWD) drive type.
+The Ferrari Sf90 Stradale runs on Petrol.
+The Ferrari Sf90 Stradale complies with BS VI emission norms.
+The Ferrari Sf90 Stradale has a length of 4710 mm.
+The Ferrari Sf90 Stradale has a width of 1972 mm.
+The Ferrari Sf90 Stradale has a height of 1186 mm.
+The Ferrari Sf90 Stradale offers 74 Litres of boot space.
+The Ferrari Sf90 Stradale has a seating capacity of 2.0.
+The Ferrari Sf90 Stradale has a wheelbase of 2650 mm.
+The Ferrari Sf90 Stradale has a kerb weight of 1570 kg.
+The Ferrari Sf90 Stradale has 2.0 doors.
+The Ferrari Sf90 Stradale is equipped with Tubeless Radial tyres.
+The Ferrari Sf90 Stradale is equipped with 6.0 airbags.
+The Ferrari Sf90 Stradale achieves 100-0 kmph braking in 29.5 s seconds.
+The Ferrari Sf90 Stradale features Android Auto connectivity options.
+The Ferrari Sf90 Stradale achieves a top speed of 340 kmph.
+The Ferrari Sf90 Stradale has a front tread of 2888 mm.
+The Ferrari Sf90 Stradale achieves 0-100 kmph acceleration in 2.5 s.
+The Ferrari Sf90 Stradale achieves 0-100 kmph in 2.5 s.
+The Ferrari Sf90 Stradale has a battery capacity of 7.9 kWh.
+The Ferrari Sf90 Stradale delivers a highway mileage of 18 kmpl.
+The Ferrari Sf90 Stradale comes with a fuel tank capacity of 68 Litres.
+The Ferrari Sf90 Stradale comes with the Double wishbone suspension front suspension.
+The Ferrari Sf90 Stradale comes with the Multi-link suspension rear suspension.
+Ferrari Sf90 Stradale has Adjustable Steering.
+The Ferrari Sf90 Stradale has Front Only speakers.
+The Ferrari Sf90 Stradale has Front electric adjustable seats.
+The Ferrari Sf90 Stradale has a Twin turbocharger.
+The Ferrari Sf90 Stradale has 4 drive modes.

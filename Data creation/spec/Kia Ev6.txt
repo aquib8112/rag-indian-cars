@@ -1,0 +1,197 @@
+Kia Ev6 has 2 variants: GT line & GT line AWD.
+All variants of Kia Ev6 have Power Steering.
+All variants of Kia Ev6 have Air Conditioner.
+All variants of Kia Ev6 have Heater.
+All variants of Kia Ev6 have Automatic Climate Control.
+All variants of Kia Ev6 have Accessory Power Outlet.
+All variants of Kia Ev6 have Vanity Mirror.
+All variants of Kia Ev6 have Rear Reading Lamp.
+All variants of Kia Ev6 have Adjustable Headrest.
+All variants of Kia Ev6 have Rear Seat Centre Arm Rest.
+All variants of Kia Ev6 have Rear AC Vents.
+All variants of Kia Ev6 have Cruise Control.
+All variants of Kia Ev6 have Real-Time Vehicle Tracking.
+All variants of Kia Ev6 have Engine Start/Stop Button.
+All variants of Kia Ev6 have Voice Commands.
+All variants of Kia Ev6 have Hands-Free Tailgate.
+All variants of Kia Ev6 have KeyLess Entry.
+All variants of Kia Ev6 have Follow Me Home Headlamps.
+All variants of Kia Ev6 do not have Tachometer.
+All variants of Kia Ev6 do not have Wheel Covers.
+All variants of Kia Ev6 have Alloy Wheels.
+All variants of Kia Ev6 have Integrated Antenna.
+All variants of Kia Ev6 have Automatic Headlamps.
+All variants of Kia Ev6 have LED DRLs.
+All variants of Kia Ev6 have LED Headlamps.
+All variants of Kia Ev6 have Anti-lock Braking System (ABS).
+All variants of Kia Ev6 have Central Locking.
+All variants of Kia Ev6 have Driver Airbag.
+All variants of Kia Ev6 have Side Airbag.
+All variants of Kia Ev6 have Seat Belt Warning.
+All variants of Kia Ev6 do not have Engine Immobilizer.
+All variants of Kia Ev6 have E-Call & I-Call.
+All variants of Kia Ev6 have Remote AC On/Off.
+All variants of Kia Ev6 have Side Airbag-Rear.
+All variants of Kia Ev6 have Electronic Stability Control (ESC).
+All variants of Kia Ev6 have Anti-Theft Device.
+All variants of Kia Ev6 have Speed Alert.
+All variants of Kia Ev6 have Speed Sensing Auto Door Lock.
+All variants of Kia Ev6 have ISOFIX Child Seat Mounts.
+All variants of Kia Ev6 have Hill Assist.
+All variants of Kia Ev6 have Impact Sensing Auto Door Unlock.
+All variants of Kia Ev6 have 360 View Camera.
+All variants of Kia Ev6 have Radio.
+All variants of Kia Ev6 have Wireless Phone Charging.
+All variants of Kia Ev6 have Bluetooth Connectivity.
+All variants of Kia Ev6 have Android Auto.
+All variants of Kia Ev6 have Apple CarPlay.
+All variants of Kia Ev6 have Driver Attention Warning.
+All variants of Kia Ev6 have Live Location.
+All variants of Kia Ev6 have Over the Air (OTA) Updates.
+All variants of Kia Ev6 have Google / Alexa Connectivity.
+All variants of Kia Ev6 have Over Speeding Alert.
+All variants of Kia Ev6 have Smartwatch App.
+All variants of Kia Ev6 have Valet Mode.
+All variants of Kia Ev6 have Remote Door Lock/Unlock.
+All variants of Kia Ev6 have Geo-fence Alert.
+All variants of Kia Ev6 have Height Adjustable Front Seat Belts.
+All variants of Kia Ev6 have Lumbar Support.
+All variants of Kia Ev6 have Paddle Shifters.
+All variants of Kia Ev6 have Tow Away Alert.
+All variants of Kia Ev6 do not have Halogen Headlamps.
+All variants of Kia Ev6 have LED Taillights.
+All variants of Kia Ev6 have Electronic Brakeforce Distribution (EBD).
+All variants of Kia Ev6 have Brake Assist.
+All variants of Kia Ev6 have Anti-Theft Alarm.
+All variants of Kia Ev6 have Door Ajar Warning.
+All variants of Kia Ev6 have Digital Odometer.
+All variants of Kia Ev6 have SOS / Emergency Assistance.
+Kia Ev6 variant with Heads-Up Display (HUD) - GT line AWD.
+Kia Ev6 variant without Heads-Up Display (HUD) - GT line.
+All variants of Kia Ev6 have Forward Collision Warning.
+All variants of Kia Ev6 have Blind Spot Collision Avoidance Assist.
+All variants of Kia Ev6 have Lane Keep Assist.
+All variants of Kia Ev6 have Adaptive Cruise Control.
+All variants of Kia Ev6 have Adaptive High Beam Assist.
+All variants of Kia Ev6 have Rear Cross Traffic Collision-Avoidance Assist.
+All variants of Kia Ev6 have Inbuilt Assistant.
+All variants of Kia Ev6 have Navigation with Live Traffic.
+All variants of Kia Ev6 have Send POI to Vehicle From App.
+All variants of Kia Ev6 have Ventilated Seats.
+All variants of Kia Ev6 have Battery Saver.
+All variants of Kia Ev6 do not have Headlamp Washers.
+All variants of Kia Ev6 do not have Heated Outside Rear View Mirror.
+All variants of Kia Ev6 have Blind Spot Monitor.
+All variants of Kia Ev6 have Live Weather.
+All variants of Kia Ev6 have Remote Vehicle Status Check.
+All variants of Kia Ev6 have SOS Button.
+All variants of Kia Ev6 have Voice assisted sunroof.
+All variants of Kia Ev6 do not have Convertible Top.
+All variants of Kia Ev6 have Save Route/Place.
+All variants of Kia Ev6 have Regenerative Braking.
+All variants of Kia Ev6 have Fast Charging.
+All variants of Kia Ev6 have Vehicle to Load Charging.
+All variants of Kia Ev6 have RSA.
+All variants of Kia Ev6 have Hinglish Voice Commands.
+All variants of Kia Ev6 have Crash Notification.
+All variants of Kia Ev6 have Height Adjustable Driver Seat.
+All variants of Kia Ev6 have Rear Window Defogger.
+All variants of Kia Ev6 have Leather Wrapped Steering Wheel.
+All variants of Kia Ev6 have Glove Box.
+All variants of Kia Ev6 have Outside Rear View Mirror Turn Indicators.
+All variants of Kia Ev6 have Passenger Airbag.
+All variants of Kia Ev6 have Day & Night Rear View Mirror.
+All variants of Kia Ev6 have Tyre Pressure Monitoring System (TPMS).
+All variants of Kia Ev6 have Touchscreen.
+All variants of Kia Ev6 have Rear Window Wiper.
+All variants of Kia Ev6 have Rear Window Washer.
+All variants of Kia Ev6 have Child Safety Locks.
+All variants of Kia Ev6 have Rear Spoiler.
+All variants of Kia Ev6 have Rain Sensing Wiper.
+All variants of Kia Ev6 have Air Quality Control.
+All variants of Kia Ev6 have Folding Table in The Rear.
+All variants of Kia Ev6 have Rear Touchscreen.
+All variants of Kia Ev6 have Roof Rails.
+All variants of Kia Ev6 have Cigarette Lighter.
+All variants of Kia Ev6 have Side Stepper.
+All variants of Kia Ev6 have Curtain Airbag.
+All variants of Kia Ev6 have Usb Ports.
+All variants of Kia Ev6 do not have Gear Shift Indicator.
+All variants of Kia Ev6 have LED Fog Lamps.
+Kia Ev6 variant GT line delivers a max power of 225.86 Brake Horsepower (BHP).
+Kia Ev6 variant GT line AWD delivers a max power of 320.55 Brake Horsepower (BHP).
+Kia Ev6 variant GT line has a max torque of 350 Newton meters.
+Kia Ev6 variant GT line AWD has a max torque of 605 Newton meters.
+All Kia Ev6 variants have a Automatic transmission.
+All Kia Ev6 variants come with a 1-Speed gearbox.
+Kia Ev6 variant GT line has a Rear-Wheel Drive (RWD) drive type.
+Kia Ev6 variant GT line AWD has a All-Wheel Drive (AWD) drive type.
+All Kia Ev6 variants run on Electric.
+All Kia Ev6 variants comply with ZEV emission norms.
+All Kia Ev6 variants come with Electric steering.
+All Kia Ev6 variants have Disc front brakes.
+All Kia Ev6 variants have Disc rear brakes.
+All Kia Ev6 variants have a length of 4695 mm.
+All Kia Ev6 variants have a width of 1890 mm.
+All Kia Ev6 variants have a height of 1570 mm.
+All Kia Ev6 variants offer 520 Litres of boot space.
+All Kia Ev6 variants have a seating capacity of 5.0.
+All Kia Ev6 variants have a wheelbase of 2900 mm.
+All Kia Ev6 variants have 5.0 doors.
+All Kia Ev6 variants come with a Automatic boot opening mechanism.
+All Kia Ev6 variants have tyres of size 235/55 R19.
+All Kia Ev6 variants come with Tubeless Radial tyres.
+All Kia Ev6 variants come equipped with 8.0 airbags.
+Kia Ev6 variant GT line has a Global NCAP rating of 5 Star.
+All Kia Ev6 variants come with a 12.3 inch touchscreen display.
+Kia Ev6 variant GT line features 4.0 speakers.
+Kia Ev6 variant GT line AWD features 14.0 speakers.
+Kia Ev6 variant GT line features 2.0 tweeters.
+All Kia Ev6 variants come with Android Auto, Apple CarPlay connectivity options.
+All Kia Ev6 variants feature a Full Digital digital cluster.
+All Kia Ev6 variants come with Leather upholstery.
+All Kia Ev6 variants offer a boot space of 520 Litres.
+All Kia Ev6 variants have a top speed of 192 kmph.
+Kia Ev6 variant GT line features a front tread of 1430 mm.
+Kia Ev6 variant GT line AWD features a front tread of 1561 mm.
+All Kia Ev6 variants use a Rack & Pinion steering gear type.
+Kia Ev6 variant GT line comes with a Permanent Magnet Synchronous Motor(R) motor type.
+Kia Ev6 variant GT line AWD comes with a Permanent Magnet Synchronous Motor(F&R) motor type.
+All Kia Ev6 variants are powered by a Lithium-Ion Battery battery.
+All Kia Ev6 variants offer 1300 Litres of boot space with rear seats folded.
+All Kia Ev6 variants come with a 77.4 kWh battery capacity.
+Kia Ev6 variant GT line has a 168.48 kW motor power.
+Kia Ev6 variant GT line AWD has a 239 kW motor power.
+All Kia Ev6 variants offer a driving range of 708 km.
+Kia Ev6 variant GT line requires 73 Min at 50kW (10%-80%) for D.C charging.
+Kia Ev6 variant GT line AWD requires 73 Min at 50kW (10-80%) for D.C charging.
+All Kia Ev6 variants come with a CCS-II charging port.
+All Kia Ev6 variants take 18 Min at 350kW (10-80%) to charge.
+All Kia Ev6 variants have All Windows anti-pinch power windows.
+All Kia Ev6 variants take 73Min (10-80%) to charge using a 50 kW DC fast charger.
+Kia Ev6 variant GT line has a battery warranty of 8 Years or 160000 km.
+Kia Ev6 variant GT line AWD has a battery warranty of 8 Years.
+All Kia Ev6 variants have the MacPherson Strut suspension front suspension.
+All Kia Ev6 variants have the Multi-link suspension rear suspension.
+All Kia Ev6 variants come with Tilt & Telescopic steering adjustment.
+All variants of Kia Ev6 have Adjustable Steering.
+All Kia Ev6 variants are equipped with Front & Rear parking sensors.
+All Kia Ev6 variants come with Front & Rear USB charging ports.
+All Kia Ev6 variants are equipped with Rear fog lights.
+All Kia Ev6 variants come with a Shark Fin antenna.
+All Kia Ev6 variants feature a 12.3 inch digital cluster.
+All Kia Ev6 variants have a With Guidedlines rear camera.
+All Kia Ev6 variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Kia Ev6 variants include Front & Rear speakers.
+All Kia Ev6 variants have Front electric adjustable seats.
+All Kia Ev6 variants have a 60:40 Split foldable rear seat.
+All Kia Ev6 variants have a With Storage central console armrest.
+All variants of Kia Ev6 have Inbuilt_Apps.
+All variants of Kia Ev6 do not have Knee Airbags.
+All Kia Ev6 variants feature ambient lighting with 64 color options.
+Kia Ev6 variant with Rear Seat Headrest - GT line.
+All Kia Ev6 variants come with a Panoramic sunroof.
+All Kia Ev6 variants come with 3 drive modes.
+All Kia Ev6 variants offer Eco, Normal & Sport drive modes.
+Kia Ev6 variant GT line offers Curved driver display screen & touchscreen navigation, Kia Connect with 60+ Features as additional features.
+Kia Ev6 variant GT line AWD offers Meridian premium sound system with 14 speakers and Active sound design, Curved driver display screen & touchscreen navigation, Kia Connect with 60+ Features as additional features.

@@ -1,0 +1,135 @@
+Mercedes-Benz EQB 300 4Matic Review
+
+Mercedes-Benz EQB 300 4Matic Pros
+Fantastic CBU build quality, with GLS-inspired styling. Fits the 'Baby GLS' moniker
+Top-notch performance with dual electric motors and 4MATIC AWD. Regen mode can enable single-pedal driving
+423 km WLTP range is sufficient for urban commutes and medium-distance highway drives
+Impressive ride & handling for a 2+ tonne SUV. Great real-world ground clearance adds practicality
+Zero tailpipe emissions & green image will appeal to the environmentally-conscious
+Tastefully appointed cabin. Loaded to the gills with features, safety kit & technology
+Road tax exemptions in many states likely to make it a compelling proposition in its segment
+
+Mercedes-Benz EQB 300 4Matic Cons
+Range not quite enough for long-distance touring. Range anxiety will be a factor on road-trips
+Third row has awkward accessibility and limited space. Not a true 7-seater
+DC fast charging unlikely to be widely available in near future. 11 kW AC charging takes overnight for a full charge
+Missing features like a spare tyre (!!!), ventilated seats which cheaper cars get, etc.
+Boot space with all rows up is a measly 110 liters. A better 465 liters with 3rd row down, but the optional spare tyre will chew away useable space
+
+Introduction
+Mercedes-Benz are,quiet simply put, going electric.
+Their ambitious "all electric by 2030" strategy might carry a 'where market conditions allow' caveat, but their actions make it rather obvious that they're leaving no stone unturned to become a market leader in BEV (Battery Electric Vehicle) offerings. They intend to offer a BEV option in every segment they serve by 2022, and launch electric-only vehicle architectures by 2025 offering an electric alternative to every model in their portfolio.
+To that end, the comprehensive transition plan covers not just their vehicle portfolio, but significant investments to the tune of 40 Billion Euros within this decade to ramp up capabilities in EV architecture, integrating electric motor development & manufacturing in-house, battery & charging network development and the ambitious Vision EQXX project to create their '1,000 km on a single charge' EV offering.
+So, what does all that mean for the Indian market? Quite a bit, given Mercedes' recent launch spree.
+The company's flagship electric sedan, the AMG EQS 53 4Matic+  was launched here earlier this year (link to review), followed by the EQS 580 4Matic a little later (link to review).
+Both are great cars but niche products, owing to their price tag and their low-slung sedan form factor making them unsuitable for most Indian roads.
+This image says it all.
+This brings us to the EQB 300 4Matic - Merc's latest offering in the affordable luxury segment that is being brought in initially as a CBU, in an India-friendly SUV form factor. The timing is rather opportune, given that the outgoing GLC reportedly sold out faster than Mercedes expected, leaving a nice little gap in the portfolio for the EQB and its ICE sibling, the GLB to fill.
+The EQB is based on the EVA 1.5 architecture, which, in layman's terms, means it's a step below Merc's electric-only EVA 2.0 architecture, which the EQS is based on. EVA 1.5 allows Mercedes to offer both EV and ICE alternatives in parallel as they work towards their 2025 target of electric-only architectures.
+The EQB 300 4Matic for India gets two motors - an Asynchronous Motor (ASM) on the front axle and a Permanently excited Synchronous Motor (PSM) at the rear, which have a combined output of 225 BHP and 390 Nm with an all-wheel drive configuration. The motors are powered by a 66.5 kWh high-density Li-ion battery pack providing a moderate 423 km range (WLTP cycle). 11 kW AC charging is standard, while the car is capable of 100 kW DC fast charging with a claimed 10-80% top-up in 32 mins.
+
+Safety
+The EQB gets a host of active and passive safety features like Blind Spot Assist (sensitive enough to pick up 2-wheelers and even pedestrians!), Active Braking and Lane Keeping Assist, Parktronic Active Parking Assist, Attention Assist and a reinforced battery compartment with an integrated crash structure among others. All features have adjustable levels, so you can find the sweet spot according to the driving conditions.
+The electrical system also boasts of passive safety via auto cut-off and deactivation of the high-voltage systems in the event of a crash.
+The EQB carries a 5-star NCAP rating, has 7 airbags (including a driver knee airbag) with window airbags available for all three rows, ISOFIX child seat mounts and Car-2-X communication.
+Some of the features are subscription based (free for first three years and payable thereafter), tied to the owner's Mercedes Me Connect account.
+
+Unique & Noteworthy Features
+Ambient Lighting has 64 color options and a multitude of settings to choose from to create a veritable festival of light on the dash, air vents, doors, spiral trim on the front passenger side and footwells. One can also customise the behaviour of the external lights (front LED guides, tail-lamps, door courtesy/puddle lamps) and cabin lights.
+When the EQB is plugged in, ambient lighting also indicates state of charge; blinking amber for charging connection in progress followed by momentary pulsating green for charging in progress, stable green for charge complete and flashing red indicating a fault with charging. Very cool!
+The two 10.25-inch screens gets various themes and viewing modes, showing everything from driving modes, battery range and consumption info, navigation, audio, vehicle settings, smartphone connectivity, Mercedes Me & other apps, MBUX voice assistance, among a host of others.
+10-speaker 225W Burmester audio sounds nice, with four woofers in the door, a tweeter on each A pillar and rear door, a mid-range subwoofer located in the dashboard and an external coupled subwoofer in the rear. Combined with the excellent NVH and no-noise powertrain, owners can chill to their favorite soundtrack while the EQB gets them to their destination.
+There's even a Car Wash Mode in Quick Access, which turns a bunch of sensors off (rain, Parktronic etc.), disables the wipers, closes all windows and the sunroof, folds in the ORVMs, and sets a 20 km/h speed limit for safety. Nifty!
+Seat Kinetics enables the front seat base and side bolsters to move periodically to avoid driver and passenger fatigue on long drives. We tried it, but weren't driving long enough to gauge its effectiveness. We'll leave the final verdict to owners.
+One can also setup a customized charge program in vehicle settings, which allows your car to adapt to your schedule. Options include pre-setting departure times, weekly schedule, max charge levels and pre-entry climate control settings so that the cabin is just as you like it before you get in and drive away. All this can be managed through the Mercedes Me Connect app on your smartphone.
+Owners would be well-advised to spend time during initial ownership to familiarise themselves with the vast array of options available.
+
+Exterior
+The EQB shares its underpinnings with its ICE sibling, the GLB. Mercedes went to great lengths to compare it to the outgoing GLC's dimensions, and put a 'baby GLS' aura around it. It works (sort of).
+Close enough to be a like-for-like replacement? You be the judge.
+Front sports the now-familiar signature EQ black panel grille adorned with a large 3-pointed star. Grille is flanked by a pair of Mercedes LED headlamps with adaptive high-beam assist and an LED strip above the grille connecting the two.
+Squat-looking rear features LED combination tail-lamps at either end with an LED light strip running across the tailgate connecting the two. Rear bumper houses two reflectors, six sensors (four at the back + two on the sides) and a towing point. Boot loading lip gets a shiny chrome applique and so does the lower edge of the bumper which hides the bulk.
+Adequate cladding on the fenders and doors, all four of which get request sensors for keyless entry. B-pillars get a glossy black finish, while the entire window glass section gets a thin chrome surround, which is just enough and not tacky. Door cladding gets chrome trim too, while silver aluminium roof rails add to the SUV appearance.
+Both headlamps get blue highlights within, which is in line with the EQ signature styling. LED DRLs double up as turn indicators.
+Bonnet has prominent creases to add a bit of a "butch" factor, while the front bumper houses a total of six sensors (four up front and two along the sides) and a towing point. Radiator grille gets a chrome surround that merges into the skid plate applique.
+Blue-on-black-background EQB badging on the front fender panel. It's one of only two EQB badges on the body (the other one's on the tailgate).
+18-inch, 5-twin-spoke, light alloy wheels with black painted aerodynamic bits, shod with relatively tall 235/55 section Bridgestone MOE (Mercedes Original Extended) run-flat rubber.
+Charging port is placed on the rear right flank, with plug options for both - the standard 11 kW AC and 100 kW DC fast chargers.
+Press the Mercedes-Benz logo to open the tailgate. It houses a Passat-style reversing camera.
+The EQB has a claimed ground clearance of just 155 mm, but we were surprised by the car's handling of real-world terrain.
+
+Interior
+Step into the cabin, and you're greeted by Mercedes' now-familiar mix of high-tech and retro touches. First thing fellow moderator Turbanator, who's owned a fair share of luxury cars, says is you can 'feel' it's a CBU. Materials and fit & finish are top-notch, and everything feels nice & premium except a few hard plastics in spots one wouldn't normally touch or look at day-to-day.
+3-spoke, flat-bottom, multi-function sport steering wheel is meaty and well-contoured. It's clad in Nappa leather with perforation in the  areas where you'd hold it.
+Steering gets brushed chrome control panels with the left spoke housing media and phone controls and the right spoke housing the switches to operate the cruise control and MID. Buttons are tactile, but Turbanator opined that their small size combined with the lack of any colour coding (e.g. red & green for call controls) makes them less intuitive to use on the go. I tend to agree and personally prefer uncluttered steering wheels, but those bajillion controls need to go somewhere. Le sigh!.
+RHS stalk acts as the transmission shifter.
+LHS stalk controls the indicator, headlamp beam and windscreen wiper controls. The steering wheel-mounted paddle shifters are used to control battery recuperation modes.
+There are two large 10.25-inch displays powered by Mercedes' NTG6 MBUX; the one facing the driver housing the instrument cluster, while the left one acts as a multi-function command center.
+Start/Stop button is located on the dash behind the left stalk. The dummy slot below is where the ICE models get the toggle switch for the auto start/stop feature.
+Controls for the lights and parking brake are placed on the right of the steering wheel.
+Doorpads also get two-tone and metallic trim as well as an ambient lighting strip at the top. Door latch is flanked by central locking buttons, while the padded armrest houses window and ORVM controls.
+Driver side door pad can hold a water bottle and a few knick-knacks and holds the electric tailgate release button. Burmester speaker grille feels like the forgotten step-child with its bland dull black frame. Courtesy/puddle lamp has been provided. Ugly weld marks visible on door edge are an eyesore.
+Illuminated "EQB" branded door sill scuff plates.
+Comfortable and well-bolstered front seats are upholstered in titanium grey pearl Artico leather and rose gold fabric. Both seats get electric adjustment with memory function (3 presets), as well as electric lumbar adjustment. Under-thigh support extension is manually operated though. Ventilated seats are not offered - a rather glaring omission given the feature has made it into cars several segments below, and seems to be popular. Seat belts are height-adjustable.
+Both front seats get "Seat Kinetics" function which can be accessed through the settings menu. The seat base and side bolsters move ever so slightly periodically, which is claimed to prevent fatigue during long drives.
+Illuminated driver footwell is spacious, with nicely spaced out A & B pedals and a usable dead pedal. No plastic/rubber trim on the carpeted dead pedal, which is a miss given how much it's going to get used. Bonnet release is hidden under the dash and needs some fishing to find.
+Three central and two side air vents have brushed chrome surrounds with illuminated rose gold louvres.
+Party piece is the illuminated spiral trim piece facing the front passenger.
+With a host of ambient lighting options, the cabin can be quite a sight at night. Personally, I'm not a fan of this, but it's undeniably impressive for those of a 'lit' persuasion.
+Center console has retro two-way vertical clicking buttons for the dual-zone climate control system.
+Right below, is a stowage compartment with a retractable cover. It houses two cupholders, a USB-C port for wired smartphone connectivity, a 12V accessory port and a wireless charging pad.
+Active touchpad with adjustable sensitivity and click options is flanked by various controls - Dynamic Select drive modes, parking cameras, radio and navigation, among others.
+Deep storage bin under the center armrest houses two USB-C fast charging ports.
+Frameless IRVM sits below a multi-LED cabin lamp flanked by controls for reading lamps, door courtesy lamp toggle, Mercedes Me & SOS calling buttons, and a button for the panoramic sunroof.
+Large split panoramic sunroof makes the fairly dark upholstered cabin feel light & airy.
+2nd row has easy ingress/egress. Seats have a 40-20-40 split configuration and individual tumble option.
+Second row seats recline upto 25 degrees. All three passengers get 3-point seat belts, though the center one would be unwelcome beyond short rides, both due to the flat contoured seatback that holds an armrest and two cupholders making them uncomfortable and the floor hump making it further awkward. Second row has a sliding travel range of 140 mm, and can be used to free up knee-room for the third row passengers.
+Legroom is adequate, with Turbanator (5'10") able to fit comfortably behind his own driving position having plenty of knee room. Under-thigh support is slightly lacking and the seat contouring could also be better.
+Driver and passenger seatbacks have netted pockets to tuck away magazines or other knick-knacks.
+Rear air-con vents are adjustable. A single USB-C port and a small-ish cubby that is unlikely to hold any modern smartphone comfortably.
+Coming to the third row, Mercedes claim it has an "easy-entry" function, which is fancy speak for slide the second row forward and contort your way in there if you dare. I, somehow, awkwardly wriggled my 5'7" frame in for a reference pic, but Turbanator gave it nary a glance before going 'nope'. Easy-entry it definitely ain't!
+To be fair, Mercedes did painstakingly point out that it's best suited for 'pre-teens and pets', though we're inclined to think
+your own pre-teens are best not shoved in there if you harbor any hopes of them loving you for the rest of your life. A pet might not appreciate it either given the lack of air-con vents considering India's climate.
+Yours truly demonstrating the minimum legroom in the last row.
+The max position is actually barely relevant because it would involve pushing the second row fully forward, severely compromising legroom for its occupants. Anyhow, I needed to stretch once I got out.
+There's a USB-C port and a cubby on each side and two cup holders in the middle, so maybe there's hope in today's gadget addicted world? A family of petite gymnast tech geeks? We're stretching here (heh!); just keep non-tiny humans, beloved pets or anything alive you love out of there!
+Boot space with all rows up is a measly 110 liters.
+With the third row folded down, it's expanded to a decent 465 liters. Fold down the second row too, and you're looking at a 'can shift my house in this' 1,600+ liters. You also get two sets of loop hooks fore and aft to tie down luggage as well as a bag hook on each side.
+You get a nifty retractable and detachable luggage space cover that extends right up to the second row seatbacks. Neat!
+Boot lamp on the left with a 12V accessory port recessed below it (drink cooler, anyone?). Notice the tie-down hook on the bottom left.
+There's a recessed covered storage space in the floor behind the last row that holds the toolkit, warning triangle, first aid kit and the luggage space cover (when not in use).
+No spare tyre in the standard kit, not even a space saver. Though Mercedes say one can be purchased as an option, say goodbye to a significant chunk of the boot space if you do get one.
+Tailgate is electrically opened and closed. Mercedes' media slide mentions hands-free operation (by swinging a foot under the rear bumper), but we couldn't get it to work when we tried.
+
+Driving the EQB 300 4Matic
+As mentioned earlier, the EQB is based on EVA 1.5 architecture, meaning it's an ICE platform adapted for EV applications. What that also means is that unlike the EQS, the bonnet isn't sealed and you can take a look at what's underneath. The bonnet is propped up with a single hydraulic strut on the driver's side.
+It's pretty busy in there, and does look a little messy without a top cover. The high-voltage cabling and associated bits are orange as per required standards and there isn't much that's user-serviceable, except the fluid reservoirs needing an occasional top-up. The powertrain and associated bits are best left to the professionals, especially because quite a few elements are capable of causing serious harm when mishandled due to high voltages.
+The 66.5 kWh battery is capable of putting out a total 225 BHP and 390 Nm through the two electric motors, whose power demand is sampled 100 times per second according to Mercedes and appropriately managed based on the driving situation through the 4Matic system.
+Battery consumption is optimized by using the rear motor as much as possible in urban traffic conditions, with the front motor kicking in when you demand grunt.
+With your foot on the brake pedal, push the START button on the dash, and the instrument cluster shows "READY" indicating that the EQB is all set. No engine note, start-up shake or cold clatter like petrol or diesel powered cars. Just silence. It's eerie, in a likeable sort of way.
+Slot the gear shifter into D and release the brake pedal, the EQB crawls forward gently. Poke the A pedal, and the EQB's got some serious shift, putting the 390 Nm to use briskly, again, unlike an internal combustion engine that might hesitate for a bit. Keep your foot on it and the acceleration is linear and relentless, with triple digit speeds popping up in no time. It's not as brutal as the EQS that does the 0-100 km/h dash in about half the time, but the EQB is potent nonetheless and the sheer silence and lack of drama adds to the spectacle.
+Whether it's pottering around town, closing gaps in traffic, or cruising on undivided highways with rare opportunities to pass slower vehicles, the EQB is equally at home. It's even more impressive because the EQB weighs a sizeable 2,175 kilos, the battery pack alone accounting for 469 kg. The 0-100 km/h dash takes 8 seconds, while the top speed is electronically limited to 160 km/h, but that number is academic in a country where both the legal and practical top speeds are well inside that limit. We never found the EQB wanting on the highway.
+There are 4 driving modes: Eco, Comfort, Sport & Individual. Each driving mode has specific settings for throttle response, steering feel and ESP. Individual mode lets you configure each setting separately based on your preference. Comfort mode was our default choice around town and cruising on the highway, while we used Sport when driving enthusiastically, putting its weightier steering feel and crisp throttle response to good use and having some fun.
+NVH is great, thanks in part to features like noise encapsulation around the electric motors, optimized motor coupling and insulation of the passenger compartment. Motor whine is barely perceptible except in completely silent environments. The 'whoosh' noise you make in your head as the acceleration makes you giggle, is probably the loudest thing in the cabin.
+
+Range and Charging
+A claimed WLTP range of 423 km means that the EQB isn't exactly a potential tourer like its sedan sibling, the EQS, but runs like Mumbai-Pune or Bangalore-Mysore, for example, should be doable. City use of 40-50 km a day should get you an entire work week of use before plugging it in.
+We started our test drive with a fully charged battery showing a 480 km estimated range, which we found rather optimistic, but once we set out downhill from Kodaikanal to Madurai, we actually found the range going up as we drove along! Credit part of that to not using the A/C and the recuperation working well while going downhill, but we offset quite a bit of that with driving uphill on some steep and narrow town roads to picturesque locations. All said, imagine our surprise when we actually reached the foothills with the range estimate showing 540-odd km! The range did drop by about 60 km the moment we turned on the A/C, but the consumption then stayed stable for the rest of our drive, until we eventually parked in Madurai, having driven about 120 km in all sorts of terrain, with 400-odd km of estimated range left. We suspect it'd be a lot less if we'd driven uphill to Kodaikanal instead, but we didn't get a chance to test that. All said, this car should be able to do its rated WLTP range if not a little more with a combination of enthusiastic driving and cruising.
+Our starting & downhill recuperated range readings.
+Closing range with trip summary.
+When it does need a charge, the choices are between a 11 kW AC charger - that Mercedes will install at your premises, complimentary! - that takes about 6.5 hours for a 10-100% charge, or a 100kW DC fast charger that can top up 10-80% while you enjoy a coffee and a donut, in 32 mins! The combination of decent range and overnight charging with the 11 kW AC charger should suffice for most users.
+
+Suspension & Ride & Handling
+In one word, fantastic!
+The EQB is a fairly heavy car at 2+ tonnes and we were skeptical about how it would fare with (usually) firm RFT tyres, but our skepticism was laid to rest over the course of our test drive.
+The EQB glides along on broken roads, immediately impressing yours truly and the especially hard-to-impress Turbanator in equal measure. Bad patches are taken without fuss at 20-40 km/h, and the ubiquitous thuds we felt on our Mercedes sedan rides on the same roads the day prior were missing in action.
+The steering has an extra bit of play at dead center, but is precise and weighs up nicely as speeds pick up. The low center of gravity (CG) afforded by the nearly half-tonne battery pack mounted down low results in good balance and minimal body roll around corners. We had great fun on the twisty downhill sections on the descent from Kodaikanal.
+The precise steering, low CG, weight distribution and mature suspension combined with the torquey electric powertrain make the EQB effortless to drive. The SUV form factor means it's ultimately no corner carver, but there's still plenty of fun to be had.
+We took the car rough-roading to test its moderate 155 mm ground clearance and traction, and it works like a charm. The four corners have decent articulation, and the car never felt like it would bottom out or hit the top of its suspension travel. We tried steep inclines, fairly deep rutted roads and a slippery uphill grassy knoll, and the EQB shifted its heft without complaint or scraping anywhere. The flat underbody gets ample protection and Mercedes' box-in-box safety design means there are reportedly three layers to get through for an external item to pierce the battery compartment. Short of hardcore off-road terrain, the EQB can handle pretty much everything Indian roads can throw at it.
+Turbanator was brave enough to stick his iPhone under the rear right wheel hanging several inches off the ground, with the car perched on three wheels on rocky terrain.
+
+Braking
+For those of us daily-driving ICE cars with hydraulic servoed brakes, it takes a while to get used to the braking in electric cars as the pedal feel and progression just aren't the same with an electrically servoed setup. Add to that the regeneration braking and one would be well-advised to get comfortable before pushing their EVs to put some of that instant torque down.
+The EQB gets disc brakes all around and braking is sharp without being snatchy.
+Regeneration has multiple levels which can be adjusted using the steering-mounted paddle shifters, with the default mode set to moderate. Tap the right paddle, and you're basically free-wheeling off-throttle with barely any regen taking place. The cluster shows D+ in this mode.
+Tap the left paddle twice to shift from D+ to D-, and regeneration gets aggressive. You feel the brakes come on when off-throttle, and the car sheds speed quickly. This mode can be especially useful while driving downhill to maintain control (akin to engine braking in ICE cars), and recharge the battery too (imagine your tank filling up as you drive!). It can get a little jerky when driving enthusiastically though and passengers may not appreciate the head-nodding it causes.

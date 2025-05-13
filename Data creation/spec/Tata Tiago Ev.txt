@@ -1,0 +1,191 @@
+Tata Tiago Ev has 4 variants: XE MR, XT MR, XT LR & XZ Plus Tech LUX LR.
+All variants of Tata Tiago Ev have Power Steering.
+All variants of Tata Tiago Ev have Air Conditioner.
+All variants of Tata Tiago Ev have Heater.
+All variants of Tata Tiago Ev have Automatic Climate Control.
+All variants of Tata Tiago Ev have Accessory Power Outlet.
+All variants of Tata Tiago Ev have Rear Reading Lamp.
+All variants of Tata Tiago Ev have Adjustable Headrest.
+Tata Tiago Ev variant with Cruise Control - XZ Plus Tech LUX LR.
+Tata Tiago Ev variants without Cruise Control - XE MR, XT MR & XT LR.
+Tata Tiago Ev variant with Engine Start/Stop Button - XZ Plus Tech LUX LR.
+Tata Tiago Ev variants without Engine Start/Stop Button - XE MR, XT MR & XT LR.
+Tata Tiago Ev variants with KeyLess Entry - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without KeyLess Entry - XE MR.
+Tata Tiago Ev variants with Follow Me Home Headlamps - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Follow Me Home Headlamps - XE MR.
+Tata Tiago Ev variants with Wheel Covers - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Wheel Covers - XE MR.
+Tata Tiago Ev variants with Integrated Antenna - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Integrated Antenna - XE MR.
+Tata Tiago Ev variant with Projector Headlamps - XZ Plus Tech LUX LR.
+Tata Tiago Ev variants without Projector Headlamps - XE MR, XT MR & XT LR.
+Tata Tiago Ev variant with Automatic Headlamps - XZ Plus Tech LUX LR.
+Tata Tiago Ev variants without Automatic Headlamps - XE MR, XT MR & XT LR.
+Tata Tiago Ev variant with LED DRLs - XZ Plus Tech LUX LR.
+Tata Tiago Ev variants without LED DRLs - XE MR, XT MR & XT LR.
+All variants of Tata Tiago Ev have Anti-lock Braking System (ABS).
+All variants of Tata Tiago Ev have Central Locking.
+All variants of Tata Tiago Ev have Driver Airbag.
+All variants of Tata Tiago Ev do not have Side Airbag.
+All variants of Tata Tiago Ev have Seat Belt Warning.
+All variants of Tata Tiago Ev do not have E-Call & I-Call.
+All variants of Tata Tiago Ev have Remote AC On/Off.
+All variants of Tata Tiago Ev do not have Side Airbag-Rear.
+Tata Tiago Ev variants with Speed Sensing Auto Door Lock - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Speed Sensing Auto Door Lock - XE MR.
+Tata Tiago Ev variants with Impact Sensing Auto Door Unlock - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Impact Sensing Auto Door Unlock - XE MR.
+Tata Tiago Ev variants with Radio - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Radio - XE MR.
+Tata Tiago Ev variants with Bluetooth Connectivity - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Bluetooth Connectivity - XE MR.
+Tata Tiago Ev variants with Android Auto - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Android Auto - XE MR.
+Tata Tiago Ev variants with Apple CarPlay - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Apple CarPlay - XE MR.
+All variants of Tata Tiago Ev do not have Driver Attention Warning.
+All variants of Tata Tiago Ev have Live Location.
+Tata Tiago Ev variant with Over the Air (OTA) Updates - XZ Plus Tech LUX LR.
+Tata Tiago Ev variants without Over the Air (OTA) Updates - XE MR, XT MR & XT LR.
+All variants of Tata Tiago Ev have Over Speeding Alert.
+All variants of Tata Tiago Ev have Smartwatch App.
+All variants of Tata Tiago Ev have Valet Mode.
+Tata Tiago Ev variants with Remote Door Lock/Unlock - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Remote Door Lock/Unlock - XE MR.
+All variants of Tata Tiago Ev have Geo-fence Alert.
+All variants of Tata Tiago Ev have LED Taillights.
+All variants of Tata Tiago Ev have Electronic Brakeforce Distribution (EBD).
+All variants of Tata Tiago Ev have Door Ajar Warning.
+Tata Tiago Ev variant with Remote Immobiliser - XZ Plus Tech LUX LR.
+Tata Tiago Ev variants without Remote Immobiliser - XE MR, XT MR & XT LR.
+All variants of Tata Tiago Ev have SOS / Emergency Assistance.
+All variants of Tata Tiago Ev do not have Forward Collision Warning.
+All variants of Tata Tiago Ev do not have Automatic Emergency Braking.
+All variants of Tata Tiago Ev do not have Oncoming Lane Mitigation.
+All variants of Tata Tiago Ev do not have Speed Assist System.
+All variants of Tata Tiago Ev do not have Traffic Sign Recognition.
+All variants of Tata Tiago Ev do not have Blind Spot Collision Avoidance Assist.
+All variants of Tata Tiago Ev do not have Lane Departure Warning.
+All variants of Tata Tiago Ev do not have Lane Keep Assist.
+All variants of Tata Tiago Ev do not have Lane Departure Prevention Assist.
+All variants of Tata Tiago Ev do not have Road Departure Mitigation System.
+All variants of Tata Tiago Ev do not have Adaptive Cruise Control.
+All variants of Tata Tiago Ev do not have Leading Vehicle Departure Alert.
+All variants of Tata Tiago Ev do not have Adaptive High Beam Assist.
+All variants of Tata Tiago Ev do not have Rear Cross Traffic Alert.
+All variants of Tata Tiago Ev do not have Rear Cross Traffic Collision-Avoidance Assist.
+Tata Tiago Ev variant with Unauthorised Vehicle entry - XZ Plus Tech LUX LR.
+Tata Tiago Ev variants without Unauthorised Vehicle entry - XE MR, XT MR & XT LR.
+Tata Tiago Ev variant with Cooled Glovebox - XZ Plus Tech LUX LR.
+Tata Tiago Ev variants without Cooled Glovebox - XE MR, XT MR & XT LR.
+Tata Tiago Ev variants with Send POI to Vehicle From App - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Send POI to Vehicle From App - XE MR.
+All variants of Tata Tiago Ev have Battery Saver.
+All variants of Tata Tiago Ev have Live Weather.
+All variants of Tata Tiago Ev have SOS Button.
+All variants of Tata Tiago Ev do not have Xenon Headlamps.
+All variants of Tata Tiago Ev have Regenerative Braking.
+All variants of Tata Tiago Ev have Fast Charging.
+All variants of Tata Tiago Ev have RSA.
+Tata Tiago Ev variants with Height Adjustable Driver Seat - XE MR, XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variants with Rear Window Defogger - XE MR, XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variants with Leather Wrapped Steering Wheel - XE MR, XT MR, XT LR & XZ Plus Tech LUX LR.
+All variants of Tata Tiago Ev have Glove Box.
+Tata Tiago Ev variants with Outside Rear View Mirror Turn Indicators - XE MR, XT MR, XT LR & XZ Plus Tech LUX LR.
+All variants of Tata Tiago Ev have Passenger Airbag.
+Tata Tiago Ev variants with Day & Night Rear View Mirror - XE MR, XT MR, XT LR & XZ Plus Tech LUX LR.
+All variants of Tata Tiago Ev have Tyre Pressure Monitoring System (TPMS).
+Tata Tiago Ev variants with Touchscreen - XE MR, XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variants with Rear Window Wiper - XE MR, XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variants with Rear Window Washer - XE MR, XT MR, XT LR & XZ Plus Tech LUX LR.
+All variants of Tata Tiago Ev have Child Safety Locks.
+Tata Tiago Ev variants with Rain Sensing Wiper - XE MR, XT MR, XT LR & XZ Plus Tech LUX LR.
+All variants of Tata Tiago Ev do not have Curtain Airbag.
+Tata Tiago Ev variants with Usb Ports - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Usb Ports - XE MR.
+Tata Tiago Ev variants with Integrated 2DIN Audio - XT MR, XT LR & XZ Plus Tech LUX LR.
+Tata Tiago Ev variant without Integrated 2DIN Audio - XE MR.
+Tata Tiago Ev variants - XE MR & XT MR have a max power of 60.34 Brake Horsepower (BHP).
+Tata Tiago Ev variants - XT LR & XZ Plus Tech LUX LR have a max power of 73.75 Brake Horsepower (BHP).
+Tata Tiago Ev variants - XE MR & XT MR share a max torque of 110 Newton meters.
+Tata Tiago Ev variants - XT LR & XZ Plus Tech LUX LR share a max torque of 114 Newton meters.
+All Tata Tiago Ev variants have a Automatic transmission.
+All Tata Tiago Ev variants come with a 1-Speed gearbox.
+All Tata Tiago Ev variants have a Front-Wheel Drive (FWD) drive type.
+All Tata Tiago Ev variants run on Electric.
+All Tata Tiago Ev variants comply with ZEV emission norms.
+All Tata Tiago Ev variants come with Electric steering.
+All Tata Tiago Ev variants have a turning radius of 5.1m.
+All Tata Tiago Ev variants have Disc front brakes.
+All Tata Tiago Ev variants have Drum rear brakes.
+All Tata Tiago Ev variants have a length of 3769 mm.
+All Tata Tiago Ev variants have a width of 1677 mm.
+All Tata Tiago Ev variants have a height of 1536 mm.
+All Tata Tiago Ev variants offer 240 Litres of boot space.
+All Tata Tiago Ev variants have a seating capacity of 5.0.
+All Tata Tiago Ev variants have a wheelbase of 2400 mm.
+All Tata Tiago Ev variants have 5.0 doors.
+Tata Tiago Ev variants - XE MR, XT MR & XT LR feature a Manual boot opening mechanism.
+Tata Tiago Ev variant XZ Plus Tech LUX LR is equipped with a Electronic boot opening mechanism.
+Tata Tiago Ev variant XE MR has Manual Outside Rear View Mirror (ORVM).
+Tata Tiago Ev variants - XT MR, XT LR & XZ Plus Tech LUX LR feature Powered Outside Rear View Mirror (ORVM).
+All Tata Tiago Ev variants have tyres of size 175/65 R14.
+All Tata Tiago Ev variants come with Tyre Type tyres.
+All Tata Tiago Ev variants have 14 Inch wheels.
+All Tata Tiago Ev variants come equipped with 2.0 airbags.
+Tata Tiago Ev variant XT MR has a Global NCAP rating of 4 Star.
+Tata Tiago Ev variants - XT MR, XT LR & XZ Plus Tech LUX LR come with a 7 inch touchscreen display.
+Tata Tiago Ev variants - XT MR, XT LR & XZ Plus Tech LUX LR come with 4.0 speakers.
+Tata Tiago Ev variant XZ Plus Tech LUX LR features 4.0 tweeters.
+All Tata Tiago Ev variants achieve 100-0 kmph braking in 46.26 s seconds.
+Tata Tiago Ev variants - XT MR, XT LR & XZ Plus Tech LUX LR have Android Auto, Apple CarPlay connectivity options.
+All Tata Tiago Ev variants feature a Full Digital digital cluster.
+Tata Tiago Ev variants - XE MR, XT MR & XT LR feature Fabric upholstery options.
+Tata Tiago Ev variant XZ Plus Tech LUX LR is equipped with Leatherette upholstery.
+All Tata Tiago Ev variants have a city driveability (20-80 kmph) time of 7.18 s.
+All Tata Tiago Ev variants are equipped with a Permanent Magnet Synchronous Motor motor type.
+All Tata Tiago Ev variants are powered by a Lithium-Ion Battery battery.
+All Tata Tiago Ev variants come with Hydraulic shock absorbers.
+Tata Tiago Ev variants - XE MR & XT MR have the same battery capacity of 19.2 kWh
+Tata Tiago Ev variants - XT LR & XZ Plus Tech LUX LR have the same battery capacity of 24 kWh
+Tata Tiago Ev variants - XE MR & XT MR come with the same motor power output of 45 kW.
+Tata Tiago Ev variants - XT LR & XZ Plus Tech LUX LR come with the same motor power output of 55 kW.
+Tata Tiago Ev variants - XE MR & XT MR offer the same range of 250 km.
+Tata Tiago Ev variants - XT LR & XZ Plus Tech LUX LR offer the same range of 315 km.
+Tata Tiago Ev variants - XE MR & XT MR share the same A.C charging time of 6.9 Hours at 3.3kW (10-100%).
+Tata Tiago Ev variants - XT LR & XZ Plus Tech LUX LR share the same A.C charging time of 3.6 Hours at 7.2kW (10-100%).
+All Tata Tiago Ev variants take 58 Min at 25kW (10-80%) to charge using a D.C charger.
+All Tata Tiago Ev variants come with a CCS-II charging port.
+All Tata Tiago Ev variants offer 3.3 kW AC Wall Box | 7.2 kW AC Wall Box | 25 kW DC Fast Charger as charging options.
+Tata Tiago Ev variants - XE MR & XT MR have the same charger type of 3.3 kW AC Wall Box.
+Tata Tiago Ev variants - XT LR & XZ Plus Tech LUX LR have the same charger type of 7.2 kW AC Wall Box.
+Tata Tiago Ev variants - XE MR & XT MR take the same charging time with a 15 A plug point, which is 6.9H (10-100%).
+Tata Tiago Ev variants - XT LR & XZ Plus Tech LUX LR take the same charging time with a 15 A plug point, which is 8.7H (10-100%).
+Tata Tiago Ev variants - XE MR & XT MR take the same charging time with a 7.2 kW AC fast charger, which is 2.6H (10-100%).
+Tata Tiago Ev variants - XT LR & XZ Plus Tech LUX LR take the same charging time with a 7.2 kW AC fast charger, which is 3.6H (10-100%).
+Tata Tiago Ev variants - XE MR & XT MR have the same charging time of 2.6 Hours at 7.2kW (10-100%).
+Tata Tiago Ev variants - XT LR & XZ Plus Tech LUX LR have the same charging time of 3.6 Hours at 7.2kW (10-100%).
+All Tata Tiago Ev variants have a tested range of 214 km.
+All Tata Tiago Ev variants have the MacPherson Strut suspension front suspension.
+All Tata Tiago Ev variants have the Rear twist beam rear suspension.
+All Tata Tiago Ev variants come with Tilt Steering steering adjustment.
+All variants of Tata Tiago Ev have Adjustable Steering.
+All Tata Tiago Ev variants are equipped with Rear parking sensors.
+Tata Tiago Ev variants without USB Charger - XE MR, XT MR & XT LR.
+Tata Tiago Ev variant XZ Plus Tech LUX LR has Front USB charging ports.
+Tata Tiago Ev variant XE MR has Front Only power windows.
+Tata Tiago Ev variants - XT MR, XT LR & XZ Plus Tech LUX LR share the Front & Rear power window configuration.
+Tata Tiago Ev variants without Fog Lights - XE MR, XT MR & XT LR.
+Tata Tiago Ev variant XZ Plus Tech LUX LR has Front fog lights.
+Tata Tiago Ev variants without Rear Camera - XE MR, XT MR & XT LR.
+Tata Tiago Ev variant XZ Plus Tech LUX LR has a With Guidedlines rear camera.
+All Tata Tiago Ev variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Tata Tiago Ev variant without Speakers - XE MR.
+Tata Tiago Ev variants - XT MR, XT LR & XZ Plus Tech LUX LR share the Front & Rear speaker configuration.
+All Tata Tiago Ev variants come with built-in apps including ZConnect.
+All Tata Tiago Ev variants come with 2 drive modes.
+All Tata Tiago Ev variants offer City & Sport drive modes.
+All Tata Tiago Ev variants support 4 levels of regenerative braking.
+Tata Tiago Ev variant without Additional Features - XE MR.
+Tata Tiago Ev variants - XT MR, XT LR & XZ Plus Tech LUX LR share 17.78 cm Touchscreen Infotainment by HARMAN, Speed Dependent Volume, Phone Book Access, Audio Streaming, Incoming SMS Notifications and Read-outs, Call Reject with SMS Feature as additional features.

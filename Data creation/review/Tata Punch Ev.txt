@@ -1,0 +1,200 @@
+Tata Punch.ev Review
+
+Tata Punch.ev Pros
+A well-rounded EV package at an affordable price tag
+Punchy 121 BHP motor is enjoyable. 300 km real-world range is adequate for most people
+Zero emissions, cheap “fuel” costs, no gears, light controls & compact size make it an ideal city car
+Enjoyable 6-speaker Harman ICE. One of the better systems in this segment
+Sorted road manners & reassuring high speed stability
+Well-designed & practical cabin with enough space for 4 adults
+366-liter boot is accommodating
+Loads of features such as ventilated seats, auto-dimming IRVM, multi-mode regen, cruise control, Arcade.ev apps, air purifier, wireless smartphone charging, sunroof and more
+Safety kit includes 6 airbags, disc brakes all-round, ESP, electronic parking brake, auto hold, blind spot view monitor, hill descent control, SOS calling function, etc.
+
+Tata Punch.ev Cons
+Fit, finish & interior quality - although satisfactory overall - still has room for improvement in some areas
+Suspension has a firm tune (R16 variants). It is compliant & liveable, but you do feel bad roads
+The usual EV challenges (charging infrastructure, brand new tech could mean niggles, range anxiety)
+No spare tyre, you will have to make do with a puncture repair kit! Good luck cruising on highways without a spare
+Cabin width makes 4 adults welcome, not 5
+Some missing goodies such as a split rear seat, rear A/C vents, spare wheel…
+Tata's after-sales service quality is a hit or miss. Remains a gamble
+It's a brand-new car, so probability of issues & niggles is high
+
+Introduction
+We’re officially in the era of EVs. Manufacturers are introducing their EV products one after another and the public is accepting them with arms wide open. While most manufacturers are gearing up for new launches, Tata Motors, the company that currently holds the monopoly in the electric vehicle space, is strengthening its position by introducing a new range of EVs on its all-electric architecture called the Acti.ev. The first product based on this new Pure EV architecture is the car that you see here - the Punch.ev.
+The Punch.ev is powered by a permanent magnet synchronous motor that makes 80 BHP and 114 Nm. It comes with a 25 kWh battery pack and a claimed range of 315 km (as per MIDC cycle). There’s also a Punch.ev Long Range variant that comes with a 121 BHP motor and a 35 kWh battery pack with a claimed range of 421 km (as per MIDC cycle). We got to drive the Punch.ev Long Range variant in Bangalore for a day and there’s a lot to cover, so let’s get right to it.
+
+Tata Punch.ev Price & Brochure
+Tata has launched the Punch.ev at prices starting from Rs. 10.99 lakh for the Smart variant (25 kWh battery). The Punch.ev Long Range Empowered + variant tops out at Rs. 14.49 lakh.
+Tata has kept the pricing in a way that the Punch.ev doesn’t overlap with the Nexon.ev. Other cars that compete against the Punch.ev are the Citroen eC3 and the MG Comet. We’ll say the Punch.ev is well priced considering that it offers a lot compared to the competition.
+
+Incentives
+Central government incentives for electric vehicles are accounted for by the manufacturer when quoting the price at the time of purchase. These FAME II subsidies will be valid until March 31, 2024. State-wise incentives have encouraged a lot of people to buy EVs. However, given the growing popularity of EVs, some states have stopped giving subsidies. Make sure that you check the official government notifications regarding
+electric vehicle incentives as well as the dealer for more details.
+
+Running Costs
+Being a mass-market EV, the running cost is an important factor for most buyers. As mentioned above, the Punch.ev has 2 battery pack options – 25 kWh and 35 kWh which means that it requires ~25 units and 35 units respectively for a 100% charge. The per-unit cost of electricity depends on the slab that you are in & your location, but on average, it’s about Rs. 8 per unit. Hence, for a full charge, you will be paying Rs. 200 and Rs. 280 respectively. The claimed range for both options is 315 km and 421 km. In real-world driving conditions, you can expect a range of 200 km and 300 km respectively. Hence, if you calculate, you will end up paying roughly Rs. 1 and Rs. 0.93 per kilometre respectively.
+
+Exterior
+Acti.ev Architecture
+Before we get to the exterior aspects of the car, let’s talk about the Acti.ev architecture on which the Punch.ev has been built. Remember that this electric platform is not a completely different platform from that of the IC engine-powered Punch and has a lot in common with it. That’s because the ALFA-ARC platform on which the regular Punch is based was developed with an EV version in mind. The entire mechanical platform layer has been designed around the battery pack and hence, the integration of an EV powertrain has been more seamless. What this means is that thanks to the design of the platform, you have better battery packaging. The orthogonal battery pack is in the center of the chassis which gives the car an almost 50:50 weight distribution. The architecture uses LFP cylindrical cells and is chemistry agnostic, so different chemistries can be integrated in the future. The architecture will also support Vehicle-to-Load (V2L) and Vehicle-to-Vehicle Charging (V2V) technology, but that hasn’t been provided in the Punch.ev as of now. Future EVs from Tata, namely the Curvv, Harrier, Sierra and Altroz will be based on this Acti.ev architecture.
+
+Design & Styling
+Design changes from the IC version Punch are noteworthy. You have a redesigned front end that is now more in line with the new design language of Tata EVs. In fact, the front now looks very similar to the Nexon.ev. The rear and side of the car have been more or less left untouched. It measures 3,857 mm in length (30 mm more), 1,742 mm in width and 1,633 mm in height (18 mm more). The wheelbase remains unchanged at 2,445 mm. The overall styling of the Punch.ev is very well executed and the car looks good in person. Even when on the road, it did attract some attention.
+There are a total of 5 colour options available across the 3 variants (Smart, Adventure & Empowered) – Pristine White, Daytona Grey, Fearless Red, Seaweed and Empowered Oxide. The Empowered Oxide, as the name suggests, is available only on the Empowered variant.
+
+Build Quality, Fit & Finish
+The Tata Punch has a 5-star GNCAP rating and you can expect the Punch.ev to perform similarly. The battery pack adds rigidity to the floor and reinforcements have been added to the Punch.ev. The car feels solid and there’s a fair amount of weight on the doors and bonnet. In terms of fit and finish, we didn’t notice anything out of place on our test car and the panel gaps were mostly consistent. On some of the other cars at the event though, the panel gaps weren’t consistent. Even in terms of the finish on the panel edges, there were some inconsistencies.
+
+Wheels & Tyres
+The regular range Punch.ev’s top-end Empowered variant is offered with 16" diamond-cut alloy wheels that are shod with 195/60 section Apollo Amperion tyres. The Punch.ev Long Range that’s available in Adventure and Empowered variants also gets these 16” wheels. These are EV-specific low rolling resistance tyres. The Smart and Smart+ variants are offered with 185/70 R15 tyres. The low rolling resistance tyres work well for extracting maximum range. But if you want to push the 121 BHP (LR variant) of the Punch.ev over some twisty roads, you will wish for more grip. An upsize to 205s will make a huge difference. There is no spare wheel provided. You get a puncture repair kit instead. PSI rating is 34 to extract more range.
+
+Ground Clearance
+Tata has managed to keep the unladen ground clearance of the Punch and Punch.ev same at 190 mm. However, with the design changes, off-roading angles are lesser than the regular Punch. Here are the numbers - approach angle = 19° (20.3°), departure angle = 28° (37.6°) and ramp over angle 15.1° (22.2°).
+
+Maintenance
+The service interval for Punch.ev is 1 year / 10,000 km. EV maintenance is far simpler than ICE cars as there are no oil changes & filters (air and oil) to replace. Also, since a lot of the braking is done during regeneration, the brake pads should last much longer than the regular Punch. You can expect the service costs of the Punch.ev to be considerably lower.
+
+Standard & Extended Warranty
+Tata offers a 3-year / 1,25,000 km standard warranty for the Punch.ev. You have the option of extending it by a year or two (up to 1,25,000 km). The battery pack and motor are offered with a warranty of 8 years or 1,60,000 km.
+
+Safety
+As mentioned earlier, the Punch.ev is based on a proven platform, so we expect it to score well at the BNCAP test. It gets safety features like 6 airbags, ESP, hill-hold assist, iTPMS, ISOFIX and rear parking sensors as standard. Other safety features include all-wheel disc brakes, hill descent control, SOS calling function, 360-degree view monitor and blind spot view monitor. The battery pack and motor get an IP67 rating which is water and dust protection.
+
+Interior
+Cabin Design & Quality
+Tata has carried over the interior design of the Punch petrol, but added a modern touch to it and equipped it with a bunch of features. While the Punch’s interior looked as if it belonged in a budget car, the Punch.ev’s interiors look premium. The Altroz steering has been replaced with the one from the Nexon.ev, which is a leather-wrapped, two-spoke unit. The 10.25-inch digital instrument cluster and 10.25-inch infotainment unit from the Nexon.ev have also been offered in the Punch.ev. The crash pad is finished in ivory white with nice tri-arrow detailing and a textured dark grey panel that runs across the dash looks classy. There are no soft-touch plastics here, which is not a surprise. Overall interior quality is satisfactory, but there are some areas where the plastic edges are sharp and the finish could’ve been better. All other aspects of the interiors are similar to the regular Punch.
+
+Unique & Noteworthy Features
+Tata has gone all out with the features in the Punch.ev. Some of the noteworthy features are a 360-degree view system, blind spot monitor, frunk, electronic parking brake with auto hold, ventilated front seats, auto-dimming IRVM, auto headlamps, 10.25-inch digital instrument cluster, auto wipers, wireless charging, wireless Android Auto and Apple CarPlay, air purifier, voice assistant with 200+ voice commands in 6 languages and LED headlamps. The 10.25-inch infotainment screen also features Arcade.ev app suite with 17 apps as of now, more will be added later. These include music, podcasts, games and even OTT content streaming. There’s also the ZConnect Connected Car tech that has features like driving score analytics, geo-fencing, valet mode, car location tracking, remote lock/unlock, remote horn, and remote diagnostics.
+
+Boot Space & Storage
+The Punch.ev has a boot space of 366 litres which is the same as the regular Punch and quite impressive as well. Strangely Tata has not provided a spare wheel. Instead, you get a storage space in that area where you can keep the puncture repair kit, tools, and portable charging cable. You also get a frunk (storage unit under the bonnet) which can hold some items. As of now, the frunk is not a standard unit, but a dealer fitment.
+
+Driving the Tata Punch.ev Long Range
+Permanent Magnet Synchronous Motor in the Punch.ev Long Range puts out 121 BHP and 190 Nm of torque. You get a 35 kWh battery pack with the Long Range variant that gives the Punch.ev a claimed range of 421 km.
+One of the biggest gripes we had with the regular Punch was that the petrol engine was underpowered and lacked “punch”. With the electric version, the hopes were high and Tata has stood up to those expectations by providing this 121 BHP motor. Push the engine start button with your foot on the brake pedal and the car is “Ready” to move as is displayed on the MID. There are four transmission modes to choose from: P, R, N and D. Engage D, lift your foot off the brake pedal and the car crawls forward. Since there’s no clutch, the car rolls off the line very smoothly and this is highly appreciable in heavy traffic conditions where you can drive with just the brake pedal.
+Start driving with a light foot on the pedal and you will notice that the accelerator pedal’s response is linear and not snappy. Especially driving in Eco mode, the acceleration is very smooth and passengers will appreciate the jerk-free drive. There are no gearshifts or engine sounds which means that the driving experience is very refined. Light to medium throttle inputs are enough to keep up with the city traffic and close gaps to the vehicles in front. Floor the accelerator pedal and you'll be greeted with instant power/acceleration. This is the beauty of powerful electric motors. The car is quick and has abundant torque right from the get-go. Tata claims a 0-100 km/h time of 9.5 seconds and a top speed of 140 km/h, which are believable figures. You can easily make those quick overtakes in the city.
+Get on the highway and the Punch.ev is surprisingly capable. Cruising at highway speeds is not at all stressful for the motor. Getting up to cruising speeds is an easy affair and the absence of any sound means you will reach triple-digit speeds without realising it (it's only when the speed warning chimes sound that you know you're doing 80 km/h and 120 km/h). The car feels very comfortable on the highway and you can cover good distances in the Punch.ev. Overtaking is also not an issue as you can just bury the accelerator pedal and you're off! The car doesn’t run out of breath in the middle of an overtake and you can easily get past most cars. Keep in mind that if you drive hard, the range drops drastically. This is also why you will see EVs that are driving long distances, stick to the middle lane and cruise at 80-100 km/h (which is the best cruising speed for the current lot of EVs).
+
+Drive Modes
+There are 3 driving modes to choose from. They're mapped specifically for different driving styles. What’s appreciable is that the motor's characteristics are distinct in each mode.
+City Mode: The default mode. The car always restarts in this mode, no matter what mode you last drove in. It's great for driving in the city as well as on the highway. Strikes a good balance between power and economy.
+Eco Mode: The mode to engage when you want the maximum range. The throttle response is dumbed down, which results in a smoother drive in the city (less of that "torque-pull" effect). Power comes in more gradually when you ask for it. While there's enough grunt for day-to-day driving or cruising on the expressway, when you need to pull off a quick overtaking manoeuvre, you will want to engage one of the other modes.
+Sport Mode: The mode when you really want to have fun. Floor the A-pedal in Sport mode and watch the traction control warning light flash in the instrument cluster. In this mode, the throttle response is sharper, and the car just feels more eager to get a move on. However, it can feel too peaky for city driving and also eats up the battery faster. Use "Sport" when you're looking for fun on expressway runs.
+
+Regenerative Braking
+There are 4 levels of regenerative braking which can be adjusted using the paddles placed behind the steering wheel. We absolutely love adjustable regen settings as we can tune them to suit our mood. On level 0, there is no regeneration. On levels 1 and 2, there's obviously lesser resistance when you lift off the accelerator pedal. Driving on level 3 enables maximum regeneration. Jaggu enjoyed driving on maximum regeneration mode. You can also do
+one-pedal driving
+in many situations. However, do keep in mind that the car will never come to a complete halt. It will keep crawling forward without any throttle input.
+
+Noise, Vibration & Harshness (NVH)
+There is no engine noise at all. The only sound coming is a faint whine from the electric motor at high revs. With no gearshifts & minimal mechanical parts, there are no jerks or vibrations. On the highway, tyre noise starts creeping into the cabin at 80 km/h. You'll hear it more because there is no engine sound to drown some of it out. Around 90-100 km/h, we could hear some wind noise. Again, more noticeable because there is no engine sound.
+
+Range
+Tata claims a range of 421 km with the 35 kWh battery pack. However, these numbers are very subjective and the real-life range solely depends on how you drive the car. ~300 km should be doable IMHO thanks to the better battery packaging. Can go lower, depending on how you use the accelerator. We await real-life reports from BHPian owners of this car.
+
+Charging
+The Punch.ev gets the industry-standard CCS 2 charging port. The Punch.ev with the 25 kWh battery pack is available with a 3.3 kW AC wall box charger that can charge the battery from 10-100% in 9.4 hours. You can opt for a 7.2 kW AC fast charger which can do the same in 3.6 hours. When on the road, you can choose a 50 kW DC fast charger to charge from 10% to 80% in 56 minutes.
+The Long Range Punch.ev with the 35 kWh battery pack with the 3.3 kW AC wall box charger takes 13.5 hours to charge from 10-100%. The same on a 7.2 kW AC fast charger takes 5 hours. With a 50 kW DC fast charger, you can charge from 10 to 80% in 56 minutes. GTO thinks a 15A charger is all that 99% of owners will need -
+his article on the same.
+
+Suspension & Ride Comfort
+The Punch.ev comes with a McPherson strut suspension at the front and a twist beam suspension with coil springs at the rear just like the regular Punch. Like most EVs, the suspension tune is on a stiffer side thanks to the extra weight of the battery pack. However, the suspension tune is not bone-jarring. It is compliant and very much liveable. While you are always aware of the surface you are travelling on, the Punch.ev handles obstacles and potholes on the road very well. The suspension feels very robust and abuse-friendly.
+You have 16" rims shod with 195/60 section tyres. Lower variants with the 185/70 R15 tyres will have a better ride due to taller tyre sidewalls. Further, the recommended tyre pressure is 34 PSI; you can drop it down while driving in the city for a cushier ride. The good thing about such a suspension tune is that the car doesn’t bounce around at 80-100 km/h. For a small crossover, it rides pretty nicely on the highway @ 100 km/h and feels stable.
+
+Handling & Dynamics
+We had mentioned in the Punch review that the suspension setup and chassis can handle a lot more than the 1.2 NA petrol has to offer. That problem has been sorted in the Punch.ev with the 121 BHP motor. The straight-line stability is satisfactory and the car doesn’t feel nervous even at 120 km/h. You can easily carry good speed around long curves and the car will hold its line well. Body roll is well controlled and thanks to the almost 50:50 weight distribution, the car doesn’t feel nervous during direction changes from one curve to another. We even tried a slalom course and the car managed to keep its composure. The only thing that holds you back are the low rolling resistance EV tyres. They squeal in protest whenever you try to push the car hard into corners.
+
+Steering
+The electric power steering is one of the nicer units around. It is light at city speeds and weighs up sufficiently as the speed increases. The EPS isn't lifeless and does give you some feel of what the front wheels are up to. That being said, the steering isn’t particularly sharp or precise. Enthusiasts will expect more feedback and a connected feel from the steering. There’s also a weird steering behaviour that we’ve noticed in some other Tata cars as well - the steering weight feels inconsistent. There is a point at ~70-80 km/h when the steering suddenly weighs up. The transition is very evident and can catch you off-guard at times.
+
+Braking
+While the Punch.ev comes with disc brakes at the front and drums at the rear, the Punch.ev Long Range gets an all-wheel disc brake setup. The brakes provide excellent stopping power. Emergency braking situations are handled well, and the car is brought to a halt from high speeds effectively. Besides, the car is equipped with ABS + EBD, corner stability control, disc brake wiping, and panic brake alert. The pedal feel is consistent and doesn’t take long to get used to.
+Tata Motors had also arranged for a
+
+Tata Punch.ev Exterior Images
+Front gets a major refresh and the face now resembles the Nexon.ev.
+Not much has been changed at the rear and it continues to look very concept car-like.
+Ditto for the side profile. Plenty of bulges and creases add to the muscular look of the car.
+The Punch.ev measures 3,857 mm in length (30 mm more than regular Punch), 1,742 mm in width and 1,633 mm in height (18 mm more than regular Punch). The wheelbase remains unchanged at 2,445 mm.
+Overall build quality is satisfactory. However, we found panel gaps in some of the other test cars to be inconsistent.
+The front is also more aerodynamic and since the EV doesnt need as much air cooling as the IC version, a lot of the front end has been sealed. Only the centre part of the air dam has a grille.
+LED headlamps are offered even in the base Smart variant. Adventure and Empowered variants get the LED projector headlamps that you see in this picture. Fog lamps that double up as cornering lamps are placed below. Also, notice the sleek LED DRLs above.
+Bumper gets air curtains for better aerodynamics.
+DRLs double up as sequential turn-indicators.
+A look at the LED pilot lamp that connects the DRLs. Interestingly, this lamp also shows the battery percentage while charging (fully lit means 100% charged).
+The Punch.ev gets a welcome function that makes the DRLs and the LED strip glow when you unlock the car.
+You get a different sequence when you lock the car.
+No underbody protection. Tata shouldve offered some underbody protection as the motor is completely exposed.
+Punch.ev comes with a frunk or storage area under the bonnet. As of now, this is a dealer fitment and can hold some small items.
+The Punch.ev gets an industry-standard CCS 2 charging port. Note that the Punch.ev also gets the new Tata logo thats finished in acrylic which is a step towards sustainability.
+The charging flap slides to the side in a fancy manner.
+Charging flap emergency release cable is placed under the bonnet.
+The Punch.ev comes equipped with rain-sensing wipers. Its sensor is placed on top of the windshield.
+Turn-indicators are integrated into the ORVM housings, which also hold the side cameras for the 360-degree view monitor.
+EV badge is placed at the bottom of the front doors.
+16-inch diamond cut alloy wheels are shod with 195/60 section tyres. You get Apollo Amperion EV-specific low rolling resistance tyres for the Punch.ev.
+Long Range variants get disc brakes on all wheels.
+Orthogonal battery pack has been integrated into the floor of the car.
+Sunroof has been added to the list of features on the Punch.ev. Also, check out the black roof on this dual-tone variant.
+The top-end Empowered variants get this shark fin antenna while the other variants get your regular wired antenna.
+LED tail-lamp clusters have a unique and futuristic design. Notice the tri-arrow design of the pilot lamp and the intricate detailing.
+A look at the tail-lamp cluster in action.
+Just like the front, the rear lights also play an unlock sequence.
+Heres the sequence when you lock the car.
+Tata has moved away from chrome and you wont find any chrome bits on the car. The Tata logo and the badging which were finished in chrome on the regular Punch have been changed.
+Rear bumper is identical to the regular Punch except for the skid plates that are finished in silver and, obviously, the absence of an exhaust pipe.
+Air curtains on the rear bumper as well.
+Rhino makes its appearance on the Punch.ev as well.
+There are a total of 5 colour options available across the 3 variants  Pristine White, Daytona Grey, Fearless Red, Seaweed (our test car) and Empowered Oxide. The Empowered Oxide paint shade that you see here is available only on the top-end Empowered variant.
+
+Tata Punch.ev Interior Images
+Just like the outside, the interiors also get noticeable changes that make the Punch.ev’s cabin feel premium.
+Leatherette-wrapped two-spoke steering wheel with a flat bottom is taken from the Nexon.EV facelift. It comes with a backlit "T" badge and buttons. Eagle Eyed BHPians will notice that the display and the buttons are misaligned slightly. The light colour will result in it getting soiled very easily. Indicator and wiper stalks have been carried over from the Punch. However, the Punch.ev gets a new indicator chime which I found to be annoying. Moreover, the timing of the chime is not uniform which will definitely trigger a lot of people's OCD.
+The buttons on the left are for telephone controls and the ones on the right are for the MID and cruise control. They may look touch-sensitive, but they're actually physical buttons.
+A brushed silver insert at the bottom is a nice touch. Also, check out the contrast blue stitching.
+Metal paddles feel very nice to operate. The level of regeneration can be adjusted using these. While pulling the one on the right increases the regen level, the one on the left can be used to decrease it.
+10.25-inch fully digital instrument cluster has been carried over from the recent Nexon.EV facelift although it gets a different colour theme. Note that this unit is available only in the top Empowered+ variant.
+You get your regular trip-related information and also vehicle-related information like iTPMS. The display has three sections and you can choose different layouts as per your liking. You can also view some EV-related information like the energy analytics.
+One of the most usable features of the MID is this map projection. You can connect your smartphone using Android Auto or Apple CarPlay and mirror the navigation display on the MID. How cool is that! You can have the entire screen as the map display or have it in the middle as shown in the image or you can have turn-by-turn navigation as well if that’s what you prefer. Note that for Apple CarPlay, you have to use Apple Maps for projection. Google Maps can be projected via Android Auto. You can also have a compass displayed and can even check the energy flow.
+A couple of dummy buttons on the right side of the driver.
+No changes to the doorpad design.
+You now get puddle lamps underneath the door.
+Driver's window gets one-touch-down convenience and is backlit.
+Seats are draped in leather and they look very nice. The light upholstery will of course get soiled easily and will be tough to maintain. The seats are comfy and offer satisfactory support (both - lateral as well as under-thigh) for a person of a medium build and height. Larger users might find them a bit tight though. The adjustable headrests are soft. The seat compound is just right, we feel, for combined city and highway usage.
+Classy-looking silver insert on the backrest of the seat.
+Front seats are ventilated. They are a boon in our conditions.
+Pedals are well spaced out. Strangely, Tata has removed the dead pedal from the regular Punch (reference image).
+ORVMs have been redesigned and are now flatter at the top (reference image). They are well-sized and offer a good view of the action at the rear.
+The view through the IRVM is just average. It’s mainly restricted by the headrests and the thick C-pillars.
+A welcome addition is auto-dimming function.
+Centre fascia gets the most updates. It looks a lot more modern and premium.
+Right on top, you have a 10.25-inch touchscreen infotainment unit which is similar to the one we’ve seen on the Nexon facelift. It also has a 3-block design and the display is crisp and easy to read. There is no lag while operating the touchscreen and all the options are easily accessible.
+The display is customizable and you can have different widgets on the home screen. You can slide from the top like you would on your phone to check notifications and you will get quick access buttons. The infotainment system also gets wireless Android Auto and Apple CarPlay connectivity. There are plenty of tweaks and options that you can play around with for the best sound experience.
+Certain vehicle settings can be accessed through the touchscreen as well. You can view the software details and check for updates. In case there’s an issue, you can do a factory reset as well. You also get an air purifier with dust sensors.
+One of the significant features of this touchscreen is the Arcade.ev app suite that currently allows you to use 17 apps as of now. Different types of apps include music, podcasts, FM radio, OTT content, and more. There is no lag while using these apps including playing games or streaming a movie. The 360-degree view and blind spot monitor have good-quality cameras.
+HVAC controls get this piano black panel around it which is very reflective and attracts scratches. This is a touch-sensitive panel for A/C controls. At the top are the buttons to lock/unlock the charger and to engage hill descent control among others.
+This is a nice touch (pun unintended) – upon switching off the car, only the buttons for the functions that can be used when the car is off are backlit and the rest are not.
+Below, you have a 12V socket, a regular USB port for wired Android Auto and Apple CarPlay connectivity and a Type-C USB port. You also get a wireless charging pad below which surprisingly has a cooling fan underneath it. The wireless charging area is illuminated by a small LED which is part of the mood lighting feature.
+Rotary chrome dial to switch between transmission modes. You get a display on top of the dial which shows which mode you are in. Using this dial isn’t very intuitive and something like the shifter from Nexon.ev would’ve been much better. One of the major problems we found while using this was while taking 3-point turns. While switching between D and R, you end up turning the knob a bit too much and switching to P. What’s worse is that once the car is in P, the electronic parking brake gets engaged. So, you have to disengage the parking brake and then move the dial to R. Sport and Economy drive mode buttons are placed next to the dial.
+Centre console houses the electronic parking brake and auto hold button along with a couple of cupholders.
+The Punch.ev gets a driver armrest. It’s soft and set at a nice height as well. Contrast blue stitching looks rather good on the dark grey leather.
+There’s a very usable small storage box under the armrest.
+Passenger side of the dashboard remains unchanged.
+Mood lighting in the passenger footwell is new. While the idea of providing mood lighting is good, the execution seems half-hearted. The light is barely visible and something like an LED strip would’ve looked much nicer.
+Front passenger doesn’t get a grab handle thanks to the side airbags and the sunroof.
+The glove box is big and has a partition on top to hold a tablet/book. It also gets a pen holder and cooling and illumination.
+A look at the sunroof control panel. The switches for an emergency call and a breakdown call are placed next to the sunroof control button.
+The sunroof brings in more light to the cabin. You can operate the sunroof with voice commands.
+A look at rear seats with the new leather upholstery. All three rear passengers now get 3-point seatbelts.
+Rear seat is comfortable enough for me to sit behind my own driving position (I’m 5’10” tall). Centre armrest is set at a nice height but sadly doesn’t have any cupholders. Headroom is just about enough and under-thigh support is good.
+Roof dips because of the sunroof. Also, notice that the roofliner is different in the Punch.ev. It feels more premium.
+I had just enough legroom behind my driving position. Two 6-footers will find it difficult to sit behind each other. With the front seat pushed all the way forward, you have plenty of room.
+You still don’t get rear A/C vents. Instead, you get a mobile holder and a blank slot at the bottom where you would expect a USB charging port.
+Rear headrests have been redesigned and are smaller than those in the regular Punch. They’re soft and very usable.
+View through the rear windshield is restricted by the headrests and thick C-pillars. If you’re wondering why the seatbelts are buckled in when no one is in the rear seat, you’re not alone. Annoyingly enough, if the rear seatbelts aren’t buckled in, you keep getting an alert on the MID accompanied by a chime. This is something we’ve seen in recent Maruti cars as well.
+Boot space of 366 litres is more than many of its competitors. The loading lip is high though which means you will have to lift your luggage a little higher while loading.
+Baggage hooks with 1 kg capacity on both sides of the boot. Boot lamp is on the left side.
+Instead of offering a spare wheel, Tata has decided to provide an organiser under the boot floor. You can place the charging cable, tools and the puncture repair kit here. IMO having this organiser is unnecessary and Tata should’ve just provided a spare wheel, especially since the space for the spare wheel is still there! Why not just provide a spare wheel?

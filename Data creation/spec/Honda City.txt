@@ -1,0 +1,191 @@
+﻿Honda City has 20 variants: SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+All variants of Honda City have Power Steering.
+All variants of Honda City have Air Conditioner.
+All variants of Honda City have Heater.
+All variants of Honda City have Automatic Climate Control.
+All variants of Honda City have Accessory Power Outlet.
+All variants of Honda City have Trunk Light.
+All variants of Honda City have Vanity Mirror.
+All variants of Honda City have Rear Reading Lamp.
+All variants of Honda City have Adjustable Headrest.
+All variants of Honda City have Rear Seat Centre Arm Rest.
+All variants of Honda City have Rear AC Vents.
+All variants of Honda City have Engine Start/Stop Button.
+All variants of Honda City have Voice Commands.
+All variants of Honda City have KeyLess Entry.
+All variants of Honda City have Follow Me Home Headlamps.
+All variants of Honda City have Tachometer.
+Honda City variants with Wheel Covers - SV & SV Reinforced.
+Honda City variants without Wheel Covers - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants with Alloy Wheels - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Alloy Wheels - SV & SV Reinforced.
+All variants of Honda City have Integrated Antenna.
+All variants of Honda City have Projector Headlamps.
+Honda City variants with Automatic Headlamps - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Automatic Headlamps - SV & SV Reinforced.
+All variants of Honda City have LED DRLs.
+Honda City variants with LED Headlamps - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced.
+Honda City variants without LED Headlamps - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT.
+All variants of Honda City have Anti-lock Braking System (ABS).
+All variants of Honda City have Central Locking.
+All variants of Honda City have Driver Airbag.
+Honda City variants with Side Airbag - SV Reinforced, V Reinforced, VX Reinforced, V CVT Reinforced, ZX Reinforced, VX CVT Reinforced & ZX CVT Reinforced.
+Honda City variants without Side Airbag - SV, V, V Elegant, V Apex Edition, VX, V CVT, V Elegant CVT, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, VX Apex Edition CVT & ZX CVT.
+All variants of Honda City have Seat Belt Warning.
+All variants of Honda City have Engine Immobilizer.
+Honda City variants without E-Call & I-Call - SV, V, V Elegant, VX, V CVT, V Elegant CVT, ZX, VX CVT & ZX CVT.
+All variants of Honda City do not have Side Airbag-Rear.
+All variants of Honda City have Electronic Stability Control (ESC).
+All variants of Honda City have Speed Alert.
+All variants of Honda City have Speed Sensing Auto Door Lock.
+All variants of Honda City have ISOFIX Child Seat Mounts.
+All variants of Honda City have Hill Assist.
+All variants of Honda City have Impact Sensing Auto Door Unlock.
+All variants of Honda City have Radio.
+Honda City variants with Wireless Phone Charging - V Elegant, VX, V Elegant CVT, VX Reinforced, VX Apex Edition, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Wireless Phone Charging - SV, SV Reinforced, V, V Reinforced, V Apex Edition, V CVT, V CVT Reinforced & V Apex Edition CVT.
+All variants of Honda City have Bluetooth Connectivity.
+All variants of Honda City have Android Auto.
+All variants of Honda City have Apple CarPlay.
+Honda City variants with Google / Alexa Connectivity - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Google / Alexa Connectivity - SV & SV Reinforced.
+Honda City variants with Smartwatch App - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Smartwatch App - SV & SV Reinforced.
+Honda City variants with Paddle Shifters - V CVT, V Elegant CVT, V CVT Reinforced, V Apex Edition CVT, VX CVT, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Paddle Shifters - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, VX Reinforced, VX Apex Edition, ZX & ZX Reinforced.
+Honda City variants with Halogen Headlamps - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT.
+Honda City variants without Halogen Headlamps - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced.
+All variants of Honda City have LED Taillights.
+All variants of Honda City have Electronic Brakeforce Distribution (EBD).
+All variants of Honda City have Brake Assist.
+All variants of Honda City have Anti-Theft Alarm.
+All variants of Honda City have Door Ajar Warning.
+Honda City variants with Digital Odometer - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Digital Odometer - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT.
+Honda City variants with Blind Spot Camera - V Elegant, VX, V Elegant CVT, VX Reinforced, VX Apex Edition, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Blind Spot Camera - SV, SV Reinforced, V, V Reinforced, V Apex Edition, V CVT, V CVT Reinforced & V Apex Edition CVT.
+Honda City variants with Forward Collision Warning - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Forward Collision Warning - SV & SV Reinforced.
+Honda City variants with Lane Departure Warning - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Lane Departure Warning - SV & SV Reinforced.
+Honda City variants with Lane Keep Assist - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Lane Keep Assist - SV & SV Reinforced.
+Honda City variants with Adaptive Cruise Control - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Adaptive Cruise Control - SV & SV Reinforced.
+Honda City variants with Adaptive High Beam Assist - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Adaptive High Beam Assist - SV & SV Reinforced.
+Honda City variants with Rear Window Sunblind - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Rear Window Sunblind - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT.
+Honda City variants with Leather wrap gear-shift selector - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Leather wrap gear-shift selector - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT.
+All variants of Honda City have Tailgate Ajar Warning.
+All variants of Honda City have Lane Change Indicator.
+All variants of Honda City have Traction Control.
+All variants of Honda City have Height Adjustable Driver Seat.
+All variants of Honda City have Rear Window Defogger.
+Honda City variants with Leather Wrapped Steering Wheel - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+All variants of Honda City have Glove Box.
+All variants of Honda City have Adjustable Headlamps.
+All variants of Honda City have Outside Rear View Mirror Turn Indicators.
+All variants of Honda City have Passenger Airbag.
+All variants of Honda City have Day & Night Rear View Mirror.
+All variants of Honda City have Tyre Pressure Monitoring System (TPMS).
+All variants of Honda City have Touchscreen.
+All variants of Honda City have Rear Window Wiper.
+All variants of Honda City have Rear Window Washer.
+All variants of Honda City have Child Safety Locks.
+Honda City variants with Rear Spoiler - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced.
+All variants of Honda City have Rain Sensing Wiper.
+All variants of Honda City have Air Quality Control.
+Honda City variants with Curtain Airbag - SV Reinforced, V Reinforced, VX Reinforced, V CVT Reinforced, ZX Reinforced, VX CVT Reinforced & ZX CVT Reinforced.
+Honda City variants without Curtain Airbag - SV, V, V Elegant, V Apex Edition, VX, V CVT, V Elegant CVT, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, VX Apex Edition CVT & ZX CVT.
+All variants of Honda City have Usb Ports.
+Honda City variants without Gear Shift Indicator - SV Reinforced, V Reinforced, V CVT Reinforced, VX Apex Edition, ZX Reinforced, VX CVT Reinforced & ZX CVT Reinforced.
+Honda City variants without Luggage Hook & Net - SV Reinforced, V Reinforced, V CVT Reinforced, VX Apex Edition, ZX Reinforced, VX CVT Reinforced & ZX CVT Reinforced.
+Honda City variants with LED Fog Lamps - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced.
+Honda City variants without LED Fog Lamps - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT.
+Honda City variants with USB & Auxiliary input - SV & SV Reinforced.
+Honda City variants without Rear Curtain - SV Reinforced, V Reinforced, V CVT Reinforced, VX Apex Edition, ZX Reinforced, VX CVT Reinforced & ZX CVT Reinforced.
+All Honda City variants use the i-VTEC engine.
+All Honda City variants have a displacement of 1498  cubic centimeters.
+All Honda City variants produce a maximum power of 119.35 Brake Horsepower (BHP) at 6600 Revolutions Per Minute (RPM).
+All Honda City variants produce a maximum torque of 145 Newton meters at 4300 Revolutions Per Minute (RPM).
+All Honda City variants have 4.0 valves per cylinder.
+Honda City variants - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, VX Reinforced, VX Apex Edition, ZX & ZX Reinforced share a Manual transmission.
+Honda City variants - V CVT, V Elegant CVT, V CVT Reinforced, V Apex Edition CVT, VX CVT, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced share a Automatic transmission.
+All Honda City variants have 4.0 cylinders.
+Honda City variants - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, VX Reinforced, VX Apex Edition, ZX & ZX Reinforced share a 6-Speed gearbox.
+Honda City variants - V CVT, V Elegant CVT, V CVT Reinforced, V Apex Edition CVT, VX CVT, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced share a CVT gearbox.
+All Honda City variants have a Front-Wheel Drive (FWD) drive type.
+All Honda City variants run on Petrol.
+Honda City variants - SV, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced comply with BS VI 2.0 emission norms.
+Honda City variant SV Reinforced complies with BS VI emission norms.
+All Honda City variants come with Electric steering.
+All Honda City variants have a turning radius of 5.3m.
+All Honda City variants have Ventilated Disc front brakes.
+All Honda City variants have Drum rear brakes.
+Honda City variants - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT share a length of 4574 mm.
+Honda City variants - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced share a length of 4583 mm.
+All Honda City variants have a width of 1748 mm.
+All Honda City variants have a height of 1489 mm.
+All Honda City variants offer 506 Litres of boot space.
+All Honda City variants have a seating capacity of 5.0.
+All Honda City variants have a wheelbase of 2600 mm.
+Honda City variants - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT share a kerb weight of 1107 kg.
+Honda City variants - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced share a kerb weight of 1153 kg.
+Honda City variants - SV, SV Reinforced, V, V Reinforced, V Apex Edition, VX, V CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT share a gross weight of 1482 kg.
+Honda City variants - V Elegant, V Elegant CVT, ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced share a gross weight of 1528 kg.
+All Honda City variants have 4.0 doors.
+All Honda City variants come with a Electronic boot opening mechanism.
+Honda City variants - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT feature tyres of size 185/60 R15.
+Honda City variants - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced feature tyres of size 185/55 R16.
+All Honda City variants come with Tubeless Radial tyres.
+Honda City variants - SV & SV Reinforced feature 15 Inch wheels.
+Honda City variants - SV, V, V Elegant, V Apex Edition, VX, V CVT, V Elegant CVT, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, VX Apex Edition CVT & ZX CVT offer 2.0 airbags.
+Honda City variants - SV Reinforced, V Reinforced, VX Reinforced, V CVT Reinforced, ZX Reinforced, VX CVT Reinforced & ZX CVT Reinforced offer 6.0 airbags.
+Honda City variants - V CVT, VX Apex Edition & V Apex Edition CVT have been rated 4 Star by Global NCAP.
+All Honda City variants come with a 8 inch touchscreen display.
+Honda City variants - SV, SV Reinforced, ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced come with 4.0 speakers.
+Honda City variants - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT come with 2.0 speakers.
+Honda City variants - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT have 15 Inch front alloy wheels.
+Honda City variants - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced have 16 Inch front alloy wheels.
+Honda City variants - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT have 2.0 tweeters.
+Honda City variants - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced have 4.0 tweeters.
+Honda City variants - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced have Android Auto, Apple CarPlay connectivity options.
+Honda City variants - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced feature a Semi Digital digital cluster.
+Honda City variants - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT feature Fabric upholstery options.
+Honda City variants - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced feature Leather upholstery options.
+Honda City variants - SV & SV Reinforced have a front tread of 1668 mm.
+Honda City variants - V, V Reinforced & V Apex Edition have a front tread of 1534 mm.
+Honda City variants - VX, VX Reinforced & VX Apex Edition have a front tread of 1663 mm.
+Honda City variants - V CVT, V CVT Reinforced, V Apex Edition CVT, ZX CVT & ZX CVT Reinforced have a front tread of 1531 mm.
+Honda City variants - ZX, VX CVT, ZX Reinforced, VX CVT Reinforced & VX Apex Edition CVT have a front tread of 1706 mm.
+Honda City variant SV Reinforced features a Rack & Pinion steering gear type.
+All Honda City variants come with Telescopic Hydraulic Nitrogen Gas-filled shock absorbers.
+Honda City variants - SV Reinforced, V Reinforced, V CVT Reinforced & VX CVT Reinforced come with Driver's Window anti-pinch power windows.
+Honda City variants - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced come with All Windows anti-pinch power windows.
+Honda City variants - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, VX Reinforced, VX Apex Edition, ZX & ZX Reinforced have mileage figures of 17.8 kmpl.
+Honda City variants - V CVT, V Elegant CVT, V CVT Reinforced, V Apex Edition CVT, VX CVT, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced have mileage figures of 18.4 kmpl.
+Honda City variants - SV, SV Reinforced, V, V Elegant, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, VX Apex Edition CVT & ZX CVT have fuel tank capacities of 40 Litres.
+Honda City variants - SV, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced share the MacPherson Strut suspension front suspension type.
+Honda City variants - SV, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced share the Rear twist beam rear suspension type.
+All Honda City variants come with Tilt & Telescopic steering adjustment.
+All Honda City variants have Height & Reach steering adjustability.
+All Honda City variants are equipped with Rear parking sensors.
+All Honda City variants come with Front & Rear USB charging ports.
+Honda City variant VX Reinforced has Front & Rear power windows.
+Honda City variants without Fog Lights - SV & SV Reinforced.
+Honda City variants - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced share the Front fog light configuration.
+All Honda City variants come with a Shark Fin antenna.
+Honda City variants - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, VX CVT, VX CVT Reinforced & VX Apex Edition CVT share the 4.2 inch digital cluster size.
+Honda City variants - ZX, ZX Reinforced, ZX CVT & ZX CVT Reinforced share the 7 inch digital cluster size.
+All Honda City variants have a With Guidedlines rear camera.
+All Honda City variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Honda City variants - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced share the Front & Rear speaker configuration.
+Honda City variant V Elegant CVT has Front Only speakers.
+All Honda City variants have a With Storage central console armrest.
+Honda City variants with Rear Seat Headrest - SV, SV Reinforced, V, V Elegant, V Reinforced, VX, V CVT, V Elegant CVT, V CVT Reinforced, VX Apex Edition, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, ZX CVT & ZX CVT Reinforced.
+Honda City variants without Sunroof - SV, SV Reinforced, V, V Elegant, V Reinforced, V Apex Edition, V CVT, V Elegant CVT, V CVT Reinforced & V Apex Edition CVT.
+Honda City variants - VX, VX Reinforced, VX Apex Edition, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced share a Single Pane sunroof.
+Honda City variants - SV & SV Reinforced share Advanced Compatibility Engineering (ACE™) Body Structure,Z-shaped 3D Wrap-around LED Tail Lamps with Uniform Edge Light,Wide & Thin Front Chrome Upper Grille,Elegant Front Grille Mesh: Horizontal Slats Pattern,Sharp Side Character Line (Katana Blade In-Motion),Body Coloured Door Mirrors,Black Sash Tape on B-Pillar, as additional features.
+Honda City variants - V, V Elegant, V Reinforced, V Apex Edition, VX, V CVT, V Elegant CVT, VX Reinforced, V CVT Reinforced, VX Apex Edition, V Apex Edition CVT, ZX, VX CVT, ZX Reinforced, VX CVT Reinforced, VX Apex Edition CVT, ZX CVT & ZX CVT Reinforced share Next Gen Honda Connect with Telematics Control Unit (TCU),Weblink,Wireless Smartphone Connectivity (Android Auto, Apple CarPlay),Remote Control by Smartphone Application via Bluetooth®, as additional features.

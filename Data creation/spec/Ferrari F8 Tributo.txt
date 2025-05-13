@@ -1,0 +1,121 @@
+Ferrari F8 Tributo has 1 variants: V8 Turbo.
+Ferrari F8 Tributo has Power Steering.
+Ferrari F8 Tributo has Air Conditioner.
+Ferrari F8 Tributo has Heater.
+Ferrari F8 Tributo has Automatic Climate Control.
+Ferrari F8 Tributo has Accessory Power Outlet.
+Ferrari F8 Tributo has Trunk Light.
+Ferrari F8 Tributo has Vanity Mirror.
+Ferrari F8 Tributo does not have Rear Reading Lamp.
+Ferrari F8 Tributo does not have Adjustable Headrest.
+Ferrari F8 Tributo does not have Rear Seat Centre Arm Rest.
+Ferrari F8 Tributo does not have Rear AC Vents.
+Ferrari F8 Tributo has Cruise Control.
+Ferrari F8 Tributo has Engine Start/Stop Button.
+Ferrari F8 Tributo has Voice Commands.
+Ferrari F8 Tributo does not have Hands-Free Tailgate.
+Ferrari F8 Tributo does not have Chrome Grille.
+Ferrari F8 Tributo has KeyLess Entry.
+Ferrari F8 Tributo has Follow Me Home Headlamps.
+Ferrari F8 Tributo has Tachometer.
+Ferrari F8 Tributo does not have Wheel Covers.
+Ferrari F8 Tributo has Alloy Wheels.
+Ferrari F8 Tributo has Automatic Headlamps.
+Ferrari F8 Tributo has LED DRLs.
+Ferrari F8 Tributo has LED Headlamps.
+Ferrari F8 Tributo has Anti-lock Braking System (ABS).
+Ferrari F8 Tributo has Central Locking.
+Ferrari F8 Tributo has Driver Airbag.
+Ferrari F8 Tributo has Side Airbag.
+Ferrari F8 Tributo has Seat Belt Warning.
+Ferrari F8 Tributo has Engine Immobilizer.
+Ferrari F8 Tributo does not have Side Airbag-Rear.
+Ferrari F8 Tributo has Anti-Theft Device.
+Ferrari F8 Tributo has Speed Sensing Auto Door Lock.
+Ferrari F8 Tributo has Radio.
+Ferrari F8 Tributo has Bluetooth Connectivity.
+Ferrari F8 Tributo has Android Auto.
+Ferrari F8 Tributo has Apple CarPlay.
+Ferrari F8 Tributo has Height Adjustable Front Seat Belts.
+Ferrari F8 Tributo has Lumbar Support.
+Ferrari F8 Tributo has Paddle Shifters.
+Ferrari F8 Tributo has Electronic Multi-Tripmeter.
+Ferrari F8 Tributo has Digital Clock.
+Ferrari F8 Tributo has Outside Temperature Display.
+Ferrari F8 Tributo does not have Dual Tone Dashboard.
+Ferrari F8 Tributo does not have Power Antenna.
+Ferrari F8 Tributo has LED Taillights.
+Ferrari F8 Tributo has Brake Assist.
+Ferrari F8 Tributo has Anti-Theft Alarm.
+Ferrari F8 Tributo has Door Ajar Warning.
+Ferrari F8 Tributo has Digital Odometer.
+Ferrari F8 Tributo does not have Cooled Glovebox.
+Ferrari F8 Tributo has Tailgate Ajar Warning.
+Ferrari F8 Tributo does not have Lane Change Indicator.
+Ferrari F8 Tributo has Traction Control.
+Ferrari F8 Tributo has Leather Seats.
+Ferrari F8 Tributo has Leather Wrapped Steering Wheel.
+Ferrari F8 Tributo has Glove Box.
+Ferrari F8 Tributo has Adjustable Headlamps.
+Ferrari F8 Tributo has Outside Rear View Mirror Turn Indicators.
+Ferrari F8 Tributo has Passenger Airbag.
+Ferrari F8 Tributo has Day & Night Rear View Mirror.
+Ferrari F8 Tributo has Tyre Pressure Monitoring System (TPMS).
+Ferrari F8 Tributo has Touchscreen.
+Ferrari F8 Tributo has Chrome Garnish.
+Ferrari F8 Tributo has Child Safety Locks.
+Ferrari F8 Tributo has Air Quality Control.
+Ferrari F8 Tributo has Folding Table in The Rear.
+Ferrari F8 Tributo has Navigation System.
+Ferrari F8 Tributo has Smart Access Card Entry.
+Ferrari F8 Tributo has Fabric Upholstery.
+Ferrari F8 Tributo has Roof Rails.
+Ferrari F8 Tributo has Cigarette Lighter.
+Ferrari F8 Tributo has Dual Tone Body Colour.
+Ferrari F8 Tributo has Usb Ports.
+Ferrari F8 Tributo has Gear Shift Indicator.
+Ferrari F8 Tributo has Luggage Hook & Net.
+Ferrari F8 Tributo has Integrated 2DIN Audio.
+Ferrari F8 Tributo has USB & Auxiliary input.
+Ferrari F8 Tributo does not have Rear Curtain.
+Ferrari F8 Tributo does not have Smart Key Band.
+The Ferrari F8 Tributo has the 90-degree V8 twin turbo Engine engine.
+The Ferrari F8 Tributo has a displacement of 3902  cubic centimeters.
+The Ferrari F8 Tributo generates 710.74 Brake Horsepower (BHP) at 8000 Revolutions Per Minute (RPM).
+The Ferrari F8 Tributo generates 770 Newton meters at 3250 Revolutions Per Minute (RPM).
+The Ferrari F8 Tributo has 4.0 valves per cylinder.
+The Ferrari F8 Tributo has a Automatic transmission.
+The Ferrari F8 Tributo has 8.0 cylinders.
+The Ferrari F8 Tributo has a 7-Speed gearbox.
+The Ferrari F8 Tributo has a Rear-Wheel Drive (RWD) drive type.
+The Ferrari F8 Tributo runs on Petrol.
+The Ferrari F8 Tributo complies with BS VI emission norms.
+The Ferrari F8 Tributo has a length of 4611 mm.
+The Ferrari F8 Tributo has a width of 1979 mm.
+The Ferrari F8 Tributo has a height of 1206 mm.
+The Ferrari F8 Tributo offers 200 Litres of boot space.
+The Ferrari F8 Tributo has a seating capacity of 2.0.
+The Ferrari F8 Tributo has a wheelbase of 2650 mm.
+The Ferrari F8 Tributo has a kerb weight of 1435 kg.
+The Ferrari F8 Tributo has 2.0 doors.
+The Ferrari F8 Tributo is equipped with Tubeless Radial tyres.
+The Ferrari F8 Tributo is equipped with 4.0 airbags.
+The Ferrari F8 Tributo is equipped with a 7 inch touchscreen.
+The Ferrari F8 Tributo achieves a top speed of 340 kmph.
+The Ferrari F8 Tributo has a front tread of 1280 mm.
+The Ferrari F8 Tributo achieves 0-100 kmph acceleration in 2.90 s.
+The Ferrari F8 Tributo achieves 0-100 kmph in 2.90 s.
+The Ferrari F8 Tributo features a DOHC valve configuration.
+The Ferrari F8 Tributo features a rear tread of 1646 mm.
+The Ferrari F8 Tributo delivers a highway mileage of 7.7 kmpl.
+The Ferrari F8 Tributo comes with a fuel tank capacity of 78 Litres.
+The Ferrari F8 Tributo comes with the Double wishbone suspension front suspension.
+The Ferrari F8 Tributo comes with the Multi-link suspension rear suspension.
+Ferrari F8 Tributo has Adjustable Steering.
+The Ferrari F8 Tributo features Front USB charging ports.
+The Ferrari F8 Tributo has Front & Rear speakers.
+The Ferrari F8 Tributo has Front electric adjustable seats.
+Ferrari F8 Tributo has Central Console Armrest.
+Ferrari F8 Tributo has Turbo Charger.
+Ferrari F8 Tributo does not have Rear Seat Headrest.
+The Ferrari F8 Tributo has 5 drive modes.

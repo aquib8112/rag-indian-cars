@@ -1,0 +1,175 @@
+Hyundai Aura has 8 variants: E, S, E CNG, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+All variants of Hyundai Aura have Power Steering.
+All variants of Hyundai Aura have Air Conditioner.
+All variants of Hyundai Aura have Heater.
+Hyundai Aura variants with Automatic Climate Control - SX Option & SX Plus AMT.
+Hyundai Aura variants without Automatic Climate Control - E, S, E CNG, SX, S CNG & SX CNG.
+All variants of Hyundai Aura have Accessory Power Outlet.
+Hyundai Aura variants with Trunk Light - SX, SX Option & SX Plus AMT.
+Hyundai Aura variants without Trunk Light - E, S, E CNG, S CNG & SX CNG.
+Hyundai Aura variants with Vanity Mirror - SX, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Vanity Mirror - E, S, E CNG & S CNG.
+All variants of Hyundai Aura have Rear Reading Lamp.
+All variants of Hyundai Aura have Adjustable Headrest.
+Hyundai Aura variants with Rear Seat Centre Arm Rest - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Rear Seat Centre Arm Rest - E & E CNG.
+Hyundai Aura variants with Rear AC Vents - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Rear AC Vents - E & E CNG.
+Hyundai Aura variants with Cruise Control - SX, SX Option & SX Plus AMT.
+Hyundai Aura variants without Cruise Control - E, S, E CNG, S CNG & SX CNG.
+Hyundai Aura variants with Engine Start/Stop Button - SX, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Engine Start/Stop Button - E, S, E CNG & S CNG.
+Hyundai Aura variants with Voice Commands - SX, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Voice Commands - E, S, E CNG & S CNG.
+Hyundai Aura variants with KeyLess Entry - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without KeyLess Entry - E & E CNG.
+Hyundai Aura variants with Follow Me Home Headlamps - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Follow Me Home Headlamps - E & E CNG.
+All variants of Hyundai Aura have Tachometer.
+Hyundai Aura variants with Wheel Covers - S & S CNG.
+Hyundai Aura variants without Wheel Covers - E, E CNG, SX, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants with Alloy Wheels - SX, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Alloy Wheels - E, S, E CNG & S CNG.
+Hyundai Aura variants with Projector Headlamps - SX Option & SX Plus AMT.
+Hyundai Aura variants without Projector Headlamps - E, S, E CNG, SX, S CNG & SX CNG.
+Hyundai Aura variant with Automatic Headlamps - SX Option.
+Hyundai Aura variants without Automatic Headlamps - E, S, E CNG, SX, S CNG, SX Plus AMT & SX CNG.
+Hyundai Aura variants with LED DRLs - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without LED DRLs - E & E CNG.
+All variants of Hyundai Aura have Anti-lock Braking System (ABS).
+Hyundai Aura variants with Central Locking - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Central Locking - E & E CNG.
+All variants of Hyundai Aura have Driver Airbag.
+All variants of Hyundai Aura have Side Airbag.
+All variants of Hyundai Aura have Seat Belt Warning.
+All variants of Hyundai Aura have Engine Immobilizer.
+All variants of Hyundai Aura do not have Side Airbag-Rear.
+Hyundai Aura variants with Electronic Stability Control (ESC) - SX, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Electronic Stability Control (ESC) - E, S, E CNG & S CNG.
+Hyundai Aura variants with Anti-Theft Device - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Anti-Theft Device - E & E CNG.
+All variants of Hyundai Aura have Speed Alert.
+Hyundai Aura variants with Speed Sensing Auto Door Lock - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Speed Sensing Auto Door Lock - E & E CNG.
+Hyundai Aura variant with ISOFIX Child Seat Mounts - SX Option.
+Hyundai Aura variants without ISOFIX Child Seat Mounts - E, S, E CNG, SX, S CNG, SX Plus AMT & SX CNG.
+Hyundai Aura variants with Hill Assist - SX, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Hill Assist - E, S, E CNG & S CNG.
+Hyundai Aura variants with Impact Sensing Auto Door Unlock - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Impact Sensing Auto Door Unlock - E & E CNG.
+Hyundai Aura variants with Radio - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Radio - E & E CNG.
+Hyundai Aura variants with Wireless Phone Charging - SX Option & SX Plus AMT.
+Hyundai Aura variants without Wireless Phone Charging - E, S, E CNG, SX, S CNG & SX CNG.
+Hyundai Aura variants with Bluetooth Connectivity - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Bluetooth Connectivity - E & E CNG.
+Hyundai Aura variants with Android Auto - SX, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Android Auto - E, S, E CNG & S CNG.
+Hyundai Aura variants with Apple CarPlay - SX, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Apple CarPlay - E, S, E CNG & S CNG.
+Hyundai Aura variants with Halogen Headlamps - E, S, E CNG, SX, S CNG & SX CNG.
+Hyundai Aura variants without Halogen Headlamps - SX Option & SX Plus AMT.
+All variants of Hyundai Aura have LED Taillights.
+All variants of Hyundai Aura have Electronic Brakeforce Distribution (EBD).
+Hyundai Aura variants with Anti-Theft Alarm - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Anti-Theft Alarm - E & E CNG.
+All variants of Hyundai Aura have Door Ajar Warning.
+All variants of Hyundai Aura have Cooled Glovebox.
+Hyundai Aura variant with Leather wrap gear-shift selector - SX Option.
+Hyundai Aura variants without Leather wrap gear-shift selector - E, S, E CNG, SX, S CNG, SX Plus AMT & SX CNG.
+All variants of Hyundai Aura have Tailgate Ajar Warning.
+Hyundai Aura variants with Height Adjustable Driver Seat - E, S, E CNG, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants with Rear Window Defogger - E, S, E CNG, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants with Leather Wrapped Steering Wheel - E, S, E CNG, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+All variants of Hyundai Aura have Glove Box.
+All variants of Hyundai Aura have Adjustable Headlamps.
+Hyundai Aura variants with Outside Rear View Mirror Turn Indicators - E, S, E CNG, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+All variants of Hyundai Aura have Passenger Airbag.
+Hyundai Aura variants with Day & Night Rear View Mirror - E, S, E CNG, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants with Tyre Pressure Monitoring System (TPMS) - E, S, E CNG, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants with Touchscreen - E, S, E CNG, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants with Rear Spoiler - E, S, E CNG, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variant with Air Quality Control - SX Option.
+All variants of Hyundai Aura have Curtain Airbag.
+Hyundai Aura variants with Usb Ports - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+Hyundai Aura variants without Usb Ports - E & E CNG.
+Hyundai Aura variants with Gear Shift Indicator - E, S, E CNG, SX, S CNG, SX Option & SX CNG.
+Hyundai Aura variant without Gear Shift Indicator - SX Plus AMT.
+All variants of Hyundai Aura have Luggage Hook & Net.
+Hyundai Aura variants - E, S, SX, SX Option & SX Plus AMT share the 1.2 L Kappa petrol engine.
+Hyundai Aura variants - E CNG, S CNG & SX CNG share the 1.2 L Bi-Fuel engine.
+All Hyundai Aura variants have a displacement of 1197  cubic centimeters.
+Hyundai Aura variants - E, S, SX, SX Option & SX Plus AMT have a max power of 82 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Hyundai Aura variants - E CNG, S CNG & SX CNG have a max power of 68 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Hyundai Aura variants - E, S, SX, SX Option & SX Plus AMT share a max torque of 113.8 Newton meters at 4000 Revolutions Per Minute (RPM).
+Hyundai Aura variants - E CNG, S CNG & SX CNG share a max torque of 95.2 Newton meters at 4000 Revolutions Per Minute (RPM).
+All Hyundai Aura variants have 4.0 valves per cylinder.
+Hyundai Aura variants - E, S, E CNG, SX, S CNG, SX Option & SX CNG share a Manual transmission.
+Hyundai Aura variant SX Plus AMT has a Automatic transmission.
+All Hyundai Aura variants have 4.0 cylinders.
+Hyundai Aura variants - E, S, E CNG, SX, S CNG, SX Option & SX CNG share a 5-Speed gearbox.
+Hyundai Aura variant SX Plus AMT comes with a 5-Speed-AMT gearbox.
+All Hyundai Aura variants have a Front-Wheel Drive (FWD) drive type.
+Hyundai Aura variants - E, S, SX, SX Option & SX Plus AMT use Petrol as fuel.
+Hyundai Aura variants - E CNG, S CNG & SX CNG use CNG as fuel.
+All Hyundai Aura variants comply with BS VI 2.0 emission norms.
+All Hyundai Aura variants come with Electric steering.
+All Hyundai Aura variants have Disc front brakes.
+All Hyundai Aura variants have Drum rear brakes.
+All Hyundai Aura variants have a length of 3995 mm.
+All Hyundai Aura variants have a width of 1680 mm.
+All Hyundai Aura variants have a height of 1520 mm.
+All Hyundai Aura variants offer 402 Litres of boot space.
+All Hyundai Aura variants have a seating capacity of 5.0.
+All Hyundai Aura variants have a wheelbase of 2450 mm.
+All Hyundai Aura variants have 4.0 doors.
+All Hyundai Aura variants come with a Manual boot opening mechanism.
+Hyundai Aura variants - E & E CNG feature Manual Outside Rear View Mirror (ORVM).
+Hyundai Aura variants - S & S CNG feature Powered Outside Rear View Mirror (ORVM).
+Hyundai Aura variants - SX, SX Option, SX Plus AMT & SX CNG feature Powered & Folding Outside Rear View Mirror (ORVM).
+Hyundai Aura variants - E & E CNG feature tyres of size 165/70 R14.
+Hyundai Aura variants - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG feature tyres of size 175/60 R15.
+All Hyundai Aura variants come with Tyre Type tyres.
+Hyundai Aura variants - E & E CNG feature 14 Inch wheels.
+Hyundai Aura variants - S & S CNG feature 15 Inch wheels.
+All Hyundai Aura variants come equipped with 6.0 airbags.
+Hyundai Aura variants - E, S, E CNG & S CNG come with a unknown touchscreen display.
+Hyundai Aura variants - SX, SX Option, SX Plus AMT & SX CNG come with a 8 inch touchscreen display.
+Hyundai Aura variants - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG come with 4.0 speakers.
+Hyundai Aura variant SX CNG features Petrol as a secondary fuel type.
+Hyundai Aura variant SX CNG has a secondary fuel tank capacity of 37.0 liters.
+Hyundai Aura variants - SX, SX Option, SX Plus AMT & SX CNG have 15 Inch front alloy wheels.
+Hyundai Aura variants - SX, SX Option, SX Plus AMT & SX CNG have 15 Inch rear alloy wheels.
+Hyundai Aura variants - SX, SX Option, SX Plus AMT & SX CNG have Android Auto, Apple CarPlay connectivity options.
+All Hyundai Aura variants feature a Full Digital digital cluster.
+All Hyundai Aura variants offer a boot space of 402 Litres.
+All Hyundai Aura variants come with Gas Type shock absorbers.
+Hyundai Aura variants - E, S, SX, SX Option & SX Plus AMT have mileage figures of 17 kmpl.
+Hyundai Aura variants - E CNG, S CNG & SX CNG have mileage figures of 22 km/kg.
+Hyundai Aura variants - E, S, SX, SX Option & SX Plus AMT have fuel tank capacities of 37 Litres.
+Hyundai Aura variants - E CNG, S CNG & SX CNG have fuel tank capacities of 65 Litres.
+All Hyundai Aura variants have the MacPherson Strut suspension front suspension.
+All Hyundai Aura variants have the Rear twist beam rear suspension.
+Hyundai Aura variants without Steering Column - E & E CNG.
+Hyundai Aura variants - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG share the Tilt Steering steering adjustment type.
+Hyundai Aura variants without Adjustable Steering - E & E CNG.
+Hyundai Aura variants with Adjustable Steering - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG.
+All Hyundai Aura variants are equipped with Rear parking sensors.
+Hyundai Aura variants without USB Charger - E & E CNG.
+Hyundai Aura variants - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG share the Front USB charging configuration.
+Hyundai Aura variants - E & E CNG share the Front Only power window configuration.
+Hyundai Aura variants - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG share the Front & Rear power window configuration.
+Hyundai Aura variants - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG share the Front & Rear cup holder configuration.
+Hyundai Aura variants - E, S, E CNG & S CNG share the Micro Type antenna type.
+Hyundai Aura variants - SX, SX Option, SX Plus AMT & SX CNG share the Shark Fin antenna type.
+All Hyundai Aura variants feature a 3.5 inch digital cluster.
+Hyundai Aura variants without Rear Camera - E, S, E CNG & S CNG.
+Hyundai Aura variants - SX, SX Option, SX Plus AMT & SX CNG share the With Guidedlines rear camera type.
+All Hyundai Aura variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Hyundai Aura variants without Speakers - E & E CNG.
+Hyundai Aura variants - S, SX, S CNG, SX Option, SX Plus AMT & SX CNG share the Front & Rear speaker configuration.
+All Hyundai Aura variants have a Bench Folding foldable rear seat.
+Hyundai Aura variant E CNG offers Integrated rear seat headrests.
+Hyundai Aura variants - E & E CNG share Body colored(Bumpers),Rear chrome garnish as additional features.
+Hyundai Aura variants - S & S CNG share Painted black radiator grille,Body colored(Bumpers),Body colored(Outside door mirrors),Body colored(Outside door handles),B-pillar blackout ,Rear chrome garnish as additional features.
+Hyundai Aura variants - SX, SX Option, SX Plus AMT & SX CNG share Painted black radiator grille,Body colored(Bumpers),Body colored(Outside door mirrors),Chrome outside door handles,B-pillar blackout ,Rear chrome garnish as additional features.

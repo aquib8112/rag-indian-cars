@@ -1,0 +1,197 @@
+Hyundai I20 has 13 variants: Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+All variants of Hyundai I20 have Power Steering.
+All variants of Hyundai I20 have Air Conditioner.
+All variants of Hyundai I20 have Heater.
+Hyundai I20 variants with Automatic Climate Control - Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Automatic Climate Control - Era & Magna.
+All variants of Hyundai I20 have Accessory Power Outlet.
+Hyundai I20 variants with Trunk Light - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Trunk Light - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants with Vanity Mirror - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without Vanity Mirror - Era.
+Hyundai I20 variants with Rear Reading Lamp - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Rear Reading Lamp - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT.
+All variants of Hyundai I20 have Adjustable Headrest.
+Hyundai I20 variants with Rear AC Vents - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without Rear AC Vents - Era.
+Hyundai I20 variants with Cruise Control - Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Cruise Control - Era & Magna.
+Hyundai I20 variants with Engine Start/Stop Button - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Engine Start/Stop Button - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants with Voice Commands - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without Voice Commands - Era.
+Hyundai I20 variants with KeyLess Entry - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without KeyLess Entry - Era.
+Hyundai I20 variants with Idle Start-Stop System - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Asta Opt & Asta Opt DT.
+Hyundai I20 variants without Idle Start-Stop System - Sportz IVT, Sportz Opt IVT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants with Follow Me Home Headlamps - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without Follow Me Home Headlamps - Era.
+All variants of Hyundai I20 have Tachometer.
+Hyundai I20 variants with Wheel Covers - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants without Wheel Covers - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants with Alloy Wheels - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Alloy Wheels - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants with Automatic Headlamps - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without Automatic Headlamps - Era.
+Hyundai I20 variants with LED DRLs - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without LED DRLs - Era.
+Hyundai I20 variants with LED Headlamps - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without LED Headlamps - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT.
+All variants of Hyundai I20 have Anti-lock Braking System (ABS).
+All variants of Hyundai I20 have Central Locking.
+All variants of Hyundai I20 have Driver Airbag.
+All variants of Hyundai I20 have Side Airbag.
+All variants of Hyundai I20 have Seat Belt Warning.
+All variants of Hyundai I20 have Engine Immobilizer.
+All variants of Hyundai I20 do not have Side Airbag-Rear.
+All variants of Hyundai I20 have Electronic Stability Control (ESC).
+All variants of Hyundai I20 have Speed Alert.
+All variants of Hyundai I20 have Speed Sensing Auto Door Lock.
+All variants of Hyundai I20 have ISOFIX Child Seat Mounts.
+All variants of Hyundai I20 have Hill Assist.
+All variants of Hyundai I20 have Impact Sensing Auto Door Unlock.
+Hyundai I20 variants with Radio - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without Radio - Era.
+Hyundai I20 variants with Wireless Phone Charging - Sportz Opt, Sportz Opt DT, Asta, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Wireless Phone Charging - Era, Magna, Sportz, Sportz DT & Sportz IVT.
+Hyundai I20 variants with Bluetooth Connectivity - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without Bluetooth Connectivity - Era.
+Hyundai I20 variants with Android Auto - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without Android Auto - Era.
+Hyundai I20 variants with Apple CarPlay - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without Apple CarPlay - Era.
+Hyundai I20 variants with Over the Air (OTA) Updates - Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Over the Air (OTA) Updates - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants with Smartwatch App - Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Smartwatch App - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants with Height Adjustable Front Seat Belts - Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Height Adjustable Front Seat Belts - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants with Halogen Headlamps - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants without Halogen Headlamps - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants with LED Taillights - Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without LED Taillights - Era & Magna.
+All variants of Hyundai I20 have Electronic Brakeforce Distribution (EBD).
+Hyundai I20 variants with Anti-Theft Alarm - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Anti-Theft Alarm - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT.
+All variants of Hyundai I20 have Door Ajar Warning.
+Hyundai I20 variants with SOS / Emergency Assistance - Asta Opt, Asta Opt DT & Asta Opt IVT.
+Hyundai I20 variants without SOS / Emergency Assistance - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants with Cooled Glovebox - Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Cooled Glovebox - Era & Magna.
+Hyundai I20 variants with Puddle Lamps - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Puddle Lamps - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT.
+All variants of Hyundai I20 have Battery Saver.
+Hyundai I20 variants with Leather wrap gear-shift selector - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Leather wrap gear-shift selector - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT.
+All variants of Hyundai I20 have Tailgate Ajar Warning.
+Hyundai I20 variants with SOS Button - Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without SOS Button - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants with Voice assisted sunroof - Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without Voice assisted sunroof - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants with RSA - Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants without RSA - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants with Height Adjustable Driver Seat - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants with Rear Window Defogger - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants with Leather Wrapped Steering Wheel - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+All variants of Hyundai I20 have Glove Box.
+All variants of Hyundai I20 have Adjustable Headlamps.
+Hyundai I20 variants with Outside Rear View Mirror Turn Indicators - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+All variants of Hyundai I20 have Passenger Airbag.
+All variants of Hyundai I20 have Day & Night Rear View Mirror.
+Hyundai I20 variants with Tyre Pressure Monitoring System (TPMS) - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants with Touchscreen - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants with Rear Window Wiper - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variants with Rear Window Washer - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+All variants of Hyundai I20 have Curtain Airbag.
+Hyundai I20 variants with Usb Ports - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT.
+Hyundai I20 variant without Usb Ports - Era.
+Hyundai I20 variants with Gear Shift Indicator - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Asta Opt & Asta Opt DT.
+Hyundai I20 variants without Gear Shift Indicator - Sportz IVT, Sportz Opt IVT, Asta Opt IVT DT & Asta Opt IVT.
+All variants of Hyundai I20 have Luggage Hook & Net.
+All Hyundai I20 variants use the 1.2 l Kappa engine.
+All Hyundai I20 variants have a displacement of 1197  cubic centimeters.
+Hyundai I20 variants - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Asta Opt & Asta Opt DT have a max power of 82 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Hyundai I20 variants - Sportz IVT, Sportz Opt IVT, Asta Opt IVT DT & Asta Opt IVT have a max power of 87 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+All Hyundai I20 variants produce a maximum torque of 114.7 Newton meters at 4200 Revolutions Per Minute (RPM).
+All Hyundai I20 variants have 4.0 valves per cylinder.
+Hyundai I20 variants - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Asta Opt & Asta Opt DT share a Manual transmission.
+Hyundai I20 variants - Sportz IVT, Sportz Opt IVT, Asta Opt IVT DT & Asta Opt IVT share a Automatic transmission.
+All Hyundai I20 variants have 4.0 cylinders.
+Hyundai I20 variants - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Asta Opt & Asta Opt DT share a 5-Speed gearbox.
+Hyundai I20 variants - Sportz IVT, Sportz Opt IVT, Asta Opt IVT DT & Asta Opt IVT share a IVT gearbox.
+All Hyundai I20 variants have a Front-Wheel Drive (FWD) drive type.
+All Hyundai I20 variants run on Petrol.
+All Hyundai I20 variants comply with BS VI 2.0 emission norms.
+All Hyundai I20 variants come with Electric steering.
+All Hyundai I20 variants have Disc front brakes.
+All Hyundai I20 variants have Drum rear brakes.
+All Hyundai I20 variants have a length of 3995 mm.
+All Hyundai I20 variants have a width of 1775 mm.
+All Hyundai I20 variants have a height of 1505 mm.
+All Hyundai I20 variants offer 311 Litres of boot space.
+All Hyundai I20 variants have a seating capacity of 5.0.
+All Hyundai I20 variants have a wheelbase of 2580 mm.
+All Hyundai I20 variants have 5.0 doors.
+All Hyundai I20 variants come with a Manual boot opening mechanism.
+Hyundai I20 variant Era has Manual Outside Rear View Mirror (ORVM).
+Hyundai I20 variant Magna has Powered Outside Rear View Mirror (ORVM).
+Hyundai I20 variants - Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT feature Powered & Folding Outside Rear View Mirror (ORVM).
+Hyundai I20 variant Era comes with tyres of size 185/70 R14.
+Hyundai I20 variant Magna comes with tyres of size 185/65 R15.
+Hyundai I20 variants - Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT feature tyres of size 195/55 R16.
+All Hyundai I20 variants come with Tubeless tyres.
+Hyundai I20 variant Era is equipped with 14 Inch wheels.
+Hyundai I20 variant Magna is equipped with 15 Inch wheels.
+Hyundai I20 variants - Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT feature 16 Inch wheels.
+Hyundai I20 variant Asta Opt IVT is equipped with N Inch wheels.
+All Hyundai I20 variants come equipped with 6.0 airbags.
+Hyundai I20 variant Era features a unknown touchscreen.
+Hyundai I20 variants - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT & Sportz Opt IVT come with a 8 inch touchscreen display.
+Hyundai I20 variants - Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT come with a 10.25 inch touchscreen display.
+Hyundai I20 variants - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT come with 4.0 speakers.
+Hyundai I20 variants - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT have 16 Inch front alloy wheels.
+Hyundai I20 variants - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT have 16 Inch rear alloy wheels.
+Hyundai I20 variants - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT have 2.0 tweeters.
+All Hyundai I20 variants feature a Full Digital digital cluster.
+Hyundai I20 variants - Era, Magna, Sportz, Sportz Opt, Asta, Sportz IVT & Sportz Opt IVT feature Fabric upholstery options.
+Hyundai I20 variants - Sportz DT, Sportz Opt DT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT feature Leatherette upholstery options.
+All Hyundai I20 variants offer a boot space of 311 Litres.
+All Hyundai I20 variants have a top speed of 160 kmph.
+Hyundai I20 variants - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT have the same subwoofer setup with 1.0.
+All Hyundai I20 variants come with Gas Type shock absorbers.
+Hyundai I20 variants - Asta, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT come with Driver's Window anti-pinch power windows.
+Hyundai I20 variants - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Asta Opt & Asta Opt DT have mileage figures of 16 kmpl.
+Hyundai I20 variants - Sportz IVT, Sportz Opt IVT, Asta Opt IVT DT & Asta Opt IVT have mileage figures of 20 kmpl.
+All Hyundai I20 variants have a fuel tank capacity of 37 Litres.
+All Hyundai I20 variants have the MacPherson Strut suspension front suspension.
+All Hyundai I20 variants have the Rear twist beam rear suspension.
+All Hyundai I20 variants come with Tilt & Telescopic steering adjustment.
+All variants of Hyundai I20 have Adjustable Steering.
+All Hyundai I20 variants are equipped with Rear parking sensors.
+Hyundai I20 variant Era has Front USB charging ports.
+Hyundai I20 variants - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT share the Front & Rear USB charging configuration.
+Hyundai I20 variant Era has Front Only power windows.
+Hyundai I20 variants - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT share the Front & Rear power window configuration.
+Hyundai I20 variant without Cup Holders - Era.
+Hyundai I20 variants - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT share the Front Only cup holder configuration.
+Hyundai I20 variant Era has a Micropole antenna.
+Hyundai I20 variants - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT share the Shark Fin antenna type.
+Hyundai I20 variants without Rear Camera - Era & Magna.
+Hyundai I20 variants - Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT share the With Guidedlines rear camera type.
+All Hyundai I20 variants have Driver and Passenger seatbelt pretensioners and force limiters.
+Hyundai I20 variant without Speakers - Era.
+Hyundai I20 variants - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT share the Front & Rear speaker configuration.
+Hyundai I20 variant without Central Console Armrest - Era.
+Hyundai I20 variants - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT share the With Storage central console armrest type.
+Hyundai I20 variants without Inbuilt_Apps - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Sportz IVT & Sportz Opt IVT.
+Hyundai I20 variants - Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT share the Bluelink inbuilt apps.
+Hyundai I20 variants without Sunroof - Era, Magna, Sportz, Sportz DT & Sportz IVT.
+Hyundai I20 variants - Sportz Opt, Sportz Opt DT, Asta, Sportz Opt IVT, Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT share a Single Pane sunroof.
+Hyundai I20 variants without Drive Modes - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Asta Opt & Asta Opt DT.
+Hyundai I20 variants - Sportz IVT, Sportz Opt IVT, Asta Opt IVT DT & Asta Opt IVT share the 2 drive mode configuration.
+Hyundai I20 variants without Drive Mode Types - Era, Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Asta, Asta Opt & Asta Opt DT.
+Hyundai I20 variants - Sportz IVT, Sportz Opt IVT, Asta Opt IVT DT & Asta Opt IVT share the Normal & Sports drive mode options.
+Hyundai I20 variant Era offers High mount stop lamp,Parametric jewel pattern grille,Painted black finish-Air curtain garnish,Tailgate garnish,Side wing spoiler,Skid plate-Silver finish,Outside door handles-Body coloured,Outside rear view mirror-Body coloured,Body colour bumpers,B pillar black out tape as additional features.
+Hyundai I20 variants - Magna, Sportz, Sportz DT, Sportz Opt, Sportz Opt DT, Sportz IVT & Sportz Opt IVT share Wireless Andriod Auto/Apple CarPlay as additional features.
+Hyundai I20 variant Asta offers Wireless Andriod Auto/Apple CarPlay,Bose premium 7 speaker system as additional features.
+Hyundai I20 variants - Asta Opt, Asta Opt DT, Asta Opt IVT DT & Asta Opt IVT share Ambient sounds of nature,Bose premium 7 speaker system as additional features.

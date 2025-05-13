@@ -1,0 +1,143 @@
+Tata Altroz Racer has 3 variants: R1, R2 & R3.
+All variants of Tata Altroz Racer have Power Steering.
+All variants of Tata Altroz Racer have Air Conditioner.
+All variants of Tata Altroz Racer have Heater.
+All variants of Tata Altroz Racer have Automatic Climate Control.
+All variants of Tata Altroz Racer have Accessory Power Outlet.
+All variants of Tata Altroz Racer have Rear Reading Lamp.
+All variants of Tata Altroz Racer have Adjustable Headrest.
+All variants of Tata Altroz Racer have Rear AC Vents.
+All variants of Tata Altroz Racer have Cruise Control.
+Tata Altroz Racer variant with Real-Time Vehicle Tracking - R3.
+Tata Altroz Racer variants without Real-Time Vehicle Tracking - R1 & R2.
+All variants of Tata Altroz Racer have Engine Start/Stop Button.
+All variants of Tata Altroz Racer do not have Hands-Free Tailgate.
+All variants of Tata Altroz Racer have KeyLess Entry.
+All variants of Tata Altroz Racer have Idle Start-Stop System.
+All variants of Tata Altroz Racer have Tachometer.
+All variants of Tata Altroz Racer do not have Wheel Covers.
+All variants of Tata Altroz Racer have Alloy Wheels.
+All variants of Tata Altroz Racer have Projector Headlamps.
+All variants of Tata Altroz Racer have Automatic Headlamps.
+All variants of Tata Altroz Racer have LED DRLs.
+All variants of Tata Altroz Racer have LED Headlamps.
+All variants of Tata Altroz Racer have Anti-lock Braking System (ABS).
+All variants of Tata Altroz Racer have Central Locking.
+All variants of Tata Altroz Racer have Driver Airbag.
+All variants of Tata Altroz Racer have Side Airbag.
+All variants of Tata Altroz Racer have Seat Belt Warning.
+All variants of Tata Altroz Racer have Engine Immobilizer.
+All variants of Tata Altroz Racer do not have Side Airbag-Rear.
+All variants of Tata Altroz Racer have Electronic Stability Control (ESC).
+All variants of Tata Altroz Racer have Speed Alert.
+All variants of Tata Altroz Racer have Speed Sensing Auto Door Lock.
+All variants of Tata Altroz Racer have Impact Sensing Auto Door Unlock.
+Tata Altroz Racer variants with 360 View Camera - R2 & R3.
+Tata Altroz Racer variant without 360 View Camera - R1.
+All variants of Tata Altroz Racer have Radio.
+Tata Altroz Racer variants with Wireless Phone Charging - R2 & R3.
+Tata Altroz Racer variant without Wireless Phone Charging - R1.
+All variants of Tata Altroz Racer have Bluetooth Connectivity.
+All variants of Tata Altroz Racer have Android Auto.
+All variants of Tata Altroz Racer have Apple CarPlay.
+Tata Altroz Racer variant with Live Location - R3.
+Tata Altroz Racer variants without Live Location - R1 & R2.
+Tata Altroz Racer variant with Valet Mode - R3.
+Tata Altroz Racer variants without Valet Mode - R1 & R2.
+Tata Altroz Racer variant with Remote Door Lock/Unlock - R3.
+Tata Altroz Racer variants without Remote Door Lock/Unlock - R1 & R2.
+Tata Altroz Racer variant with Geo-fence Alert - R3.
+Tata Altroz Racer variants without Geo-fence Alert - R1 & R2.
+All variants of Tata Altroz Racer have Height Adjustable Front Seat Belts.
+All variants of Tata Altroz Racer do not have Halogen Headlamps.
+All variants of Tata Altroz Racer have LED Taillights.
+All variants of Tata Altroz Racer have Electronic Brakeforce Distribution (EBD).
+All variants of Tata Altroz Racer have Door Ajar Warning.
+Tata Altroz Racer variant with Remote Immobiliser - R3.
+Tata Altroz Racer variants without Remote Immobiliser - R1 & R2.
+Tata Altroz Racer variant with Ventilated Seats - R3.
+Tata Altroz Racer variants without Ventilated Seats - R1 & R2.
+All variants of Tata Altroz Racer have Leather wrap gear-shift selector.
+Tata Altroz Racer variants with Blind Spot Monitor - R2 & R3.
+Tata Altroz Racer variant without Blind Spot Monitor - R1.
+Tata Altroz Racer variant with SOS Button - R3.
+Tata Altroz Racer variants without SOS Button - R1 & R2.
+Tata Altroz Racer variants with Voice assisted sunroof - R2 & R3.
+Tata Altroz Racer variant without Voice assisted sunroof - R1.
+Tata Altroz Racer variant without Regenerative Braking - R2.
+All variants of Tata Altroz Racer have Height Adjustable Driver Seat.
+All variants of Tata Altroz Racer have Rear Window Defogger.
+All variants of Tata Altroz Racer have Leather Wrapped Steering Wheel.
+All variants of Tata Altroz Racer have Glove Box.
+All variants of Tata Altroz Racer have Adjustable Headlamps.
+All variants of Tata Altroz Racer have Outside Rear View Mirror Turn Indicators.
+All variants of Tata Altroz Racer have Passenger Airbag.
+All variants of Tata Altroz Racer have Touchscreen.
+All variants of Tata Altroz Racer have Rear Window Wiper.
+All variants of Tata Altroz Racer have Rear Window Washer.
+All variants of Tata Altroz Racer have Rear Spoiler.
+All variants of Tata Altroz Racer have Rain Sensing Wiper.
+Tata Altroz Racer variants with Air Quality Control - R1, R2 & R3.
+All variants of Tata Altroz Racer have Roof Rails.
+All variants of Tata Altroz Racer have Roof Carrier.
+All variants of Tata Altroz Racer have Side Stepper.
+All variants of Tata Altroz Racer have Curtain Airbag.
+All variants of Tata Altroz Racer have Usb Ports.
+All variants of Tata Altroz Racer have Gear Shift Indicator.
+All variants of Tata Altroz Racer have Luggage Hook & Net.
+All Tata Altroz Racer variants use the 1.2 L Turbo Petrol engine.
+All Tata Altroz Racer variants have a displacement of 1199  cubic centimeters.
+All Tata Altroz Racer variants produce a maximum power of 118.35 Brake Horsepower (BHP) at 5500 Revolutions Per Minute (RPM).
+All Tata Altroz Racer variants produce a maximum torque of 170 Newton meters at 1750 to  4000 Revolutions Per Minute (RPM).
+All Tata Altroz Racer variants have 4.0 valves per cylinder.
+All Tata Altroz Racer variants have a Manual transmission.
+All Tata Altroz Racer variants have 3.0 cylinders.
+All Tata Altroz Racer variants come with a 6-Speed gearbox.
+All Tata Altroz Racer variants have a Front-Wheel Drive (FWD) drive type.
+All Tata Altroz Racer variants run on Petrol.
+All Tata Altroz Racer variants comply with BS VI 2.0 emission norms.
+All Tata Altroz Racer variants have a turning radius of 5m.
+All Tata Altroz Racer variants have Disc front brakes.
+All Tata Altroz Racer variants have Drum rear brakes.
+All Tata Altroz Racer variants have a length of 3990 mm.
+All Tata Altroz Racer variants have a width of 1755 mm.
+All Tata Altroz Racer variants have a height of 1523 mm.
+All Tata Altroz Racer variants offer 345 Litres of boot space.
+All Tata Altroz Racer variants have a seating capacity of 5.0.
+All Tata Altroz Racer variants have an unladen ground clearance of 165 mm.
+All Tata Altroz Racer variants have a wheelbase of 2501 mm.
+All Tata Altroz Racer variants have 5.0 doors.
+All Tata Altroz Racer variants come with a Electronic boot opening mechanism.
+All Tata Altroz Racer variants have Powered & Folding Outside Rear View Mirror (ORVM).
+All Tata Altroz Racer variants have tyres of size 185/60 R16.
+All Tata Altroz Racer variants come with Tyre Type tyres.
+All Tata Altroz Racer variants come equipped with 6.0 airbags.
+All Tata Altroz Racer variants come with a 10.25 inch touchscreen display.
+All Tata Altroz Racer variants come with 4.0 speakers.
+All Tata Altroz Racer variants come with 16 Inch front alloy wheels.
+All Tata Altroz Racer variants come with 16 Inch rear alloy wheels.
+All Tata Altroz Racer variants come with 4.0 tweeters.
+All Tata Altroz Racer variants come with Android Auto, Apple CarPlay connectivity options.
+All Tata Altroz Racer variants feature a Full Digital digital cluster.
+All Tata Altroz Racer variants come with Leatherette upholstery.
+All Tata Altroz Racer variants use a Direct Injection (Di) fuel supply system.
+All Tata Altroz Racer variants provide a highway mileage of 18 kmpl.
+All Tata Altroz Racer variants have a fuel tank capacity of 37 Litres.
+All Tata Altroz Racer variants have the MacPherson Strut suspension front suspension.
+All Tata Altroz Racer variants have the Rear twist beam rear suspension.
+All Tata Altroz Racer variants are equipped with Rear parking sensors.
+All Tata Altroz Racer variants come with Front USB charging ports.
+All Tata Altroz Racer variants have Front & Rear power windows.
+All Tata Altroz Racer variants are equipped with Front fog lights.
+Tata Altroz Racer variant R1 has a 4 inch digital cluster.
+Tata Altroz Racer variants - R2 & R3 share the 7 inch digital cluster size.
+Tata Altroz Racer variant without Rear Camera - R1.
+Tata Altroz Racer variants - R2 & R3 share the With Guidedlines rear camera type.
+All Tata Altroz Racer variants have Driver and Passenger seatbelt pretensioners and force limiters.
+All Tata Altroz Racer variants include Front & Rear speakers.
+All variants of Tata Altroz Racer do not have Electric Adjustable Seats.
+All Tata Altroz Racer variants have a With Storage central console armrest.
+All variants of Tata Altroz Racer have Turbo Charger.
+Tata Altroz Racer variant without Sunroof - R1.
+Tata Altroz Racer variants - R2 & R3 share a Single Pane sunroof.
+All Tata Altroz Racer variants come with Sporty Exhaust as additional features.

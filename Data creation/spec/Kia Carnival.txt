@@ -1,0 +1,147 @@
+Kia Carnival has 1 variants: Limousine Plus.
+Kia Carnival has Power Steering.
+Kia Carnival has Air Conditioner.
+Kia Carnival has Heater.
+Kia Carnival has Automatic Climate Control.
+Kia Carnival has Accessory Power Outlet.
+Kia Carnival has Rear Reading Lamp.
+Kia Carnival has Adjustable Headrest.
+Kia Carnival has Rear AC Vents.
+Kia Carnival has Cruise Control.
+Kia Carnival has Engine Start/Stop Button.
+Kia Carnival has KeyLess Entry.
+Kia Carnival has Idle Start-Stop System.
+Kia Carnival has Follow Me Home Headlamps.
+Kia Carnival has Tachometer.
+Kia Carnival does not have Wheel Covers.
+Kia Carnival has Alloy Wheels.
+Kia Carnival has Projector Headlamps.
+Kia Carnival has Automatic Headlamps.
+Kia Carnival has LED DRLs.
+Kia Carnival has LED Headlamps.
+Kia Carnival has Anti-lock Braking System (ABS).
+Kia Carnival has Central Locking.
+Kia Carnival has Driver Airbag.
+Kia Carnival has Side Airbag.
+Kia Carnival has Seat Belt Warning.
+Kia Carnival has Engine Immobilizer.
+Kia Carnival has Side Airbag-Rear.
+Kia Carnival has Electronic Stability Control (ESC).
+Kia Carnival has Anti-Theft Device.
+Kia Carnival has Speed Alert.
+Kia Carnival has Speed Sensing Auto Door Lock.
+Kia Carnival has ISOFIX Child Seat Mounts.
+Kia Carnival has Hill Assist.
+Kia Carnival has Impact Sensing Auto Door Unlock.
+Kia Carnival has 360 View Camera.
+Kia Carnival has Radio.
+Kia Carnival has Wireless Phone Charging.
+Kia Carnival has Bluetooth Connectivity.
+Kia Carnival has Android Auto.
+Kia Carnival has Apple CarPlay.
+Kia Carnival has Driver Attention Warning.
+Kia Carnival has Over the Air (OTA) Updates.
+Kia Carnival has Geo-fence Alert.
+Kia Carnival has Height Adjustable Front Seat Belts.
+Kia Carnival has Lumbar Support.
+Kia Carnival has Paddle Shifters.
+Kia Carnival has LED Taillights.
+Kia Carnival has Electronic Brakeforce Distribution (EBD).
+Kia Carnival has Anti-Theft Alarm.
+Kia Carnival has Door Ajar Warning.
+Kia Carnival has SOS / Emergency Assistance.
+Kia Carnival has Blind Spot Camera.
+Kia Carnival has Heads-Up Display (HUD).
+Kia Carnival has Forward Collision Warning.
+Kia Carnival has Speed Assist System.
+Kia Carnival has Blind Spot Collision Avoidance Assist.
+Kia Carnival has Lane Departure Warning.
+Kia Carnival has Lane Keep Assist.
+Kia Carnival has Adaptive Cruise Control.
+Kia Carnival has Leading Vehicle Departure Alert.
+Kia Carnival has Adaptive High Beam Assist.
+Kia Carnival has Rear Cross Traffic Alert.
+Kia Carnival has Rear Cross Traffic Collision-Avoidance Assist.
+Kia Carnival has Glove Box light.
+Kia Carnival has Ventilated Seats.
+Kia Carnival has Puddle Lamps.
+Kia Carnival has Hill Descent Control.
+Kia Carnival has Blind Spot Monitor.
+Kia Carnival has Tailgate Ajar Warning.
+Kia Carnival has Height Adjustable Driver Seat.
+Kia Carnival has Rear Window Defogger.
+Kia Carnival has Glove Box.
+Kia Carnival has Adjustable Headlamps.
+Kia Carnival has Outside Rear View Mirror Turn Indicators.
+Kia Carnival has Passenger Airbag.
+Kia Carnival has Day & Night Rear View Mirror.
+Kia Carnival has Tyre Pressure Monitoring System (TPMS).
+Kia Carnival has Touchscreen.
+Kia Carnival has Rear Window Wiper.
+Kia Carnival has Rear Window Washer.
+Kia Carnival has Child Safety Locks.
+Kia Carnival has Rear Spoiler.
+Kia Carnival has Rain Sensing Wiper.
+Kia Carnival has Roof Rails.
+Kia Carnival has Curtain Airbag.
+Kia Carnival has Usb Ports.
+Kia Carnival has LED Fog Lamps.
+The Kia Carnival has the Smartstream In-line engine.
+The Kia Carnival has a displacement of 2151  cubic centimeters.
+The Kia Carnival generates 190 Brake Horsepower (BHP).
+The Kia Carnival generates 441 Newton meters.
+The Kia Carnival has 4.0 valves per cylinder.
+The Kia Carnival has a Automatic transmission.
+The Kia Carnival has 4.0 cylinders.
+The Kia Carnival has a 8-Speed gearbox.
+The Kia Carnival has a Two-Wheel Drive (2WD) drive type.
+The Kia Carnival runs on Diesel.
+The Kia Carnival complies with BS VI 2.0 emission norms.
+The Kia Carnival has Electric steering.
+The Kia Carnival has Disc front brakes.
+The Kia Carnival has Disc rear brakes.
+The Kia Carnival has a length of 5155 mm.
+The Kia Carnival has a width of 1995 mm.
+The Kia Carnival has a height of 1775 mm.
+The Kia Carnival has a seating capacity of 7.0.
+The Kia Carnival has a wheelbase of 3090 mm.
+The Kia Carnival has 5.0 doors.
+The Kia Carnival features a Powered boot opening mechanism.
+The Kia Carnival is equipped with Powered & Folding Outside Rear View Mirror (ORVM).
+The Kia Carnival is fitted with tyres of size 235/60 R18.
+The Kia Carnival is equipped with Tubeless Radial tyres.
+The Kia Carnival is equipped with 8.0 airbags.
+The Kia Carnival is equipped with a 12.3 inch touchscreen.
+The Kia Carnival is equipped with 12.0 speakers.
+The Kia Carnival features 18 Inch front alloy wheels.
+The Kia Carnival features 18 Inch rear alloy wheels.
+The Kia Carnival comes with a Full Digital digital cluster.
+The Kia Carnival features Leather upholstery.
+The Kia Carnival is equipped with a Common Rail Direct Injection (CRDi) fuel supply system.
+The Kia Carnival features Driver's Window anti-pinch power windows.
+The Kia Carnival delivers a mileage of 14.85 kmpl.
+The Kia Carnival comes with a fuel tank capacity of 72 Litres.
+The Kia Carnival comes with the MacPherson Strut suspension front suspension.
+The Kia Carnival comes with the Multi-link suspension rear suspension.
+The Kia Carnival features Tilt & Telescopic steering adjustment.
+The Kia Carnival features Height & Reach steering adjustability.
+The Kia Carnival features Front & Rear parking sensors.
+The Kia Carnival features Front & Rear USB charging ports.
+The Kia Carnival features Front & Rear power windows.
+The Kia Carnival features Front & Rear cup holders.
+The Kia Carnival features Front & Rear fog lights.
+The Kia Carnival features a Shark Fin antenna.
+The Kia Carnival has a 12.3 inch digital cluster.
+The Kia Carnival has a With Guidedlines rear camera.
+The Kia Carnival has Driver and Passenger seatbelt pretensioners and force limiters.
+The Kia Carnival has Front & Rear speakers.
+The Kia Carnival has Front electric adjustable seats.
+The Kia Carnival has a 2nd Row Captain Seats Tumble Fold foldable rear seat.
+Kia Carnival has Central Console Armrest.
+The Kia Carnival features inbuilt apps such as Kia Connect.
+The Kia Carnival offers ambient lighting with 64 color choices.
+The Kia Carnival includes Adjustable rear seat headrests.
+The Kia Carnival includes a Dual Sunroof sunroof.
+The Kia Carnival has 4 drive modes.
+The Kia Carnival features Eco, Normal, Sport, & Smart drive modes.
+The Kia Carnival includes Wireless Android Auto & Apple CarPlay as additional features.

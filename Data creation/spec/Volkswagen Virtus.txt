@@ -1,0 +1,205 @@
+Volkswagen Virtus has 12 variants: Comfortline, Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+All variants of Volkswagen Virtus have Power Steering.
+All variants of Volkswagen Virtus have Air Conditioner.
+All variants of Volkswagen Virtus have Heater.
+Volkswagen Virtus variants with Automatic Climate Control - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+All variants of Volkswagen Virtus have Accessory Power Outlet.
+All variants of Volkswagen Virtus have Trunk Light.
+All variants of Volkswagen Virtus have Vanity Mirror.
+All variants of Volkswagen Virtus have Rear Reading Lamp.
+All variants of Volkswagen Virtus have Adjustable Headrest.
+Volkswagen Virtus variants with Rear Seat Centre Arm Rest - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variant without Rear Seat Centre Arm Rest - Comfortline.
+Volkswagen Virtus variants with Rear AC Vents - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variant without Rear AC Vents - Comfortline.
+Volkswagen Virtus variants with Cruise Control - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variant without Cruise Control - Comfortline.
+Volkswagen Virtus variants with Real-Time Vehicle Tracking - Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variants without Real-Time Vehicle Tracking - Comfortline, Highline, Highline Plus, GT Line, Highline AT & GT Line AT.
+Volkswagen Virtus variants with Engine Start/Stop Button - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variant without Engine Start/Stop Button - Comfortline.
+All variants of Volkswagen Virtus have KeyLess Entry.
+All variants of Volkswagen Virtus have Idle Start-Stop System.
+All variants of Volkswagen Virtus have Follow Me Home Headlamps.
+Volkswagen Virtus variants with Tachometer - Comfortline, Highline, Highline Plus, Topline ES & Topline AT ES.
+Volkswagen Virtus variant with Wheel Covers - Comfortline.
+Volkswagen Virtus variants without Wheel Covers - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variants with Alloy Wheels - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variant without Alloy Wheels - Comfortline.
+All variants of Volkswagen Virtus have Integrated Antenna.
+Volkswagen Virtus variants with Automatic Headlamps - Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variants without Automatic Headlamps - Comfortline, Highline, Highline Plus, GT Line, Highline AT & GT Line AT.
+All variants of Volkswagen Virtus have LED DRLs.
+All variants of Volkswagen Virtus have LED Headlamps.
+All variants of Volkswagen Virtus have Anti-lock Braking System (ABS).
+All variants of Volkswagen Virtus have Central Locking.
+All variants of Volkswagen Virtus have Driver Airbag.
+All variants of Volkswagen Virtus have Side Airbag.
+All variants of Volkswagen Virtus have Seat Belt Warning.
+All variants of Volkswagen Virtus have Engine Immobilizer.
+All variants of Volkswagen Virtus do not have Side Airbag-Rear.
+All variants of Volkswagen Virtus have Electronic Stability Control (ESC).
+All variants of Volkswagen Virtus have Speed Alert.
+All variants of Volkswagen Virtus have Speed Sensing Auto Door Lock.
+All variants of Volkswagen Virtus have ISOFIX Child Seat Mounts.
+Volkswagen Virtus variants with Hill Assist - Comfortline, Highline, Highline Plus, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variants without Hill Assist - GT Line, GT Plus ES & GT Plus Sport.
+All variants of Volkswagen Virtus have Impact Sensing Auto Door Unlock.
+All variants of Volkswagen Virtus have Radio.
+Volkswagen Virtus variants with Wireless Phone Charging - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variant without Wireless Phone Charging - Comfortline.
+All variants of Volkswagen Virtus have Bluetooth Connectivity.
+All variants of Volkswagen Virtus have Android Auto.
+All variants of Volkswagen Virtus have Apple CarPlay.
+Volkswagen Virtus variants with Driver Attention Warning - Topline ES & Topline AT ES.
+Volkswagen Virtus variants without Driver Attention Warning - Comfortline, Highline, Highline Plus & Highline AT.
+Volkswagen Virtus variants with Valet Mode - Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES.
+Volkswagen Virtus variant without Valet Mode - Comfortline.
+Volkswagen Virtus variants with Geo-fence Alert - Topline ES & Topline AT ES.
+Volkswagen Virtus variants without Geo-fence Alert - Comfortline, Highline, Highline Plus & Highline AT.
+Volkswagen Virtus variants with Lumbar Support - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variants with Paddle Shifters - Highline AT, GT Line AT, Topline AT ES, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variants without Paddle Shifters - Comfortline, Highline, Highline Plus, GT Line, Topline ES, GT Plus ES & GT Plus Sport.
+Volkswagen Virtus variants with Dual Tone Dashboard - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+All variants of Volkswagen Virtus have LED Taillights.
+All variants of Volkswagen Virtus have Electronic Brakeforce Distribution (EBD).
+All variants of Volkswagen Virtus have Brake Assist.
+Volkswagen Virtus variants with Door Ajar Warning - Comfortline, Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES.
+Volkswagen Virtus variants with Digital Odometer - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variants with SOS / Emergency Assistance - Topline ES & Topline AT ES.
+Volkswagen Virtus variants without SOS / Emergency Assistance - Comfortline, Highline, Highline Plus & Highline AT.
+Volkswagen Virtus variants with Cooled Glovebox - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variant without Cooled Glovebox - Comfortline.
+Volkswagen Virtus variants with Ventilated Seats - Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variants without Ventilated Seats - Comfortline, Highline, Highline Plus, GT Line, Highline AT & GT Line AT.
+Volkswagen Virtus variants with Cornering Foglamps - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variant without Cornering Foglamps - Comfortline.
+Volkswagen Virtus variants with Tailgate Ajar Warning - Comfortline, Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES.
+All variants of Volkswagen Virtus have Lane Change Indicator.
+Volkswagen Virtus variants with Traction Control - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+All variants of Volkswagen Virtus have Height Adjustable Driver Seat.
+All variants of Volkswagen Virtus have Rear Window Defogger.
+All variants of Volkswagen Virtus have Glove Box.
+All variants of Volkswagen Virtus have Adjustable Headlamps.
+All variants of Volkswagen Virtus have Outside Rear View Mirror Turn Indicators.
+All variants of Volkswagen Virtus have Passenger Airbag.
+All variants of Volkswagen Virtus have Day & Night Rear View Mirror.
+All variants of Volkswagen Virtus have Tyre Pressure Monitoring System (TPMS).
+All variants of Volkswagen Virtus have Touchscreen.
+Volkswagen Virtus variants with Chrome Garnish - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+All variants of Volkswagen Virtus have Child Safety Locks.
+Volkswagen Virtus variants with Rear Spoiler - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variants with Rain Sensing Wiper - Comfortline, Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variants with Smart Access Card Entry - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+All variants of Volkswagen Virtus have Curtain Airbag.
+All variants of Volkswagen Virtus have Usb Ports.
+Volkswagen Virtus variants with Luggage Hook & Net - Comfortline, Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES.
+Volkswagen Virtus variants with Integrated 2DIN Audio - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES & Topline AT ES share the 1.0L TSI engine.
+Volkswagen Virtus variants - GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share the 1.5L TSI EVO with ACT engine.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES & Topline AT ES share a displacement of 999  cubic centimeters.
+Volkswagen Virtus variants - GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share a displacement of 1498  cubic centimeters.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES & Topline AT ES have a max power of 113.98 Brake Horsepower (BHP) at 5000 to 5500 Revolutions Per Minute (RPM).
+Volkswagen Virtus variants - GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG have a max power of 147.51 Brake Horsepower (BHP) at 5000 to 6000 Revolutions Per Minute (RPM).
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES share a max torque of 178 Newton meters at 1750 to 4500 Revolutions Per Minute (RPM).
+Volkswagen Virtus variants - GT Line & GT Line AT share a max torque of 178 Newton meters at 1750  to  4000 Revolutions Per Minute (RPM).
+Volkswagen Virtus variants - GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share a max torque of 250 Newton meters at 1600 to 3500 Revolutions Per Minute (RPM).
+All Volkswagen Virtus variants have 4.0 valves per cylinder.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, GT Line, Topline ES, GT Plus ES & GT Plus Sport share a Manual transmission.
+Volkswagen Virtus variants - Highline AT, GT Line AT, Topline AT ES, GT Plus DSG ES & GT Plus Sport DSG share a Automatic transmission.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES & Topline AT ES have 3.0 cylinders.
+Volkswagen Virtus variants - GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG have 4.0 cylinders.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, GT Line, GT Line AT, Topline ES, GT Plus ES & GT Plus Sport share a 6-Speed gearbox.
+Volkswagen Virtus variants - Highline AT & Topline AT ES share a 6-Speed-AT gearbox.
+Volkswagen Virtus variants - GT Plus DSG ES & GT Plus Sport DSG share a 7-Speed-DSG gearbox.
+All Volkswagen Virtus variants have a Front-Wheel Drive (FWD) drive type.
+All Volkswagen Virtus variants run on Petrol.
+All Volkswagen Virtus variants comply with BS VI 2.0 emission norms.
+All Volkswagen Virtus variants come with Electric steering.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES share a turning radius of 5.5m.
+Volkswagen Virtus variants - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share a turning radius of 5.05m.
+All Volkswagen Virtus variants have Disc front brakes.
+All Volkswagen Virtus variants have Drum rear brakes.
+All Volkswagen Virtus variants have a length of 4561 mm.
+All Volkswagen Virtus variants have a width of 1752 mm.
+All Volkswagen Virtus variants have a height of 1507 mm.
+All Volkswagen Virtus variants offer 521 Litres of boot space.
+All Volkswagen Virtus variants have a seating capacity of 5.0.
+All Volkswagen Virtus variants have an unladen ground clearance of 179 mm.
+All Volkswagen Virtus variants have a wheelbase of 2651 mm.
+Volkswagen Virtus variant Comfortline has a kerb weight of 1173 kg.
+Volkswagen Virtus variants - Highline & Highline Plus share a kerb weight of 1188 kg.
+Volkswagen Virtus variant GT Line has a kerb weight of 1222 kg.
+Volkswagen Virtus variant Highline AT has a kerb weight of 1224 kg.
+Volkswagen Virtus variants - GT Line AT, GT Plus ES & GT Plus Sport share a kerb weight of 1260 kg.
+Volkswagen Virtus variant Topline ES has a kerb weight of 1208 kg.
+Volkswagen Virtus variant Topline AT ES has a kerb weight of 1244 kg.
+Volkswagen Virtus variants - GT Plus DSG ES & GT Plus Sport DSG share a kerb weight of 1269 kg.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, GT Line & Topline ES share a gross weight of 1630 kg.
+Volkswagen Virtus variants - Highline AT, GT Line AT & Topline AT ES share a gross weight of 1657 kg.
+Volkswagen Virtus variants - GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share a gross weight of 1685 kg.
+All Volkswagen Virtus variants have 4.0 doors.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES feature a Manual boot opening mechanism.
+Volkswagen Virtus variant Comfortline has Powered Outside Rear View Mirror (ORVM).
+Volkswagen Virtus variants - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG feature Powered & Folding Outside Rear View Mirror (ORVM).
+All Volkswagen Virtus variants have tyres of size 205/55 R16.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES are fitted with Tyre Type tyres.
+Volkswagen Virtus variants - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG are fitted with Tubeless Radial tyres.
+Volkswagen Virtus variant Comfortline is equipped with 16 Inch wheels.
+All Volkswagen Virtus variants come equipped with 6.0 airbags.
+All Volkswagen Virtus variants have received a 5 Star Global NCAP safety rating.
+All Volkswagen Virtus variants have a 5 Star Global NCAP child safety rating.
+Volkswagen Virtus variant Comfortline features a 7 inch touchscreen.
+Volkswagen Virtus variants - Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES come with a 10.9 inch touchscreen display.
+Volkswagen Virtus variants - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG come with a 10.09 inch touchscreen display.
+All Volkswagen Virtus variants come with 8.0 speakers.
+Volkswagen Virtus variants - Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES have 16 Inch front alloy wheels.
+Volkswagen Virtus variants - Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES have 16 Inch rear alloy wheels.
+Volkswagen Virtus variants - GT Line, GT Line AT, GT Plus ES, GT Plus Sport & GT Plus DSG ES have Android Auto, Apple CarPlay connectivity options.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus & Highline AT feature a No Digital Cluster digital cluster.
+Volkswagen Virtus variants - GT Line, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG feature a Full Digital digital cluster.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus & Highline AT feature Fabric upholstery options.
+Volkswagen Virtus variants - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG feature Leather upholstery options.
+Volkswagen Virtus variants - Topline ES & Topline AT ES feature Leatherette upholstery options.
+Volkswagen Virtus variants - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG have a top speed of 190 kmph.
+All Volkswagen Virtus variants have a front tread of 1511 mm.
+All Volkswagen Virtus variants have a rear tread of 1496 mm.
+Volkswagen Virtus variants - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG come with Driver's Window anti-pinch power windows.
+All Volkswagen Virtus variants have a laden ground clearance of 145 mm mm.
+Volkswagen Virtus variant Comfortline provides a mileage of 20.8 kmpl.
+Volkswagen Virtus variants - Highline, Highline Plus & GT Line have mileage figures of 19.4 kmpl.
+Volkswagen Virtus variants - Highline AT & GT Line AT have mileage figures of 18.12 kmpl.
+Volkswagen Virtus variant Topline ES provides a mileage of 20.08 kmpl.
+Volkswagen Virtus variant Topline AT ES provides a mileage of 18.45 kmpl.
+Volkswagen Virtus variants - GT Plus ES & GT Plus Sport have mileage figures of 18.88 kmpl.
+Volkswagen Virtus variants - GT Plus DSG ES & GT Plus Sport DSG have mileage figures of 19.62 kmpl.
+All Volkswagen Virtus variants have a fuel tank capacity of 45 Litres.
+All Volkswagen Virtus variants have the MacPherson Strut suspension front suspension.
+All Volkswagen Virtus variants have the Rear twist beam rear suspension.
+All Volkswagen Virtus variants come with Tilt & Telescopic steering adjustment.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES share the Height & Reach steering adjustability option.
+All Volkswagen Virtus variants are equipped with Rear parking sensors.
+Volkswagen Virtus variants - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share the Front & Rear USB charging configuration.
+All Volkswagen Virtus variants have Front & Rear power windows.
+Volkswagen Virtus variant Comfortline has Front Only cup holders.
+Volkswagen Virtus variants - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share the Front & Rear cup holder configuration.
+Volkswagen Virtus variant without Fog Lights - Comfortline.
+Volkswagen Virtus variants - Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES share the Front fog light configuration.
+Volkswagen Virtus variants - GT Line, GT Line AT, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share the Front & Rear fog light configuration.
+Volkswagen Virtus variants - Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES share the Shark Fin antenna type.
+Volkswagen Virtus variants - Topline ES & Topline AT ES share the 8 inch digital cluster size.
+Volkswagen Virtus variant without Rear Camera - Comfortline.
+Volkswagen Virtus variants - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share the With Guidedlines rear camera type.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES share the Driver and Passenger seatbelt pretensioner and force limiter type.
+All Volkswagen Virtus variants include Front & Rear speakers.
+Volkswagen Virtus variant Comfortline has a Bench Folding foldable rear seat.
+Volkswagen Virtus variants - Highline, Highline Plus, GT Line, Highline AT, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share the 60:40 Split foldable rear seat type.
+All Volkswagen Virtus variants have a With Storage central console armrest.
+All variants of Volkswagen Virtus have Turbo Charger.
+Volkswagen Virtus variants - Comfortline, Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES share Adjustable rear seat headrests.
+Volkswagen Virtus variants without Sunroof - Comfortline, Highline, Highline Plus & Highline AT.
+Volkswagen Virtus variants - GT Line, GT Line AT, Topline ES, Topline AT ES, GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share a Single Pane sunroof.
+Volkswagen Virtus variant Comfortline offers High mounted stop lamp,Chrome strip on grille-upper,Bonnet with chiseled lines,Sharp dual shoulder lines,Body coloured door mirrors housing with LED indicators,Body coloured door handles,Black garnish on window bottom line,Black garnish on rear as additional features.
+Volkswagen Virtus variants - Highline, Highline Plus, Highline AT, Topline ES & Topline AT ES share Wireless Connect with Android Auto,Apple CarPlay as additional features.
+Volkswagen Virtus variants - GT Line & GT Line AT share Valet mode as additional features.
+Volkswagen Virtus variants - GT Plus ES, GT Plus Sport, GT Plus DSG ES & GT Plus Sport DSG share Valet mode, Apps- SygicTM navigation, GaanaTM, Booking.comTM, AudiobooksTM, BBC NewsTM, MyVolkswagen Connect - Live tracking, Geo fence, Time fence, Driving behaviour, SOS emergency call, Safety alerts, Trip analysis, Documents due date reminder, Sporty aluminum pedals as additional features.

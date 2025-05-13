@@ -1,0 +1,118 @@
+Bmw Xm has 1 variants: xDrive.
+Bmw Xm has Power Steering.
+Bmw Xm has Air Conditioner.
+Bmw Xm has Heater.
+Bmw Xm has Automatic Climate Control.
+Bmw Xm has Accessory Power Outlet.
+Bmw Xm has Rear Reading Lamp.
+Bmw Xm has Adjustable Headrest.
+Bmw Xm has Rear Seat Centre Arm Rest.
+Bmw Xm has Cruise Control.
+Bmw Xm has Engine Start/Stop Button.
+Bmw Xm has Voice Commands.
+Bmw Xm has Chrome Grille.
+Bmw Xm has KeyLess Entry.
+Bmw Xm has Follow Me Home Headlamps.
+Bmw Xm has Tachometer.
+Bmw Xm has Alloy Wheels.
+Bmw Xm has Integrated Antenna.
+Bmw Xm has Automatic Headlamps.
+Bmw Xm has LED DRLs.
+Bmw Xm has LED Headlamps.
+Bmw Xm has Anti-lock Braking System (ABS).
+Bmw Xm has Central Locking.
+Bmw Xm has Driver Airbag.
+Bmw Xm has Side Airbag.
+Bmw Xm has Seat Belt Warning.
+Bmw Xm has Engine Immobilizer.
+Bmw Xm does not have Side Airbag-Rear.
+Bmw Xm has Speed Alert.
+Bmw Xm has Speed Sensing Auto Door Lock.
+Bmw Xm has ISOFIX Child Seat Mounts.
+Bmw Xm has Radio.
+Bmw Xm has Wireless Phone Charging.
+Bmw Xm has Bluetooth Connectivity.
+Bmw Xm has Android Auto.
+Bmw Xm has Apple CarPlay.
+Bmw Xm has Height Adjustable Front Seat Belts.
+Bmw Xm has Lumbar Support.
+Bmw Xm has Paddle Shifters.
+Bmw Xm has Electronic Multi-Tripmeter.
+Bmw Xm has Digital Clock.
+Bmw Xm has LED Taillights.
+Bmw Xm has Brake Assist.
+Bmw Xm has Anti-Theft Alarm.
+Bmw Xm has Door Ajar Warning.
+Bmw Xm has Digital Odometer.
+Bmw Xm has Heads-Up Display (HUD).
+Bmw Xm has Ventilated Seats.
+Bmw Xm has Battery Saver.
+Bmw Xm has Tailgate Ajar Warning.
+Bmw Xm has Remote Trunk Opener.
+Bmw Xm has Leather Seats.
+Bmw Xm has Height Adjustable Driver Seat.
+Bmw Xm has Leather Wrapped Steering Wheel.
+Bmw Xm has Glove Box.
+Bmw Xm has Adjustable Headlamps.
+Bmw Xm has Passenger Airbag.
+Bmw Xm has Day & Night Rear View Mirror.
+Bmw Xm has Tyre Pressure Monitoring System (TPMS).
+Bmw Xm has Touchscreen.
+Bmw Xm has Child Safety Locks.
+Bmw Xm has Rear Spoiler.
+Bmw Xm has Air Quality Control.
+Bmw Xm has Tinted Glass.
+Bmw Xm has Navigation System.
+Bmw Xm has Smart Access Card Entry.
+Bmw Xm has Usb Ports.
+Bmw Xm does not have Gear Shift Indicator.
+Bmw Xm does not have Luggage Hook & Net.
+Bmw Xm has Low Fuel Warning Light.
+Bmw Xm has Power Boot.
+Bmw Xm has Integrated 2DIN Audio.
+Bmw Xm has USB & Auxiliary input.
+Bmw Xm does not have Rear Curtain.
+The Bmw Xm has the 4.4 L S68 twin-turbo V8 engine.
+The Bmw Xm has a displacement of 4395  cubic centimeters.
+The Bmw Xm generates 643.69 Brake Horsepower (BHP) at 5400 to 7200 Revolutions Per Minute (RPM).
+The Bmw Xm generates 800 Newton meters at 1600 to 5000 Revolutions Per Minute (RPM).
+The Bmw Xm has 4.0 valves per cylinder.
+The Bmw Xm has a Automatic transmission.
+The Bmw Xm has 8.0 cylinders.
+The Bmw Xm has a 8-Speed gearbox.
+The Bmw Xm has a Four-Wheel Drive (4WD) drive type.
+The Bmw Xm runs on Petrol.
+The Bmw Xm complies with BS VI 2.0 emission norms.
+The Bmw Xm has Electric steering.
+The Bmw Xm has Ventilated Disc front brakes.
+The Bmw Xm has Ventilated Disc rear brakes.
+The Bmw Xm has a length of 5155 mm.
+The Bmw Xm has a width of 2000 mm.
+The Bmw Xm has a height of 1745 mm.
+The Bmw Xm offers 390 Litres of boot space.
+The Bmw Xm has a seating capacity of 7.0.
+The Bmw Xm has a wheelbase of 2651 mm.
+The Bmw Xm has a kerb weight of 2785 kg.
+The Bmw Xm has 5.0 doors.
+The Bmw Xm is equipped with Tubeless Radial tyres.
+The Bmw Xm is equipped with 6.0 airbags.
+The Bmw Xm is equipped with a 14.9 inch touchscreen.
+The Bmw Xm is equipped with 20.0 speakers.
+The Bmw Xm has Electric as a secondary fuel type.
+The Bmw Xm features Android Auto, Apple CarPlay connectivity options.
+The Bmw Xm achieves a top speed of 270 kmph.
+The Bmw Xm achieves 0-100 kmph acceleration in 4.3 s.
+The Bmw Xm achieves 0-100 kmph in 4.3 s.
+The Bmw Xm comes with the Multi-link suspension front suspension.
+The Bmw Xm comes with the Multi-link suspension rear suspension.
+Bmw Xm has Adjustable Steering.
+The Bmw Xm features Rear parking sensors.
+The Bmw Xm features Front USB charging ports.
+The Bmw Xm has Front & Rear speakers.
+The Bmw Xm has Front electric adjustable seats.
+The Bmw Xm has a 40:20:40 Split foldable rear seat.
+The Bmw Xm has a With Storage central console armrest.
+Bmw Xm has Rear Seat Headrest.
+Bmw Xm has Sunroof.
+The Bmw Xm has 3 drive modes.
+The Bmw Xm includes Wireless Smartphone Integration, BMW Head-Up Display with M specific view, Travel and Comfort System (2x USB Type C charging with 3 A in backrests of 1st row of seats, 2x preparations for multifunction bracket in backrests of 1st seat row), Bowers & Wilkins Diamond surround sound system (Surround audio system with studio-quality acoustic technologies, 3D audio via headliner loudspeaker, 20 loudspeakers, 1475 W power, - Illuminated elements ) as additional features.

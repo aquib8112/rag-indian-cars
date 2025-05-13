@@ -1,0 +1,99 @@
+﻿Mclaren Gt has 1 variants: V8.
+Mclaren Gt has Power Steering.
+Mclaren Gt has Air Conditioner.
+Mclaren Gt has Heater.
+Mclaren Gt has Automatic Climate Control.
+Mclaren Gt has Accessory Power Outlet.
+Mclaren Gt does not have Rear Reading Lamp.
+Mclaren Gt does not have Rear AC Vents.
+Mclaren Gt has Cruise Control.
+Mclaren Gt has Engine Start/Stop Button.
+Mclaren Gt has Voice Commands.
+Mclaren Gt has Tachometer.
+Mclaren Gt does not have Wheel Covers.
+Mclaren Gt has Alloy Wheels.
+Mclaren Gt has LED DRLs.
+Mclaren Gt has Anti-lock Braking System (ABS).
+Mclaren Gt has Central Locking.
+Mclaren Gt has Driver Airbag.
+Mclaren Gt has Side Airbag.
+Mclaren Gt has Engine Immobilizer.
+Mclaren Gt does not have Side Airbag-Rear.
+Mclaren Gt has Radio.
+Mclaren Gt has Bluetooth Connectivity.
+Mclaren Gt has Android Auto.
+Mclaren Gt has Apple CarPlay.
+Mclaren Gt has Paddle Shifters.
+Mclaren Gt has Electronic Multi-Tripmeter.
+Mclaren Gt has Digital Clock.
+Mclaren Gt has Dual Tone Dashboard.
+Mclaren Gt has Brake Assist.
+Mclaren Gt has Anti-Theft Alarm.
+Mclaren Gt has Digital Odometer.
+Mclaren Gt does not have Cooled Glovebox.
+Mclaren Gt has Ventilated Seats.
+Mclaren Gt has Leather wrap gear-shift selector.
+Mclaren Gt has Tailgate Ajar Warning.
+Mclaren Gt has Compass.
+Mclaren Gt does not have Rear Entertainment System.
+Mclaren Gt has Leather Seats.
+Mclaren Gt has Leather Wrapped Steering Wheel.
+Mclaren Gt has Glove Box.
+Mclaren Gt has Passenger Airbag.
+Mclaren Gt has Tyre Pressure Monitoring System (TPMS).
+Mclaren Gt has Touchscreen.
+Mclaren Gt has Child Safety Locks.
+Mclaren Gt has Rear Spoiler.
+Mclaren Gt has Folding Table in The Rear.
+Mclaren Gt has Navigation System.
+Mclaren Gt has Fabric Upholstery.
+Mclaren Gt has Usb Ports.
+Mclaren Gt has Gear Shift Indicator.
+Mclaren Gt has Integrated 2DIN Audio.
+Mclaren Gt has USB & Auxiliary input.
+The Mclaren Gt has the M840TE engine.
+The Mclaren Gt has a displacement of 3994  cubic centimeters.
+The Mclaren Gt generates 611.51 Brake Horsepower (BHP).
+The Mclaren Gt generates 630 Newton meters.
+The Mclaren Gt has 4.0 valves per cylinder.
+The Mclaren Gt has a Automatic transmission.
+The Mclaren Gt has 8.0 cylinders.
+The Mclaren Gt has a 7-Speed gearbox.
+The Mclaren Gt has a Rear-Wheel Drive (RWD) drive type.
+The Mclaren Gt runs on Petrol.
+The Mclaren Gt complies with BS VI 2.0 emission norms.
+The Mclaren Gt has a turning radius of 6.05m.
+The Mclaren Gt has Disc front brakes.
+The Mclaren Gt has Disc rear brakes.
+The Mclaren Gt has a length of 4683 mm.
+The Mclaren Gt has a width of 2095 mm.
+The Mclaren Gt has a height of 1234 mm.
+The Mclaren Gt offers 570 Litres of boot space.
+The Mclaren Gt has a seating capacity of 2.0.
+The Mclaren Gt has a wheelbase of 2928 mm.
+The Mclaren Gt has a kerb weight of 1530 kg.
+The Mclaren Gt has 2.0 doors.
+The Mclaren Gt is fitted with tyres of size F 225/35/R20, R 295/30/R21.
+The Mclaren Gt is equipped with Tubeless Radial tyres.
+The Mclaren Gt is equipped with 4.0 airbags.
+The Mclaren Gt is equipped with a 7 inch touchscreen.
+The Mclaren Gt is equipped with 4.0 speakers.
+The Mclaren Gt features Android Auto, Apple CarPlay connectivity options.
+The Mclaren Gt achieves a top speed of 326 kmph.
+The Mclaren Gt has a front tread of 1617 mm.
+The Mclaren Gt achieves 0-100 kmph acceleration in 3.2 s.
+The Mclaren Gt achieves 0-100 kmph in 3.2 s.
+The Mclaren Gt delivers a highway mileage of 7 kmpl.
+The Mclaren Gt comes with a fuel tank capacity of 72 Litres.
+The Mclaren Gt comes with the Double wishbone suspension front suspension.
+The Mclaren Gt comes with the Double wishbone suspension rear suspension.
+Mclaren Gt has Adjustable Steering.
+The Mclaren Gt features Front & Rear parking sensors.
+The Mclaren Gt features Front USB charging ports.
+The Mclaren Gt has Front & Rear speakers.
+The Mclaren Gt has Front electric adjustable seats.
+Mclaren Gt has Central Console Armrest.
+The Mclaren Gt has a Twin turbocharger.
+Mclaren Gt does not have Rear Seat Headrest.
+The Mclaren Gt has 4 drive modes.
+The Mclaren Gt includes Homelink (only for selected markets), McLaren Infotainment System II (MIS II) 7” portrait touch screen monitor, Navigation (inc. cluster turn-by-turn display), On-board memory, Audio media player, AM/FM radio, DAB radio (SiriusXM for federal), Bluetooth telephony, Voice control for infotainment, AUX in , iPod / iPhone integration, McLaren 4-speaker audio system as additional features.

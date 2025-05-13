@@ -1,0 +1,112 @@
+Bmw X4 has 1 variants: M40i.
+Bmw X4 has Power Steering.
+Bmw X4 has Air Conditioner.
+Bmw X4 has Heater.
+Bmw X4 has Automatic Climate Control.
+Bmw X4 has Accessory Power Outlet.
+Bmw X4 has Rear Reading Lamp.
+Bmw X4 has Rear AC Vents.
+Bmw X4 has Cruise Control.
+Bmw X4 has Engine Start/Stop Button.
+Bmw X4 has Voice Commands.
+Bmw X4 does not have Hands-Free Tailgate.
+Bmw X4 has KeyLess Entry.
+Bmw X4 has Idle Start-Stop System.
+Bmw X4 has Follow Me Home Headlamps.
+Bmw X4 has Tachometer.
+Bmw X4 has Alloy Wheels.
+Bmw X4 has Integrated Antenna.
+Bmw X4 has Automatic Headlamps.
+Bmw X4 has LED DRLs.
+Bmw X4 has LED Headlamps.
+Bmw X4 has Anti-lock Braking System (ABS).
+Bmw X4 has Central Locking.
+Bmw X4 has Driver Airbag.
+Bmw X4 has Side Airbag.
+Bmw X4 has Seat Belt Warning.
+Bmw X4 has Engine Immobilizer.
+Bmw X4 does not have Side Airbag-Rear.
+Bmw X4 has Electronic Stability Control (ESC).
+Bmw X4 has Anti-Theft Device.
+Bmw X4 has Speed Alert.
+Bmw X4 has Speed Sensing Auto Door Lock.
+Bmw X4 has ISOFIX Child Seat Mounts.
+Bmw X4 has Hill Assist.
+Bmw X4 has Impact Sensing Auto Door Unlock.
+Bmw X4 has Radio.
+Bmw X4 has Bluetooth Connectivity.
+Bmw X4 has Android Auto.
+Bmw X4 has Apple CarPlay.
+Bmw X4 has Height Adjustable Front Seat Belts.
+Bmw X4 has LED Taillights.
+Bmw X4 has Electronic Brakeforce Distribution (EBD).
+Bmw X4 has Anti-Theft Alarm.
+Bmw X4 has Door Ajar Warning.
+Bmw X4 has Battery Saver.
+Bmw X4 has Regenerative Braking.
+Bmw X4 has Height Adjustable Driver Seat.
+Bmw X4 has Rear Window Defogger.
+Bmw X4 has Glove Box.
+Bmw X4 has Adjustable Headlamps.
+Bmw X4 has Outside Rear View Mirror Turn Indicators.
+Bmw X4 has Passenger Airbag.
+Bmw X4 has Day & Night Rear View Mirror.
+Bmw X4 has Tyre Pressure Monitoring System (TPMS).
+Bmw X4 has Touchscreen.
+Bmw X4 has Rear Window Wiper.
+Bmw X4 has Rear Window Washer.
+Bmw X4 has Child Safety Locks.
+Bmw X4 has Rear Spoiler.
+Bmw X4 has Curtain Airbag.
+Bmw X4 has Usb Ports.
+Bmw X4 has Integrated 2DIN Audio.
+The Bmw X4 has the 3.0L TwinPower Turbo inline engine.
+The Bmw X4 has a displacement of 2993  cubic centimeters.
+The Bmw X4 generates 355.37 Brake Horsepower (BHP).
+The Bmw X4 generates 500 Newton meters at 1900 to 5000 Revolutions Per Minute (RPM).
+The Bmw X4 has 4.0 valves per cylinder.
+The Bmw X4 has a Automatic transmission.
+The Bmw X4 has 6.0 cylinders.
+The Bmw X4 has a 8-Speed gearbox.
+The Bmw X4 has a All-Wheel Drive (AWD) drive type.
+The Bmw X4 runs on Petrol.
+The Bmw X4 complies with BS VI 2.0 emission norms.
+The Bmw X4 has a length of 4754 mm.
+The Bmw X4 has a width of 1927 mm.
+The Bmw X4 has a height of 1620 mm.
+The Bmw X4 offers 525 Litres of boot space.
+The Bmw X4 has a seating capacity of 5.0.
+The Bmw X4 has 5.0 doors.
+The Bmw X4 features a Electronic boot opening mechanism.
+The Bmw X4 is fitted with tyres of size 275/40 R20.
+The Bmw X4 is equipped with Tyre Type tyres.
+The Bmw X4 is equipped with 6.0 airbags.
+The Bmw X4 is equipped with a 12.3 inch touchscreen.
+The Bmw X4 is equipped with 16.0 speakers.
+The Bmw X4 features 20 Inch front alloy wheels.
+The Bmw X4 features 20 Inch rear alloy wheels.
+The Bmw X4 features Android Auto, Apple CarPlay connectivity options.
+The Bmw X4 comes with a Full Digital digital cluster.
+The Bmw X4 features Leather upholstery.
+The Bmw X4 achieves a top speed of 210 kmph.
+The Bmw X4 achieves 0-100 kmph acceleration in 4.9 s.
+The Bmw X4 achieves 0-100 kmph in 4.9 s.
+The Bmw X4 delivers a highway mileage of 10.4 kmpl.
+The Bmw X4 comes with a fuel tank capacity of 68 Litres.
+The Bmw X4 comes with the Multi-link suspension front suspension.
+The Bmw X4 comes with the Multi-link suspension rear suspension.
+Bmw X4 has Adjustable Steering.
+The Bmw X4 features Rear parking sensors.
+The Bmw X4 features Front & Rear USB charging ports.
+The Bmw X4 features a Shark Fin antenna.
+The Bmw X4 has a 12.3 inch digital cluster.
+The Bmw X4 has a With Guidedlines rear camera.
+The Bmw X4 has Driver and Passenger seatbelt pretensioners and force limiters.
+The Bmw X4 has Front & Rear speakers.
+The Bmw X4 has a 50:50 Split foldable rear seat.
+The Bmw X4 has a With Storage central console armrest.
+Bmw X4 has Turbo Charger.
+Bmw X4 has Rear Seat Headrest.
+The Bmw X4 includes a Panoramic sunroof.
+The Bmw X4 has 4 drive modes.
+The Bmw X4 features Eco Pro, Comfort & Sport/Sport+ drive modes.

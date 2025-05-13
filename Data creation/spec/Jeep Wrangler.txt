@@ -1,0 +1,121 @@
+﻿Jeep Wrangler has 2 variants: Unlimited & Rubicon.
+All variants of Jeep Wrangler have Power Steering.
+All variants of Jeep Wrangler have Air Conditioner.
+All variants of Jeep Wrangler have Heater.
+All variants of Jeep Wrangler have Automatic Climate Control.
+All variants of Jeep Wrangler have Accessory Power Outlet.
+All variants of Jeep Wrangler have Vanity Mirror.
+All variants of Jeep Wrangler have Engine Start/Stop Button.
+All variants of Jeep Wrangler have Voice Commands.
+All variants of Jeep Wrangler do not have Hands-Free Tailgate.
+All variants of Jeep Wrangler have KeyLess Entry.
+All variants of Jeep Wrangler have Idle Start-Stop System.
+All variants of Jeep Wrangler have Tachometer.
+All variants of Jeep Wrangler have Alloy Wheels.
+All variants of Jeep Wrangler have Integrated Antenna.
+All variants of Jeep Wrangler have Automatic Headlamps.
+All variants of Jeep Wrangler have LED DRLs.
+All variants of Jeep Wrangler have LED Headlamps.
+All variants of Jeep Wrangler have Anti-lock Braking System (ABS).
+All variants of Jeep Wrangler have Central Locking.
+All variants of Jeep Wrangler have Driver Airbag.
+All variants of Jeep Wrangler have Side Airbag.
+All variants of Jeep Wrangler have Engine Immobilizer.
+All variants of Jeep Wrangler have Electronic Stability Control (ESC).
+All variants of Jeep Wrangler have Anti-Theft Device.
+All variants of Jeep Wrangler have Speed Sensing Auto Door Lock.
+All variants of Jeep Wrangler have Hill Assist.
+All variants of Jeep Wrangler have Radio.
+All variants of Jeep Wrangler have Bluetooth Connectivity.
+All variants of Jeep Wrangler have Android Auto.
+All variants of Jeep Wrangler have Apple CarPlay.
+All variants of Jeep Wrangler have LED Taillights.
+All variants of Jeep Wrangler have Electronic Brakeforce Distribution (EBD).
+All variants of Jeep Wrangler have Brake Assist.
+All variants of Jeep Wrangler have Anti-Theft Alarm.
+All variants of Jeep Wrangler have Forward Collision Warning.
+All variants of Jeep Wrangler have Adaptive Cruise Control.
+All variants of Jeep Wrangler have Adaptive High Beam Assist.
+All variants of Jeep Wrangler have Hill Descent Control.
+All variants of Jeep Wrangler have Leather wrap gear-shift selector.
+All variants of Jeep Wrangler have Heated Outside Rear View Mirror.
+All variants of Jeep Wrangler have Height Adjustable Driver Seat.
+All variants of Jeep Wrangler have Rear Window Defogger.
+All variants of Jeep Wrangler have Leather Wrapped Steering Wheel.
+All variants of Jeep Wrangler have Glove Box.
+All variants of Jeep Wrangler have Adjustable Headlamps.
+All variants of Jeep Wrangler have Passenger Airbag.
+All variants of Jeep Wrangler have Day & Night Rear View Mirror.
+All variants of Jeep Wrangler have Tyre Pressure Monitoring System (TPMS).
+All variants of Jeep Wrangler have Touchscreen.
+All variants of Jeep Wrangler have Rear Window Wiper.
+All variants of Jeep Wrangler have Rear Window Washer.
+Jeep Wrangler variants with Roof Rails - Unlimited & Rubicon.
+Jeep Wrangler variants with Side Stepper - Unlimited & Rubicon.
+All variants of Jeep Wrangler have Curtain Airbag.
+All variants of Jeep Wrangler have Usb Ports.
+All variants of Jeep Wrangler have Luggage Hook & Net.
+All variants of Jeep Wrangler have LED Fog Lamps.
+All variants of Jeep Wrangler have Integrated 2DIN Audio.
+All Jeep Wrangler variants use the 2.0L Gme T4 Di engine.
+All Jeep Wrangler variants have a displacement of 1995  cubic centimeters.
+All Jeep Wrangler variants produce a maximum power of 268.20 Brake Horsepower (BHP) at 5250 Revolutions Per Minute (RPM).
+All Jeep Wrangler variants produce a maximum torque of 400 Newton meters at 3000 Revolutions Per Minute (RPM).
+All Jeep Wrangler variants have 4.0 valves per cylinder.
+All Jeep Wrangler variants have a Automatic transmission.
+All Jeep Wrangler variants have 4.0 cylinders.
+All Jeep Wrangler variants come with a 8-Speed-AT gearbox.
+All Jeep Wrangler variants have a Four-Wheel Drive (4WD) drive type.
+All Jeep Wrangler variants run on Petrol.
+All Jeep Wrangler variants comply with BS VI 2.0 emission norms.
+All Jeep Wrangler variants come with Electric steering.
+All Jeep Wrangler variants have Disc front brakes.
+All Jeep Wrangler variants have Disc rear brakes.
+All Jeep Wrangler variants have a length of 4867 mm.
+Jeep Wrangler variant Unlimited has a width of 1894 mm.
+Jeep Wrangler variant Rubicon has a width of 1931 mm.
+Jeep Wrangler variant Unlimited has a height of 1853 mm.
+Jeep Wrangler variant Rubicon has a height of 1864 mm.
+All Jeep Wrangler variants offer 192 Litres of boot space.
+All Jeep Wrangler variants have a seating capacity of 5.0.
+Jeep Wrangler variant Unlimited has an unladen ground clearance of 223 mm.
+Jeep Wrangler variant Rubicon has an unladen ground clearance of 237 mm.
+All Jeep Wrangler variants have a wheelbase of 3007 mm.
+Jeep Wrangler variant Unlimited has a kerb weight of 2042 kg.
+Jeep Wrangler variant Rubicon has a kerb weight of 2146 kg.
+All Jeep Wrangler variants have 5.0 doors.
+All Jeep Wrangler variants come with a Manual boot opening mechanism.
+Jeep Wrangler variant Unlimited comes with tyres of size 255/70 R18.
+Jeep Wrangler variant Rubicon comes with tyres of size 255/75 R17.
+All Jeep Wrangler variants come with Tubeless Radial tyres.
+All Jeep Wrangler variants come equipped with 6.0 airbags.
+All Jeep Wrangler variants come with a 12.3 inch touchscreen display.
+All Jeep Wrangler variants come with 8.0 speakers.
+Jeep Wrangler variant Unlimited has 18 Inch front alloy wheels.
+Jeep Wrangler variant Rubicon has 17 Inch front alloy wheels.
+Jeep Wrangler variant Unlimited has 18 Inch rear alloy wheels.
+Jeep Wrangler variant Rubicon has 17 Inch rear alloy wheels.
+Jeep Wrangler variant Unlimited includes Android Auto, Apple CarPlay connectivity features.
+Jeep Wrangler variant Rubicon includes Android Auto, Apple CarPlay connectivity features.
+All Jeep Wrangler variants feature a Full Digital digital cluster.
+All Jeep Wrangler variants come with Leather upholstery.
+All Jeep Wrangler variants offer a boot space of 192 Litres.
+Jeep Wrangler variant Rubicon includes 1.0 subwoofer(s).
+Jeep Wrangler variant Unlimited provides a mileage of 11.4 kmpl.
+Jeep Wrangler variant Rubicon provides a mileage of 10.6 kmpl.
+All Jeep Wrangler variants have the Multi-link, Solid Axle front suspension.
+All Jeep Wrangler variants have the Multi-link, Solid Axle rear suspension.
+All Jeep Wrangler variants come with Tilt & Telescopic steering adjustment.
+All variants of Jeep Wrangler have Adjustable Steering.
+All Jeep Wrangler variants are equipped with Rear parking sensors.
+All Jeep Wrangler variants come with Front & Rear USB charging ports.
+All Jeep Wrangler variants are equipped with Front & Rear fog lights.
+All Jeep Wrangler variants come with a Trail Ready Front Windshield antenna.
+All Jeep Wrangler variants feature a 7 inch digital cluster.
+All Jeep Wrangler variants have a With Guidedlines rear camera.
+All Jeep Wrangler variants include Front & Rear speakers.
+All Jeep Wrangler variants have Front electric adjustable seats.
+All Jeep Wrangler variants have a 60:40 Split foldable rear seat.
+All Jeep Wrangler variants have a With Storage central console armrest.
+Jeep Wrangler variant Unlimited offers 8-Speaker Sound System With Overhead Sound bar as additional features.
+Jeep Wrangler variant Rubicon offers Premium 9 Speaker Audio (Alpine) System as additional features.

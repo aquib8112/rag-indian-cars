@@ -1,0 +1,82 @@
+Maruti Ertiga Tour has 2 variants: STD & STD CNG.
+All variants of Maruti Ertiga Tour have Power Steering.
+All variants of Maruti Ertiga Tour have Air Conditioner.
+All variants of Maruti Ertiga Tour have Heater.
+All variants of Maruti Ertiga Tour have Accessory Power Outlet.
+All variants of Maruti Ertiga Tour have Vanity Mirror.
+All variants of Maruti Ertiga Tour have Rear Seat Centre Arm Rest.
+All variants of Maruti Ertiga Tour have Chrome Grille.
+All variants of Maruti Ertiga Tour have KeyLess Entry.
+All variants of Maruti Ertiga Tour have Wheel Covers.
+All variants of Maruti Ertiga Tour have Projector Headlamps.
+All variants of Maruti Ertiga Tour have Anti-lock Braking System (ABS).
+All variants of Maruti Ertiga Tour have Central Locking.
+All variants of Maruti Ertiga Tour have Driver Airbag.
+All variants of Maruti Ertiga Tour do not have Side Airbag.
+All variants of Maruti Ertiga Tour have Seat Belt Warning.
+All variants of Maruti Ertiga Tour have Engine Immobilizer.
+All variants of Maruti Ertiga Tour do not have Side Airbag-Rear.
+All variants of Maruti Ertiga Tour have Speed Sensing Auto Door Lock.
+All variants of Maruti Ertiga Tour have ISOFIX Child Seat Mounts.
+All variants of Maruti Ertiga Tour have Bluetooth Connectivity.
+All variants of Maruti Ertiga Tour have Digital Clock.
+All variants of Maruti Ertiga Tour have Dual Tone Dashboard.
+All variants of Maruti Ertiga Tour have Halogen Headlamps.
+All variants of Maruti Ertiga Tour have LED Taillights.
+All variants of Maruti Ertiga Tour have Anti-Theft Alarm.
+All variants of Maruti Ertiga Tour have Door Ajar Warning.
+All variants of Maruti Ertiga Tour have Outside Rear View Mirror Turn Indicators.
+All variants of Maruti Ertiga Tour have Passenger Airbag.
+All variants of Maruti Ertiga Tour have Day & Night Rear View Mirror.
+All variants of Maruti Ertiga Tour have Usb Ports.
+All variants of Maruti Ertiga Tour have Gear Shift Indicator.
+All variants of Maruti Ertiga Tour have USB & Auxiliary input.
+All Maruti Ertiga Tour variants use the K15C engine.
+All Maruti Ertiga Tour variants have a displacement of 1462  cubic centimeters.
+Maruti Ertiga Tour variant STD delivers a max power of 103.25 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Ertiga Tour variant STD CNG delivers a max power of 91.18 Brake Horsepower (BHP) at 6000 Revolutions Per Minute (RPM).
+Maruti Ertiga Tour variant STD has a max torque of 138 Newton meters at 4400 Revolutions Per Minute (RPM).
+Maruti Ertiga Tour variant STD CNG has a max torque of 122 Newton meters at 4400 Revolutions Per Minute (RPM).
+All Maruti Ertiga Tour variants have 4.0 valves per cylinder.
+All Maruti Ertiga Tour variants have a Manual transmission.
+All Maruti Ertiga Tour variants have 4.0 cylinders.
+All Maruti Ertiga Tour variants come with a 5-Speed gearbox.
+All Maruti Ertiga Tour variants have a Front-Wheel Drive (FWD) drive type.
+Maruti Ertiga Tour variant STD runs on Petrol.
+Maruti Ertiga Tour variant STD CNG runs on CNG.
+All Maruti Ertiga Tour variants comply with BS VI 2.0 emission norms.
+All Maruti Ertiga Tour variants have a turning radius of 5.2m.
+All Maruti Ertiga Tour variants have Ventilated Disc front brakes.
+All Maruti Ertiga Tour variants have Drum rear brakes.
+All Maruti Ertiga Tour variants have a length of 4395 mm.
+All Maruti Ertiga Tour variants have a width of 1735 mm.
+All Maruti Ertiga Tour variants have a height of 1690 mm.
+All Maruti Ertiga Tour variants offer 209 Litres of boot space.
+All Maruti Ertiga Tour variants have a seating capacity of 7.0.
+All Maruti Ertiga Tour variants have a wheelbase of 2670 mm.
+Maruti Ertiga Tour variant STD has a kerb weight of 1145 kg.
+Maruti Ertiga Tour variant STD CNG has a kerb weight of 1235 kg.
+Maruti Ertiga Tour variant STD has a gross weight of 1730 kg.
+Maruti Ertiga Tour variant STD CNG has a gross weight of 1795 kg.
+All Maruti Ertiga Tour variants have tyres of size 185/65 R15.
+All Maruti Ertiga Tour variants come with Tubeless Radial tyres.
+All Maruti Ertiga Tour variants have 15 Inch wheels.
+All Maruti Ertiga Tour variants come equipped with 2.0 airbags.
+All Maruti Ertiga Tour variants have received a 3 Star Global NCAP safety rating.
+All Maruti Ertiga Tour variants come with 4.0 speakers.
+Maruti Ertiga Tour variant STD CNG features Petrol as a secondary fuel type.
+Maruti Ertiga Tour variant STD CNG has a secondary fuel tank capacity of 45.0 liters.
+Maruti Ertiga Tour variant STD CNG provides 209 Litres boot space.
+All Maruti Ertiga Tour variants have a front tread of 1531 mm.
+Maruti Ertiga Tour variant STD provides a mileage of 18.04 kmpl.
+Maruti Ertiga Tour variant STD CNG provides a mileage of 26.08 km/kg.
+Maruti Ertiga Tour variant STD features a fuel tank capacity of 45 Litres.
+Maruti Ertiga Tour variant STD CNG features a fuel tank capacity of 60 Litres.
+All Maruti Ertiga Tour variants have the MacPherson Strut suspension front suspension.
+All Maruti Ertiga Tour variants have the Rear twist beam rear suspension.
+All Maruti Ertiga Tour variants come with Tilt Steering steering adjustment.
+All Maruti Ertiga Tour variants are equipped with Rear parking sensors.
+All Maruti Ertiga Tour variants include Front & Rear speakers.
+All Maruti Ertiga Tour variants have a 60:40 Split foldable rear seat.
+All variants of Maruti Ertiga Tour have Rear Seat Headrest.
+All Maruti Ertiga Tour variants come with Audio systemwith electrostatic touch buttons,steering mounted calling control as additional features.

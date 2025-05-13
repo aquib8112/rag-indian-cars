@@ -1,0 +1,170 @@
+﻿Lotus Eletre has 3 variants: Base, S & R.
+All variants of Lotus Eletre have Power Steering.
+All variants of Lotus Eletre have Air Conditioner.
+All variants of Lotus Eletre have Heater.
+All variants of Lotus Eletre have Automatic Climate Control.
+All variants of Lotus Eletre have Accessory Power Outlet.
+All variants of Lotus Eletre have Trunk Light.
+All variants of Lotus Eletre have Vanity Mirror.
+All variants of Lotus Eletre have Rear Reading Lamp.
+All variants of Lotus Eletre have Rear Seat Centre Arm Rest.
+All variants of Lotus Eletre have Rear AC Vents.
+All variants of Lotus Eletre have Cruise Control.
+All variants of Lotus Eletre have Real-Time Vehicle Tracking.
+All variants of Lotus Eletre have Engine Start/Stop Button.
+All variants of Lotus Eletre have Voice Commands.
+Lotus Eletre variants with Hands-Free Tailgate - Base & R.
+Lotus Eletre variant without Hands-Free Tailgate - S.
+All variants of Lotus Eletre have KeyLess Entry.
+All variants of Lotus Eletre have Follow Me Home Headlamps.
+All variants of Lotus Eletre have Tachometer.
+All variants of Lotus Eletre have Alloy Wheels.
+All variants of Lotus Eletre have Integrated Antenna.
+All variants of Lotus Eletre have Automatic Headlamps.
+All variants of Lotus Eletre have LED DRLs.
+All variants of Lotus Eletre have LED Headlamps.
+All variants of Lotus Eletre have Anti-lock Braking System (ABS).
+All variants of Lotus Eletre have Central Locking.
+All variants of Lotus Eletre have Driver Airbag.
+All variants of Lotus Eletre have Side Airbag.
+All variants of Lotus Eletre have Seat Belt Warning.
+All variants of Lotus Eletre have Engine Immobilizer.
+All variants of Lotus Eletre have Side Airbag-Rear.
+All variants of Lotus Eletre have Electronic Stability Control (ESC).
+All variants of Lotus Eletre have Anti-Theft Device.
+Lotus Eletre variants with Speed Alert - S & R.
+All variants of Lotus Eletre have Speed Sensing Auto Door Lock.
+All variants of Lotus Eletre have ISOFIX Child Seat Mounts.
+All variants of Lotus Eletre have Hill Assist.
+All variants of Lotus Eletre have Impact Sensing Auto Door Unlock.
+All variants of Lotus Eletre have Radio.
+All variants of Lotus Eletre have Wireless Phone Charging.
+All variants of Lotus Eletre have Bluetooth Connectivity.
+All variants of Lotus Eletre have Android Auto.
+All variants of Lotus Eletre have Apple CarPlay.
+All variants of Lotus Eletre have Height Adjustable Front Seat Belts.
+All variants of Lotus Eletre have Lumbar Support.
+Lotus Eletre variant with Paddle Shifters - S.
+All variants of Lotus Eletre have Dual Tone Dashboard.
+All variants of Lotus Eletre have LED Taillights.
+All variants of Lotus Eletre have Electronic Brakeforce Distribution (EBD).
+All variants of Lotus Eletre have Brake Assist.
+All variants of Lotus Eletre have Anti-Theft Alarm.
+All variants of Lotus Eletre have Door Ajar Warning.
+All variants of Lotus Eletre have Digital Odometer.
+All variants of Lotus Eletre have Heads-Up Display (HUD).
+All variants of Lotus Eletre have Forward Collision Warning.
+Lotus Eletre variant with Automatic Emergency Braking - S.
+All variants of Lotus Eletre have Speed Assist System.
+All variants of Lotus Eletre have Traffic Sign Recognition.
+All variants of Lotus Eletre have Lane Departure Warning.
+All variants of Lotus Eletre have Lane Keep Assist.
+All variants of Lotus Eletre have Adaptive Cruise Control.
+All variants of Lotus Eletre have Rear Cross Traffic Alert.
+All variants of Lotus Eletre have Rear Cross Traffic Collision-Avoidance Assist.
+All variants of Lotus Eletre have Ventilated Seats.
+All variants of Lotus Eletre have Hill Descent Control.
+All variants of Lotus Eletre have Active noise cancellation.
+All variants of Lotus Eletre have Leather wrap gear-shift selector.
+All variants of Lotus Eletre have Heated Outside Rear View Mirror.
+All variants of Lotus Eletre have Blind Spot Monitor.
+All variants of Lotus Eletre have Tailgate Ajar Warning.
+Lotus Eletre variants with Voice assisted sunroof - Base & R.
+All variants of Lotus Eletre have Lane Change Indicator.
+All variants of Lotus Eletre have Wi-Fi Connectivity.
+All variants of Lotus Eletre have Regenerative Braking.
+All variants of Lotus Eletre have Fast Charging.
+All variants of Lotus Eletre have Traction Control.
+All variants of Lotus Eletre have Rear Entertainment System.
+All variants of Lotus Eletre have Height Adjustable Driver Seat.
+All variants of Lotus Eletre have Rear Window Defogger.
+All variants of Lotus Eletre have Leather Wrapped Steering Wheel.
+All variants of Lotus Eletre have Glove Box.
+All variants of Lotus Eletre have Adjustable Headlamps.
+All variants of Lotus Eletre have Outside Rear View Mirror Turn Indicators.
+All variants of Lotus Eletre have Passenger Airbag.
+All variants of Lotus Eletre have Day & Night Rear View Mirror.
+All variants of Lotus Eletre have Tyre Pressure Monitoring System (TPMS).
+All variants of Lotus Eletre have Touchscreen.
+All variants of Lotus Eletre have Child Safety Locks.
+All variants of Lotus Eletre have Rear Spoiler.
+All variants of Lotus Eletre have Air Quality Control.
+All variants of Lotus Eletre have Rear Touchscreen.
+All variants of Lotus Eletre have Smart Access Card Entry.
+All variants of Lotus Eletre have Roof Rails.
+All variants of Lotus Eletre have Cigarette Lighter.
+All variants of Lotus Eletre have Curtain Airbag.
+All variants of Lotus Eletre have Usb Ports.
+All variants of Lotus Eletre have Gear Shift Indicator.
+All variants of Lotus Eletre have Luggage Hook & Net.
+All variants of Lotus Eletre have LED Fog Lamps.
+All variants of Lotus Eletre have Integrated 2DIN Audio.
+All Lotus Eletre variants produce a maximum power of 603 Brake Horsepower (BHP).
+All Lotus Eletre variants produce a maximum torque of 710 Newton meters.
+All Lotus Eletre variants have a Automatic transmission.
+All Lotus Eletre variants come with a 1-Speed gearbox.
+All Lotus Eletre variants have a All-Wheel Drive (AWD) drive type.
+All Lotus Eletre variants run on Electric.
+Lotus Eletre variants - Base & R comply with ZEV emission norms.
+Lotus Eletre variant S complies with BS VI 2.0 emission norms.
+All Lotus Eletre variants come with Electric steering.
+All Lotus Eletre variants have Disc front brakes.
+All Lotus Eletre variants have Disc rear brakes.
+All Lotus Eletre variants have a length of 5103 mm.
+All Lotus Eletre variants have a width of 2231 mm.
+All Lotus Eletre variants have a height of 1636 mm.
+All Lotus Eletre variants offer 688 Litres of boot space.
+All Lotus Eletre variants have a seating capacity of 5.0.
+All Lotus Eletre variants have an unladen ground clearance of 194 mm.
+All Lotus Eletre variants have a wheelbase of 2500 mm.
+Lotus Eletre variant Base has a kerb weight of 2490 kg.
+Lotus Eletre variant S has a kerb weight of 2520 kg.
+Lotus Eletre variant R has a kerb weight of 2640 kg.
+Lotus Eletre variants - Base & S share 5.0 doors.
+All Lotus Eletre variants come with a Automatic boot opening mechanism.
+All Lotus Eletre variants come with Tubeless Radial tyres.
+Lotus Eletre variant Base is equipped with 22 Inch wheels.
+Lotus Eletre variants - S & R feature 23 Inch wheels.
+All Lotus Eletre variants come equipped with 8.0 airbags.
+All Lotus Eletre variants come with a 15.1 inch touchscreen display.
+Lotus Eletre variants - Base & R come with 15.0 speakers.
+Lotus Eletre variant S features 23.0 speakers.
+All Lotus Eletre variants come with Android Auto, Apple CarPlay connectivity options.
+All Lotus Eletre variants come with Leather upholstery.
+Lotus Eletre variants - Base & S have a top speed of 258 kmph.
+Lotus Eletre variant R has a top speed of 265 kmph.
+All Lotus Eletre variants have a rear tread of 1684 mm.
+All Lotus Eletre variants are equipped with 1.0 subwoofer(s).
+All Lotus Eletre variants come with a 112 kWh battery capacity.
+Lotus Eletre variants - Base & R come with the same motor power output of 450 kW.
+Lotus Eletre variants - Base & S offer the same range of 600 km.
+Lotus Eletre variant R has a driving range of 500 km.
+All Lotus Eletre variants take 22 Hours to charge using an A.C charger.
+All Lotus Eletre variants take 355 Min to charge using a D.C charger.
+All Lotus Eletre variants come with a AC TYPE 2 charging port.
+Lotus Eletre variant Base accelerates from 0-100 km/h in 4.5 s.
+Lotus Eletre variant R accelerates from 0-100 km/h in 2.95 s.
+Lotus Eletre variants - Base & S come with All Windows anti-pinch power windows.
+All Lotus Eletre variants have the Multi-link suspension front suspension.
+All Lotus Eletre variants have the Multi-link suspension rear suspension.
+All Lotus Eletre variants come with Tilt & Telescopic steering adjustment.
+All variants of Lotus Eletre have Adjustable Steering.
+All Lotus Eletre variants are equipped with Front & Rear parking sensors.
+Lotus Eletre variants - Base & R share the Front USB charging configuration.
+Lotus Eletre variant S has Front & Rear USB charging ports.
+All Lotus Eletre variants are equipped with Front fog lights.
+All Lotus Eletre variants feature a 12.6 inch digital cluster.
+All Lotus Eletre variants have a With Guidedlines rear camera.
+Lotus Eletre variant Base has Driver seatbelt pretensioners and force limiters.
+Lotus Eletre variants - S & R share the Driver and Passenger seatbelt pretensioner and force limiter type.
+All Lotus Eletre variants include Front & Rear speakers.
+All Lotus Eletre variants have Front electric adjustable seats.
+All Lotus Eletre variants have a 40:20:40 Split foldable rear seat.
+All variants of Lotus Eletre have Central Console Armrest.
+All Lotus Eletre variants come with Driver knee airbags.
+All Lotus Eletre variants have Full autonomous parking.
+All variants of Lotus Eletre have Rear Seat Headrest.
+All Lotus Eletre variants come with a Optional sunroof.
+Lotus Eletre variant Base offers "Matrix LEDAdaptive Driving Beam HeadlamAdaptive Driving Beamp, 20’’ 5-SPOKE AERO WHEEL,4 PISTONS – FRONT GREY CALIPERS, 22” 10-SPOKED DIAMOND CUT GREY WHEEL(optional), INTELLIGENT GLASS ROOF (optional), MICROFIBRE & CARBON STEERING WHEEL (Only when Interior Carbon Pack is chosen in Magnetite and Gold) (optional)," as additional features.
+Lotus Eletre variant S offers "Matrix LEDAdaptive Driving Beam HeadlamAdaptive Driving Beamp, Active Aero Pack(Active rear spoiler,Airdam), Re ar spoiler wing endplate in carbon fibre, Soft Door Close, Hands Free Tailgate, Rear Privacy Glass, Roof Rails, Auto Dimming Rear View Mirror, Heated Wiper Nozzles, Matrix LEDAdaptive Driving Beam Head lamp, Adaptive Driving Beamp, 22” 10 SPOKED DIAMOND CUT GREY WHEEL, 6 PISTONS - FRONT BLACK CALIPERS, 22’’ 10-SPOKE GLOSS BLACK WHEEL(Optional), 22’’ 10 SPOKE DIAMOND CUT SILVER WHEEL (optional), 22’’ 5-SPOKE DIAMOND TURNED GREY WHEEL WITH CARBON FIBRE TRIM(optional), 22’’ 5-SPOKE GLOSS BLACK WITH CARBON FIBRE TRIM (optional),23” 5 SPOKE DIAMOND TURNED GREY WHEEL WITH CARBON FIBRE TRIM (optional), 23” 5-SPOKE GLOSS BLACK WITH CARBON FIBRE TRIM, (optional), 23” MULTI-SPOKE GLOSS BLACK (optional), 23” MULTI SPOKE DIAMOND TURNED SILVER WHEEL (optional), 6 PISTONS-FRONT (optional), 6 PISTONS-FRONT RED CALIPERS (optional), 10 PISTONS CARBON CERAMIC YELLOW (optional), 10 PISTONS CARBON CERAMIC METALLIC SILVER (optional), INTELLIGENT GLASS ROOF (optional), extended carbon pack(lower front spoiler lip, front bumper middle decoration panels, front bumper lower decoration panels, side mirror covers, hood decoration panels, lower rear diffuser, rear bumper decoration panels, wheel arch extensions, door decoration panels) (optional), MICROFIBRE & CARBON STEERING WHEEL (Only when Interior Carbon Pack is chosen in Magnetite and Gold) (optional)," as additional features.
+Lotus Eletre variant R offers "Matrix LEDAdaptive Driving Beam HeadlamAdaptive Driving Beamp, Active Aero Pack (Active rear spoiler, Air dam), Carbon Pack (Lower Front Spoiler Lip, Lower Rear Diffuser, Side Mirror covers),Rear spoiler wing endplate in carbon fibre, Carbon Fibre Pack, Lower Front Spoiler Lip, Front Bumper Middle and Lower Decoration Panels, Side Mirror Covers, Hood Decoration Panels, Lower Rear Diffuser, Rear Bumper Decoration Panels, Wheel Arch Extensions, Door Decoration Panels, SMC (Sheet Moulded Compound) Hood, Soft Door Close, Rear Privacy Glass, lotus dynamic handling pack (lotus intelligent anti roll control)Auto Dimming Frameless Rear View Mirror, Heated Wiper Nozzles, 22” 10 SPOKED DIAMOND CUT GREY WHEEL, 6 PISTONS - FRONT BLACK CALIPERS, 22’’ 10-SPOKE GLOSS BLACK WHEEL(Optional), 22’’ 10 SPOKE DIAMOND CUT SILVER WHEEL (optional), 22’’ 5-SPOKE DIAMOND TURNED GREY WHEEL WITH CARBON FIBRE TRIM(optional), 22’’ 5-SPOKE GLOSS BLACK WITH CARBON FIBRE TRIM (optional),23” 5 SPOKE DIAMOND TURNED GREY WHEEL WITH CARBON FIBRE TRIM (optional), 23” 5-SPOKE GLOSS BLACK WITH CARBON FIBRE TRIM, (optional), 23” MULTI-SPOKE GLOSS BLACK (optional), 23” MULTI SPOKE DIAMOND TURNED SILVER WHEEL (optional), 6 PISTONS-FRONT (optional), 6 PISTONS-FRONT RED CALIPERS (optional), 10 PISTONS CARBON CERAMIC YELLOW (optional), 10 PISTONS CARBON CERAMIC METALLIC SILVER (optional), INTELLIGENT GLASS ROOF (optional), extended carbon pack(lower front spoiler lip, front bumper middle decoration panels, front bumper lower decoration panels, side mirror covers, hood decoration panels, lower rear diffuser, rear bumper decoration panels, wheel arch extensions, door decoration panels) (optional) , MICROFIBRE & CARBON STEERING WHEEL (Only when Interior Carbon Pack is chosen in Magnetite and Gold) (optional)," as additional features.
